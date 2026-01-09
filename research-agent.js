@@ -512,13 +512,64 @@ Svar i JSON-format:
       const { text } = await generateText({
         model: openai(config.openaiModel),
         prompt: researchPrompt,
-        maxTokens: 4000,
+        maxTokens: Math.max(8000, articleCount * 100), // Scale with article count, minimum 8000
       });
 
-      // Parse the response
-      const jsonMatch = text.match(/\{[\s\S]*\}/);
+      // Parse the response with better error handling
+      let jsonMatch = text.match(/\{[\s\S]*\}/);
+      if (!jsonMatch) {
+        // Try to find JSON even if wrapped in markdown code blocks
+        jsonMatch = text.match(/```(?:json)?\s*(\{[\s\S]*?\})\s*```/) || 
+                   text.match(/```\s*(\{[\s\S]*?\})\s*```/);
+      }
+      
       if (jsonMatch) {
-        const research = JSON.parse(jsonMatch[0]);
+        let jsonString = jsonMatch[1] || jsonMatch[0];
+        
+        // Try to fix common JSON issues
+        try {
+          // Remove trailing commas before closing brackets/braces (multiple passes)
+          jsonString = jsonString.replace(/,(\s*[}\]])/g, '$1');
+          jsonString = jsonString.replace(/,(\s*[}\]])/g, '$1'); // Second pass for nested structures
+          
+          // Remove comments if any
+          jsonString = jsonString.replace(/\/\/.*$/gm, '');
+          jsonString = jsonString.replace(/\/\*[\s\S]*?\*\//g, '');
+          
+          // Try to parse
+          let research;
+          try {
+            research = JSON.parse(jsonString);
+          } catch (parseError) {
+            // If parsing still fails, try to extract just the articleIdeas
+            console.log(`  ⚠ JSON parsing feilet ved posisjon ${parseError.message.match(/\d+/)?.[0] || 'ukjent'}, prøver å reparere...`);
+            
+            // Try to find and extract articleIdeas with better regex
+            const articleIdeasMatch = jsonString.match(/"articleIdeas"\s*:\s*\[([\s\S]*?)\](?=\s*[,}])/);
+            if (articleIdeasMatch) {
+              try {
+                // Clean up the extracted array
+                let articleIdeasStr = articleIdeasMatch[1];
+                articleIdeasStr = articleIdeasStr.replace(/,(\s*[}\]])/g, '$1');
+                const articleIdeasJson = '[' + articleIdeasStr + ']';
+                const articleIdeas = JSON.parse(articleIdeasJson);
+                research = { 
+                  articleIdeas,
+                  trendingTopics: [],
+                  seoGaps: [],
+                  aiCreativeIdeas: [],
+                  seasonalInsights: {},
+                  dataInsights: {}
+                };
+                console.log(`  ✓ Reparerte JSON, fant ${articleIdeas.length} artikkelideer`);
+              } catch (e) {
+                console.error(`  ⚠ Kunne ikke reparere articleIdeas: ${e.message}`);
+                throw parseError; // Re-throw original error
+              }
+            } else {
+              throw parseError; // Re-throw original error
+            }
+          }
 
         // Merge AI creative ideas into articleIdeas with proper formatting
         if (research.aiCreativeIdeas?.length > 0) {
@@ -562,11 +613,24 @@ Svar i JSON-format:
         this.saveBrain();
 
         return research;
+        } catch (innerError) {
+          // If JSON repair failed, log and re-throw
+          console.error(`  ⚠ Kunne ikke reparere JSON: ${innerError.message}`);
+          throw innerError;
+        }
       }
 
-      throw new Error('Could not parse research response');
+      throw new Error('Could not parse research response - no JSON found in response');
     } catch (error) {
       console.error('Research failed:', error.message);
+      if (error.message.includes('JSON')) {
+        console.error('  💡 Dette kan skyldes at AI-responsen er for lang eller inneholder ugyldig JSON.');
+        console.error('  💡 Prøv å redusere antall artikler per research-runde.');
+      }
+      // Log a snippet of the response for debugging (first 500 chars)
+      if (text && text.length > 0) {
+        console.error(`  📝 Respons snippet (første 500 tegn): ${text.substring(0, 500)}...`);
+      }
       return null;
     }
   }
