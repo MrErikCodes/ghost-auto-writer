@@ -1,0 +1,77 @@
+{
+  "currentIndex": 0,
+  "lastCategory": "seasonal",
+  "categoryHistory": [
+    {
+      "category": "trending",
+      "timestamp": "2026-01-09T07:03:50.704Z"
+    },
+    {
+      "category": "seo-gap",
+      "timestamp": "2026-01-09T07:07:50.618Z"
+    },
+    {
+      "category": "store-guide",
+      "timestamp": "2026-01-09T07:09:39.575Z"
+    },
+    {
+      "category": "business",
+      "timestamp": "2026-01-09T07:11:05.952Z"
+    },
+    {
+      "category": "problem-solving",
+      "timestamp": "2026-01-09T07:11:51.787Z"
+    },
+    {
+      "category": "life-situation",
+      "timestamp": "2026-01-09T07:12:47.166Z"
+    },
+    {
+      "category": "feature-highlight",
+      "timestamp": "2026-01-09T07:17:06.729Z"
+    },
+    {
+      "category": "seasonal",
+      "timestamp": "2026-01-09T07:17:53.224Z"
+    },
+    {
+      "category": "trending",
+      "timestamp": "2026-01-09T07:18:52.555Z"
+    },
+    {
+      "category": "seo-gap",
+      "timestamp": "2026-01-09T07:19:54.020Z"
+    },
+    {
+      "category": "store-guide",
+      "timestamp": "2026-01-09T07:21:08.088Z"
+    },
+    {
+      "category": "business",
+      "timestamp": "2026-01-09T07:22:07.743Z"
+    },
+    {
+      "category": "problem-solving",
+      "timestamp": "2026-01-09T07:23:22.734Z"
+    },
+    {
+      "category": "life-situation",
+      "timestamp": "2026-01-09T07:24:28.370Z"
+    },
+    {
+      "category": "feature-highlight",
+      "timestamp": "2026-01-09T07:25:22.291Z"
+    },
+    {
+      "category": "seasonal",
+      "timestamp": "2026-01-09T07:26:14.256Z"
+    }
+  ],
+  "storeIndex": 2,
+  "topicIndexes": {
+    "business": 2,
+    "problem-solving": 2,
+    "life-situation": 2,
+    "feature-highlight": 2
+  }
+}

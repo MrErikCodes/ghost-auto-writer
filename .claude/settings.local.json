@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(superpowers:brainstorming)",
+      "WebFetch(domain:minekvitteringer.no)",
+      "Bash(node index.js:*)",
+      "WebFetch(domain:www.tek.no)",
+      "WebFetch(domain:www.dinside.no)",
+      "WebSearch",
+      "WebFetch(domain:context7.com)",
+      "WebFetch(domain:platform.openai.com)",
+      "WebFetch(domain:trends.google.no)",
+      "WebFetch(domain:trends.google.com)",
+      "WebFetch(domain:feeder.co)",
+      "Bash(node -e:*)"
+    ]
+  }
+}

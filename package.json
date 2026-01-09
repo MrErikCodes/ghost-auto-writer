@@ -1,0 +1,31 @@
+{
+  "name": "blog-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "generate": "node index.js"
+  },
+  "keywords": [
+    "blog",
+    "seo",
+    "ghost",
+    "ai",
+    "receipts"
+  ],
+  "author": "Mine Kvitteringer",
+  "license": "ISC",
+  "description": "AI-powered blog generator for minekvitteringer.no",
+  "dependencies": {
+    "@ai-sdk/openai": "^3.0.7",
+    "ai": "^6.0.23",
+    "commander": "^14.0.2",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.2.3",
+    "google-trends-api": "^4.9.2",
+    "jsonwebtoken": "^9.0.3",
+    "openai": "^4.104.0",
+    "rss-parser": "^3.13.0"
+  }
+}
