@@ -508,12 +508,14 @@ Svar i JSON-format:
   }
 }`;
 
+    let text = null;
     try {
-      const { text } = await generateText({
+      const result = await generateText({
         model: openai(config.openaiModel),
         prompt: researchPrompt,
         maxTokens: Math.max(8000, articleCount * 100), // Scale with article count, minimum 8000
       });
+      text = result.text;
 
       // Parse the response with better error handling
       let jsonMatch = text.match(/\{[\s\S]*\}/);
