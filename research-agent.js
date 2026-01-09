@@ -1,7 +1,6 @@
 import { openai } from '@ai-sdk/openai';
 import { generateText } from 'ai';
 import fs from 'fs';
-import googleTrends from 'google-trends-api';
 import RSSParser from 'rss-parser';
 import { config } from './config.js';
 import { loadSearchConsoleData, findSeoGaps } from './seo-gaps.js';
@@ -55,62 +54,6 @@ export class ResearchAgent {
     fs.writeFileSync(BRAIN_FILE, JSON.stringify(this.brain, null, 2));
   }
 
-  // Fetch real Google Trends data for Norway
-  async fetchGoogleTrends(keywords) {
-    console.log('📈 Henter Google Trends data...');
-    const trendsData = [];
-
-    for (const keyword of keywords) {
-      try {
-        // Get related queries
-        const relatedResult = await googleTrends.relatedQueries({
-          keyword: keyword,
-          geo: 'NO',
-          hl: 'no'
-        });
-        const relatedData = JSON.parse(relatedResult);
-        const rising = relatedData.default?.rankedList?.[1]?.rankedKeyword || [];
-        const top = relatedData.default?.rankedList?.[0]?.rankedKeyword || [];
-
-        // Get interest over time
-        const interestResult = await googleTrends.interestOverTime({
-          keyword: keyword,
-          geo: 'NO',
-          hl: 'no'
-        });
-        const interestData = JSON.parse(interestResult);
-        const timeline = interestData.default?.timelineData || [];
-        const recentInterest = timeline.slice(-4).map(t => t.value[0]);
-        const avgInterest = recentInterest.length > 0
-          ? recentInterest.reduce((a, b) => a + b, 0) / recentInterest.length
-          : 0;
-
-        trendsData.push({
-          keyword,
-          risingQueries: rising.slice(0, 5).map(r => ({ query: r.query, growth: r.formattedValue })),
-          topQueries: top.slice(0, 5).map(t => ({ query: t.query, value: t.value })),
-          recentInterest: avgInterest,
-          trend: avgInterest > 50 ? 'hot' : avgInterest > 25 ? 'medium' : 'low'
-        });
-
-        // Delay to avoid rate limiting
-        await new Promise(resolve => setTimeout(resolve, 500));
-      } catch (error) {
-        console.log(`  ⚠ Kunne ikke hente trends for "${keyword}": ${error.message}`);
-        // Still add a basic entry so we have something
-        trendsData.push({
-          keyword,
-          risingQueries: [],
-          topQueries: [],
-          recentInterest: 0,
-          trend: 'unknown',
-          error: error.message
-        });
-      }
-    }
-
-    return trendsData;
-  }
 
   // Load trends from a specific date
   loadTrendsFromDate(dateString) {
@@ -183,41 +126,6 @@ export class ResearchAgent {
     this.saveBrain();
   }
 
-  // Helper: Try to get related queries with retry and better error handling
-  async tryGetRelatedQueries(keyword, retries = 2) {
-    for (let attempt = 0; attempt <= retries; attempt++) {
-      try {
-        // Longer delay between attempts
-        if (attempt > 0) {
-          await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
-        }
-
-        const result = await googleTrends.relatedQueries({
-          keyword: keyword,
-          geo: 'NO',
-          hl: 'no'
-        });
-
-        // Check if result is HTML (error page)
-        if (typeof result === 'string' && result.trim().startsWith('<')) {
-          throw new Error('Received HTML instead of JSON (likely rate limit/captcha)');
-        }
-
-        const data = JSON.parse(result);
-        return {
-          rising: data.default?.rankedList?.[1]?.rankedKeyword || [],
-          top: data.default?.rankedList?.[0]?.rankedKeyword || []
-        };
-      } catch (error) {
-        if (attempt === retries) {
-          // Last attempt failed
-          return null;
-        }
-        // Try again with longer delay
-      }
-    }
-    return null;
-  }
 
   // Fetch trending topics from Google Trends RSS (works for Norway!)
   // Caches results for the day to avoid repeated API calls
@@ -304,99 +212,7 @@ export class ResearchAgent {
     }
 
       if (allItems.length > 0) {
-        console.log(`  📊 Fant ${allItems.length} trender fra RSS feed, utvider med related queries...`);
-        
-        // Start with RSS items
-        const allTrends = [...allItems];
-
-        // Extract keywords from RSS trends to use as seeds
-        const rssKeywords = allItems
-          .map(item => item.title.toLowerCase())
-          .filter(title => title.length > 3 && title.length < 30)
-          .slice(0, 20); // Use top 20 RSS trends as keywords
-
-        // Combine with popular product keywords
-        const expandKeywords = [
-          ...rssKeywords, // Use RSS trends as keywords first
-          'iphone', 'samsung', 'nokia', 'huawei', 'oneplus', 'xiaomi',
-          'playstation', 'xbox', 'nintendo', 'gaming',
-          'macbook', 'laptop', 'pc', 'windows',
-          'tv', 'oled', 'samsung tv', 'lg tv',
-          'vaskemaskin', 'kjøleskap', 'oppvaskmaskin', 'tørketrommel',
-          'elkjøp', 'power', 'komplett', 'netonnet',
-          'apple watch', 'garmin', 'fitbit',
-          'airpods', 'sony', 'bose',
-          'ikea', 'jysk', 'skeidar',
-          'mobiltelefon', 'smartphone', 'tablet', 'ipad'
-        ];
-
-        // Remove duplicates
-        const uniqueKeywords = [...new Set(expandKeywords)];
-
-        console.log(`  🔍 Prøver å utvide med ${uniqueKeywords.length} nøkkelord...`);
-
-        // Get related queries for each keyword to expand our trend list
-        let successCount = 0;
-        let failCount = 0;
-
-        for (const keyword of uniqueKeywords) {
-          if (allTrends.length >= 200) {
-            console.log(`  ✓ Nådd maksgrense på 200 trender`);
-            break;
-          }
-
-          const queries = await this.tryGetRelatedQueries(keyword);
-          
-          if (queries) {
-            successCount++;
-            
-            // Add rising queries (up to 10 per keyword)
-            queries.rising.slice(0, 10).forEach(r => {
-              const title = r.query?.toLowerCase();
-              if (title && !seenTitles.has(title) && allTrends.length < 200) {
-                seenTitles.add(title);
-                allTrends.push({
-                  title: r.query,
-                  traffic: r.formattedValue || 'Rising',
-                  articles: [],
-                  relatedQueries: [keyword],
-                  source: 'rising-NO-expanded'
-                });
-              }
-            });
-
-            // Add top queries (up to 5 per keyword)
-            queries.top.slice(0, 5).forEach(t => {
-              const title = t.query?.toLowerCase();
-              if (title && !seenTitles.has(title) && allTrends.length < 200) {
-                seenTitles.add(title);
-                allTrends.push({
-                  title: t.query,
-                  traffic: `${t.value || 'Top'}`,
-                  articles: [],
-                  relatedQueries: [keyword],
-                  source: 'top-NO-expanded'
-                });
-              }
-            });
-
-            // Longer delay to avoid rate limiting
-            await new Promise(resolve => setTimeout(resolve, 1000));
-          } else {
-            failCount++;
-            // Shorter delay on failure
-            await new Promise(resolve => setTimeout(resolve, 500));
-          }
-
-          // Progress update every 10 keywords
-          if ((successCount + failCount) % 10 === 0) {
-            console.log(`  📈 Fremdrift: ${allTrends.length} trender (${successCount} vellykkede, ${failCount} feilet)`);
-          }
-        }
-
-        console.log(`  ✓ Ferdig: ${allTrends.length} trender totalt (${successCount} vellykkede API-kall, ${failCount} feilet)`);
-
-        const results = allTrends.slice(0, 200); // Ensure max 200
+        const results = allItems.slice(0, 200); // Limit to 200 max
 
         // Create trends folder if it doesn't exist
         if (!fs.existsSync(TRENDS_FOLDER)) {
@@ -408,18 +224,13 @@ export class ResearchAgent {
         const trendsData = {
           date: today,
           timestamp: new Date().toISOString(),
-          source: 'google-trends-rss-expanded',
+          source: 'google-trends-rss',
           trends: results,
           totalCount: results.length,
-          rssCount: allItems.length,
-          expandedCount: results.length - allItems.length,
-          apiStats: {
-            successful: successCount,
-            failed: failCount
-          }
+          rssCount: allItems.length
         };
         fs.writeFileSync(trendsFile, JSON.stringify(trendsData, null, 2));
-        console.log(`  💾 Lagret ${results.length} trender til ${trendsFile} (${allItems.length} fra RSS, ${results.length - allItems.length} utvidet)`);
+        console.log(`  💾 Lagret ${results.length} trender til ${trendsFile}`);
 
         // Cache for today
         this.brain.cachedTrends = { date: today, data: results };
@@ -431,150 +242,9 @@ export class ResearchAgent {
       console.log(`  ⚠ Kunne ikke hente Google Trends RSS: ${error.message}`);
     }
 
-    // Fallback: Use relatedQueries API with many keywords (only if RSS failed or returned few items)
-    if (allItems.length < 10) {
-    console.log('  Prøver alternativ metode med utvidede søkeord...');
-    const trendingTopics = [];
-    const seenTitles = new Set();
-
-    const trendKeywords = [
-      // Electronics
-      'iphone', 'samsung', 'nokia', 'huawei', 'oneplus', 'xiaomi', 'oppo',
-      'playstation', 'xbox', 'nintendo switch', 'gaming pc',
-      'macbook', 'laptop', 'windows pc', 'chromebook',
-      'tv', 'oled', 'samsung tv', 'lg tv', 'sony tv',
-      // Appliances
-      'vaskemaskin', 'kjøleskap', 'oppvaskmaskin', 'tørketrommel', 'komfyr',
-      // Stores
-      'elkjøp', 'power', 'komplett', 'netonnet', 'clas ohlson', 'jernia',
-      // Wearables
-      'apple watch', 'garmin', 'fitbit', 'samsung watch',
-      // Audio
-      'airpods', 'sony headphones', 'bose', 'jbl',
-      // Home
-      'ikea', 'jysk', 'skeidar', 'møbler',
-      // General tech
-      'smartphone', 'tablet', 'ipad', 'android', 'ios'
-    ];
-
-    let successCount = 0;
-    let failCount = 0;
-
-    for (const keyword of trendKeywords) {
-      if (trendingTopics.length >= 200) {
-        console.log(`  ✓ Nådd maksgrense på 200 trender`);
-        break;
-      }
-
-      const queries = await this.tryGetRelatedQueries(keyword);
-      
-      if (queries) {
-        successCount++;
-        
-        // Add rising queries (up to 15 per keyword)
-        queries.rising.slice(0, 15).forEach(r => {
-          const title = r.query?.toLowerCase();
-          if (r.query && title && !seenTitles.has(title) && trendingTopics.length < 200) {
-            seenTitles.add(title);
-            trendingTopics.push({
-              title: r.query,
-              traffic: r.formattedValue || 'Rising',
-              articles: [],
-              relatedQueries: [keyword],
-              source: 'rising-NO-fallback'
-            });
-          }
-        });
-
-        // Add top queries (up to 10 per keyword)
-        queries.top.slice(0, 10).forEach(t => {
-          const title = t.query?.toLowerCase();
-          if (t.query && title && !seenTitles.has(title) && trendingTopics.length < 200) {
-            seenTitles.add(title);
-            trendingTopics.push({
-              title: t.query,
-              traffic: `${t.value || 'Top'}`,
-              articles: [],
-              relatedQueries: [keyword],
-              source: 'top-NO-fallback'
-            });
-          }
-        });
-
-        // Longer delay to avoid rate limiting
-        await new Promise(resolve => setTimeout(resolve, 1000));
-      } else {
-        failCount++;
-        // Shorter delay on failure
-        await new Promise(resolve => setTimeout(resolve, 500));
-      }
-
-      // Progress update every 10 keywords
-      if ((successCount + failCount) % 10 === 0) {
-        console.log(`  📈 Fremdrift: ${trendingTopics.length} trender (${successCount} vellykkede, ${failCount} feilet)`);
-      }
-    }
-
-    console.log(`  ✓ Fallback ferdig: ${trendingTopics.length} trender totalt (${successCount} vellykkede API-kall, ${failCount} feilet)`);
-
-    if (trendingTopics.length > 0) {
-      const results = trendingTopics.slice(0, 200); // Save up to 200 trending keywords
-
-      // Create trends folder if it doesn't exist
-      if (!fs.existsSync(TRENDS_FOLDER)) {
-        fs.mkdirSync(TRENDS_FOLDER, { recursive: true });
-      }
-
-      // Save all trends to date-stamped file
-      const trendsFile = `${TRENDS_FOLDER}/${today}.json`;
-      const trendsData = {
-        date: today,
-        timestamp: new Date().toISOString(),
-        source: 'rising-NO-fallback',
-        trends: results,
-        totalCount: results.length,
-        apiStats: {
-          successful: successCount,
-          failed: failCount
-        }
-      };
-      fs.writeFileSync(trendsFile, JSON.stringify(trendsData, null, 2));
-      console.log(`  💾 Lagret ${results.length} trender til ${trendsFile}`);
-
-      // Cache for today
-      this.brain.cachedTrends = { date: today, data: results };
-      this.saveBrain();
-      console.log(`  ✓ Fant ${results.length} trending søk (cached)`);
-      return results;
-    }
-    }
-
-    // Default fallback - save these too for logging purposes
-    console.log('  ℹ Bruker standard produktliste');
-    const defaultTrends = [
-      { title: 'iPhone 16', traffic: 'Populær', relatedQueries: ['apple'], source: 'default' },
-      { title: 'Samsung Galaxy', traffic: 'Populær', relatedQueries: ['samsung'], source: 'default' },
-      { title: 'PlayStation 5', traffic: 'Populær', relatedQueries: ['gaming'], source: 'default' }
-    ];
-
-    // Create trends folder if it doesn't exist
-    if (!fs.existsSync(TRENDS_FOLDER)) {
-      fs.mkdirSync(TRENDS_FOLDER, { recursive: true });
-    }
-
-    // Save default trends to date-stamped file
-    const trendsFile = `${TRENDS_FOLDER}/${today}.json`;
-    const trendsData = {
-      date: today,
-      timestamp: new Date().toISOString(),
-      source: 'default-fallback',
-      trends: defaultTrends,
-      totalCount: defaultTrends.length
-    };
-    fs.writeFileSync(trendsFile, JSON.stringify(trendsData, null, 2));
-    console.log(`  💾 Lagret ${defaultTrends.length} standard trender til ${trendsFile}`);
-
-    return defaultTrends;
+    // If RSS failed completely, return empty array
+    console.log('  ⚠ Kunne ikke hente trender fra Google Trends RSS');
+    return [];
   }
 
   // Analyze Search Console data for opportunities
@@ -706,26 +376,17 @@ export class ResearchAgent {
     }
 
     // Step 1: Gather real data
-    const relevantKeywords = [
-      'iphone', 'samsung', 'nokia', 'huawei', 'oneplus', // Popular brands with global data
-      'mobiltelefon', 'smartphone', 'android', 'ios', // Generic terms
-      'elektronikk', 'hvitevarer', 'data', 'gaming' // Categories
-    ];
-
     // Fetch real data in parallel
-    console.log(`🔍 Henter data for keywords: ${focus ? [focus] : relevantKeywords.slice(0, 5).join(', ')}`);
-    const [googleTrendsData, dailyTrends, searchConsoleData] = await Promise.all([
-      this.fetchGoogleTrends(focus ? [focus] : relevantKeywords.slice(0, 5)),
+    const [dailyTrends, searchConsoleData] = await Promise.all([
       this.fetchDailyTrendsWithFallback(),
       this.analyzeSearchConsole()
     ]);
 
-    console.log(`📊 Hentet ${googleTrendsData.length} trend-data punkter, ${dailyTrends.length} daglige trender, ${searchConsoleData ? 'Search Console OK' : 'Search Console failed'}`);
+    console.log(`📊 Hentet ${dailyTrends.length} daglige trender, ${searchConsoleData ? 'Search Console OK' : 'Search Console failed'}`);
 
     // Store raw data in brain
     this.brain.rawData = {
       lastFetched: new Date().toISOString(),
-      googleTrends: googleTrendsData,
       dailyTrends: dailyTrends,
       searchConsole: searchConsoleData
     };
@@ -736,10 +397,7 @@ export class ResearchAgent {
 
 Din oppgave er å analysere EKTE DATA og finne de beste mulighetene for SEO-artikler.
 
-## EKTE GOOGLE TRENDS DATA (Norge):
-${JSON.stringify(googleTrendsData, null, 2)}
-
-## DAGLIGE TRENDER I NORGE:
+## DAGLIGE TRENDER I NORGE (Google Trends RSS):
 ${JSON.stringify(dailyTrends, null, 2)}
 
 ## SEARCH CONSOLE DATA (våre faktiske søkeord):
@@ -778,14 +436,14 @@ FOKUS: ${focus ? focus : 'Generell analyse'}
 DATO: ${new Date().toLocaleDateString('no-NO', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
 
 ## INSTRUKSJONER:
-1. Analyser Google Trends dataene - finn rising queries som er relevante for kvitteringer/garanti
+1. Analyser daglige trender fra Google Trends RSS - finn trender som er relevante for kvitteringer/garanti
 2. Se på Search Console opportunities - disse er EKTE søkeord folk bruker, prioriter disse!
 3. Koble daglige trender til kvitteringer/garanti hvis mulig
 4. Bruk tema-analysen til å forstå hva som fungerer for oss
 
 ## PRIORITER:
 - SEO-muligheter fra Search Console (vi VET folk søker på dette)
-- Rising queries fra Google Trends (økende interesse)
+- Daglige trender fra Google Trends RSS (økende interesse)
 - Søkeord der vi har posisjon 5-20 (kan forbedres med ny artikkel)
 - Butikk-spesifikke søkeord med høye visninger
 

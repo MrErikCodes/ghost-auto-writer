@@ -311,5 +311,108 @@
     "title": "Norge vs utlandet: Hva er gyldig kjøpsbevis på ferie – og hva gjør du hvis kvitteringen er på engelsk?",
     "ghostPostId": "6960eb3a50c464068e0be0f3",
     "generatedAt": "2026-01-09T11:49:14.871Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Reklamasjon på elektronikk i Norge: Hvilken dokumentasjon bør du ha (og hva gjør du når kvitteringen er borte)?",
+    "query": "reklamasjon elektronikk",
+    "keywords": [
+      "reklamasjonsrett elektronikk",
+      "reklamasjon uten kvittering",
+      "kjøpsbevis elektronikk",
+      "forbrukerkjøpsloven"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Reklamasjons-klyngen i dataene viser flere søk relatert til elektronikk. En «dokumentasjonsfokusert» artikkel kan fange bred trafikk og støtte butikkguider.",
+    "title": "Reklamasjon på elektronikk i Norge: Hvilken dokumentasjon bør du ha – og hva gjør du når kvitteringen er borte?",
+    "ghostPostId": "6960f8c450c464068e0be0f9",
+    "generatedAt": "2026-01-09T12:47:00.147Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Vigo-vitnemål og dokumentasjon: Slik lagrer du viktige papirer digitalt (trygt og søkbart)",
+    "query": "vigo vitnemål",
+    "keywords": [
+      "vigo logg inn",
+      "vitnemål",
+      "dokumentasjon",
+      "digital lagring"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Vigo er kraftig «rising» i Trends. Ikke kvittering direkte, men nært beslektet: sikker lagring av dokumentasjon. Kan fungere som top-funnel med bro til kvitteringer/garanti.",
+    "title": "Vigo-vitnemål og dokumentasjon: Slik lagrer du viktige papirer digitalt (trygt og søkbart)",
+    "ghostPostId": "6960f90450c464068e0be0ff",
+    "generatedAt": "2026-01-09T12:48:05.056Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Slik lager du et «hjemme-arkiv» for garanti: Kvittering, serienummer, manual og servicehistorikk – på 10 minutter",
+    "query": "garanti dokumentasjon",
+    "keywords": [
+      "garantibevis",
+      "serienummer",
+      "manual",
+      "servicehistorikk"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Evergreen innhold som matcher tjenestens verdi (samle dokumentasjon). Ny vinkel: ikke bare kvittering, men komplett garanti-mappecase.",
+    "title": "Slik lager du et «hjemme-arkiv» for garanti på 10 minutter (kvittering, serienummer, manual og servicehistorikk)",
+    "ghostPostId": "6960f94450c464068e0be105",
+    "generatedAt": "2026-01-09T12:49:08.940Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kjøpt med Apple Pay/Vipps/kort: Slik bruker du kontoutskrift som kjøpsbevis når kvitteringen er borte",
+    "query": "kontoutskrift som kjøpsbevis",
+    "keywords": [
+      "kontoutskrift som kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Tett på «uten kvittering»-problemet vi allerede ser i dataene, men generalisert på tvers av butikker. Høy nytte, høy delingsverdi.",
+    "title": "Kjøpt med Apple Pay, Vipps eller kort? Slik bruker du kontoutskrift som kjøpsbevis når kvitteringen er borte",
+    "ghostPostId": "6960f98950c464068e0be10b",
+    "generatedAt": "2026-01-09T12:50:17.383Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Serienummer, IMEI og modellkode: Den oversette nøkkelen til garanti (og hvor du finner den på 12 vanlige produkter)",
+    "query": "serienummer garanti",
+    "keywords": [
+      "serienummer garanti"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Komplementerer kvitteringslagring med «metadata»-lagring. Kan rangere på mange long-tail søk (serienummer + produkt).",
+    "title": "Serienummer, IMEI og modellkode: Den oversette nøkkelen til garanti (og hvor du finner den på 12 vanlige produkter)",
+    "ghostPostId": "6960f9d150c464068e0be111",
+    "generatedAt": "2026-01-09T12:51:29.631Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når nettbutikken er konkurs: Hvilke bevis trenger du for reklamasjon, og hva gjør du uten tilgang til ordrehistorikk?",
+    "query": "reklamasjon når butikk er konkurs",
+    "keywords": [
+      "reklamasjon når butikk er konkurs"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sjeldent omtalt, men svært høy intensjon når det skjer. Skiller seg fra eksisterende artikler og bygger autoritet.",
+    "title": "Når nettbutikken er konkurs: Slik dokumenterer du kjøpet og får reklamasjon uten ordrehistorikk",
+    "ghostPostId": "6960fa1c50c464068e0be117",
+    "generatedAt": "2026-01-09T12:52:44.078Z"
+  },
+  {
+    "category": "business",
+    "topic": "Firmabil i enkeltpersonforetak: Kvitteringene du glemmer (bompenger, parkering, lading, service) – og hvordan du dokumenterer dem",
+    "query": "firmabil enkeltmannsforetak",
+    "keywords": [
+      "firmabil enkeltmannsforetak",
+      "bompenger kvittering",
+      "parkering kvittering",
+      "ladeutgifter dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Det finnes allerede en artikkel om firmabil og kvitteringer ifm. bokettersyn. For å unngå duplikat fokuserer vi på «de små bilagene» som oftest mangler og konkrete dokumentasjonsmetoder.",
+    "title": "Firmabil i enkeltpersonforetak: Kvitteringene du glemmer (bompenger, parkering, lading, service) – og slik dokumenterer du dem",
+    "ghostPostId": "6960fa6f50c464068e0be11d",
+    "generatedAt": "2026-01-09T12:54:07.574Z"
   }
 ]

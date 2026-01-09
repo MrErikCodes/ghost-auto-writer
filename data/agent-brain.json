@@ -1,105 +1,51 @@
 {
-  "lastResearch": "2026-01-09T12:06:34.750Z",
+  "lastResearch": "2026-01-09T12:45:54.771Z",
   "trendingTopics": [
     {
-      "topic": "Tesla",
+      "topic": "spotify",
       "source": "google-trends",
-      "relevance": "Koble til kvitteringer for service, dekk, lading, tilbehør og dokumentasjon ved garanti/videresalg",
+      "relevance": "Abonnementskvitteringer (Premium), betalingshistorikk og dokumentasjon ved refusjon/bedriftskort",
       "risingQueries": [
-        "tesla service kvittering",
-        "kvittering supercharger",
-        "tesla tilbehør kvittering"
+        "spotify premium",
+        "spotify download",
+        "web player spotify"
       ]
     },
     {
-      "topic": "SNL",
+      "topic": "iphone",
       "source": "google-trends",
-      "relevance": "Definisjonssøk: lag ordliste/FAQ som svarer på begreper rundt kvittering, bilag, reklamasjon",
+      "relevance": "Garanti/reparasjon krever kjøpsbevis; iPhone-relaterte søk indikerer kjøps- og oppgraderingssesong etter jul",
       "risingQueries": [
-        "hva er bilag",
-        "kjøpsbevis definisjon",
-        "reklamasjonsrett definisjon"
+        "iphone 14",
+        "iphone deksel",
+        "iphone se"
       ]
     },
     {
-      "topic": "VIGO",
+      "topic": "samsung",
       "source": "google-trends",
-      "relevance": "Skolestart/utdanning utstyrskjøp: PC, kalkulator, headset – behov for garanti og kvittering",
+      "relevance": "Service/garanti og behov for kvittering + IMEI/modellkobling, særlig ved brukt/videre salg",
       "risingQueries": [
-        "pc til videregående garanti",
-        "utstyr skole kvittering",
-        "refusjon skoleutstyr dokumentasjon"
+        "android",
+        "samsung galaxy tab",
+        "samsung note"
       ]
     },
     {
-      "topic": "Iran",
+      "topic": "gaming pc / pc",
       "source": "google-trends",
-      "relevance": "Reise/usikkerhet kan trigge behov for dokumentasjon: kjøp i utlandet, forsikring, chargeback",
+      "relevance": "Mange delkjøp (skjerm, tastatur, headset) → økt risiko for manglende kvitteringer når noe ryker",
       "risingQueries": [
-        "reiseavbestilling dokumentasjon",
-        "chargeback kjøpsbevis",
-        "kvittering reiseforsikring"
+        "laptop",
+        "gaming monitor",
+        "keyboard"
       ]
     },
     {
-      "topic": "Cuba",
+      "topic": "tesla",
       "source": "google-trends",
-      "relevance": "Reisetema: kjøpsbevis på ferie og valuta/kvitteringer til forsikring/reklamasjon",
-      "risingQueries": [
-        "kvittering på reise",
-        "dokumentasjon reiseforsikring",
-        "kontoutskrift som bevis"
-      ]
-    },
-    {
-      "topic": "Kommunekommisjonen",
-      "source": "google-trends",
-      "relevance": "Kommunale gebyrer/avgifter kan gi «dokumentasjon»-behov (betaling, krav, refusjon)",
-      "risingQueries": [
-        "gebyr kvittering",
-        "betaling bekreftelse",
-        "dokumentasjon avgift"
-      ]
-    },
-    {
-      "topic": "Donut Labs",
-      "source": "google-trends",
-      "relevance": "Tech/produktlanseringer: dyrt utstyr gir garanti- og kvitteringsbehov (serienummer, kjøpsdato)",
-      "risingQueries": [
-        "garanti elektronikk kjøpsbevis",
-        "serienummer kvittering",
-        "reklamasjon uten kvittering"
-      ]
-    },
-    {
-      "topic": "Bruno Mars tour 2026",
-      "source": "google-trends",
-      "relevance": "Billetter/refusjon: dokumentasjon ved avlysning/videresalg/chargeback",
-      "risingQueries": [
-        "billett kjøpsbevis",
-        "refusjon konsert dokumentasjon",
-        "chargeback billett"
-      ]
-    },
-    {
-      "topic": "Jonathan Ross",
-      "source": "google-trends",
-      "relevance": "Kjendis-trend kan kobles svakt via merch/billetter (kvitteringer, refusjon)",
-      "risingQueries": [
-        "merch kvittering",
-        "refusjon arrangement",
-        "billettkvittering"
-      ]
-    },
-    {
-      "topic": "Jesse Ventura",
-      "source": "google-trends",
-      "relevance": "Svakt relevant, men kan trigge interesse for dokumentarer/bokkjøp og retur/angrerett (kvittering)",
-      "risingQueries": [
-        "bokkjøp retur kvittering",
-        "angrerett dokumentasjon",
-        "kjøpsbevis nettbutikk"
-      ]
+      "relevance": "Kostnader og dokumentasjon: lading, service, tilbehør og garanti på komponenter (kvitteringer og fakturaer)",
+      "risingQueries": []
     }
   ],
   "productCategories": {
@@ -138,434 +84,205 @@
   },
   "suggestedTopics": [
     {
-      "title": "E-kvittering (e‑kvittering) forklart: Hva det er, hvor du finner den og hvordan du lagrer den trygt",
-      "primaryKeyword": "e-kvittering",
+      "title": "Kvittering (2026): Slik finner du igjen en mistet kvittering med kontoutskrift, Vipps eller ordrehistorikk",
+      "primaryKeyword": "kvittering",
       "keywords": [
-        "e kvittering",
-        "e-kvittering meaning",
-        "digital kvittering",
-        "kvittering på epost"
+        "mistet kvittering",
+        "kvittering betalingskort",
+        "kvittering vipps",
+        "kjøpsbevis uten kvittering"
       ],
       "category": "problem-solving",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Søkeordet har reelle visninger og lav CTR (214 visninger/1 klikk) og ligger rundt posisjon ~2. En bedre, mer klikkvennlig guide (definisjon + konkrete steg) kan øke CTR uten å måtte «vinne» nye plasseringer."
+      "rationale": "Høye visninger på «kvittering» (1572) og lav CTR (0,19%) + posisjon ~7,8 tyder på at vi kan vinne mye trafikk med en mer «how-to»/problemløsende side som matcher intensjonen (finne igjen/manglende kvittering)."
     },
     {
-      "title": "Digitale kvitteringer: Fordeler, fallgruver og sjekkliste for sikker lagring i 2026",
+      "title": "Digitale kvitteringer: Slik fungerer de i praksis (og hva du må sjekke for at de skal holde som kjøpsbevis)",
       "primaryKeyword": "digitale kvitteringer",
       "keywords": [
         "digital kvittering",
-        "kvittering på nett",
-        "lagre kvitteringer",
-        "samle kvitteringer"
-      ],
-      "category": "seo-gap",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Høy relevans for tjenesten og tydelig opportunity: 358 visninger/4 klikk, posisjon ~2.39. En oppdatert «best practice»-artikkel kan ta flere longtails og løfte CTR."
-    },
-    {
-      "title": "Kvittering: De 12 vanligste spørsmålene folk googler (gyldighet, garanti, retur og kjøpsbevis)",
-      "primaryKeyword": "kvittering",
-      "keywords": [
-        "kvittering gyldig",
-        "må man ha kvittering",
+        "e-kvittering",
         "kjøpsbevis",
         "kvittering garanti"
       ],
       "category": "seo-gap",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Stor etterspørsel: 1572 visninger og posisjon ~7.82 (5–20-sonen). En FAQ-formatert artikkel er laget for å løfte fra side 1/2 til top 5 og øke klikk."
+      "rationale": "«digitale kvitteringer» har god posisjon (~2,39) men fortsatt relativt lav CTR (1,12%) – en skarpere, mer konkret artikkel kan løfte klikkene uten å «kannibalisere» ved å fokusere på krav/gyldighet og sjekkliste (ikke bare fordeler/ulemper)."
     },
     {
-      "title": "Kvitteringer: Slik organiserer du alt på ett sted (mappe-struktur, tags og søk) – uten Excel",
-      "primaryKeyword": "kvitteringer",
+      "title": "E‑kvittering: Hvor finner du den – og hvordan eksporterer du den til garanti, forsikring og regnskap?",
+      "primaryKeyword": "e-kvittering",
       "keywords": [
-        "kvitteringer lagret på ett sted",
-        "kvitteringer på ett sted",
-        "kvittering arkiv",
-        "kvittering app"
+        "e-kvittering",
+        "digitalt kjøpsbevis",
+        "eksport kvittering",
+        "pdf kvittering"
       ],
       "category": "feature-highlight",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Vi ser både generisk volum og tydelige intent-søk som ‘kvitteringer lagret på ett sted’ (205 visninger, 0 klikk, pos ~1.75). Artikkel som matcher intent kan hente klikk der vi allerede rangerer høyt."
+      "rationale": "«e-kvittering» har lav CTR (0,47%) og posisjon ~2,0. Brukerintensjonen er ofte «hvor finner jeg den» + «hvordan bruke den». En artikkel som inkluderer eksport/videresending/bruksscenarier bør gi bedre klikk."
     },
     {
-      "title": "Fysisk butikk + digital kvittering: Slik ber du om e‑kvittering i kassa (ord du kan si) og hva du gjør om den uteblir",
-      "primaryKeyword": "fysisk butikk digital kvittering",
+      "title": "«Kvittering» vs «faktura» vs «ordrebekreftelse»: Når holder hva som dokumentasjon i Norge?",
+      "primaryKeyword": "kvittering",
       "keywords": [
-        "digital kvittering i butikk",
-        "e-kvittering i kassa",
-        "ikke fått kvittering",
-        "kvittering på epost"
-      ],
-      "category": "problem-solving",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Sterk ‘low click’-mulighet: 198 visninger/0 klikk og posisjon ~1.44. Dette tyder på snippet/tittel mismatch – en mer handlingsorientert artikkel kan øke CTR betydelig."
-    },
-    {
-      "title": "«Største plattform for digitale kvitteringer»? Slik vurderer du leverandører: 10 krav du bør stille",
-      "primaryKeyword": "største plattform for digitale kvitteringer",
-      "keywords": [
-        "plattform digitale kvitteringer",
-        "digital kvittering tjeneste",
-        "kvitteringsapp",
-        "kvittering lagring"
+        "faktura",
+        "ordrebekreftelse",
+        "kjøpsbevis",
+        "dokumentasjon kjøp"
       ],
       "category": "seo-gap",
-      "priority": "high",
+      "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "201 visninger/0 klikk, pos ~1.71: vi rangerer allerede, men folk klikker ikke. En «evalueringsguide» matcher kommersiell intent og kan gi høyere klikkandel."
+      "rationale": "Vi ser at «zalando faktura» er stort, men vi unngår Zalando-sporet. Likevel er den underliggende forvirringen (kvittering vs faktura) bred og treffer «kvittering»-søket (posisjon 5–20) med en ny, mer generell vinkel."
     },
     {
-      "title": "Clas Ohlson: Retur uten kvittering – hva du kan bruke som kjøpsbevis og hva som faktisk funker i praksis",
-      "primaryKeyword": "clas ohlson retur uten kvittering",
-      "keywords": [
-        "clas ohlson bytte uten kvittering",
-        "bytterett clas ohlson",
-        "clas ohlson reklamasjon uten kvittering",
-        "kjøpsbevis"
-      ],
-      "category": "store-guide",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Butikkintensjon + tydelig problem: 122 visninger, pos ~1.04. Vi har allerede traction på Clas Ohlson-relaterte søk; en mer konkret «hva kan du bruke i stedet»-guide kan ta flere varianter."
-    },
-    {
-      "title": "Elkjøp kvittering: Slik finner du kjøpsbevis for garanti og reklamasjon (og hva du gjør hvis du ikke finner det)",
+      "title": "Elkjøp kvittering: Slik finner du den raskt (og hvorfor den kan mangle selv om kjøpet er registrert)",
       "primaryKeyword": "elkjøp kvittering",
       "keywords": [
-        "elkjøp kvittering på nett",
-        "finne kvittering elkjøp",
-        "ordreoversikt elkjøp",
-        "kjøpsbevis elkjøp"
+        "elkjøp kvittering",
+        "manglende kvittering elkjøp",
+        "kjøpsbevis elkjøp",
+        "ordrehistorikk elkjøp"
       ],
       "category": "store-guide",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Vi har både best-performing og gap: ‘elkjøp kvittering’ får 731 visninger og pos ~4.39 (kan pushes til top 3). Samtidig finnes ‘elkjøp kvittering på nett’ med god posisjon ~1.95; en samlet «master guide» kan dominere SERP."
+      "rationale": "«elkjøp kvittering» har høy visning (731) og posisjon ~4,39. Vi har allerede Elkjøp Min Side-artikkel (skal ikke kopieres), så dette er en annen intensjon: feilsøking når kvittering mangler/ikke dukker opp, og alternative bevis."
     },
     {
-      "title": "MyPower/Power kvittering: Hvor finner du kvittering, ordrebekreftelse og serienummer (for garanti)?",
-      "primaryKeyword": "mypower kvittering",
+      "title": "Kvitteringer (flertall): Slik bygger du et «kvitteringsarkiv» som tåler flytting, garanti og forsikringssaker",
+      "primaryKeyword": "kvitteringer",
       "keywords": [
-        "power kvittering",
-        "mypower ordre",
-        "power garanti kvittering",
-        "serienummer kvittering"
+        "kvitteringer",
+        "kvitteringsarkiv",
+        "organisere kvitteringer",
+        "lagre kvitteringer digitalt"
       ],
-      "category": "store-guide",
+      "category": "problem-solving",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "«kvitteringer» har posisjon ~13,89 (perfekt for ny/forbedret innhold). Vi har en generell «organiser»-artikkel på listen over foreslåtte/lagde, men vi kan differensiere tydelig ved å fokusere på «arkiv som tåler hendelser» (flytting/garanti/forsikring) med konkrete strukturer og sjekklister."
+    },
+    {
+      "title": "Retur uten kvittering: Hvilke bevis pleier butikker å godta (kortkjøp, Vipps, e‑post, medlemskap)?",
+      "primaryKeyword": "retur uten kvittering",
+      "keywords": [
+        "retur uten kvittering",
+        "bytte uten kvittering",
+        "kjøpsbevis",
+        "kontoutskrift retur"
+      ],
+      "category": "problem-solving",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "343 visninger og pos ~4.32: solid mulighet for å løfte plassering med en mer presis artikkel som også dekker serienummer og garanti-dokumentasjon."
+      "rationale": "Vi har Clas Ohlson-spesifikt innhold (må ikke gjentas). Men dataene viser tydelig problemtema «uten kvittering». En generell artikkel kan fange bredere søk og samtidig lenke til butikk-spesifikke guider."
     },
     {
-      "title": "Komplett kvittering: Slik finner du ordrehistorikk og dokumentasjon til retur og reklamasjon",
-      "primaryKeyword": "komplett kvittering",
+      "title": "Garanti iPhone: Dette må du ha klart før du leverer inn (kvittering, serienummer, Apple-ID, bilder)",
+      "primaryKeyword": "garanti iphone",
       "keywords": [
-        "komplett ordrehistorikk",
-        "komplett kjøpsbevis",
-        "reklamasjon komplett",
-        "retur komplett"
+        "garanti iphone",
+        "serienummer iphone",
+        "kjøpsbevis iphone",
+        "reparasjon iphone dokumentasjon"
       ],
-      "category": "store-guide",
+      "category": "problem-solving",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Komplett finnes i temadata (62 visninger). Lavere volum enn Elkjøp/Power, men god «store-guide»-fit som ofte konverterer til lagringsbehov."
+      "rationale": "Vi må unngå å duplisere «Garanti på iPhone i Norge»-artikkelen. Ny vinkel: en praktisk «før du leverer inn»-sjekkliste (dokumenter og bevis), som kan gi bedre CTR på søket (posisjon ~3,6, lav CTR)."
     },
     {
-      "title": "XXL kvittering: Slik finner du kvitteringen din og hva du kan bruke som kjøpsbevis",
-      "primaryKeyword": "kvittering xxl",
+      "title": "Firmabil i enkeltpersonforetak: Kvitteringene du glemmer (bompenger, parkering, lading, service) – og hvordan du dokumenterer dem",
+      "primaryKeyword": "firmabil enkeltmannsforetak",
       "keywords": [
-        "xxl kvittering på nett",
-        "xxl retur uten kvittering",
-        "kjøpsbevis xxl",
-        "retur xxl"
-      ],
-      "category": "store-guide",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "XXL er identifisert i temadata (71 visninger). Typisk søk-intent er «få gjort en retur/reklamasjon», der kvitteringslagring er naturlig neste steg."
-    },
-    {
-      "title": "Jysk kvittering: Hvor finner du kvittering og hva gjør du hvis den er borte?",
-      "primaryKeyword": "jysk kvittering",
-      "keywords": [
-        "jysk retur uten kvittering",
-        "jysk kjøpsbevis",
-        "bytterett jysk",
-        "garanti jysk"
-      ],
-      "category": "store-guide",
-      "priority": "low",
-      "dataSource": "search-console",
-      "rationale": "Lavere volum (14), men nisjeartikler kan gi høy andel «zero-competition» trafikk og styrke topical authority på butikk-kvitteringer."
-    },
-    {
-      "title": "Jernia kvittering: Slik henter du kvittering, og hvilke opplysninger du trenger ved reklamasjon",
-      "primaryKeyword": "jernia kvittering",
-      "keywords": [
-        "jernia retur",
-        "jernia reklamasjon",
-        "kjøpsbevis jernia",
-        "garanti jernia"
-      ],
-      "category": "store-guide",
-      "priority": "low",
-      "dataSource": "search-console",
-      "rationale": "Jernia er i temadata (21). Slike «små» guider bygger biblioteket av butikk-intent-svar og kan gi stabil longtail-trafikk."
-    },
-    {
-      "title": "Kvittering fra privatperson til firma: Hva må stå på bilaget, og hvordan dokumenterer du kjøpet riktig?",
-      "primaryKeyword": "kvittering fra privatperson til firma",
-      "keywords": [
-        "bilag privat til firma",
-        "kjøp fra privatperson regnskap",
-        "dokumentasjon kjøp brukt",
-        "kvittering mal privat salg"
+        "firmabil enkeltmannsforetak",
+        "bompenger kvittering",
+        "parkering kvittering",
+        "ladeutgifter dokumentasjon"
       ],
       "category": "business",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Temadata viser dette som et reelt søk (17 visninger). Høy nytteverdi for ENK/AS, og passer tjenestens «samle dokumentasjon»-løfte."
+      "rationale": "Det finnes allerede en artikkel om firmabil og kvitteringer ifm. bokettersyn. For å unngå duplikat fokuserer vi på «de små bilagene» som oftest mangler og konkrete dokumentasjonsmetoder."
     },
     {
-      "title": "Diett i regnskap: Hvilke kvitteringer må du ha, og hva kan du føre uten kvittering?",
-      "primaryKeyword": "diett regnskap",
-      "keywords": [
-        "reise diett dokumentasjon",
-        "utlegg diett",
-        "bilag reise",
-        "kvittering reiseutlegg"
-      ],
-      "category": "business",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "135 visninger i temadata: dette er en konkret «regnskapsbilag»-problemstilling som gir naturlig inngang til digital lagring og orden."
-    },
-    {
-      "title": "Reklamasjonsrett på elektronikk: Hvor lenge gjelder den, og hva er godt nok kjøpsbevis?",
+      "title": "Gaming-PC og elektronikk: Slik sikrer du reklamasjon når du har kjøpt deler fra flere butikker",
       "primaryKeyword": "reklamasjon elektronikk",
       "keywords": [
-        "reklamasjonsrett elektronikk",
-        "kjøpsbevis uten kvittering",
-        "garanti vs reklamasjon",
-        "forbrukerkjøpsloven kvittering"
+        "reklamasjon elektronikk",
+        "kvittering PC-deler",
+        "garanti komponenter",
+        "kjøpsbevis deler"
       ],
-      "category": "problem-solving",
+      "category": "trending",
       "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Temadata viser flere reklamasjons-søk (132/110). Dette er bredt og kan hente mange relaterte longtails uten å være butikk-spesifikt."
+      "dataSource": "google-trends",
+      "rationale": "Google Trends viser stor interesse for «gaming pc», «pc», tilbehør. Det er en nisje der mange kvitteringer finnes på tvers av nettbutikker og fysiske kjøp; god match for Minekvitteringer som «samle alt»-tjeneste."
     },
     {
-      "title": "Garanti på mobiltelefon: Hva dekker garanti vs reklamasjon – og hvilke dokumenter bør du lagre?",
-      "primaryKeyword": "garanti mobiltelefon",
+      "title": "Samsung-mobil: Slik finner du kjøpsbeviset når du trenger service (og hvorfor modell/IMEI må knyttes til kvitteringen)",
+      "primaryKeyword": "samsung galaxy",
       "keywords": [
-        "garanti på mobiltelefon",
-        "hva dekker garanti på mobil",
-        "reklamasjonsrett mobiltelefon",
-        "kjøpsbevis mobil"
+        "samsung garanti",
+        "kjøpsbevis samsung",
+        "IMEI kvittering",
+        "service samsung mobil"
       ],
-      "category": "problem-solving",
+      "category": "trending",
       "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Temadata viser høyt volum på mobil-garanti (164/118/109). Mobil er et produktområde som naturlig driver behov for kvitteringer og serienummer."
+      "dataSource": "google-trends",
+      "rationale": "Samsung trender (top) og mobilgaranti er en gjenganger i våre data. For å unngå duplikat med eksisterende «Samsung garanti i Norge», velger vi en mer praktisk service/IMEI-vinkel og «finne kjøpsbevis»-intensjon."
     },
     {
-      "title": "Garanti på møbler: Hvor lenge gjelder den, og hva trenger du av kvittering og produktinfo?",
-      "primaryKeyword": "garanti på møbler",
+      "title": "Spotify Premium: Slik finner du kvitteringer og betalingshistorikk (nyttig for refusjon, firmakort og budsjett)",
+      "primaryKeyword": "spotify premium",
       "keywords": [
-        "reklamasjon møbler",
-        "kjøpsbevis møbler",
-        "garanti vs reklamasjon møbler",
-        "kvittering møbler"
-      ],
-      "category": "problem-solving",
-      "priority": "low",
-      "dataSource": "search-console",
-      "rationale": "Finnes i temadata (32). Nært knyttet til store kjøp der folk ofte mister kvitteringen (flytting, oppussing, lager)."
-    },
-    {
-      "title": "Mistet kvittering til regnskap: Hva kan brukes som dokumentasjon, og hvordan redder du bilaget?",
-      "primaryKeyword": "mistet kvittering regnskap",
-      "keywords": [
-        "mistet kvittering",
-        "bilag uten kvittering",
-        "dokumentasjon regnskap",
-        "erstatningsbilag"
-      ],
-      "category": "business",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Lavt volum i temadata (11), men svært høy intensjon og «pain». God for konvertering fordi brukeren trenger en løsning nå."
-    },
-    {
-      "title": "ARK/arkivering av regnskapsbilag: Hvor lenge må du lagre kvitteringer, og hvordan lagrer du riktig digitalt?",
-      "primaryKeyword": "arkivering av regnskapsbilag",
-      "keywords": [
-        "oppbevaringstid bilag",
-        "bokføringsloven kvitteringer",
-        "digital arkivering bilag",
-        "bilagsdokumentasjon"
-      ],
-      "category": "business",
-      "priority": "low",
-      "dataSource": "search-console",
-      "rationale": "Temadata indikerer søk rundt arkivering (21). Dette bygger autoritet innen «bilag/oppbevaring» og kan hente B2B/ENK-trafikk."
-    },
-    {
-      "title": "Derfor klikker ingen: Slik får du mer ut av digitale kvitteringer (og unngår at de forsvinner i e-post)",
-      "primaryKeyword": "digitale kvitteringer",
-      "keywords": [
-        "kvittering epost søk",
-        "finner ikke kvittering",
-        "kvittering spam",
-        "kvittering filtrering"
-      ],
-      "category": "problem-solving",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Bygger direkte på mønsteret vi ser: flere relevante søk har høy posisjon men null/lav CTR. Denne vinkelen treffer den reelle frustrasjonen: kvitteringer «finnes», men er umulige å finne igjen."
-    },
-    {
-      "title": "Kjøpsbevis uten papir: 9 typer dokumentasjon butikker ofte godtar når kvitteringen er borte",
-      "primaryKeyword": "kjøpsbevis",
-      "keywords": [
-        "kjøpsbevis uten kvittering",
-        "kontoutskrift som kvittering",
-        "ordrebekreftelse",
-        "vipps kvittering"
-      ],
-      "category": "problem-solving",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Støtter store ‘uten kvittering’-klynger (Clas Ohlson + generelle reklamasjonssøk) uten å kopiere eksisterende artikler direkte."
-    },
-    {
-      "title": "Tesla-kvitteringer: Hvilke kvitteringer bør du lagre for service, dekk, lading og tilbehør",
-      "primaryKeyword": "tesla kvittering",
-      "keywords": [
-        "kvittering lading",
-        "servicekvittering bil",
-        "dekkhotell kvittering",
-        "biltilbehør kvittering"
+        "spotify premium",
+        "spotify kvittering",
+        "betalingshistorikk spotify",
+        "abonnement kvitteringer"
       ],
       "category": "trending",
       "priority": "low",
-      "dataSource": "daily-trends",
-      "rationale": "Tesla trender daglig. Selv om vi allerede har en artikkel om Tesla-garanti, er «kvitteringer rundt bilhold» en annen vinkel (service/lading/tilbehør) som kan fange ny trafikk."
+      "dataSource": "google-trends",
+      "rationale": "Spotify er kraftig på vei opp i Trends. Abonnementskvitteringer er et «oversett» kvitteringsområde som passer tjenesten vår (samle dokumentasjon for privat og jobb)."
     },
     {
-      "title": "Zalando: Slik finner du ordrenummer og betalingsgrunnlag når du ikke har faktura (for retur/chargeback)",
-      "primaryKeyword": "zalando ordrenummer",
+      "title": "Kvittering som bevis i forsikringssaker: Slik dokumenterer du verdi etter tyveri, brann eller vannskade",
+      "primaryKeyword": "kvittering forsikring",
       "keywords": [
-        "zalando ordre",
-        "zalando betalingsbekreftelse",
-        "zalando kjøpsbevis",
-        "zalando retur dokumentasjon"
-      ],
-      "category": "problem-solving",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Vi kan ikke bruke ‘zalando faktura’ (allerede dekket), men Search Console viser sterk Zalando-intensjon. En avgrenset artikkel på «ordrenummer/betalingsgrunnlag» er ny vinkel og støtter samme brukerreise."
-    },
-    {
-      "title": "Når kvitteringen ligger i nettbanken: Slik bruker du kontoutskrift/BankID-kjøp som dokumentasjon",
-      "primaryKeyword": "kontoutskrift som kjøpsbevis",
-      "keywords": [
-        "kontoutskrift kvittering",
-        "banktransaksjon som dokumentasjon",
-        "kortkjøp kjøpsbevis",
-        "vipps transaksjon kvittering"
-      ],
-      "category": "seo-gap",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Sterk relevans til ‘uten kvittering’-klyngen i dataene. Dette er en ny, praktisk vinkel som typisk gir høy deling og lenkepotensial."
-    },
-    {
-      "title": "SNL for kvitteringer: Ordliste over begreper (kvittering, bilag, kjøpsbevis, reklamasjon) og hva de betyr i praksis",
-      "primaryKeyword": "kvittering begreper",
-      "keywords": [
-        "bilag definisjon",
-        "kjøpsbevis definisjon",
-        "reklamasjon definisjon",
-        "garanti definisjon"
-      ],
-      "category": "trending",
-      "priority": "low",
-      "dataSource": "daily-trends",
-      "rationale": "‘snl’ trender daglig. Vi kan utnytte dette med en «ordliste»-landing som fanger definisjonssøk og leder videre til tjenesten."
-    },
-    {
-      "title": "Kvitterings-krise-testen: 15 scenarier der du mister penger uten kjøpsbevis (og hvordan du unngår det)",
-      "primaryKeyword": "miste kvittering",
-      "keywords": [
-        "miste kvittering"
+        "kvittering forsikring"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Engasjerer emosjonelt og er lett å dele. Treffer problem-intent uten å være butikk- eller lovtung."
+      "rationale": "Sterk emosjonell relevans, høy nytte, lite «SEO-støy» i Norge. Perfekt for Minekvitteringers kjerne: trygg lagring og gjenfinning."
     },
     {
-      "title": "«Kvittering i 2030»: Slik kan AI hente, forstå og kategorisere kjøpene dine (og hva du bør kreve av aktørene)",
-      "primaryKeyword": "fremtidens kvittering",
+      "title": "«Abonnement-kvitteringer» du bør lagre: trening, streaming, app-kjøp og nettsky – og slik får du oversikten",
+      "primaryKeyword": "abonnement kvitteringer",
       "keywords": [
-        "fremtidens kvittering"
+        "abonnement kvitteringer"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Differensierer dere fra rene «how-to»-artikler og bygger thought leadership/lenkepotensial."
+      "rationale": "Mange har 10–20 abonnement uten å ha dokumentasjon. Trend-støtte fra Spotify i dag, men vinkelen er bred og evergreen."
     },
     {
-      "title": "Kvitteringer og parforhold: De 7 vanligste konfliktene (og en enkel «regelbok» som funker)",
-      "primaryKeyword": "dele kvitteringer",
+      "title": "Når du kjøper gave: Slik lagrer du kvittering uten å ødelegge overraskelsen (og med enkel retur for mottaker)",
+      "primaryKeyword": "kvittering gave",
       "keywords": [
-        "dele kvitteringer"
+        "kvittering gave"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Høy relevans for lagring/deling uten å kopiere eksisterende ‘flytte sammen’-innhold: fokus på konfliktmønstre og løsninger."
-    },
-    {
-      "title": "Den skjulte verdien i kvitteringer: Slik finner du ut hva du faktisk bruker penger på (uten budsjett-app)",
-      "primaryKeyword": "oversikt over kjøp",
-      "keywords": [
-        "oversikt over kjøp"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Gir nytteverdi utover garanti/retur og kan hente nytt publikum som ønsker økonomioversikt."
-    },
-    {
-      "title": "«Bleknet kvittering»-redning med mobilkamera: Slik tar du et bilde som faktisk kan leses om 5 år",
-      "primaryKeyword": "skanne kvittering",
-      "keywords": [
-        "skanne kvittering"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Svært konkret og søkbart; løser et reelt problem mange har, og passer perfekt til digital lagring."
-    },
-    {
-      "title": "Kvitteringer ved dødsfall: Sjekkliste for opprydding, arv, bo og eiendeler (uten å miste viktige bevis)",
-      "primaryKeyword": "kvitteringer dødsbo",
-      "keywords": [
-        "kvitteringer dødsbo"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Lite konkurranse, høy relevans, og gir tillitsbygging. Ny vinkel som ikke overlapper skilsmisse-artikkelen."
+      "rationale": "Sesongmessig relevant i januar (bytteretter/returer etter jul), høy delbarhet, og passer funksjonalitet rundt deling/organisering av kvitteringer."
     }
   ],
   "researchHistory": [
@@ -623,102 +340,24 @@
       "date": "2026-01-09T12:06:34.750Z",
       "focus": "general",
       "topicsFound": 32
+    },
+    {
+      "date": "2026-01-09T12:36:45.154Z",
+      "focus": "general",
+      "topicsFound": 18
+    },
+    {
+      "date": "2026-01-09T12:44:33.114Z",
+      "focus": "general",
+      "topicsFound": 19
+    },
+    {
+      "date": "2026-01-09T12:45:54.771Z",
+      "focus": "general",
+      "topicsFound": 15
     }
   ],
   "insights": [
-    {
-      "date": "2026-01-09T07:30:54.524Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Retur-/bytterett etter julegaver: høy sannsynlighet for søk om ‘bytte/retur uten kvittering’ og behov for å finne kvittering i nettbutikker/butikker.",
-          "Nytt år = rydde/organisere økonomi: innhold om ‘lagre kvitteringer på ett sted’, digitale kvitteringer og dokumentasjon til garanti/reklamasjon treffer godt."
-        ],
-        "upcomingEvents": [
-          "Januarsalg (økt kjøp + senere behov for kvittering til bytte/reklamasjon)",
-          "Årsstart for regnskapsrutiner i småbedrifter/ENK (kvitteringsflyt og bilagsorden)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikk-spesifikke kvitteringsguider (Clas Ohlson, Elkjøp, Power)",
-          "Intensjon: finne kvittering på nett / digital kvittering",
-          "Retur/bytte uten kvittering (problemorienterte søk)"
-        ],
-        "emergingTopics": [
-          "kvittering app / sms kvittering (Google Trends: kraftig hopp)",
-          "bytte uten kvittering (Google Trends: kraftig hopp)",
-          "garanti (spesielt mobil/merkevare-nære varianter)"
-        ],
-        "recommendations": [
-          "Øk CTR der dere allerede rangerer høyt (f.eks. ‘zalando faktura’, ‘fysisk butikk digital kvittering’) med bedre titler, metabeskrivelser og tydelig ‘slik gjør du det’-struktur.",
-          "Bygg en ‘kvittering/kvitteringer’-pillar som internlenker til butikk-guidene (Elkjøp/Power/Clas Ohlson) og problemartikler (uten kvittering, garanti/reklamasjon).",
-          "Lag én generell ‘uten kvittering’-side + dedikerte butikk-sider for de største (dere ser allerede traction på Clas Ohlson og Elkjøp)."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T07:34:06.220Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg og bytter: høy sannsynlighet for søk rundt retur/bytterett/«uten kvittering» (kan støttes av Google Trends-hoppen på «bytte uten kvittering»).",
-          "Nyttår = opprydding og system: innhold om å samle kvitteringer (digitalt), finne gamle kvitteringer, og dokumentasjon for garanti/reklamasjon får ekstra relevans.",
-          "Økt elektronikkfokus etter jul (gaver): garanti/reklamasjon på mobil/elektronikk (iPhone m.fl.) + behov for kjøpsbevis."
-        ],
-        "upcomingEvents": [
-          "Januarsalg (retur, bytte, prisavslag, dokumentasjon)",
-          "Etter-jul reklamasjoner/garantisaker på elektronikk og hvitevarer"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkguider for kvittering (spesielt Clas Ohlson og Elkjøp)",
-          "«Finne kvittering»-intensjon (kvittering på nett / min side / ordrehistorikk)"
-        ],
-        "emergingTopics": [
-          "Bytte uten kvittering (Kraftig hopp i Google Trends)",
-          "Kvittering app / SMS-kvittering (Kraftig hopp i Google Trends)",
-          "Garanti/reklamasjonsrett knyttet til mobil/elektronikk (hot + økende)"
-        ],
-        "recommendations": [
-          "Bygg en «kvittering»-pillar som internlenker til butikk-sider (Elkjøp/Power/Clas Ohlson/Zalando) og til problemartikler (uten kvittering, garanti, reklamasjon).",
-          "Prioriter søkeord i posisjon 5–20 med høy visning (kvittering, elkjøp min side) for raskest gevinst.",
-          "For søk med posisjon ~1 men lav CTR (zalando faktura), optimaliser tittel/metabeskrivelse, match intensjon med tydelige steg, og legg til FAQ-schema for å øke klikkandelen."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T07:35:54.594Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Bytter/retur etter jul: lag innhold som svarer på «retur uten kvittering» og «bytte uten kvittering» (vi ser dette spesielt for Clas Ohlson, og mønsteret kan utvides til flere butikker).",
-          "Nytt år/rydding: «samle kvitteringer», «kvitteringer lagret på ett sted» og «digitale kvitteringer» passer godt til januar-vaner (organisering og økonomi).",
-          "Garantispørsmål på elektronikk kjøpt i romjulen: løft garanti/reklamasjon-sider (mobil/iphone/elektronikk) og knytt det til behovet for kvittering."
-        ],
-        "upcomingEvents": [
-          "Januarsalg (økt kjøp/retur → behov for ordrebekreftelse/faktura/kvittering)",
-          "Etter-jul reklamasjoner på elektronikk (typisk 2–4 uker etter gavekjøp)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikk-guider (spesielt Clas Ohlson og Elkjøp) – høye klikk og gode posisjoner på flere varianter av «finne kvittering»",
-          "Kvittering på nett / Min side-intensjon (brukere vil finne dokumentasjon i konto/ordreoversikt)",
-          "Retur/bytte uten kvittering + garanti/reklamasjon (problemorienterte søk som matcher tjenestens verdi)"
-        ],
-        "emergingTopics": [
-          "Digitale kvitteringer / e‑kvittering (høye posisjoner men lav CTR – stort potensial ved bedre tittel/meta/FAQ)",
-          "Zalando faktura (pos 1,07 men nesten ingen klikk – sterk indikasjon på snippet-mismatch)"
-        ],
-        "recommendations": [
-          "Prioriter CTR-optimalisering der vi allerede er #1–3 men får 0–1 klikk (Zalando faktura, fysisk butikk digital kvittering, flere «lagret på ett sted»-varianter). Test tittel som matcher «slik finner du…» + «steg for steg» + konkret outcome.",
-          "Bygg en «kvittering»-hub (pillar) som internlenker til butikk-sider (Elkjøp/Clas Ohlson/Power/Zalando) og til problemartikler (uten kvittering, garanti/reklamasjon).",
-          "Lag dedikerte sider for «Min side»-søkeintensjon per stor aktør (start med Elkjøp) og gjenbruk struktur til Power/Komplett etter hvert, basert på butikklisten i tema-analysen."
-        ]
-      }
-    },
     {
       "date": "2026-01-09T11:25:00.636Z",
       "seasonal": {
@@ -946,81 +585,1779 @@
           "Utvid butikkbiblioteket kontrollert (Komplett/XXL/Jernia/Jysk) for å eie longtail og styrke topical authority"
         ]
       }
+    },
+    {
+      "date": "2026-01-09T12:36:45.154Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg og bytter/returer: høy sannsynlighet for søk som handler om ‘uten kvittering’, ‘bytte’, ‘returfrist’ og å finne ordredokumentasjon.",
+          "Nytt år = ny orden: innhold om organisering/arkivering av kvitteringer får ekstra relevans nå (opprydding i økonomi, mappe-struktur, digital lagring).",
+          "Skattemodus starter tidlig for næringsdrivende: artikler om diett/utlegg/kvitteringskrav og bilag gir høy verdi før skattemeldingsperioden."
+        ],
+        "upcomingEvents": [
+          "Januarsalg / romjul- og nyttårsreturer (første halvdel av januar)",
+          "Oppstart vårsemester (studentkjøp av elektronikk og utstyr)",
+          "Forberedelser til skattemelding (ENK/SMB begynner ofte opprydding i Q1)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson og Elkjøp viser tydelig produkt/market fit)",
+          "Kvittering-gjenfinning (\"finne kvittering\")",
+          "Digital kvittering/e‑kvittering (høy relevans og gode posisjoner, men CTR-utfordringer)"
+        ],
+        "emergingTopics": [
+          "Flere ‘uten kvittering’-varianter (retur/bytte/reklamasjon) som kan skaleres til flere butikker",
+          "Business/utlegg: diett og bilag fra privatperson til firma",
+          "Elektronikk-kjøpsbevis utover iPhone (mobil/Android-kategorier i temadata)"
+        ],
+        "recommendations": [
+          "Prioriter CTR-optimalisering der dere allerede rangerer 1–3 (digitale kvitteringer, e‑kvittering, ‘kvitteringer lagret på ett sted’): forbedre title/H1, legg til FAQ-schema og mer ‘problemløsning’ i ingress.",
+          "Bygg en «butikk-klynge»-strategi: Elkjøp/Power/Clas Ohlson/XXL/Jernia/JYSK/Komplett med internlenker til en felles hub om kjøpsbevis og digitale kvitteringer.",
+          "Lag 1–2 nye «evergreen» guider som tar posisjon 5–20 til topp 3 (spesielt ‘kvitteringer’ og ‘kvittering’), med tydelig intentsplitting fra eksisterende ‘gyldig kvittering’-innhold."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T12:44:33.114Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Ryddemåned: stor motivasjon for å få orden på kvitteringer, dokumentasjon og «hjemmearkiv» etter jul",
+          "Januarsalg/returbytte: økt behov for kjøpsbevis, bytterett og sporbarhet for gaver",
+          "Elektronikk-kjøp etter jul (mobil/PC/gaming): mer garanti- og reklamasjonsrelatert søk, spesielt rundt dokumentasjon"
+        ],
+        "upcomingEvents": [
+          "Januarsalg og gavebytte-perioden (tidlig januar)",
+          "Årsoppgjør/forberedelse til skattemelding (starter ofte som planlegging i januar for ENK/småbedrifter)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson/Elkjøp/Power)",
+          "Problemløsning rundt kvittering og dokumentasjon (uten kvittering, garanti/reklamasjon)",
+          "Elektronikk/telefon som produktklynge (garanti og reklamasjon)"
+        ],
+        "emergingTopics": [
+          "Generiske head-termer med svak posisjon/CTR (kvittering, kvitteringer)",
+          "Bredere mobil- og garanti-tema utover iPhone (garanti mobiltelefon/hva dekker garanti på mobil)",
+          "Dokumentlagring utover kvitteringer (trigget av Vigo-trend) som top-funnel"
+        ],
+        "recommendations": [
+          "Bygg en «kvittering/kvitteringer»-topic cluster: 1 hub + flere støtteartikler (e‑kvittering, kjøpsbevis, uten kvittering, kontoutskrift, serienummer)",
+          "Oppdater snippets (title/meta) på høy-posisjon-lav-CTR keywords (zalando faktura, e‑kvittering, digitale kvitteringer) for å vinne klikk uten nødvendigvis å endre rangering",
+          "Prioriter keywords i posisjon 4–15 med høye visninger (elkjøp kvittering, kvittering, kvitteringer) for rask SEO-effekt"
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T12:45:54.771Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Retur- og byttesesong etter jul: mange mangler kvittering eller trenger å finne ordrehistorikk raskt",
+          "Garantisaker på julegaver (telefon, gaming-utstyr): behov for kjøpsbevis, serienummer/IMEI og riktig dokumentasjon",
+          "«Rydde opp»-modus: folk vil organisere økonomi/abonnement og få kontroll på kvitteringer og dokumenter"
+        ],
+        "upcomingEvents": [
+          "Januarsalg (økt volum av kjøp → økt behov for kvitteringskontroll og returbevis)",
+          "Skatte-/årsoppgjør-forberedelser for ENK (starter ofte i januar med rydding i bilag)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson/Elkjøp/Power-lignende behov)",
+          "Problembaserte søk: manglende kvittering, retur/bytte uten kvittering",
+          "Garanti/reklamasjon på elektronikk og mobil"
+        ],
+        "emergingTopics": [
+          "Bredt «kvittering»-søkeord har høy visning men lav CTR → behov for bedre SERP-tilpasning",
+          "Trender i elektronikk (iPhone/Samsung/gaming PC) som øker sannsynlighet for garanti- og retursøk i januar",
+          "Abonnementskvitteringer (Spotify m.fl.) som en underdekket kvitteringskategori"
+        ],
+        "recommendations": [
+          "Prioriter artikler som løfter posisjon 5–20: «kvittering» og «kvitteringer» med svært konkret problemløsning og tydelige sjekklister",
+          "Lag én generell «retur uten kvittering»-hub som kan lenke til butikkartikler (uten å kopiere eksisterende Clas Ohlson-innhold)",
+          "Utnytt januar-trenden i elektronikk ved å lage «før du leverer inn»-/«dokumentasjonspakke»-artikler for service og garanti"
+        ]
+      }
     }
   ],
   "rawData": {
-    "lastFetched": "2026-01-09T12:03:15.789Z",
-    "googleTrends": [],
+    "lastFetched": "2026-01-09T12:44:33.203Z",
     "dailyTrends": [
       {
-        "title": "donut labs",
-        "traffic": "100+",
+        "title": "geir otto lein johnson",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "john mcphee",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "donut labs",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "kommunekommisjonen",
-        "traffic": "100+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "snl",
-        "traffic": "200+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "spotify",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "vigo",
-        "traffic": "500+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "jesse ventura",
-        "traffic": "100+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "tesla",
-        "traffic": "500+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
       },
       {
         "title": "iran",
-        "traffic": "100+",
+        "traffic": "Trending",
         "articles": [],
         "relatedQueries": [],
-        "source": "google-trends-rss"
+        "source": "google-trends-rss-NO-general"
       },
       {
-        "title": "bruno mars tour 2026",
-        "traffic": "500+",
+        "title": "john mcphee shrek",
+        "traffic": "Kraftig hopp",
         "articles": [],
-        "relatedQueries": [],
-        "source": "google-trends-rss"
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
       },
       {
-        "title": "cuba",
-        "traffic": "200+",
+        "title": "john mcphee delta",
+        "traffic": "Kraftig hopp",
         "articles": [],
-        "relatedQueries": [],
-        "source": "google-trends-rss"
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
       },
       {
-        "title": "jonathan ross",
-        "traffic": "500+",
+        "title": "john mcafee",
+        "traffic": "Kraftig hopp",
         "articles": [],
-        "relatedQueries": [],
-        "source": "google-trends-rss"
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcphee delta force",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcphee soldier",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify download",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify premium",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "web spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "free spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify playlist",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "web player spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify wrapped",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify mac",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify norge",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo vgs",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo videregående",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo logg inn",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo login",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo.no",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vilbli",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo vitnemål",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vitnemål",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo søknad",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "minid vigo",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo skole",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "celta vigo",
+        "traffic": "49",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "jesse ventura conspiracy",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura conspiracy theory",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "conspiracy theory",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura chris kyle",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura predator",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "chris kyle",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "predator",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "conspiracy theory with jesse ventura",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse the body ventura",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura youtube",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran usa",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran international",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "usa",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran tv live",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "afghanistan",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "syria",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran football",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran flag",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran flagg",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran time",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran tv",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "israel iran",
+        "traffic": "71",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "israel",
+        "traffic": "70",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "irak",
+        "traffic": "57",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "iphone 11",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 12",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 14",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 5s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone se",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 6s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 13",
+        "traffic": "71",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung tab",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung note",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s7",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s4",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy tab",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy s3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "android",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s6",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung tv",
+        "traffic": "31",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nokia lumia",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n8",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 5800",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n97",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia lumia 920",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 6300",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n9",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia lumia 800",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 6700",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 3310",
+        "traffic": "47",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nokia mobil",
+        "traffic": "39",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung",
+        "traffic": "36",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "huawei p20",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p30",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei mate",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p20 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei watch",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei honor",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p9",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei test",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p30 pro",
+        "traffic": "60",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "oneplus nord",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus one",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus nord 2",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 9 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 7 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 10",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 8 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus phone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 11",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi mi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi redmi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi roborock",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "roborock",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi m365",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi robotstøvsuger",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi s5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi vacuum",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi 12",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi phone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation store",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps4",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation plus",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation vr",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation kontroll",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation 4 spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation 4 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation network",
+        "traffic": "66",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "playstation games",
+        "traffic": "51",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "playstation spill",
+        "traffic": "45",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox 360",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox series x",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one x",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox series s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one controller",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox 360 games",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox 360 controller",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gta 5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox controller",
+        "traffic": "32",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox games",
+        "traffic": "29",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "switch nintendo",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "wii",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo wii",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "switch spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo 3ds",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "3ds",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch games",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch mario",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo mini",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "switch",
+        "traffic": "94",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nintendo ds",
+        "traffic": "15",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nintendo spill",
+        "traffic": "14",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "ds",
+        "traffic": "14",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "asus",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "laptop",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "msi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming monitor",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "logitech",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "keyboard",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming skjerm",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "tastatur",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "tastatur gaming",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "razer",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming pc",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "pc",
+        "traffic": "99",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "gaming headset",
+        "traffic": "38",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "headset",
+        "traffic": "37",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "macbook pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook air",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook 13",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple macbook",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook pro 13",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac air",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple macbook pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
       }
     ],
     "searchConsole": {
@@ -1530,127 +2867,1750 @@
       "keyword": "kvittering",
       "impressions": 1572,
       "currentPosition": 7.82,
-      "suggestedTitle": "Kvittering: Alt du må vite (gyldighet, kjøpsbevis, garanti, retur og digital lagring)",
-      "opportunity": "Stor synlighet og posisjon i 5–20. En autoritativ «pillar»-side kan løfte rangering og hente mange longtails."
+      "suggestedTitle": "Kvittering: Slik finner du igjen kjøpsbeviset (kort, Vipps, e‑post) – og når det er nok",
+      "opportunity": "Stor synlighet men svært lav CTR. Posisjon 5–20 er klassisk «løft med bedre match på søkeintensjon»."
     },
     {
       "keyword": "kvitteringer",
       "impressions": 485,
       "currentPosition": 13.89,
-      "suggestedTitle": "Kvitteringer: Slik får du full oversikt (søke, sortere og lagre) – guide for 2026",
-      "opportunity": "Posisjon ~14 gir tydelig løftepotensial. Godt egnet for internlenking fra butikk-guider."
+      "suggestedTitle": "Kvitteringer: En enkel struktur som gjør at du finner alt på 10 sekunder (også etter 3 år)",
+      "opportunity": "Ligger langt nede på side 2. En mer konkret, «system»-orientert artikkel kan gi stor prosentvis vekst."
     },
     {
       "keyword": "elkjøp kvittering",
       "impressions": 731,
       "currentPosition": 4.39,
-      "suggestedTitle": "Elkjøp kvittering: Finn kjøpsbevis på 2 minutter (PC/mobil) + feilsøking",
-      "opportunity": "Nær topp 3; forbedring i innhold og CTR kan gi stor klikk-vekst."
-    },
-    {
-      "keyword": "mypower kvittering",
-      "impressions": 343,
-      "currentPosition": 4.32,
-      "suggestedTitle": "MyPower/Power kvittering: Steg-for-steg (inkl. serienummer til garanti)",
-      "opportunity": "Butikkspesifikk høy intent og posisjon rett utenfor toppresultatene."
+      "suggestedTitle": "Elkjøp kvittering: Feilsøking når den ikke dukker opp (og alternative kjøpsbevis)",
+      "opportunity": "Høy visning og allerede nær topp 3. Spisset problemløsing kan gi CTR-løft."
     },
     {
       "keyword": "digitale kvitteringer",
       "impressions": 358,
       "currentPosition": 2.39,
-      "suggestedTitle": "Digitale kvitteringer: Sikker lagring, deling og søk – komplett sjekkliste",
-      "opportunity": "Allerede god posisjon; hovedgap er CTR/innpakning + longtail-dekning."
+      "suggestedTitle": "Digitale kvitteringer: Sjekklisten som avgjør om de faktisk holder som dokumentasjon",
+      "opportunity": "God posisjon, men CTR kan økes med tydeligere «nytte» i tittel/metabeskrivelse og mer presist innhold."
     },
     {
       "keyword": "e-kvittering",
       "impressions": 214,
       "currentPosition": 2.04,
-      "suggestedTitle": "E‑kvittering: Hva det er, hvor du finner den og hvordan du unngår at den forsvinner",
-      "opportunity": "Høy posisjon, lav CTR: typisk metadata/snippet-gap."
-    },
-    {
-      "keyword": "kvitteringer lagret på ett sted",
-      "impressions": 205,
-      "currentPosition": 1.75,
-      "suggestedTitle": "Kvitteringer lagret på ett sted: Den enkleste metoden (og hvorfor e-post ikke holder)",
-      "opportunity": "Vi rangerer høyt men får 0 klikk → stort CTR-gap. Krever mer presis tittel/beskrivelse og bedre matching av intent."
-    },
-    {
-      "keyword": "største plattform for digitale kvitteringer",
-      "impressions": 201,
-      "currentPosition": 1.71,
-      "suggestedTitle": "Hvordan velge kvitteringsplattform: 10 krav + sjekkliste du kan kopiere",
-      "opportunity": "Høy posisjon men 0 klikk: brukeren søker sammenligning/valg. Tilby sjekkliste og tydelig «best for hvem»-vinkel."
-    },
-    {
-      "keyword": "fysisk butikk digital kvittering",
-      "impressions": 198,
-      "currentPosition": 1.44,
-      "suggestedTitle": "Digital kvittering i butikk: Hva du sier i kassa + hva du gjør hvis du ikke får den",
-      "opportunity": "Ekstremt tydelig CTR-gap ved høy posisjon. Optimaliser for konkrete steg og «problem/solution»."
-    },
-    {
-      "keyword": "garanti mobiltelefon",
-      "impressions": 164,
-      "currentPosition": null,
-      "suggestedTitle": "Garanti på mobiltelefon: Dokumentene du trenger (kvittering, IMEI, ordrebekreftelse)",
-      "opportunity": "Temadata viser etterspørsel. Vi bør eie mobil-garanti-klyngen slik vi gjør med enkelte butikker."
+      "suggestedTitle": "E‑kvittering: Hvor finner du den, hvordan lagrer du den, og hva gjør du hvis du aldri fikk den?",
+      "opportunity": "Nær topp, men lav CTR. Typisk tegn på at SERP-snittet ikke treffer brukerens «hvor finner jeg den»-behov."
     }
   ],
   "dataInsights": {
     "topPerformingThemes": [
-      "Butikkguider (spesielt Clas Ohlson, Elkjøp, Power) med tydelig «finn kvittering»-intent",
-      "Problemorienterte søk knyttet til ‘uten kvittering’",
-      "Garanti/reklamasjon rundt populære produkter (mobil/iphone)"
+      "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson/Elkjøp/Power-lignende behov)",
+      "Problembaserte søk: manglende kvittering, retur/bytte uten kvittering",
+      "Garanti/reklamasjon på elektronikk og mobil"
     ],
     "emergingTopics": [
-      "CTR-gap på søk der vi rangerer svært høyt men får 0 klikk (e‑kvittering, fysisk butikk digital kvittering, ‘plattform’)",
-      "B2B/ENK-bilag (diett, privatperson→firma, mistet kvittering til regnskap)",
-      "Mobil-garanti-klynge (garanti mobiltelefon / hva dekker garanti)"
+      "Bredt «kvittering»-søkeord har høy visning men lav CTR → behov for bedre SERP-tilpasning",
+      "Trender i elektronikk (iPhone/Samsung/gaming PC) som øker sannsynlighet for garanti- og retursøk i januar",
+      "Abonnementskvitteringer (Spotify m.fl.) som en underdekket kvitteringskategori"
     ],
     "recommendations": [
-      "Prioriter 3–5 artikler som retter CTR-gap (posisjon ~1–2 men få klikk) med bedre tittel/metabeskrivelse + mer presis intent-match",
-      "Bygg en «pillar»-side på ‘kvittering’ som internlenker til butikk-, garanti- og ‘uten kvittering’-artikler for å løfte posisjon ~7.8",
-      "Utvid butikkbiblioteket kontrollert (Komplett/XXL/Jernia/Jysk) for å eie longtail og styrke topical authority"
+      "Prioriter artikler som løfter posisjon 5–20: «kvittering» og «kvitteringer» med svært konkret problemløsning og tydelige sjekklister",
+      "Lag én generell «retur uten kvittering»-hub som kan lenke til butikkartikler (uten å kopiere eksisterende Clas Ohlson-innhold)",
+      "Utnytt januar-trenden i elektronikk ved å lage «før du leverer inn»-/«dokumentasjonspakke»-artikler for service og garanti"
     ]
   },
   "aiCreativeIdeas": [
     {
-      "title": "Kvitterings-krise-testen: 15 scenarier der du mister penger uten kjøpsbevis (og hvordan du unngår det)",
-      "primaryKeyword": "miste kvittering",
-      "angle": "Interaktiv/quiz-aktig artikkel som gjør kvitteringsproblemet konkret (tap i kroner, tid, konflikt).",
-      "whyThisWorks": "Engasjerer emosjonelt og er lett å dele. Treffer problem-intent uten å være butikk- eller lovtung."
+      "title": "Kvittering som bevis i forsikringssaker: Slik dokumenterer du verdi etter tyveri, brann eller vannskade",
+      "primaryKeyword": "kvittering forsikring",
+      "angle": "De færreste lagrer kvitteringer for å bevise verdi/eiendeler før en skade. Artikkelen gir en praktisk «hjemme-beredskap»-metode: hva som teller som dokumentasjon, og hvordan bygge et digitalt eiendelsarkiv.",
+      "whyThisWorks": "Sterk emosjonell relevans, høy nytte, lite «SEO-støy» i Norge. Perfekt for Minekvitteringers kjerne: trygg lagring og gjenfinning."
     },
     {
-      "title": "«Kvittering i 2030»: Slik kan AI hente, forstå og kategorisere kjøpene dine (og hva du bør kreve av aktørene)",
-      "primaryKeyword": "fremtidens kvittering",
-      "angle": "Fremtidsrettet trendanalyse + forbrukerkrav (dataportabilitet, standarder, personvern).",
-      "whyThisWorks": "Differensierer dere fra rene «how-to»-artikler og bygger thought leadership/lenkepotensial."
+      "title": "«Abonnement-kvitteringer» du bør lagre: trening, streaming, app-kjøp og nettsky – og slik får du oversikten",
+      "primaryKeyword": "abonnement kvitteringer",
+      "angle": "Knytter digitale kvitteringer til budsjettering og refusjon (jobb/privat). Viser hvordan man finner kvitteringer i ulike tjenester og hvorfor de kan trengs ved tvister/chargeback.",
+      "whyThisWorks": "Mange har 10–20 abonnement uten å ha dokumentasjon. Trend-støtte fra Spotify i dag, men vinkelen er bred og evergreen."
     },
     {
-      "title": "Kvitteringer og parforhold: De 7 vanligste konfliktene (og en enkel «regelbok» som funker)",
-      "primaryKeyword": "dele kvitteringer",
-      "angle": "Psykologi + praktiske regler for felleskjøp, gaver, abonnement, retur og garanti.",
-      "whyThisWorks": "Høy relevans for lagring/deling uten å kopiere eksisterende ‘flytte sammen’-innhold: fokus på konfliktmønstre og løsninger."
-    },
-    {
-      "title": "Den skjulte verdien i kvitteringer: Slik finner du ut hva du faktisk bruker penger på (uten budsjett-app)",
-      "primaryKeyword": "oversikt over kjøp",
-      "angle": "Bruk kvitteringer som «forbruksspor» og lag en enkel månedsrapport basert på kategorier.",
-      "whyThisWorks": "Gir nytteverdi utover garanti/retur og kan hente nytt publikum som ønsker økonomioversikt."
-    },
-    {
-      "title": "«Bleknet kvittering»-redning med mobilkamera: Slik tar du et bilde som faktisk kan leses om 5 år",
-      "primaryKeyword": "skanne kvittering",
-      "angle": "Fototeknikk: lys, vinkel, HDR, filformat, navngiving – superpraktisk miniguide.",
-      "whyThisWorks": "Svært konkret og søkbart; løser et reelt problem mange har, og passer perfekt til digital lagring."
-    },
-    {
-      "title": "Kvitteringer ved dødsfall: Sjekkliste for opprydding, arv, bo og eiendeler (uten å miste viktige bevis)",
-      "primaryKeyword": "kvitteringer dødsbo",
-      "angle": "Livshendelse med høy alvorlighet: dokumentasjon for verdigjenstander, abonnement, garanti, forsikring.",
-      "whyThisWorks": "Lite konkurranse, høy relevans, og gir tillitsbygging. Ny vinkel som ikke overlapper skilsmisse-artikkelen."
+      "title": "Når du kjøper gave: Slik lagrer du kvittering uten å ødelegge overraskelsen (og med enkel retur for mottaker)",
+      "primaryKeyword": "kvittering gave",
+      "angle": "Uvanlig, praktisk situasjon: gavekjøp og «gavekvittering»/retur. Fokus på hvordan man deler eller holder kvittering skjult, men tilgjengelig ved bytte.",
+      "whyThisWorks": "Sesongmessig relevant i januar (bytteretter/returer etter jul), høy delbarhet, og passer funksjonalitet rundt deling/organisering av kvitteringer."
     }
   ],
-  "cachedTrends": null
+  "cachedTrends": {
+    "date": "2026-01-09",
+    "data": [
+      {
+        "title": "geir otto lein johnson",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "john mcphee",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "donut labs",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "kommunekommisjonen",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "snl",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "spotify",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "vigo",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "jesse ventura",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "tesla",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "iran",
+        "traffic": "Trending",
+        "articles": [],
+        "relatedQueries": [],
+        "source": "google-trends-rss-NO-general"
+      },
+      {
+        "title": "john mcphee shrek",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcphee delta",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcafee",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcphee delta force",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "john mcphee soldier",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "john mcphee"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify download",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify premium",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "web spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "free spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify playlist",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "web player spotify",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify wrapped",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify mac",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "spotify norge",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "spotify"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo vgs",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo videregående",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo logg inn",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo login",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo.no",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vilbli",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo vitnemål",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vitnemål",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo søknad",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "minid vigo",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "vigo skole",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "celta vigo",
+        "traffic": "49",
+        "articles": [],
+        "relatedQueries": [
+          "vigo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "jesse ventura conspiracy",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura conspiracy theory",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "conspiracy theory",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura chris kyle",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura predator",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "chris kyle",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "predator",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "conspiracy theory with jesse ventura",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse the body ventura",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "jesse ventura youtube",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "jesse ventura"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran usa",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran international",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "usa",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran tv live",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "afghanistan",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "syria",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran football",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran flag",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran flagg",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran time",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iran tv",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "israel iran",
+        "traffic": "71",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "israel",
+        "traffic": "70",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "irak",
+        "traffic": "57",
+        "articles": [],
+        "relatedQueries": [
+          "iran"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "iphone 11",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 12",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 14",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 5s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone se",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 6s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone 13",
+        "traffic": "71",
+        "articles": [],
+        "relatedQueries": [
+          "iphone"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung tab",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung note",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s7",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s4",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy tab",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy s3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "android",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s6",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung s5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "samsung galaxy",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung tv",
+        "traffic": "31",
+        "articles": [],
+        "relatedQueries": [
+          "samsung"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nokia lumia",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n8",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 5800",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "iphone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n97",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia lumia 920",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 6300",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia n9",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia lumia 800",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 6700",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nokia 3310",
+        "traffic": "47",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nokia mobil",
+        "traffic": "39",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "samsung",
+        "traffic": "36",
+        "articles": [],
+        "relatedQueries": [
+          "nokia"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "huawei p20",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p30",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei mate",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p20 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei watch",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei honor",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p9",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei test",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei deksel",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "huawei p30 pro",
+        "traffic": "60",
+        "articles": [],
+        "relatedQueries": [
+          "huawei"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "oneplus nord",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus one",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus nord 2",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 9 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 7 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 10",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 8 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus phone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "oneplus 11",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "oneplus"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi mi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi redmi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi roborock",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "roborock",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi m365",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi robotstøvsuger",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi s5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi vacuum",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi 12",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xiaomi phone",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xiaomi"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation store",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps4",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation plus",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps3",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "ps5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation vr",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation kontroll",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation 4 spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation 4 pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "playstation network",
+        "traffic": "66",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "playstation games",
+        "traffic": "51",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "playstation spill",
+        "traffic": "45",
+        "articles": [],
+        "relatedQueries": [
+          "playstation"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox 360",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox series x",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one x",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox series s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one controller",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox 360 games",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one s",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox 360 controller",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gta 5",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "xbox one",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox controller",
+        "traffic": "32",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "xbox games",
+        "traffic": "29",
+        "articles": [],
+        "relatedQueries": [
+          "xbox"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "switch nintendo",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "wii",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo wii",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "switch spill",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo 3ds",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "3ds",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch games",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo switch mario",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "nintendo mini",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "switch",
+        "traffic": "94",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nintendo ds",
+        "traffic": "15",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "nintendo spill",
+        "traffic": "14",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "ds",
+        "traffic": "14",
+        "articles": [],
+        "relatedQueries": [
+          "nintendo"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "asus",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "laptop",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "msi",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming monitor",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "logitech",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "keyboard",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming skjerm",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "tastatur",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "tastatur gaming",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "razer",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "gaming pc",
+        "traffic": "100",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "pc",
+        "traffic": "99",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "gaming headset",
+        "traffic": "38",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "headset",
+        "traffic": "37",
+        "articles": [],
+        "relatedQueries": [
+          "gaming"
+        ],
+        "source": "top-NO-expanded"
+      },
+      {
+        "title": "macbook pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook air",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook 13",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple macbook",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "macbook pro 13",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "mac air",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      },
+      {
+        "title": "apple macbook pro",
+        "traffic": "Kraftig hopp",
+        "articles": [],
+        "relatedQueries": [
+          "macbook"
+        ],
+        "source": "rising-NO-expanded"
+      }
+    ]
+  }
 }
