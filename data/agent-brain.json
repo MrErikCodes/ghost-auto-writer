@@ -1,51 +1,47 @@
 {
-  "lastResearch": "2026-01-09T12:45:54.771Z",
+  "lastResearch": "2026-01-09T13:19:27.548Z",
   "trendingTopics": [
-    {
-      "topic": "spotify",
-      "source": "google-trends",
-      "relevance": "Abonnementskvitteringer (Premium), betalingshistorikk og dokumentasjon ved refusjon/bedriftskort",
-      "risingQueries": [
-        "spotify premium",
-        "spotify download",
-        "web player spotify"
-      ]
-    },
     {
       "topic": "iphone",
       "source": "google-trends",
-      "relevance": "Garanti/reparasjon krever kjøpsbevis; iPhone-relaterte søk indikerer kjøps- og oppgraderingssesong etter jul",
+      "relevance": "iPhone-trenden kan kobles til garanti/reklamasjon og behovet for kjøpsbevis, spesielt ved service og bruktmarked.",
       "risingQueries": [
-        "iphone 14",
-        "iphone deksel",
-        "iphone se"
+        "iphone 11",
+        "iphone deksel"
       ]
     },
     {
       "topic": "samsung",
       "source": "google-trends",
-      "relevance": "Service/garanti og behov for kvittering + IMEI/modellkobling, særlig ved brukt/videre salg",
+      "relevance": "Interesse for Samsung/Android gir naturlig inngang til «hvor finner jeg kjøpsbevis» og service/reklamasjon-dokumentasjon.",
       "risingQueries": [
         "android",
-        "samsung galaxy tab",
-        "samsung note"
-      ]
-    },
-    {
-      "topic": "gaming pc / pc",
-      "source": "google-trends",
-      "relevance": "Mange delkjøp (skjerm, tastatur, headset) → økt risiko for manglende kvitteringer når noe ryker",
-      "risingQueries": [
-        "laptop",
-        "gaming monitor",
-        "keyboard"
+        "samsung galaxy tab"
       ]
     },
     {
       "topic": "tesla",
       "source": "google-trends",
-      "relevance": "Kostnader og dokumentasjon: lading, service, tilbehør og garanti på komponenter (kvitteringer og fakturaer)",
+      "relevance": "Kan vinkles til kvitteringer for lading, bom/parkering, service og tilbehør (dashcam, vinterhjul) som dokumentasjon ved refusjon/garanti.",
       "risingQueries": []
+    },
+    {
+      "topic": "gaming pc",
+      "source": "google-trends",
+      "relevance": "Mange komponentkjøp og garanti på deler gjør kvitteringssystem kritisk (hovedkort/GPU/PSU separat).",
+      "risingQueries": [
+        "gaming monitor",
+        "keyboard"
+      ]
+    },
+    {
+      "topic": "spotify",
+      "source": "google-trends",
+      "relevance": "Abonnement/kvitteringer er relevant for refusjon/utlegg og avstemming mot bank, særlig ved premium/familie.",
+      "risingQueries": [
+        "spotify premium",
+        "spotify download"
+      ]
     }
   ],
   "productCategories": {
@@ -84,205 +80,232 @@
   },
   "suggestedTopics": [
     {
-      "title": "Kvittering (2026): Slik finner du igjen en mistet kvittering med kontoutskrift, Vipps eller ordrehistorikk",
+      "title": "Kvittering: Hva betyr det egentlig (kjøpsbevis vs ordrebekreftelse vs kontoutskrift) – og hva godtas i Norge?",
       "primaryKeyword": "kvittering",
       "keywords": [
-        "mistet kvittering",
-        "kvittering betalingskort",
-        "kvittering vipps",
-        "kjøpsbevis uten kvittering"
-      ],
-      "category": "problem-solving",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Høye visninger på «kvittering» (1572) og lav CTR (0,19%) + posisjon ~7,8 tyder på at vi kan vinne mye trafikk med en mer «how-to»/problemløsende side som matcher intensjonen (finne igjen/manglende kvittering)."
-    },
-    {
-      "title": "Digitale kvitteringer: Slik fungerer de i praksis (og hva du må sjekke for at de skal holde som kjøpsbevis)",
-      "primaryKeyword": "digitale kvitteringer",
-      "keywords": [
-        "digital kvittering",
-        "e-kvittering",
         "kjøpsbevis",
-        "kvittering garanti"
-      ],
-      "category": "seo-gap",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "«digitale kvitteringer» har god posisjon (~2,39) men fortsatt relativt lav CTR (1,12%) – en skarpere, mer konkret artikkel kan løfte klikkene uten å «kannibalisere» ved å fokusere på krav/gyldighet og sjekkliste (ikke bare fordeler/ulemper)."
-    },
-    {
-      "title": "E‑kvittering: Hvor finner du den – og hvordan eksporterer du den til garanti, forsikring og regnskap?",
-      "primaryKeyword": "e-kvittering",
-      "keywords": [
-        "e-kvittering",
-        "digitalt kjøpsbevis",
-        "eksport kvittering",
-        "pdf kvittering"
-      ],
-      "category": "feature-highlight",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "«e-kvittering» har lav CTR (0,47%) og posisjon ~2,0. Brukerintensjonen er ofte «hvor finner jeg den» + «hvordan bruke den». En artikkel som inkluderer eksport/videresending/bruksscenarier bør gi bedre klikk."
-    },
-    {
-      "title": "«Kvittering» vs «faktura» vs «ordrebekreftelse»: Når holder hva som dokumentasjon i Norge?",
-      "primaryKeyword": "kvittering",
-      "keywords": [
-        "faktura",
+        "kontoutskrift",
         "ordrebekreftelse",
-        "kjøpsbevis",
-        "dokumentasjon kjøp"
+        "dokumentasjon ved reklamasjon"
       ],
       "category": "seo-gap",
-      "priority": "medium",
+      "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Vi ser at «zalando faktura» er stort, men vi unngår Zalando-sporet. Likevel er den underliggende forvirringen (kvittering vs faktura) bred og treffer «kvittering»-søket (posisjon 5–20) med en ny, mer generell vinkel."
+      "rationale": "Søkeordet «kvittering» har svært høye visninger (1572) men ekstremt lav CTR (0,19%) og posisjon ~7,8. Dette tyder på at søkeintensjonen er bred/uklar. En definisjons- og «hva gjelder som bevis»-guide kan løfte CTR og fange flere long-tail-varianter uten å duplisere eksisterende «kvittering papir/digital»-artikler."
     },
     {
-      "title": "Elkjøp kvittering: Slik finner du den raskt (og hvorfor den kan mangle selv om kjøpet er registrert)",
-      "primaryKeyword": "elkjøp kvittering",
+      "title": "Elkjøp Min Side: Slik finner du ordrehistorikk når du brukte feil e-post eller har flere profiler (pluss hva du gjør hvis du ikke får tilgang)",
+      "primaryKeyword": "elkjøp min side",
       "keywords": [
-        "elkjøp kvittering",
-        "manglende kvittering elkjøp",
-        "kjøpsbevis elkjøp",
-        "ordrehistorikk elkjøp"
+        "elkjøp min side innlogging",
+        "elkjøp ordrehistorikk",
+        "finner ikke kjøp elkjøp",
+        "kundeservice elkjøp dokumentasjon"
       ],
       "category": "store-guide",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "«elkjøp kvittering» har høy visning (731) og posisjon ~4,39. Vi har allerede Elkjøp Min Side-artikkel (skal ikke kopieres), så dette er en annen intensjon: feilsøking når kvittering mangler/ikke dukker opp, og alternative bevis."
+      "rationale": "«elkjøp min side» har 1422 visninger, lav CTR (0,14%) og posisjon ~9,5. Det er en stor «how-to»-intensjon. Vi unngår duplikat ved å fokusere på flerprofil/tilgang-problemer og gjenoppretting, ikke generell «hvorfor finner du ikke kjøpet»-liste som allerede finnes."
     },
     {
-      "title": "Kvitteringer (flertall): Slik bygger du et «kvitteringsarkiv» som tåler flytting, garanti og forsikringssaker",
-      "primaryKeyword": "kvitteringer",
+      "title": "Digitale kvitteringer: Hvorfor får du dem ikke alltid i butikk (samtykke, medlemskap, kasseflyt) – og hvordan be om riktig utsendelse",
+      "primaryKeyword": "digitale kvitteringer",
       "keywords": [
-        "kvitteringer",
-        "kvitteringsarkiv",
-        "organisere kvitteringer",
-        "lagre kvitteringer digitalt"
+        "digital kvittering",
+        "e-postkvittering",
+        "kvittering i app",
+        "medlemskap kvittering"
       ],
       "category": "problem-solving",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "«kvitteringer» har posisjon ~13,89 (perfekt for ny/forbedret innhold). Vi har en generell «organiser»-artikkel på listen over foreslåtte/lagde, men vi kan differensiere tydelig ved å fokusere på «arkiv som tåler hendelser» (flytting/garanti/forsikring) med konkrete strukturer og sjekklister."
+      "rationale": "«digitale kvitteringer» ligger sterkt (posisjon ~2,4) med ok CTR (1,12%), men kan ta mer av markedet med en mer praksisnær forklaring på hvorfor det feiler i kassa. Differensieres fra eksisterende artikler ved å fokusere på butikkens prosess/årsaksforklaringer fremfor «automatisk oppsett»."
     },
     {
-      "title": "Retur uten kvittering: Hvilke bevis pleier butikker å godta (kortkjøp, Vipps, e‑post, medlemskap)?",
-      "primaryKeyword": "retur uten kvittering",
+      "title": "E-kvittering: Slik lager du en «kvitteringsstandard» for familien (ett kort, én e-post, én mappe) – uten å dele alt",
+      "primaryKeyword": "e-kvittering",
       "keywords": [
-        "retur uten kvittering",
-        "bytte uten kvittering",
-        "kjøpsbevis",
-        "kontoutskrift retur"
+        "e-kvittering epost",
+        "familiens kvitteringer",
+        "digitalt kjøpsbevis",
+        "kvittering deling"
+      ],
+      "category": "life-situation",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "«e-kvittering» har lav CTR (0,47%) men god posisjon (~2). Familie-/husstandsoppsett er en tydelig nisje som kan øke klikk og redusere frafall, og skiller seg fra eksisterende «når e-posten ikke kommer»-artikkel."
+    },
+    {
+      "title": "Clas Ohlson bytte uten kvittering: Hva kan du bruke i stedet (banktransaksjon, medlemskap, strekkode) – og hva som ofte blir avvist",
+      "primaryKeyword": "clas ohlson bytte uten kvittering",
+      "keywords": [
+        "bytterett clas ohlson",
+        "dokumentasjon uten kvittering",
+        "kontoutskrift som kjøpsbevis"
       ],
       "category": "problem-solving",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Vi har Clas Ohlson-spesifikt innhold (må ikke gjentas). Men dataene viser tydelig problemtema «uten kvittering». En generell artikkel kan fange bredere søk og samtidig lenke til butikk-spesifikke guider."
+      "rationale": "Vi har allerede innhold om «retur uten kvittering», men «bytte» har egen intensjon og ofte andre vilkår. Tema-analysen viser etterspørsel (59 impressions på «clas ohlson bytte uten kvittering» + «bytterett clas ohlson» 50)."
     },
     {
-      "title": "Garanti iPhone: Dette må du ha klart før du leverer inn (kvittering, serienummer, Apple-ID, bilder)",
-      "primaryKeyword": "garanti iphone",
-      "keywords": [
-        "garanti iphone",
-        "serienummer iphone",
-        "kjøpsbevis iphone",
-        "reparasjon iphone dokumentasjon"
-      ],
-      "category": "problem-solving",
-      "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "Vi må unngå å duplisere «Garanti på iPhone i Norge»-artikkelen. Ny vinkel: en praktisk «før du leverer inn»-sjekkliste (dokumenter og bevis), som kan gi bedre CTR på søket (posisjon ~3,6, lav CTR)."
-    },
-    {
-      "title": "Firmabil i enkeltpersonforetak: Kvitteringene du glemmer (bompenger, parkering, lading, service) – og hvordan du dokumenterer dem",
+      "title": "Firmabil i enkeltmannsforetak: Hvilke kvitteringer må du faktisk ha (drivstoff, bom, service, dekk) for å tåle bokettersyn?",
       "primaryKeyword": "firmabil enkeltmannsforetak",
       "keywords": [
-        "firmabil enkeltmannsforetak",
-        "bompenger kvittering",
-        "parkering kvittering",
-        "ladeutgifter dokumentasjon"
+        "firmabil enkeltpersonforetak",
+        "diett regnskap",
+        "bilkostnader ENK",
+        "bilag bilkostnader"
+      ],
+      "category": "business",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "Høy reell etterspørsel i business-temaene: «firmabil enkeltpersonforetak» (271) og «firmabil enkeltmannsforetak» (196). Dette er nært kvitteringslagring og gir tydelig produkt-match for minekvitteringer.no."
+    },
+    {
+      "title": "Diett i regnskap (2026): Slik dokumenterer du reiser, måltider og satser – og hva du må ha av bilag når kvitteringen mangler",
+      "primaryKeyword": "diett regnskap",
+      "keywords": [
+        "reiseregning dokumentasjon",
+        "kostgodtgjørelse bilag",
+        "kvittering måltid",
+        "kontoutskrift diett"
+      ],
+      "category": "business",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "«diett regnskap» har 135 impressions og er et «compliance»-søkeord som ofte konverterer. Gir en konkret, norsk regnskapsnær vinkel uten å være lik «mistet kvittering i regnskap»-artikkelen (som er mer generisk)."
+    },
+    {
+      "title": "Fradrag for næringsdrivende: Kvitteringer som faktisk utløser fradrag (og de 10 vanligste feilene som gjør at fradraget ryker)",
+      "primaryKeyword": "fradrag for næringsdrivende",
+      "keywords": [
+        "fradrag enkeltpersonforetak",
+        "bilag fradrag",
+        "dokumentasjon skattemelding",
+        "kvittering krav"
       ],
       "category": "business",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Det finnes allerede en artikkel om firmabil og kvitteringer ifm. bokettersyn. For å unngå duplikat fokuserer vi på «de små bilagene» som oftest mangler og konkrete dokumentasjonsmetoder."
+      "rationale": "Business-klyngen viser flere fradragsrelaterte søk (98/81/79). En «feil-liste»/kontroll-artikkel kan rangere på flere varianter og er en annen vinkel enn rene arkiveringsartikler."
     },
     {
-      "title": "Gaming-PC og elektronikk: Slik sikrer du reklamasjon når du har kjøpt deler fra flere butikker",
+      "title": "Zalando reklamasjon: Slik dokumenterer du kjøpet når du har gave, delbetaling eller flere forsendelser (hva teller som kjøpsbevis)",
+      "primaryKeyword": "zalando reklamasjon",
+      "keywords": [
+        "reklamasjon klær",
+        "zalando retur reklamasjon",
+        "betalingsbevis",
+        "ordrenummer zalando"
+      ],
+      "category": "store-guide",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "Tema-analysen viser «zalando reklamasjon» (185). Vi unngår duplikat av «zalando faktura»-artikler ved å rendyrke reklamasjon/dokumentasjon i kompliserte kjøpsscenarier."
+    },
+    {
+      "title": "Reklamasjonsrett på elektronikk i Norge: Hva må du dokumentere for å få medhold (typiske bevis som faktisk vinner saken)",
       "primaryKeyword": "reklamasjon elektronikk",
       "keywords": [
-        "reklamasjon elektronikk",
-        "kvittering PC-deler",
-        "garanti komponenter",
-        "kjøpsbevis deler"
+        "reklamasjonsrett elektronikk",
+        "mangel bevis",
+        "service-rapport",
+        "forbrukerkjøpsloven dokumentasjon"
       ],
-      "category": "trending",
+      "category": "problem-solving",
       "priority": "medium",
-      "dataSource": "google-trends",
-      "rationale": "Google Trends viser stor interesse for «gaming pc», «pc», tilbehør. Det er en nisje der mange kvitteringer finnes på tvers av nettbutikker og fysiske kjøp; god match for Minekvitteringer som «samle alt»-tjeneste."
+      "dataSource": "search-console",
+      "rationale": "Det finnes flere reelle søk: «reklamasjon elektronikk» (132) og «reklamasjonsrett elektronikk» (110). Her kan vi eie et bredt informasjonsbehov og knytte det til kvitteringslagring som «bevisdel»."
     },
     {
-      "title": "Samsung-mobil: Slik finner du kjøpsbeviset når du trenger service (og hvorfor modell/IMEI må knyttes til kvitteringen)",
-      "primaryKeyword": "samsung galaxy",
+      "title": "Garanti iPhone i Norge: Når Apple-datoen ikke matcher kvitteringen – slik rydder du opp før du leverer til service",
+      "primaryKeyword": "garanti iphone",
       "keywords": [
-        "samsung garanti",
-        "kjøpsbevis samsung",
-        "IMEI kvittering",
-        "service samsung mobil"
+        "iphone garanti norge",
+        "kjøpsdato apple",
+        "serienummer garanti",
+        "service apple dokumentasjon"
       ],
-      "category": "trending",
+      "category": "problem-solving",
       "priority": "medium",
-      "dataSource": "google-trends",
-      "rationale": "Samsung trender (top) og mobilgaranti er en gjenganger i våre data. For å unngå duplikat med eksisterende «Samsung garanti i Norge», velger vi en mer praktisk service/IMEI-vinkel og «finne kjøpsbevis»-intensjon."
+      "dataSource": "search-console",
+      "rationale": "«garanti iphone» er en klar opportunity (273 impressions, lav CTR, posisjon ~3,6). Vi unngår duplikat ved å fokusere på avvik mellom Apples systemdato og faktisk kjøpsdato (case-basert), ikke «hvordan finne kvittering»."
     },
     {
-      "title": "Spotify Premium: Slik finner du kvitteringer og betalingshistorikk (nyttig for refusjon, firmakort og budsjett)",
-      "primaryKeyword": "spotify premium",
+      "title": "Mistet kvittering regnskap: Slik bygger du et «revisjonsspor» fra bank, e-post og leverandør (mal + eksempel)",
+      "primaryKeyword": "mistet kvittering regnskap",
       "keywords": [
-        "spotify premium",
-        "spotify kvittering",
-        "betalingshistorikk spotify",
-        "abonnement kvitteringer"
+        "bilag uten kvittering",
+        "dokumentasjon kjøp",
+        "kontoutskrift bilag",
+        "erstatningsbilag"
       ],
-      "category": "trending",
+      "category": "business",
       "priority": "low",
-      "dataSource": "google-trends",
-      "rationale": "Spotify er kraftig på vei opp i Trends. Abonnementskvitteringer er et «oversett» kvitteringsområde som passer tjenesten vår (samle dokumentasjon for privat og jobb)."
+      "dataSource": "search-console",
+      "rationale": "Lavere volum (11 impressions), men høy verdi-intensjon. Gir en mer operativ «mal/eksempel»-leveranse enn eksisterende generelle forklaringer."
     },
     {
-      "title": "Kvittering som bevis i forsikringssaker: Slik dokumenterer du verdi etter tyveri, brann eller vannskade",
-      "primaryKeyword": "kvittering forsikring",
+      "title": "Januarsalg på mobil og elektronikk: Slik sikrer du dokumentasjon på kampanjepris (før/etter-pris, bundle, ekstra rabattkode)",
+      "primaryKeyword": "kvittering",
       "keywords": [
-        "kvittering forsikring"
+        "kampanjepris dokumentasjon",
+        "bundle kvittering",
+        "rabattkode bevis",
+        "prisavslag kvittering"
+      ],
+      "category": "seasonal",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "Bygger på at mobil/tech er hett i januar og at Trends viser stor interesse for iPhone/Samsung/gaming. Skiller seg fra tidligere «januar-salg»-artikkel ved å handle om bevisføring av kampanjeelementer (bundle/rabattkode) – ikke generelle tips."
+    },
+    {
+      "title": "Kvittering på brukt mobil: Slik skriver dere en enkel salgsavtale som fungerer som kjøpsbevis (gratis mal)",
+      "primaryKeyword": "kvittering",
+      "keywords": [
+        "kjøpskontrakt brukt",
+        "salgsavtale mobil",
+        "kjøpsbevis brukt",
+        "IMei dokumentasjon"
+      ],
+      "category": "seo-gap",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "Fanger «kvittering»-trafikk med en tydelig, praktisk leveranse (mal) og knytter til garanti/reklamasjon for mobil. Dette er en annen vinkel enn eksisterende «når du kjøper brukt»-artikkelen ved at den leverer konkret dokument (kontrakt) som kvitteringssubstitutt."
+    },
+    {
+      "title": "Kvitterings-beredskap: 10 ting du bør dokumentere før du reiser (bagasje, taxfree, leiebil, forsinkelse) – for å få igjen penger",
+      "primaryKeyword": "kvittering reise dokumentasjon",
+      "keywords": [
+        "kvittering reise dokumentasjon"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Sterk emosjonell relevans, høy nytte, lite «SEO-støy» i Norge. Perfekt for Minekvitteringers kjerne: trygg lagring og gjenfinning."
+      "rationale": "Nisje mange opplever akutt behov for (stress-situasjon), høy delingsverdi, og naturlig produktkobling til digital lagring/struktur."
     },
     {
-      "title": "«Abonnement-kvitteringer» du bør lagre: trening, streaming, app-kjøp og nettsky – og slik får du oversikten",
-      "primaryKeyword": "abonnement kvitteringer",
+      "title": "Kvittering ved deling/utlån: Slik dokumenterer du eierskap når du låner bort dyrt utstyr (kamera, verktøy, ski) og noe skjer",
+      "primaryKeyword": "dokumentere eierskap uten kvittering",
       "keywords": [
-        "abonnement kvitteringer"
+        "dokumentere eierskap uten kvittering"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Mange har 10–20 abonnement uten å ha dokumentasjon. Trend-støtte fra Spotify i dag, men vinkelen er bred og evergreen."
+      "rationale": "Lite konkurranse på tema, samtidig svært praktisk. Leser får konkret sjekkliste (bilder, serienummer, kjøpsbevis, låneavtale)."
     },
     {
-      "title": "Når du kjøper gave: Slik lagrer du kvittering uten å ødelegge overraskelsen (og med enkel retur for mottaker)",
-      "primaryKeyword": "kvittering gave",
+      "title": "Kvittering + AI: Slik kan du «forvandle» en uleselig kvittering til brukbar dokumentasjon (uten å forfalske)",
+      "primaryKeyword": "tolke uleselig kvittering",
       "keywords": [
-        "kvittering gave"
+        "tolke uleselig kvittering"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Sesongmessig relevant i januar (bytteretter/returer etter jul), høy delbarhet, og passer funksjonalitet rundt deling/organisering av kvitteringer."
+      "rationale": "AI/OCR er et voksende interessefelt, og mange har problemet. Differensierer oss med et tydelig «lovlig/etisk» rammeverk."
     }
   ],
   "researchHistory": [
@@ -355,302 +378,54 @@
       "date": "2026-01-09T12:45:54.771Z",
       "focus": "general",
       "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T12:58:19.236Z",
+      "focus": "general",
+      "topicsFound": 19
+    },
+    {
+      "date": "2026-01-09T12:59:29.311Z",
+      "focus": "general",
+      "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T13:00:50.127Z",
+      "focus": "general",
+      "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T13:02:15.310Z",
+      "focus": "general",
+      "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T13:03:36.502Z",
+      "focus": "general",
+      "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T13:14:20.618Z",
+      "focus": "general",
+      "topicsFound": 19
+    },
+    {
+      "date": "2026-01-09T13:16:26.102Z",
+      "focus": "general",
+      "topicsFound": 28
+    },
+    {
+      "date": "2026-01-09T13:17:56.578Z",
+      "focus": "general",
+      "topicsFound": 15
+    },
+    {
+      "date": "2026-01-09T13:19:27.548Z",
+      "focus": "general",
+      "topicsFound": 17
     }
   ],
   "insights": [
-    {
-      "date": "2026-01-09T11:25:00.636Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg/romjulskjøp: mange behov for retur/bytte og dokumentasjon (perfekt for «bytte uten kvittering» og butikk-guider).",
-          "Nytt år = rydding og økonomi: godt tidspunkt for ‘samle kvitteringer på ett sted’, regnskapssjekklister og ‘kvitteringsrutine’ for privat og ENK."
-        ],
-        "upcomingEvents": [
-          "Januarsalg og prisavslag (retur/bytte/reklamasjon spørsmål topper seg ofte).",
-          "Årsstart for mange bedrifter/ENK: oppsett av rutiner for bilag/kvitteringer, kjørebok/utlegg."
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke ‘finn kvittering’-guider (Clas Ohlson, Elkjøp, Power)",
-          "Kvittering som dokumentasjon for garanti/retur/reklamasjon"
-        ],
-        "emergingTopics": [
-          "Bytte uten kvittering (rising i Google Trends)",
-          "Kvittering på engelsk + kvittering-app/SMS-kvittering (rising i Google Trends)",
-          "Garanti på hvitevarer/bil/brand-spesifikt (rising i Google Trends)"
-        ],
-        "recommendations": [
-          "Bygg én sterk ‘pillar’ for «kvitteringer/kvittering» og la alle butikk- og problemartikler internlenke til den (og omvendt) for å løfte posisjon 5–20-termer.",
-          "Øk CTR på queries der dere rangerer høyt men får få klikk (pos ~1–2 med 0 CTR) ved å forbedre title/metabeskrivelse, legge til FAQ-schema og gjøre innholdet mer ‘how-to’-orientert."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T11:26:08.281Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg: høyere volum på retur/bytte, spesielt «bytte uten kvittering» og butikkguider (Clas Ohlson/Elkjøp/Power).",
-          "Nytt år = orden: folk rydder i økonomi/dokumentasjon → godt tidspunkt for “kvitteringer lagret på ett sted”, “kvittering app” og “digitale kvitteringer”.",
-          "Service etter julegaver: reklamasjon/garanti-saker for elektronikk og hvitevarer øker → bygg guider for reklamasjonsrett og produktkategorier (hvitevarer/Samsung)."
-        ],
-        "upcomingEvents": [
-          "Januarsalg/romjul-returer (uke 1–4)",
-          "Årsoppgjør-forberedelser for småbedrifter/ENK (kvitteringsrydding, dokumentasjon, eksport)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke guider (Clas Ohlson og Elkjøp gir tydelige klikk/volum)",
-          "Digital kvittering / finne kvittering (praktisk ‘how-to’ treffer intensjon godt)"
-        ],
-        "emergingTopics": [
-          "Språkintensjon: «kvittering engelsk / på engelsk» (kraftig hopp)",
-          "Retur/bytte uten kvittering (kraftig hopp)",
-          "Kvittering via app/SMS (kraftig hopp)",
-          "Garanti utvides til flere kategorier: bil/Tesla/hvitevarer/Samsung (kraftig hopp)"
-        ],
-        "recommendations": [
-          "Bygg en ‘kvittering’-topic cluster: hub (kvittering/kvitteringer) + støtteartikler (e‑kvittering, app/SMS, bytte uten kvittering, engelsk/receipt) med tydelig internlenking.",
-          "Prioriter søkeord der vi allerede har synlighet men lav CTR (e-kvittering, digitale kvitteringer, kvittering, Clas Ohlson retur uten kvittering) ved å forbedre tittel/metabeskrivelse, legge inn FAQ-schema og skrive mer presist mot søkeintensjon.",
-          "Skaler butikkmodellen: vi ser at butikkguider fungerer—utvid med flere butikker fra tema-analysen (XXL, Komplett, Jernia, Jysk) basert på volum og sesong (januar-returer)."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T11:27:09.701Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Bytter/returer etter jul: høyere behov for «bytte uten kvittering», gavebytte og dokumentasjon (passer rising query).",
-          "Ny mobil/TV etter salg og gave: garanti- og reklamasjonsspørsmål (Samsung TV/garanti, iPhone-relaterte garantiord) + behov for å lagre kjøpsbevis.",
-          "Nytt år = opprydding og system: godt tidspunkt for artikler om «kvitteringer» (arkiv/metode) og «digitale kvitteringer» (workflow)."
-        ],
-        "upcomingEvents": [
-          "Vintersalg/romjulssalg-etterdønninger (retur, prisavslag, bytte).",
-          "Årsstart for ENK/firma: behov for bilagssystem, men vinklet mot kvitteringsflyt (ikke overlapp med eksisterende ENK-guide)."
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke kvitteringsguider (Clas Ohlson, Elkjøp, Power) driver klikk og ser ut til å matche intensjon godt.",
-          "Problemorienterte søk («finne kvittering», «uten kvittering», «reklamasjon») gir målrettet trafikk som er lett å konvertere til lagring/innlogging."
-        ],
-        "emergingTopics": [
-          "Språkbehov: «kvittering engelsk» og «reklamasjon engelsk» (rising).",
-          "Kanaler for kvittering: «kvittering app» og «sms kvittering» (rising).",
-          "Produktdrevne garantier: «samsung garanti», «garanti hvitevarer», samt daglig trend «samsung tv»."
-        ],
-        "recommendations": [
-          "Lag en «kvittering»-hub (eller ny artikkel med annen vinkel) som internt lenker til e‑kvittering, digitale kvitteringer, bytte uten kvittering og butikk-guider for å løfte posisjon ~7–14 til topp 5.",
-          "Utnytt rising queries med maler/eksempler (engelsk-oversettelser, reklamasjonsmal) for å vinne featured snippets og høy CTR.",
-          "Koble daglige produkttrender (Samsung TV, iPhone) til garanti/reklamasjon + «hvor finner jeg kvitteringen» for å fange «akkurat nå»-trafikk."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T11:43:42.445Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "«Rydde og system»-innhold treffer nyttårsmotivasjon: samle kvitteringer, starte digital rutine, lage «kvitteringsarkiv».",
-          "Høy retur-/bytteaktivitet etter jul: innhold om bytte/retur uten kvittering og alternativ dokumentasjon.",
-          "Reklamasjoner på julegaver/elektronikk: forklaringer på reklamasjonsrett, hva som er kjøpsbevis, og hvordan finne digital kvittering."
-        ],
-        "upcomingEvents": [
-          "Januarsalg (økt kjøp + flere returer = flere behov for kvitteringer).",
-          "Årsstart for ENK/firma: behov for rydding i bilag og rutiner for 2026 (selv om dere allerede har ENK-guide, kan dere lage smalere støtteinnhold som maler/sjekklister)."
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson, Elkjøp, Power) driver klikk og rangerer godt.",
-          "Problem-intensjon (uten kvittering / reklamasjon / garanti) konverterer fordi brukeren trenger dokumentasjon raskt.",
-          "Digitale kvitteringer/e‑kvittering som «how it works»-tema har både Trends- og Search Console-støtte."
-        ],
-        "emergingTopics": [
-          "Bytte uten kvittering (kraftig hopp i Trends)",
-          "Kvittering på engelsk (kraftig hopp i Trends)",
-          "SMS-kvittering og kvittering-app (kraftig hopp i Trends)",
-          "Garanti bil / garanti tesla (kraftig hopp i Trends)"
-        ],
-        "recommendations": [
-          "Lag en «Kvittering»-hub/FAQ for å løfte posisjon ~7.8 på hovedsøket og fange long-tails (kopi, gyldighet, bankutskrift, e‑kvittering).",
-          "Prioriter quick wins der dere allerede har visninger og posisjon 4–15 (elkjøp kvittering, mypower kvittering, kvitteringer) med mer spisset intensjon og bedre titler/snippets.",
-          "Bygg en mini-klynge rundt «uten kvittering» (generelt + Clas Ohlson + generelle bevis-typer) for å utnytte Trends-boosten og deres eksisterende styrke på Clas Ohlson."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T11:44:56.437Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg og økt retur/bytte: Lag innhold som svarer på ‘bytte uten kvittering’, ‘retur uten kvittering’ og ‘hva er gyldig kjøpsbevis’.",
-          "Ryddemåned og nytt system: ‘organisere kvitteringer’/‘kvitteringer lagret på ett sted’ treffer nyttårsvaner og kan øke konvertering.",
-          "Garantisaker etter julegaver: Mobil/elektronikk-feil oppdages i januar – koble til garanti/reklamasjon og hvorfor kvitteringen må sikres tidlig."
-        ],
-        "upcomingEvents": [
-          "Januarsalg/romjul-returvinduer (butikkspesifikke frister skaper søkespikes)",
-          "Årsoppgjør/forberedelse til skattemelding (privat og ENK: samle bilag tidlig)",
-          "Vinterferie-planlegging (reise/transport: behov for kvitteringer til refusjon/utlegg)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke kvitteringsguider (Clas Ohlson/Elkjøp/Power)",
-          "‘Finne kvittering’ og ‘digital kvittering’ som løser et akutt problem",
-          "Garanti/reklamasjon koblet til riktig dokumentasjon"
-        ],
-        "emergingTopics": [
-          "Bytte uten kvittering (kraftig hopp i Google Trends)",
-          "Kvittering på engelsk (kraftig hopp i Google Trends)",
-          "Kvittering-app og SMS-kvittering (kraftig hopp i Google Trends)",
-          "Garanti bil/Tesla (kraftig hopp i Google Trends)"
-        ],
-        "recommendations": [
-          "Lag en ‘pillar + cluster’-struktur: én sterk hovedside for «digitale kvitteringer/e‑kvittering» + underartikler for app/SMS/engelsk/mal/uten kvittering, og internlenk tett.",
-          "Utnytt posisjon 5–20 spesielt på brede ord («kvittering», «kvitteringer») med bedre intent-dekning, tydeligere tittel/snippet (FAQ-schema), og mer konkrete eksempler.",
-          "Skaler butikk-SEO der dere allerede vinner (Clas Ohlson/Elkjøp/Power) med flere longtail-svar: retur uten kvittering, reklamasjon uten kvittering, kjøpsbevis-alternativer."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T11:46:01.028Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Retur- og byttesesong etter jul: stor relevans for «bytte uten kvittering» og butikkspesifikke retur-/kvitteringsartikler (Clas Ohlson/Elkjøp/Power).",
-          "Nytt år = rydde- og systembehov: gode vinkler på «kvitteringer lagret på ett sted», «e‑kvittering» og rutiner for digital lagring.",
-          "Vintersalg/handel på nett: øker behovet for kjøpsbevis, ordredokumentasjon og garanti (særlig elektronikk/mobil).",
-          "Årsstart for ENK/firma: dokumentasjonsrutiner og bilagshåndtering blir prioritert (kan knyttes til kvitteringssystem og MVA-/bilagskrav)."
-        ],
-        "upcomingEvents": [
-          "Januarsalg og prisavslag (øker returer/reklamasjoner)",
-          "Frister og opprydding i bilag før regnskapsfører/årsoppgjør (mange starter i januar)",
-          "Vinterferieplanlegging (reiseutlegg -> behov for kvittering på engelsk/dokumentasjon)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke guider (særlig Clas Ohlson og Elkjøp) med «finne kvittering»-intent",
-          "Problemløsing: retur/bytte uten kvittering og dokumentasjon til reklamasjon",
-          "Digital kvittering/e‑kvittering som konsept (høy synlighet og kommersiell relevans)"
-        ],
-        "emergingTopics": [
-          "Kvittering på engelsk (kraftig hopp)",
-          "Bytte uten kvittering (kraftig hopp)",
-          "Kvittering-app (kraftig hopp)",
-          "Garanti bil/garanti Tesla (kraftig hopp, og Tesla i daglige trender)"
-        ],
-        "recommendations": [
-          "Bygg topic cluster rundt «kvittering» med egne undersider for: engelsk, mal, e‑kvittering, mistet/uten kvittering, og butikkguider (Elkjøp/Clas Ohlson/Power).",
-          "Prioriter søkeord med høy visning og posisjon 5–20 (f.eks. «kvittering», «elkjøp min side», «kvitteringer») med nye/mer spissede artikler og tydeligere SERP-intent.",
-          "For butikkguider: lag standardisert struktur (Slik finner du → hvis du ikke finner → hvilke bevis funker → lagring), og internlenk mellom «finne kvittering» og «retur uten kvittering»-artikler.",
-          "Bruk FAQ/HowTo-schema og bedre metatitler for å løfte CTR på søk der dere allerede ligger topp 1–3 men har lav CTR (f.eks. «digitale kvitteringer», «e‑kvittering»)."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T12:06:34.750Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg/retur: mange kjøp i romjulen gir returer i januar → artikler om kjøpsbevis, ordrebekreftelse og «uten kvittering»-løsninger",
-          "Ny økonomisk «restart»: folk rydder i e-post/mapper → guider om system/struktur for kvitteringer (tags, søk, kategorier)",
-          "Bedrifter/ENK: oppstart av nytt regnskapsår → innhold om bilag, oppbevaring og dokumentasjon ved bokføring"
-        ],
-        "upcomingEvents": [
-          "Vintersesong: utstyrskjøp (sport/elektronikk) → garanti/reklamasjon krever kvittering",
-          "Skatteforberedelser starter tidlig hos mange næringsdrivende → behov for bilagssystem",
-          "Reiseplanlegging (vinterferie) → dokumentasjon for avbestilling/chargeback"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkguider (spesielt Clas Ohlson, Elkjøp, Power) med tydelig «finn kvittering»-intent",
-          "Problemorienterte søk knyttet til ‘uten kvittering’",
-          "Garanti/reklamasjon rundt populære produkter (mobil/iphone)"
-        ],
-        "emergingTopics": [
-          "CTR-gap på søk der vi rangerer svært høyt men får 0 klikk (e‑kvittering, fysisk butikk digital kvittering, ‘plattform’)",
-          "B2B/ENK-bilag (diett, privatperson→firma, mistet kvittering til regnskap)",
-          "Mobil-garanti-klynge (garanti mobiltelefon / hva dekker garanti)"
-        ],
-        "recommendations": [
-          "Prioriter 3–5 artikler som retter CTR-gap (posisjon ~1–2 men få klikk) med bedre tittel/metabeskrivelse + mer presis intent-match",
-          "Bygg en «pillar»-side på ‘kvittering’ som internlenker til butikk-, garanti- og ‘uten kvittering’-artikler for å løfte posisjon ~7.8",
-          "Utvid butikkbiblioteket kontrollert (Komplett/XXL/Jernia/Jysk) for å eie longtail og styrke topical authority"
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T12:36:45.154Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Januarsalg og bytter/returer: høy sannsynlighet for søk som handler om ‘uten kvittering’, ‘bytte’, ‘returfrist’ og å finne ordredokumentasjon.",
-          "Nytt år = ny orden: innhold om organisering/arkivering av kvitteringer får ekstra relevans nå (opprydding i økonomi, mappe-struktur, digital lagring).",
-          "Skattemodus starter tidlig for næringsdrivende: artikler om diett/utlegg/kvitteringskrav og bilag gir høy verdi før skattemeldingsperioden."
-        ],
-        "upcomingEvents": [
-          "Januarsalg / romjul- og nyttårsreturer (første halvdel av januar)",
-          "Oppstart vårsemester (studentkjøp av elektronikk og utstyr)",
-          "Forberedelser til skattemelding (ENK/SMB begynner ofte opprydding i Q1)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke guider (Clas Ohlson og Elkjøp viser tydelig produkt/market fit)",
-          "Kvittering-gjenfinning (\"finne kvittering\")",
-          "Digital kvittering/e‑kvittering (høy relevans og gode posisjoner, men CTR-utfordringer)"
-        ],
-        "emergingTopics": [
-          "Flere ‘uten kvittering’-varianter (retur/bytte/reklamasjon) som kan skaleres til flere butikker",
-          "Business/utlegg: diett og bilag fra privatperson til firma",
-          "Elektronikk-kjøpsbevis utover iPhone (mobil/Android-kategorier i temadata)"
-        ],
-        "recommendations": [
-          "Prioriter CTR-optimalisering der dere allerede rangerer 1–3 (digitale kvitteringer, e‑kvittering, ‘kvitteringer lagret på ett sted’): forbedre title/H1, legg til FAQ-schema og mer ‘problemløsning’ i ingress.",
-          "Bygg en «butikk-klynge»-strategi: Elkjøp/Power/Clas Ohlson/XXL/Jernia/JYSK/Komplett med internlenker til en felles hub om kjøpsbevis og digitale kvitteringer.",
-          "Lag 1–2 nye «evergreen» guider som tar posisjon 5–20 til topp 3 (spesielt ‘kvitteringer’ og ‘kvittering’), med tydelig intentsplitting fra eksisterende ‘gyldig kvittering’-innhold."
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09T12:44:33.114Z",
-      "seasonal": {
-        "currentMonth": "januar",
-        "opportunities": [
-          "Ryddemåned: stor motivasjon for å få orden på kvitteringer, dokumentasjon og «hjemmearkiv» etter jul",
-          "Januarsalg/returbytte: økt behov for kjøpsbevis, bytterett og sporbarhet for gaver",
-          "Elektronikk-kjøp etter jul (mobil/PC/gaming): mer garanti- og reklamasjonsrelatert søk, spesielt rundt dokumentasjon"
-        ],
-        "upcomingEvents": [
-          "Januarsalg og gavebytte-perioden (tidlig januar)",
-          "Årsoppgjør/forberedelse til skattemelding (starter ofte som planlegging i januar for ENK/småbedrifter)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson/Elkjøp/Power)",
-          "Problemløsning rundt kvittering og dokumentasjon (uten kvittering, garanti/reklamasjon)",
-          "Elektronikk/telefon som produktklynge (garanti og reklamasjon)"
-        ],
-        "emergingTopics": [
-          "Generiske head-termer med svak posisjon/CTR (kvittering, kvitteringer)",
-          "Bredere mobil- og garanti-tema utover iPhone (garanti mobiltelefon/hva dekker garanti på mobil)",
-          "Dokumentlagring utover kvitteringer (trigget av Vigo-trend) som top-funnel"
-        ],
-        "recommendations": [
-          "Bygg en «kvittering/kvitteringer»-topic cluster: 1 hub + flere støtteartikler (e‑kvittering, kjøpsbevis, uten kvittering, kontoutskrift, serienummer)",
-          "Oppdater snippets (title/meta) på høy-posisjon-lav-CTR keywords (zalando faktura, e‑kvittering, digitale kvitteringer) for å vinne klikk uten nødvendigvis å endre rangering",
-          "Prioriter keywords i posisjon 4–15 med høye visninger (elkjøp kvittering, kvittering, kvitteringer) for rask SEO-effekt"
-        ]
-      }
-    },
     {
       "date": "2026-01-09T12:45:54.771Z",
       "seasonal": {
@@ -682,10 +457,302 @@
           "Utnytt januar-trenden i elektronikk ved å lage «før du leverer inn»-/«dokumentasjonspakke»-artikler for service og garanti"
         ]
       }
+    },
+    {
+      "date": "2026-01-09T12:58:19.236Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Ryddemodus etter jul: mange vil organisere kvitteringer for julegaver, bytte/retur og garanti (perfekt for ‘opprydding’ og ‘beredskap’-innhold).",
+          "Nytt regnskapsår: ENK/SMB trenger rutiner for bilag, diett, utlegg og oppbevaringstid.",
+          "Elektronikk-kjøp fra romjulssalg: høy sannsynlighet for reklamasjon/garantispørsmål og behov for kjøpsbevis."
+        ],
+        "upcomingEvents": [
+          "Vinter-/januarsalg (elektronikk, klær, sport): mer retur, prismatch og reklamasjonsspørsmål.",
+          "Årsoppgjør/forberedelser for skattemelding (tidlig planlegging i småbedrifter)."
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke ‘finn kvittering’-guider (særlig Clas Ohlson og Elkjøp)",
+          "Reklamasjon/garanti på elektronikk (mobil/telefon) og behov for kjøpsbevis"
+        ],
+        "emergingTopics": [
+          "Bredt ‘kvittering/kvitteringer’-innhold har stort volum, men lav CTR (mulighet for bedre SERP-tilpasning og FAQ).",
+          "Mobilrelaterte garanti- og reklamasjonsspørsmål kan få ekstra drahjelp fra dagens tech-trender (iPhone/Samsung)."
+        ],
+        "recommendations": [
+          "Lag en ‘kvittering’-pillar (gyldighet, innholdskrav, kjøpsbevis-alternativer) og lenk ut til butikk-guider og mobil/elektronikk-klynger.",
+          "Angrip lav CTR på høy posisjon (Zalando faktura, e‑kvittering) med nye vinkler og bedre title/description som matcher intensjonen (faktura vs kvittering, kjøpsbevis).",
+          "Utnytt januar med 2 spor: (1) privat opprydding/retur etter jul, (2) bedrift rutiner/arkivering/diett/utlegg."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T12:59:29.311Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg og økt retur/byttekjør: innhold om å finne kvittering raskt, digitale kvitteringer og alternative kjøpsbevis.",
+          "Nytt år = nye rutiner i ENK/SMB: diett/reise, bilagssystem, oppbevaringsregler og dokumentasjon som tåler kontroll.",
+          "Elektronikk-kjøp etter jul (telefon/PC): garanti- og servicebehov topper seg når feil oppdages i januar."
+        ],
+        "upcomingEvents": [
+          "Januarsalg (retur/price match/klager)",
+          "Oppstart av regnskapsåret (bilag/arkivering/struktur)",
+          "Vinterferie-planlegging (reiseutgifter, kvitteringer, dokumentasjon)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (særlig Clas Ohlson og Elkjøp)",
+          "‘Finne kvittering’-intensjon (brukere som leter etter kjøpsbevis nå)",
+          "Garanti/reklamasjon knyttet til populære produkter (mobil/elektronikk)"
+        ],
+        "emergingTopics": [
+          "Mobil/telefon som inngang til garanti-innhold (styrket av Google Trends rundt iPhone/Samsung)",
+          "Abonnementskvitteringer og betalingshistorikk (Spotify-trend)",
+          "Bil/elbilmassasje (Tesla-trend) koblet til kvitteringer for lading/service og ENK-dokumentasjon"
+        ],
+        "recommendations": [
+          "Prioriter ‘kvittering’ og ‘kvitteringer’ med nye, smale under-intensjoner (oppbevaringstid, system/metode, feilsøking) for å løfte CTR og posisjon.",
+          "Lag flere feilsøkingsartikler for store butikker (Elkjøp/Power) i stedet for brede ‘slik finner du kvittering’-guider.",
+          "Bruk Google Trends (iPhone/Samsung/gaming PC) til å lage sesongmessige, produktnære artikler som alltid kobler tilbake til dokumentasjon: kjøpsdato, serienummer/IMEI og lagring."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:00:50.127Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg/romjulssalg: høy frekvens av bytte/retur, ofte uten merkelapp eller med gave (kvittering blir kritisk).",
+          "Nyttårsforsetter/økonomi: folk rydder i e-post og apper → kvitteringer forsvinner, behov for ett lagringssted.",
+          "Oppussing/planlegging: dokumentasjon for materialer (fliser/maling/verktøy) og senere reklamasjon er en gjenganger.",
+          "Firmarapportering: ENK/SMB gjør årsavslutning og rydder bilag → behov for rutiner for manglende kvitteringer."
+        ],
+        "upcomingEvents": [
+          "Vintersalg (uke 2–5)",
+          "Årsoppgjør/forberedelser til skattemelding (tidlig Q1)",
+          "Vinterferie-planlegging (reisekjøp, avbestilling, forsikringsdokumentasjon)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson, Elkjøp, Power) med «finn kvittering»-intensjon",
+          "Problemløsning rundt «uten kvittering» (retur/bytte) og dokumentasjon",
+          "Garanti/reklamasjon knyttet til mobil/elektronikk"
+        ],
+        "emergingTopics": [
+          "Abonnements-/digitale kjøp (Spotify-trend) som krever kvittering/betalingshistorikk",
+          "Mobilinteresse i trends (iPhone/Samsung) som kan trigge mer garanti-/service-søk",
+          "Behov for feilsøking (lav CTR på sterke posisjoner tyder på snippet-intensjon-mismatch)"
+        ],
+        "recommendations": [
+          "Prioriter CTR-fiks der dere allerede rangerer høyt: «zalando faktura» og «e-kvittering» (tittel, metabeskrivelse, tydelig svar tidlig i artikkelen).",
+          "Lag én ny feilsøkings-artikkel for «elkjøp min side» for å hente den store visningsmassen i posisjon 5–20 uten å kannibalisere hovedguiden.",
+          "Utvid butikk- og kategoriuniverset (klær, bygg, apotek/optikk) med situasjonsartikler som ikke overlapper eksisterende garantiguider."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:02:15.310Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg + bytter/returer: folk oppdager for sent at kvitteringen er borte eller at e‑kvittering aldri kom",
+          "Nyttår/økonomirydding: stor motivasjon for å samle kvitteringer, spesielt abonnement og elektronikk-kjøp",
+          "Skole- og jobbstart etter ferie: kvitteringer for datautstyr, skjerm, headset og programvare (garanti/regnskap)"
+        ],
+        "upcomingEvents": [
+          "Januarsalg (uke 1–4)",
+          "Årsoppgjør/forberedelser til skattemelding (starter ofte med rydding i bilag i januar/februar)",
+          "Vintervær: flere skader/utskiftninger (mobil, PC, biltilbehør) som utløser garantispørsmål"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson, Elkjøp, Power) med 'finne kvittering' og 'kvittering på nett'",
+          "Problemløsning rundt manglende kvittering (retur/bytte/reklamasjon)",
+          "Garanti på mobil/elektronikk (iPhone og generisk mobilgaranti)"
+        ],
+        "emergingTopics": [
+          "CTR-optimalisering på søk der vi rangerer topp 1–3 men får få klikk (f.eks. Zalando faktura, e‑kvittering-relaterte)",
+          "Mobil/elektronikk-dokumentasjon drevet av trend (iphone/samsung) og kjøpsbevis-behov"
+        ],
+        "recommendations": [
+          "Lag CTR-løftende varianter av sider der posisjon er sterk men klikk er svake: mer presise titler, tydelig 'problem -> løsning' og FAQ-schema",
+          "Prioriter nye artikler i posisjon 5–20-klyngene (kvittering, elkjøp min side) med feilsøking + “quick answers” for å vinne featured snippets",
+          "Bygg nye underklynger som ikke dupliserer eksisterende artikler: abonnementskvitteringer, brukt hvitevare, gaming/PC-komponent RMA, og livssituasjoner (samlivsbrudd, kort byttet)"
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:03:36.502Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg og bytter/returer: folk oppdager feil størrelse/defekt vare etter gave/salg – behov for kvittering og kjøpsbevis øker",
+          "Abonnement-opprydding etter nyttår: flere søker etter Spotify/apper/streaming og trenger kvittering/faktura for refusjon eller regnskap",
+          "Nytt år = nytt budsjett: økt interesse for å samle kvitteringer for oversikt og garanti på dyre kjøp gjort i romjula"
+        ],
+        "upcomingEvents": [
+          "Januarsalg (uke 1–4)",
+          "Forberedelser til skattemelding/regnskap (ENK/AS begynner ofte tidlig på året)",
+          "Teknologikjøp etter jul (mobiler, gaming, PC) -> garanti- og kvitteringsbehov"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke ‘finn kvittering’-guider (Clas Ohlson/Elkjøp/Power)",
+          "Praktisk problemløsning: «uten kvittering», garanti/reklamasjon",
+          "Transaksjonsnære søk der brukeren haster (høy nytte, høy konvertering)"
+        ],
+        "emergingTopics": [
+          "Abonnementskvitteringer (Spotify) som ‘kvitteringskategori’ i vekst via trender",
+          "Gaming/ digitale kjøp (PlayStation/Xbox) som dokumentasjonsproblem",
+          "Mobil- og elektronikkgaranti drevet av trend-søk (iPhone/Samsung)"
+        ],
+        "recommendations": [
+          "Prioriter CTR-løft der dere allerede rangerer topp 1–3 (zalando faktura, e‑kvittering, digitale kvitteringer): bygg bedre titler, FAQ-blokker og ‘quick answer’-tabeller",
+          "Lag minst én ny ‘kvittering’-hub som dekker bred intensjon (kvittering/kvitteringer) og internlenker til butikkguidene",
+          "Utnytt trend-topics til nye nisjer (Spotify/PlayStation/Xbox) for å skape nye innganger uten å duplisere eksisterende butikkartikler"
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:14:20.618Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Nytt år = opprydding: høy motivasjon for å samle/rydde kvitteringer og starte «system».",
+          "Salg/retur etter jul: mange trenger kjøpsbevis for bytte, retur og reklamasjon (spesielt elektronikk og klær).",
+          "Årsstart for ENK/SMB: etablering av rutiner for bilag, fradrag og dokumentasjon (uten å bli for «regnskaps-tungt»).",
+          "Abonnementsgjennomgang: Spotify/strømmetjenester og andre løpende trekk – kvitteringer brukes til refusjon/budsjett."
+        ],
+        "upcomingEvents": [
+          "Vintersalg og prisavslag (returpress og behov for kjøpsbevis)",
+          "Årsoppgjør/forberedelser til skattemelding (samle bilag tidlig)",
+          "Skolestart/fristrelaterte innlogginger og dokumentasjonsbehov (indikert av Vigo-trend)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson/Elkjøp/Power) med «finne kvittering»-intensjon",
+          "Problemløsning: uten kvittering, bytte/retur/reklamasjon",
+          "Garanti/reklamasjon på forbrukerelektronikk (mobil spesielt)"
+        ],
+        "emergingTopics": [
+          "CTR-optimalisering på posisjon 1–2-søk som likevel får få klikk (zalando faktura, fysisk butikk digital kvittering, e-kvittering)",
+          "Mobil-merker og modeller i trend (iPhone/Samsung) koblet til dokumentasjon og service",
+          "Abonnementskvitteringer (Spotify) koblet til refusjon/utlegg"
+        ],
+        "recommendations": [
+          "Prioriter «kvittering» (pos 7,82) som største volum/vekst-case og bygg en topic-cluster med underartikler (gyldighet, krav, eksempler, kjøpsbevis-alternativer).",
+          "Kjør CTR-løft på queries der vi rangerer topp 1–2 men får 0–0,5% CTR: forbedre title/meta, legg inn FAQ-schema, og svar tidlig i teksten.",
+          "Utnytt Google Trends for mobil/gaming/abonnement ved å skrive dokumentasjonsvinkler (kjøpsbevis, betalingshistorikk, serienummer) – ikke rene produktnyheter."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:16:26.102Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg gir høy retur- og bytteaktivitet: behov for å finne kvittering raskt, særlig for klær, sko og småelektronikk.",
+          "Nye abonnement/fornyelser (musikk, gaming, programvare) etter jul: kvitteringer trengs for refusjon, familiedeling og firmakort-avstemming.",
+          "Mange kjøper/oppgraderer mobil, PC og tilbehør: garanti starter nå, så «kjøpsdato + serienummer»-dokumentasjon er ekstra relevant.",
+          "ENK/bedrift starter nytt regnskapsår: gode rutiner for bilag, diett, reiser og kjøp bør settes i januar."
+        ],
+        "upcomingEvents": [
+          "Januarsalg/romjulssalg (returvinduer, bytterett i praksis)",
+          "Nytt regnskapsår (rutiner for bilag og arkivering)",
+          "Vinterferie-planlegging (reiseutgifter og dokumentasjon)",
+          "Lanseringer/oppgraderinger innen mobil og PC (garanti- og servicebevis)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson, Elkjøp, Power)",
+          "Reklamasjon/garanti med konkret dokumentasjonsbehov",
+          "Transaksjons- og ordrehistorikk som alternativt kjøpsbevis"
+        ],
+        "emergingTopics": [
+          "CTR-optimalisering på posisjon 1–3 (Zalando faktura, fysisk butikk digital kvittering, e‑kvittering)",
+          "Elektronikkinteresse i Trends (iPhone/Samsung/Xiaomi) som kan kobles til garanti og kjøpsbevis",
+          "Gaming/abonnement (PlayStation/Xbox/Spotify) der kvitteringer ligger i konto fremfor papir"
+        ],
+        "recommendations": [
+          "Prioriter 3 CTR-redningsartikler: «zalando faktura», «fysisk butikk digital kvittering», «e‑kvittering» (høy posisjon, lav/ingen klikk).",
+          "Skriv 1–2 artikler for posisjon 5–20: «kvittering» (P~7,8) og «kvitteringer» (P~13,9) med svært praktiske vinkler (blekning, navnestandard).",
+          "Utvid butikkdekning med nye guider (Komplett/XXL/Jysk) og problemformat (kjøpt som gjest, kun banktransaksjon, møbler).",
+          "Bruk Google Trends (gaming, mobil) til å lage nisjeartikler som handler om dokumentasjonspakker og fler-kvitteringskaos."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:17:56.578Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg gir mange returer/byttekjøp: innhold som hjelper folk å finne kjøpsbevis raskt (særlig nettbutikker/klær og gavekjøp).",
+          "Elektronikk-oppgraderinger (mobil/PC/gaming) øker garanti- og servicebehov: fokus på dokumentasjon (modell/serienummer/kjøpsdato).",
+          "Årsstart = ryddeprosjekter: «kvitteringsopprydding»/systemartikler og business-innhold om bilag og dokumentasjon."
+        ],
+        "upcomingEvents": [
+          "Januarsalg/retursesong (første 2–3 ukene i januar)",
+          "Årsoppgjør/forberedelser til skattemeldingen (Q1-temaer for ENK og småbedrift)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson/Elkjøp/Power) – tydelig at «hvor finner jeg kvitteringen» konverterer godt.",
+          "Kjøpsbevis knyttet til garanti/reklamasjon (mobil og elektronikk)."
+        ],
+        "emergingTopics": [
+          "iPhone/modell-søk fra Google Trends som kan dras inn i garanti- og dokumentasjonsinnhold.",
+          "Høy CTR-lav klikk-problematikk på enkelte #1-placeringer (Zalando faktura) peker mot snippet/intensjon som hovedjobb, ikke rang."
+        ],
+        "recommendations": [
+          "Lag én ny «kvittering»-pillar som ruter til scenario (retur/garanti/forsikring/regnskap) for å løfte CTR og internlenking.",
+          "Bygg flere butikk-klynger, men i nye vertikaler (klær/hage/optikk/apotek) siden elektronikk allerede er tungt dekket.",
+          "For opportunity-søkeord med høy posisjon men lav CTR: prioriter meta/tittel-eksperimenter, FAQ-seksjoner og tydelig «du leter etter X»-språk."
+        ]
+      }
+    },
+    {
+      "date": "2026-01-09T13:19:27.548Z",
+      "seasonal": {
+        "currentMonth": "januar",
+        "opportunities": [
+          "Januarsalg: høy andel elektronikk/mobil/gaming-kjøp → stort behov for garanti- og prisdokumentasjon (bundle/rabattkoder).",
+          "Nytt år/nytt regnskapsår: småbedrifter rydder bilag og setter rutiner for kvitteringer (ENK/fradrag/diett/firmabil).",
+          "Etter-julen-retur/bytte: mange mangler kvittering ved gavebytte → fokus på alternativ dokumentasjon og medlemskapstransaksjoner."
+        ],
+        "upcomingEvents": [
+          "Vinterferieplanlegging (reise/leiebil/utstyr): behov for kvitteringspakker til forsikring og refusjoner.",
+          "Skattemelding-forberedelser (Q1): fradrag/utlegg/rutiner for bilag og dokumentasjon."
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (Clas Ohlson, Elkjøp, Power) – høy CTR når brukeren har konkret problem og merke/navn.",
+          "Kvittering som dokumentasjon til garanti/reklamasjon – særlig elektronikk/mobil."
+        ],
+        "emergingTopics": [
+          "Business/ENK: firmabil, diett og fradrag (klart økende i våre faktiske søk).",
+          "«Kvittering» som bredt begrep: behov for å forklare hva som faktisk teller som kjøpsbevis."
+        ],
+        "recommendations": [
+          "Prioriter 2–3 artikler som målretter «kvittering»/«kvitteringer» med tydeligere søkeintensjon (kjøpsbevis/gyldig dokumentasjon) for å løfte CTR.",
+          "Lag én sterk «Elkjøp Min Side»-artikkel med tilgang/innlogging som hovedcase (posisjon ~9,5) for å flytte oss inn i topp 3.",
+          "Bygg en business-klynge (firmabil + diett + fradrag) med interne lenker og maler/sjekklister for å øke autoritet og konvertering."
+        ]
+      }
     }
   ],
   "rawData": {
-    "lastFetched": "2026-01-09T12:44:33.203Z",
+    "lastFetched": "2026-01-09T13:17:56.609Z",
     "dailyTrends": [
       {
         "title": "geir otto lein johnson",
@@ -2867,73 +2934,71 @@
       "keyword": "kvittering",
       "impressions": 1572,
       "currentPosition": 7.82,
-      "suggestedTitle": "Kvittering: Slik finner du igjen kjøpsbeviset (kort, Vipps, e‑post) – og når det er nok",
-      "opportunity": "Stor synlighet men svært lav CTR. Posisjon 5–20 er klassisk «løft med bedre match på søkeintensjon»."
+      "suggestedTitle": "Kvittering i Norge: Hva regnes som gyldig kjøpsbevis (og hva du gjør når den mangler)",
+      "opportunity": "Høy visningsmengde + lav CTR tyder på at vi ikke treffer intensjonen presist. En mer «gyldig kjøpsbevis»-orientert tittel/struktur kan gi bedre klikk og fange long-tail."
+    },
+    {
+      "keyword": "elkjøp min side",
+      "impressions": 1422,
+      "currentPosition": 9.47,
+      "suggestedTitle": "Elkjøp Min Side: Ordrehistorikk, flere e-poster og manglende tilgang – komplett feilsøking",
+      "opportunity": "P4–P10 er ofte «sweet spot» for ny artikkel/oppdatering. Stor trafikkmulighet ved å treffe «innlogging/tilgang»-intensjon tydeligere."
     },
     {
       "keyword": "kvitteringer",
       "impressions": 485,
       "currentPosition": 13.89,
-      "suggestedTitle": "Kvitteringer: En enkel struktur som gjør at du finner alt på 10 sekunder (også etter 3 år)",
-      "opportunity": "Ligger langt nede på side 2. En mer konkret, «system»-orientert artikkel kan gi stor prosentvis vekst."
-    },
-    {
-      "keyword": "elkjøp kvittering",
-      "impressions": 731,
-      "currentPosition": 4.39,
-      "suggestedTitle": "Elkjøp kvittering: Feilsøking når den ikke dukker opp (og alternative kjøpsbevis)",
-      "opportunity": "Høy visning og allerede nær topp 3. Spisset problemløsing kan gi CTR-løft."
-    },
-    {
-      "keyword": "digitale kvitteringer",
-      "impressions": 358,
-      "currentPosition": 2.39,
-      "suggestedTitle": "Digitale kvitteringer: Sjekklisten som avgjør om de faktisk holder som dokumentasjon",
-      "opportunity": "God posisjon, men CTR kan økes med tydeligere «nytte» i tittel/metabeskrivelse og mer presist innhold."
+      "suggestedTitle": "Kvitteringer: Et enkelt system som tåler garanti, forsikring og skattemelding (uten å bli et evighetsprosjekt)",
+      "opportunity": "Posisjon 13–14 betyr at Google vurderer oss relevante, men ikke nok. En «system»-artikkel med tydelig struktur kan løfte rangering."
     },
     {
       "keyword": "e-kvittering",
       "impressions": 214,
       "currentPosition": 2.04,
-      "suggestedTitle": "E‑kvittering: Hvor finner du den, hvordan lagrer du den, og hva gjør du hvis du aldri fikk den?",
-      "opportunity": "Nær topp, men lav CTR. Typisk tegn på at SERP-snittet ikke treffer brukerens «hvor finner jeg den»-behov."
+      "suggestedTitle": "E‑kvittering i praksis: Ulike typer (PDF/app/epost) og hvordan du standardiserer lagringen",
+      "opportunity": "God posisjon men lav CTR. Vi kan forbedre snippeten (FAQ, tabell over typer) for å få mer klikk uten å bytte tema."
+    },
+    {
+      "keyword": "garanti iphone",
+      "impressions": 273,
+      "currentPosition": 3.59,
+      "suggestedTitle": "Garanti iPhone: Når kjøpsdato og Apples garantiinfo ikke stemmer – slik fikser du det",
+      "opportunity": "Sterk etterspørsel og middels posisjon. En spiss «dato-avvik»-vinkel kan gi høyere relevans/CTR enn generelle guider."
     }
   ],
   "dataInsights": {
     "topPerformingThemes": [
-      "Butikkspesifikke «finn kvittering»-guider (Clas Ohlson/Elkjøp/Power-lignende behov)",
-      "Problembaserte søk: manglende kvittering, retur/bytte uten kvittering",
-      "Garanti/reklamasjon på elektronikk og mobil"
+      "Butikkspesifikke guider (Clas Ohlson, Elkjøp, Power) – høy CTR når brukeren har konkret problem og merke/navn.",
+      "Kvittering som dokumentasjon til garanti/reklamasjon – særlig elektronikk/mobil."
     ],
     "emergingTopics": [
-      "Bredt «kvittering»-søkeord har høy visning men lav CTR → behov for bedre SERP-tilpasning",
-      "Trender i elektronikk (iPhone/Samsung/gaming PC) som øker sannsynlighet for garanti- og retursøk i januar",
-      "Abonnementskvitteringer (Spotify m.fl.) som en underdekket kvitteringskategori"
+      "Business/ENK: firmabil, diett og fradrag (klart økende i våre faktiske søk).",
+      "«Kvittering» som bredt begrep: behov for å forklare hva som faktisk teller som kjøpsbevis."
     ],
     "recommendations": [
-      "Prioriter artikler som løfter posisjon 5–20: «kvittering» og «kvitteringer» med svært konkret problemløsning og tydelige sjekklister",
-      "Lag én generell «retur uten kvittering»-hub som kan lenke til butikkartikler (uten å kopiere eksisterende Clas Ohlson-innhold)",
-      "Utnytt januar-trenden i elektronikk ved å lage «før du leverer inn»-/«dokumentasjonspakke»-artikler for service og garanti"
+      "Prioriter 2–3 artikler som målretter «kvittering»/«kvitteringer» med tydeligere søkeintensjon (kjøpsbevis/gyldig dokumentasjon) for å løfte CTR.",
+      "Lag én sterk «Elkjøp Min Side»-artikkel med tilgang/innlogging som hovedcase (posisjon ~9,5) for å flytte oss inn i topp 3.",
+      "Bygg en business-klynge (firmabil + diett + fradrag) med interne lenker og maler/sjekklister for å øke autoritet og konvertering."
     ]
   },
   "aiCreativeIdeas": [
     {
-      "title": "Kvittering som bevis i forsikringssaker: Slik dokumenterer du verdi etter tyveri, brann eller vannskade",
-      "primaryKeyword": "kvittering forsikring",
-      "angle": "De færreste lagrer kvitteringer for å bevise verdi/eiendeler før en skade. Artikkelen gir en praktisk «hjemme-beredskap»-metode: hva som teller som dokumentasjon, og hvordan bygge et digitalt eiendelsarkiv.",
-      "whyThisWorks": "Sterk emosjonell relevans, høy nytte, lite «SEO-støy» i Norge. Perfekt for Minekvitteringers kjerne: trygg lagring og gjenfinning."
+      "title": "Kvitterings-beredskap: 10 ting du bør dokumentere før du reiser (bagasje, taxfree, leiebil, forsinkelse) – for å få igjen penger",
+      "primaryKeyword": "kvittering reise dokumentasjon",
+      "angle": "Reisekvitteringer som «forsikringsammunisjon»: hva som faktisk etterspørres ved krav, og hvordan du samler det i én pakke på mobilen.",
+      "whyThisWorks": "Nisje mange opplever akutt behov for (stress-situasjon), høy delingsverdi, og naturlig produktkobling til digital lagring/struktur."
     },
     {
-      "title": "«Abonnement-kvitteringer» du bør lagre: trening, streaming, app-kjøp og nettsky – og slik får du oversikten",
-      "primaryKeyword": "abonnement kvitteringer",
-      "angle": "Knytter digitale kvitteringer til budsjettering og refusjon (jobb/privat). Viser hvordan man finner kvitteringer i ulike tjenester og hvorfor de kan trengs ved tvister/chargeback.",
-      "whyThisWorks": "Mange har 10–20 abonnement uten å ha dokumentasjon. Trend-støtte fra Spotify i dag, men vinkelen er bred og evergreen."
+      "title": "Kvittering ved deling/utlån: Slik dokumenterer du eierskap når du låner bort dyrt utstyr (kamera, verktøy, ski) og noe skjer",
+      "primaryKeyword": "dokumentere eierskap uten kvittering",
+      "angle": "Uvanlig, men reell situasjon: når skade/tyveri skjer hos en venn, trenger du bevis for forsikring og oppgjør.",
+      "whyThisWorks": "Lite konkurranse på tema, samtidig svært praktisk. Leser får konkret sjekkliste (bilder, serienummer, kjøpsbevis, låneavtale)."
     },
     {
-      "title": "Når du kjøper gave: Slik lagrer du kvittering uten å ødelegge overraskelsen (og med enkel retur for mottaker)",
-      "primaryKeyword": "kvittering gave",
-      "angle": "Uvanlig, praktisk situasjon: gavekjøp og «gavekvittering»/retur. Fokus på hvordan man deler eller holder kvittering skjult, men tilgjengelig ved bytte.",
-      "whyThisWorks": "Sesongmessig relevant i januar (bytteretter/returer etter jul), høy delbarhet, og passer funksjonalitet rundt deling/organisering av kvitteringer."
+      "title": "Kvittering + AI: Slik kan du «forvandle» en uleselig kvittering til brukbar dokumentasjon (uten å forfalske)",
+      "primaryKeyword": "tolke uleselig kvittering",
+      "angle": "Etisk og praktisk guide: hva du kan gjøre når blekk er borte/kvittering er krøllet (bilde, kontrast, OCR, bankmatch) og hvor grensen går.",
+      "whyThisWorks": "AI/OCR er et voksende interessefelt, og mange har problemet. Differensierer oss med et tydelig «lovlig/etisk» rammeverk."
     }
   ],
   "cachedTrends": {

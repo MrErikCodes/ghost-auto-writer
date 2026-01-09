@@ -414,5 +414,131 @@
     "title": "Firmabil i enkeltpersonforetak: Kvitteringene du glemmer (bompenger, parkering, lading, service) – og slik dokumenterer du dem",
     "ghostPostId": "6960fa6f50c464068e0be11d",
     "generatedAt": "2026-01-09T12:54:07.574Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Samsung-mobil: Slik finner du kjøpsbeviset når du trenger service (og hvorfor modell/IMEI må knyttes til kvitteringen)",
+    "query": "samsung galaxy",
+    "keywords": [
+      "samsung garanti",
+      "kjøpsbevis samsung",
+      "IMEI kvittering",
+      "service samsung mobil"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Samsung trender (top) og mobilgaranti er en gjenganger i våre data. For å unngå duplikat med eksisterende «Samsung garanti i Norge», velger vi en mer praktisk service/IMEI-vinkel og «finne kjøpsbevis»-intensjon.",
+    "title": "Samsung-mobil: Slik finner du kjøpsbeviset når du trenger service (og hvorfor IMEI bør ligge på kvitteringen)",
+    "ghostPostId": "6960fab850c464068e0be123",
+    "generatedAt": "2026-01-09T12:55:20.136Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Spotify Premium: Slik finner du kvitteringer og betalingshistorikk (nyttig for refusjon, firmakort og budsjett)",
+    "query": "spotify premium",
+    "keywords": [
+      "spotify premium",
+      "spotify kvittering",
+      "betalingshistorikk spotify",
+      "abonnement kvitteringer"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Spotify er kraftig på vei opp i Trends. Abonnementskvitteringer er et «oversett» kvitteringsområde som passer tjenesten vår (samle dokumentasjon for privat og jobb).",
+    "title": "Spotify Premium: Slik finner du kvitteringer og betalingshistorikk (for refusjon, firmakort og budsjett)",
+    "ghostPostId": "6960fafb50c464068e0be129",
+    "generatedAt": "2026-01-09T12:56:27.533Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Reklamasjonsrett på mobiltelefon: Hvor lenge gjelder den, og hva gjør du hvis kvitteringen er borte?",
+    "query": "reklamasjonsrett mobiltelefon",
+    "keywords": [
+      "reklamasjonsrett mobiltelefon",
+      "reklamasjon mobil",
+      "kjøpsbevis mobil",
+      "garanti på mobiltelefon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tema-analysen viser mobil/garanti som et sterkt felt, og Google Trends i dag peker tungt på iPhone/Samsung/Nokia. En mobil-spesifikk reklamasjonsartikkel (juridisk praktisk) matcher både trend og eksisterende etterspørsel.",
+    "title": "Reklamasjonsrett på mobiltelefon: Hvor lenge gjelder den, og hva gjør du hvis kvitteringen er borte?",
+    "ghostPostId": "6960fced50c464068e0be14a",
+    "generatedAt": "2026-01-09T13:04:45.348Z"
+  },
+  {
+    "category": "business",
+    "topic": "Arkivering av regnskapsbilag for småbedrift: Hvor lenge må du lagre kvitteringer, og hva er ‘god nok’ dokumentasjon digitalt?",
+    "query": "arkivering av regnskapsbilag",
+    "keywords": [
+      "arkivering av regnskapsbilag",
+      "oppbevaringstid bilag",
+      "digital lagring bilag",
+      "bokføringsdokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Vi har et tydelig B2B/ENK-spor i dataene. «Arkivering av regnskapsbilag» finnes i store-listen (ARK) og kan bli en sterk evergreen som også støtter produktets kjerneverdi.",
+    "title": "Arkivering av regnskapsbilag for småbedrift: Hvor lenge må du lagre kvitteringer – og hva er «god nok» digital dokumentasjon?",
+    "ghostPostId": "6960fd3e50c464068e0be150",
+    "generatedAt": "2026-01-09T13:06:06.418Z"
+  },
+  {
+    "category": "business",
+    "topic": "Diett i regnskap: Hvilke kvitteringer må du ha (mat, hotell, reise) – og hva kan bokføres uten kvittering?",
+    "query": "diett regnskap",
+    "keywords": [
+      "diett regnskap",
+      "reiseutgifter dokumentasjon",
+      "utlegg kvittering",
+      "bokføring diett"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«diett regnskap» har 135 visninger i tema-analysen. Dette er en typisk januar- og «nytt år, nye rutiner»-problemstilling, og passer godt inn i kvitteringslagring og dokumentasjon.",
+    "title": "Diett i regnskap: Hvilke kvitteringer må du ha (mat, hotell, reise) – og hva kan bokføres uten kvittering?",
+    "ghostPostId": "6960fd8a50c464068e0be156",
+    "generatedAt": "2026-01-09T13:07:22.154Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Bytterett vs angrerett vs reklamasjon: Hvilken rettighet gjelder – og hva slags kvittering/kjøpsbevis må du ha?",
+    "query": "bytterett",
+    "keywords": [
+      "bytterett",
+      "angrerett",
+      "reklamasjon",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Vi ser «bytte»-søk i Clas Ohlson-klyngen og generell «reklamasjon»-etterspørsel. En rettighets-oversiktsartikkel er en god internlenke-hub mot butikk-guidene og kan øke topical authority.",
+    "title": "Bytterett vs angrerett vs reklamasjon: Hvilken rettighet gjelder – og hvilket kjøpsbevis må du ha?",
+    "ghostPostId": "6960fddb50c464068e0be15c",
+    "generatedAt": "2026-01-09T13:08:43.957Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringspanikk på 15 minutter: Et ‘beredskaps-kit’ for reklamasjon (sjekkliste du kan lagre på mobilen)",
+    "query": "sjekkliste reklamasjon",
+    "keywords": [
+      "sjekkliste reklamasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy delbarhet og nytteverdi. Passer Mine Kvitteringer som ‘trygghet’-produkt og kan gi mange longtail-treff (\"hva trenger jeg for reklamasjon\").",
+    "title": "Kvitteringspanikk på 15 minutter: Beredskaps-kit for reklamasjon (sjekkliste du kan lagre på mobilen)",
+    "ghostPostId": "6960fe2050c464068e0be162",
+    "generatedAt": "2026-01-09T13:09:52.455Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Gaming-PC, konsoll og tilbehør: Slik dokumenterer du garanti når kvitteringen er i PlayStation/Xbox-kontoen (ikke i e-post)",
+    "query": "playstation network",
+    "keywords": [
+      "playstation store",
+      "playstation plus",
+      "xbox one",
+      "kjøpshistorikk",
+      "digitalt kjøp kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "PlayStation/Xbox trender i RSS-data. Mange digitale kjøp har “kvittering” som konto-historikk. Dette er en ny nisje for dere: dokumentasjon av digitale spillkjøp.",
+    "title": "Gaming-PC, konsoll og tilbehør: Slik dokumenterer du garanti når «kvitteringen» ligger i PlayStation/Xbox-kontoen",
+    "ghostPostId": "6960fe6050c464068e0be168",
+    "generatedAt": "2026-01-09T13:10:56.771Z"
   }
 ]
