@@ -6,9 +6,29 @@ AI-drevet bloggenerator som automatisk lager SEO-optimaliserte artikler for mine
 
 - **AI-generert innhold** - Bruker OpenAI GPT-5.2 via Vercel AI SDK
 - **SEO-optimalisert** - Strukturert med H2/H3, meta-beskrivelser, og naturlige lenker til minekvitteringer.no
-- **Smart rotasjon** - Roterer mellom 8 innholdskategorier for variasjon
+- **Smart rotasjon** - Roterer mellom 9 innholdskategorier for variasjon
 - **Flere datakilder** - RSS-feeds, Google Trends, og Search Console-data
 - **Ghost CMS integrasjon** - Poster direkte som draft eller publisert
+- **Batch API** - 50% rabatt på OpenAI for 10+ artikler
+- **Duplikatdeteksjon** - Unngår å gjenta tidligere innhold
+- **AI Creative** - 20% av innholdet er AI sine egne kreative ideer
+
+## Hurtigreferanse
+
+```bash
+# Vanlig bruk: Generer 5 artikler som drafts
+node index.js smart-generate
+
+# Masseproduksjon: 15 artikler (bruker Batch API automatisk)
+node index.js smart-generate -c 15 --autopost
+# → Vent 10-60 min, sjekk status:
+node index.js batch-status
+# → Når ferdig:
+node index.js batch-process <batchId> --autopost
+
+# Bare se hva som vil genereres (uten å generere)
+node index.js research
+```
 
 ## Installasjon
 
@@ -191,6 +211,28 @@ Research-agenten har en "hjerne" som husker hva den har researched:
 
 Agenten lærer over tid og gir bedre forslag jo mer du bruker den.
 
+### Datakilder
+
+| Kilde | Beskrivelse | Caching |
+|-------|-------------|---------|
+| **Google Trends RSS** | Trending søk i Norge (`trends.google.com/trending/rss?geo=NO`) | Daglig |
+| **Google Trends API** | Relaterte søkeord og interesse over tid | Per forespørsel |
+| **Search Console** | Dine faktiske søkeord, klikk og posisjoner | Manuell CSV-eksport |
+| **RSS Feeds** | Norske nyheter (Tek.no, E24, Digi.no, NRK, VG) | Per forespørsel |
+
+**Merk:** Google Trends data caches for hele dagen. Første `smart-generate` av dagen henter ferske data, påfølgende kjøringer bruker cached data.
+
+### Duplikatdeteksjon
+
+Systemet unngår å generere samme innhold flere ganger:
+
+1. **Sjekker mot historikk** - Alle genererte artikler lagres i `data/generated-topics.json`
+2. **Fuzzy matching** - Finner lignende titler og søkeord (60%+ keyword-match)
+3. **Regenerering** - Hvis ideer filtreres som duplikater, prøver AI å finne nye
+4. **Maks 5 runder** - Gir opp etter 5 forsøk på å finne unike ideer
+
+Hvis du ber om 9 artikler men systemet bare finner 3 unike, genereres kun de 3.
+
 ### Research-kategorier
 
 | Kategori | Beskrivelse |
@@ -212,7 +254,8 @@ blog-generator/
 ├── config.js             # Konfigurasjon og innstillinger
 ├── ghost-client.js       # Ghost Admin API integrasjon
 ├── article-writer.js     # AI SDK + OpenAI artikkelgenerering
-├── prompts.js            # SEO-skriveprompts
+├── batch-writer.js       # OpenAI Batch API for 10+ artikler
+├── prompts.js            # SEO-skriveprompts per kategori
 ├── content-types.js      # Innholdskategorier og topics
 ├── category-rotator.js   # Smart rotasjon mellom kategorier
 ├── topic-scorer.js       # Topic-valg logikk
@@ -225,7 +268,8 @@ blog-generator/
 └── data/
     ├── generated-topics.json   # Historikk over genererte artikler
     ├── rotation-state.json     # Rotasjonstilstand
-    └── agent-brain.json        # Research agent hukommelse
+    ├── agent-brain.json        # Research agent hukommelse (inkl. cached trends)
+    └── batches/                # Batch-filer og resultater
 ```
 
 ## Search Console Data
