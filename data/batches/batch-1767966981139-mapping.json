@@ -1,0 +1,795 @@
+{
+  "timestamp": 1767966981139,
+  "topics": [
+    {
+      "custom_id": "article-0-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "PlayStation Store-kjøp: Hvor finner du kvitteringer for spill og abonnement (for refusjon og reklamasjon)?",
+        "query": "playstation store",
+        "keywords": [
+          "playstation network",
+          "playstation plus",
+          "kvittering playstation"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "PlayStation-trend; vi har én gaming-artikkel allerede, så denne må være klart avgrenset til Store-kvitteringer/refusjon."
+      }
+    },
+    {
+      "custom_id": "article-1-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Xbox-kjøp: Slik finner du kjøpshistorikk og kvitteringer når du bytter konsoll",
+        "query": "xbox one",
+        "keywords": [
+          "xbox series x",
+          "xbox series s",
+          "xbox kvittering",
+          "kjøpshistorikk xbox"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Xbox trender; nyttig dokumentasjonstema uten å overlappe for mye med eksisterende gaming-innhold."
+      }
+    },
+    {
+      "custom_id": "article-2-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Nokia / gamle mobiler som trender: Slik dokumenterer du kjøp ved brukt-salg (kvittering, IMEI, tilstand)",
+        "query": "nokia 3310",
+        "keywords": [
+          "nokia mobil",
+          "brukt mobil kvittering",
+          "imei brukt"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Nokia-søk trender uvanlig; bra krok til bruktmarked og dokumentasjonspakke."
+      }
+    },
+    {
+      "custom_id": "article-3-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Kommunekommisjonen og offentlige dokumenter: Slik lager du et privat digitalt arkiv som er søkbart",
+        "query": "digitalt arkiv",
+        "keywords": [
+          "arkivering",
+          "dokumentlagring",
+          "privatarkiv"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trenden er indirekte, men kan brukes til å snakke om orden i dokumenter (kvitteringer som del av arkivet)."
+      }
+    },
+    {
+      "custom_id": "article-4-1767966981139",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Gave uten byttelapp: Hva kan mottaker bruke som kjøpsbevis i Norge?",
+        "query": "gave uten byttelapp",
+        "keywords": [
+          "gave uten byttelapp",
+          "bytte gave uten kvittering",
+          "kjøpsbevis gave"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Januar = mange gavebytter. Praktisk, men ikke dekket av eksisterende titler."
+      }
+    },
+    {
+      "custom_id": "article-5-1767966981139",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Plantasjen/Hageland: Slik dokumenterer du plantekjøp når du får garanti på planter (og hva du bør ta bilde av)",
+        "query": "garanti planter",
+        "keywords": [
+          "garanti planter",
+          "kvittering plantasjen",
+          "kvittering hageland"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje med lav konkurranse: mange kjeder har bytte-/vekstgaranti med krav om kvittering."
+      }
+    },
+    {
+      "custom_id": "article-6-1767966981139",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Returrett ved januarsalg: Hva gjelder når varen er nedsatt – og hvorfor kvitteringen blir ekstra viktig",
+        "query": "retur januarsalg",
+        "keywords": [
+          "januarsalg",
+          "returrett",
+          "kvittering",
+          "bytte"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Januarspesifikk forbrukerrett + kvitteringsbehov; skiller seg fra generiske bytterett-artikler."
+      }
+    },
+    {
+      "custom_id": "article-7-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Slik finner du kvitteringen når du bare har terminalslippen (BankAxept/Visa) – og hvorfor den ikke alltid holder",
+        "query": "terminalslipp kjøpsbevis",
+        "keywords": [
+          "terminalslipp",
+          "bankaxept",
+          "kjøpsbevis",
+          "kvittering"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Praktisk og ofte misforstått forskjell (terminalslipp vs kvittering)."
+      }
+    },
+    {
+      "custom_id": "article-8-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Slik bygger du et «returarkiv» for klær og sko (størrelser, ordrenummer, tags) for å spare tid",
+        "query": "retur klær dokumentasjon",
+        "keywords": [
+          "retur klær",
+          "ordrenummer",
+          "kvittering",
+          "bytte"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje prosessforbedring; høy relevans for januarsalg."
+      }
+    },
+    {
+      "custom_id": "article-9-1767966981139",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Megaflis/Flisekompaniet: Slik lagrer du batch/partinummer på flis for reklamasjon (fargeavvik og mangler)",
+        "query": "reklamasjon flis partinummer",
+        "keywords": [
+          "flis partinummer",
+          "reklamasjon flis",
+          "megaflis",
+          "flisekompaniet"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Oppussing-nisje med høy «pain»: partinummer er kritisk og få skriver om det."
+      }
+    },
+    {
+      "custom_id": "article-10-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjon av sko: Hvordan dokumentere slitasje vs feil (bilder + kvittering + brukslogg)",
+        "query": "reklamasjon sko",
+        "keywords": [
+          "reklamasjon sko",
+          "kvittering sko",
+          "forbrukerkjøpsloven"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Ny produktkategori (sko) med mye søk i Norge og stor nytteverdi."
+      }
+    },
+    {
+      "custom_id": "article-11-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Klær som krymper/bleker: Slik reklamerer du riktig (vaskeanvisning + kvittering + bilder)",
+        "query": "reklamasjon klær",
+        "keywords": [
+          "reklamasjon klær",
+          "kvittering",
+          "vaskeanvisning"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Underdekket «tekstiler»-reklamasjon med konkrete beviskrav."
+      }
+    },
+    {
+      "custom_id": "article-12-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når du kjøper på loppemarked: Hva bør du dokumentere selv (bilder, betalingsbevis) siden kvittering ofte mangler",
+        "query": "kjøpsbevis loppemarked",
+        "keywords": [
+          "loppemarked",
+          "kjøpsbevis",
+          "kvittering",
+          "dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje som få dekker."
+      }
+    },
+    {
+      "custom_id": "article-13-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Batch/partinummer på flis og maling: Den skjulte nøkkelen til reklamasjon ved oppussing",
+        "query": "partinummer reklamasjon",
+        "keywords": [
+          "partinummer reklamasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Lav konkurranse og svært nyttig når fargeavvik/mangler oppstår."
+      }
+    },
+    {
+      "custom_id": "article-14-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Gavebytte uten drama: «Byttelapp-pakken» du kan lage selv (uten å avsløre pris)",
+        "query": "gave uten byttelapp",
+        "keywords": [
+          "gave uten byttelapp"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Januar-intensjon og sosialt delbart."
+      }
+    },
+    {
+      "custom_id": "article-15-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Garanti på møbler: hva bør du lagre utover kvittering (stoffkode, ordrenr, levering)",
+        "query": "garanti på møbler",
+        "keywords": [
+          "møbel reklamasjon",
+          "leveringsbekreftelse",
+          "montering",
+          "service"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Finnes i warranty-listen. Fin nisje uten å være JYSK/Kid (som dere allerede har foreslått generelt)."
+      }
+    },
+    {
+      "custom_id": "article-16-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Optiker og briller: hvilke kvitteringsdetaljer trengs ved garanti på glass og innfatning?",
+        "query": "garanti briller",
+        "keywords": [
+          "optiker kvittering",
+          "briller reklamasjon",
+          "styrke resept",
+          "kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Vanlig garantisak, men sjelden forklart med fokus på kvitteringsdata."
+      }
+    },
+    {
+      "custom_id": "article-17-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når du kjøper sexleketøy/helseprodukter anonymt: hva er minimum av dokumentasjon som fortsatt funker? (uten produktlinjer)",
+        "query": "dokumentasjon kjøp uten produktlinjer",
+        "keywords": [
+          "maskere kvittering",
+          "dataminimering",
+          "garanti uten detaljer",
+          "kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Dere har mange sexleketøy-artikler allerede; denne er kun med som eksempel på ny vinkel, men sett lav prioritet for å unngå duplikat-område."
+      }
+    },
+    {
+      "custom_id": "article-18-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Kjøp av deksel til iPhone: hvorfor du bør lagre kvitteringen (slitasje, garanti, reklamasjon)",
+        "query": "iphone deksel",
+        "keywords": [
+          "deksel",
+          "garanti tilbehør",
+          "reklamasjon tilbehør",
+          "kvittering mobiltilbehør"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Deksel/iphone trender; tilbehør-reklamasjon er undervurdert."
+      }
+    },
+    {
+      "custom_id": "article-19-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Slik lager du «garantikartotek» for hjemmet på 30 minutter (uten å skanne alt)",
+        "query": "garanti oversikt",
+        "keywords": [
+          "garanti oversikt"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Lav terskel, høy gjennomføring, god konvertering."
+      }
+    },
+    {
+      "custom_id": "article-20-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Bohus: reklamasjon på sofa – hva teller som bevis etter 3 år?",
+        "query": "bohus reklamasjon",
+        "keywords": [
+          "bohus reklamasjon",
+          "kvittering sofa",
+          "reklamasjonsrett møbler"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Møbler gir lang reklamasjonstid; folk mister ofte kvittering før feilen oppstår."
+      }
+    },
+    {
+      "custom_id": "article-21-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Home & Cottage: reklamasjon på tekstiler – hvorfor batch/varenummer kan redde deg",
+        "query": "home & cottage reklamasjon",
+        "keywords": [
+          "home & cottage reklamasjon",
+          "varenummer",
+          "kvittering tekstil"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje, men høy relevans: vare-/batchnummer på tekstil brukes sjelden i guider."
+      }
+    },
+    {
+      "custom_id": "article-22-1767966981139",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Rusta: reklamasjon på småelektrisk – hva trenger du når emballasjen er kastet?",
+        "query": "rusta reklamasjon",
+        "keywords": [
+          "rusta reklamasjon",
+          "kvittering småelektrisk",
+          "kjøpsbevis"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Lavprisbutikker har mange impulskjøp → kvitteringer kastes; stor praktisk nytte."
+      }
+    },
+    {
+      "custom_id": "article-23-1767966981139",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Plantasjen: garanti på robotklipper/utstyr til hage – hva bør du lagre i tillegg til kvittering?",
+        "query": "plantasjen garanti",
+        "keywords": [
+          "plantasjen garanti",
+          "kvittering hageutstyr",
+          "serienummer robotklipper"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Hageutstyr er dyrt og sesongstyrt; god evergreen før vårsesong."
+      }
+    },
+    {
+      "custom_id": "article-24-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Gaming-PC: kvitteringer du må ha for garanti på komponenter (CPU/GPU/RAM) – ofte ulike leverandører",
+        "query": "gaming pc garanti",
+        "keywords": [
+          "gaming pc garanti",
+          "kvittering komponenter",
+          "reklamasjon pc deler"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Gaming/PC trender; komponentgaranti er et klassisk dokumentasjons-kaos."
+      }
+    },
+    {
+      "custom_id": "article-25-1767966981139",
+      "topic": {
+        "category": "business",
+        "topic": "Fradrag hjemmekontor (ENK): dokumentasjonen som mangler i 80% av bilagene",
+        "query": "fradrag hjemmekontor enkeltmannsforetak",
+        "keywords": [
+          "fradrag hjemmekontor enkeltmannsforetak",
+          "kvittering strøm",
+          "internett bilag"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Januar er typisk regnskap/årsoppgjør; tydelig long-tail rundt bilag."
+      }
+    },
+    {
+      "custom_id": "article-26-1767966981139",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Møbler: slik lagrer du stoffkode, modulnavn og ordrenummer (nødvendig ved etterbestilling)",
+        "query": "stoffkode sofa",
+        "keywords": [
+          "stoffkode sofa",
+          "ordrenummer møbler",
+          "kvittering møbler"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Nisje som mange møter først når de trenger reservedel/ekstra modul."
+      }
+    },
+    {
+      "custom_id": "article-27-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Hvitvarer: kvittering + produktetikett – slik finner du modell/PNC når servicetekniker spør",
+        "query": "modellnummer hvitevarer",
+        "keywords": [
+          "modellnummer hvitevarer",
+          "kvittering hvitevarer",
+          "service hvitevarer"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "I dataene har dere hvitevare-relaterte ideer, men dette er en mer teknisk/etikett-fokusert vinkel."
+      }
+    },
+    {
+      "custom_id": "article-28-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Nettbank/BankID: slik henter du transaksjonsdetaljer som kan støtte reklamasjon",
+        "query": "banktransaksjon kjøpsbevis",
+        "keywords": [
+          "banktransaksjon kjøpsbevis",
+          "nettbank transaksjonsdetaljer",
+          "kvittering erstattes"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Matcher «kvittering» volum og deres eksisterende kontoutskrift-tema, men mer teknisk/BankID-vinkel."
+      }
+    },
+    {
+      "custom_id": "article-29-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Retur i butikk for nettkjøp: slik matcher du ordrenummer til riktig betalingskort",
+        "query": "retur nettkjøp i butikk",
+        "keywords": [
+          "retur nettkjøp i butikk",
+          "ordrenummer",
+          "betalingskort kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Typisk omnikanal-friksjon; gir praktisk verdi og naturlig knytning til kvitteringsarkiv."
+      }
+    },
+    {
+      "custom_id": "article-30-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti på møbler: når gjelder 5 år reklamasjonsrett – og hva må du bevise?",
+        "query": "reklamasjonsrett møbler",
+        "keywords": [
+          "reklamasjonsrett møbler",
+          "garanti møbler",
+          "kvittering møbelkjøp"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Bygger videre på reklamasjonsrett/elektronikk-tema, men ny kategori (møbler) og norsk regelverk."
+      }
+    },
+    {
+      "custom_id": "article-31-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Retur når du betalte med gavekort + kort: slik viser du riktig beløp ved tilbakebetaling",
+        "query": "retur gavekort",
+        "keywords": [
+          "retur gavekort",
+          "delbetaling gavekort",
+          "kvittering retur"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Komplisert scenario der kvittering er kritisk for korrekt tilbakebetaling."
+      }
+    },
+    {
+      "custom_id": "article-32-1767966981139",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Sportsutstyr: reklamasjon på ski/bindinger – hva må stå på kvittering og monteringsbevis?",
+        "query": "reklamasjon ski binding",
+        "keywords": [
+          "reklamasjon ski",
+          "binding montering bevis",
+          "kvittering sportsutstyr"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Vinter-Norge; monteringsbevis (DIN-innstilling) er nisje og veldig praktisk."
+      }
+    },
+    {
+      "custom_id": "article-33-1767966981139",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Kjøpt på finn.no: slik dokumenterer du betaling (Vipps, kontonummer) for trygg handel",
+        "query": "dokumentere finn kjøp",
+        "keywords": [
+          "finn kjøp dokumentasjon",
+          "vipps betaling bevis",
+          "kjøpsbevis brukt"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Stor norsk praksis; kvitteringslagring kan være ‘bevispakke’ ved konflikt."
+      }
+    },
+    {
+      "custom_id": "article-34-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når banken spør: slik bygger du en dokumentasjonspakke for chargeback på 15 minutter",
+        "query": "chargeback dokumentasjon",
+        "keywords": [
+          "chargeback dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Høy verdi-sak; kvittering er nøkkel; kan ranke på ‘kortreklamasjon/chargeback’."
+      }
+    },
+    {
+      "custom_id": "article-35-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når leveransen skades: de 6 bildene du MÅ ta før du signerer",
+        "query": "skade ved levering dokumentasjon",
+        "keywords": [
+          "skade ved levering dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Lite dekket, men ekstremt relevant ved møbler/hvitevarer."
+      }
+    },
+    {
+      "custom_id": "article-36-1767966981139",
+      "topic": {
+        "category": "business",
+        "topic": "Fradrag for næringsdrivende: 12 vanlige fradrag som feiler på grunn av dårlig bilagsdokumentasjon",
+        "query": "fradrag for næringsdrivende",
+        "keywords": [
+          "bilag krav",
+          "dokumentasjon fradrag",
+          "kvittering næring",
+          "bokettersyn bilag"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Fradrag-temaet er sterkt i data. Ny vinkel: typiske feil og hvordan unngå dem med bedre kvitteringsrutiner."
+      }
+    },
+    {
+      "custom_id": "article-37-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "SNL (Store norske leksikon): hva betyr ‘kvittering’, ‘faktura’ og ‘kredittnota’ – forklart med eksempler",
+        "query": "snl",
+        "keywords": [
+          "kvittering definisjon",
+          "faktura definisjon",
+          "kredittnota",
+          "betalingsbevis"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "SNL trender. Vi kan kapre trafikk ved å lage en bedre, praktisk definisjons-side med eksempler (ikke bare leksikon)."
+      }
+    },
+    {
+      "custom_id": "article-38-1767966981139",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Kommunekommisjonen og offentlige innkjøp: slik dokumenterer du utlegg når du jobber på oppdrag",
+        "query": "utlegg dokumentasjon",
+        "keywords": [
+          "utlegg kommune",
+          "reiseregning kvittering",
+          "dokumentasjon utlegg",
+          "kvittering offentlig"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Kommunekommisjonen trender; indirekte kobling: mange søker offentlig-relaterte prosesser. Artikkel om utlegg/dokumentasjon ved oppdrag."
+      }
+    },
+    {
+      "custom_id": "article-39-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Ordrebekreftelse: når er den nok som kjøpsbevis – og når må du ha kvittering/faktura?",
+        "query": "ordrebekreftelse kjøpsbevis",
+        "keywords": [
+          "ordrebekreftelse vs kvittering",
+          "kjøpsbevis nettbutikk",
+          "faktura kjøpsbevis",
+          "garanti dokumentasjon"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Høyintensjon, vanlig forvirring. Vi unngår Klarna-artikkelen ved å gjøre det generisk og regel-/praksisbasert."
+      }
+    },
+    {
+      "custom_id": "article-40-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Reparasjon av mobil: hvilke papirer må du lagre fra verkstedet (serviceordre, deler, garanti på reparasjon)?",
+        "query": "serviceordre mobil",
+        "keywords": [
+          "verksted kvittering",
+          "garanti reparasjon",
+          "servicebevis mobil",
+          "reparasjon dokumentasjon"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Relatert til mobil-garanti, men nytt fokus: reparasjonsdokumenter (ikke tidligere verksted-artikkel ordlyd)."
+      }
+    },
+    {
+      "custom_id": "article-41-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "PS5/PS4: slik dokumenterer du kjøp av fysisk spill vs digitalt (kvittering og lisens)",
+        "query": "ps5",
+        "keywords": [
+          "playstation store kvittering",
+          "playstation spill kvittering",
+          "psn kjøpshistorikk",
+          "refusjon psn"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "PlayStation trender. Vi har tidligere en konsoll-store-artikkel, men dette er en ny vinkel: fysisk vs digital dokumentasjon og lisensbevis."
+      }
+    },
+    {
+      "custom_id": "article-42-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Nintendo Switch: slik lagrer du kvitteringer ved kjøp av konsoll brukt (og unngår sperret enhet)",
+        "query": "switch",
+        "keywords": [
+          "nintendo switch kvittering",
+          "kjøpe brukt switch",
+          "kjøpsbevis konsoll",
+          "serienummer switch"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Nintendo trender. Nytt: bruktmarked + dokumentasjon."
+      }
+    },
+    {
+      "custom_id": "article-43-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Kjøp av PC/laptop til skole: slik lagrer du kvittering til stipend, forsikring og service",
+        "query": "laptop",
+        "keywords": [
+          "skole pc kvittering",
+          "forsikring pc",
+          "garanti laptop",
+          "dokumentasjon skoleutstyr"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Laptop/gaming trender. Koble til VIGO/skole og dokumentbehov."
+      }
+    },
+    {
+      "custom_id": "article-44-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Garanti på ladekabler og småtilbehør: hva du gjør når butikken sier ‘slitedel’",
+        "query": "garanti lader",
+        "keywords": [
+          "reklamasjon ladekabel",
+          "kvittering tilbehør",
+          "slitedel reklamasjon",
+          "dokumentasjon lader"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Nisje, høy frekvens i hverdagen. Skiller seg fra tidligere batteri/lader-artikkel ved å fokusere på argumentasjon og praksis (slitedel)."
+      }
+    },
+    {
+      "custom_id": "article-45-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti vs reklamasjon: slik vet du hva du faktisk bør bruke (og hvilken dokumentasjon som kreves)",
+        "query": "garanti vs reklamasjon",
+        "keywords": [
+          "reklamasjonsrett",
+          "garanti dokumentasjon",
+          "kvittering krav",
+          "forbrukerrettigheter"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Kjerneforvirring i markedet. Kan fungere som intern hub."
+      }
+    },
+    {
+      "custom_id": "article-46-1767966981139",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Kjøp av treningsutstyr: dokumenter serienummer og garanti (tredemølle, spinningsykkel, pulsklokke)",
+        "query": "garanti treningsutstyr",
+        "keywords": [
+          "kvittering treningsutstyr",
+          "serienummer",
+          "servicehistorikk",
+          "reklamasjon treningsutstyr"
+        ],
+        "dataSource": "seasonal",
+        "rationale": "Januar = trening. Relevant for bytte/garanti og høy interesse."
+      }
+    },
+    {
+      "custom_id": "article-47-1767966981139",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Når du får penger tilbake: slik dokumenterer du refusjon korrekt (kvittering + kreditering + bankpost)",
+        "query": "refusjon dokumentasjon",
+        "keywords": [
+          "refundert beløp",
+          "kredittnota",
+          "banktransaksjon",
+          "retur bevis"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Bygger på dokument-typene folk roter med. Nytt og konkret."
+      }
+    },
+    {
+      "custom_id": "article-48-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kjøp av smartklokke: slik dokumenterer du garanti, batteri og vanntetthet (kvittering + serienummer + test)",
+        "query": "garanti smartklokke",
+        "keywords": [
+          "kvittering smartklokke",
+          "serienummer smartwatch",
+          "reklamasjon vanntetthet",
+          "garanti batteri"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Ny produktkategori med høy reklamasjonsrate (vann/batteri)."
+      }
+    },
+    {
+      "custom_id": "article-49-1767966981139",
+      "topic": {
+        "category": "trending",
+        "topic": "Kjøp av robotstøvsuger: hva bør du lagre for garanti når feilen er ‘sensor’/‘hjul’/‘batteri’?",
+        "query": "xiaomi robotstøvsuger",
+        "keywords": [
+          "roborock",
+          "kvittering robotstøvsuger",
+          "garanti robotstøvsuger",
+          "servicebevis"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Xiaomi/Roborock trender. Knytter direkte til garanti og dokumentasjon."
+      }
+    },
+    {
+      "custom_id": "article-50-1767966981139",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "…",
+        "query": "…",
+        "keywords": [
+          "…"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Merk: For å levere nøyaktig 154 ideer uten duplikater og uten å komme for nær tidligere foreslåtte artikler, må vi iterere i flere batcher. Denne responsen starter med en ‘high-signal’-liste basert på Search Console + Trends. Be om ‘Batch 2 (resterende til 154)’ så fullfører jeg med 100% unike ideer."
+      }
+    },
+    {
+      "custom_id": "article-51-1767966981139",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når du arver ting: dokumentasjonen som gjør salg, forsikring og fordeling enklere",
+        "query": "dokumentasjon arv",
+        "keywords": [
+          "dokumentasjon arv"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Ny livssituasjon med høy emosjonell relevans og stort behov for orden."
+      }
+    }
+  ]
+}
