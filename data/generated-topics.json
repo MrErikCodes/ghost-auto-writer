@@ -1251,5 +1251,202 @@
     "ghostPostId": "69621b4e50c464068e0be277",
     "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
     "generatedAt": "2026-01-10T09:26:40.097Z"
+  },
+  {
+    "category": "trending",
+    "topic": "FA Cup og bortetur: Slik dokumenterer du reiseutgifter og billetter når du trenger refusjon",
+    "query": "fa cup",
+    "keywords": [
+      "kvittering",
+      "refusjon",
+      "reiseutgifter dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Sports-trend kan kobles til kvitteringer for billetter/transport. Ikke kjerne, men kan gi kortsiktig trendtrafikk.",
+    "title": "FA Cup og bortetur: Slik dokumenterer du reiseutgifter og billetter for refusjon",
+    "ghostPostId": "696223c850c464068e0be27e",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:49.640Z"
+  },
+  {
+    "category": "trending",
+    "topic": "The Voice-billetter og arrangement: Hva er gyldig kjøpsbevis hvis billetten forsvinner?",
+    "query": "the voice",
+    "keywords": [
+      "kvittering billett",
+      "ordrebekreftelse",
+      "billettkjøp dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Underholdningstrend → billettkvittering er en naturlig bro til tjenesten.",
+    "title": "The Voice-billetter og arrangement: Hva er gyldig kjøpsbevis hvis billetten forsvinner?",
+    "ghostPostId": "696223c850c464068e0be284",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:50.094Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Teslaservice og garanti: hvilke bilag du bør lagre for service, deler og verkstedbesøk (uansett merke)",
+    "query": "tesla model y",
+    "keywords": [
+      "service kvittering",
+      "verkstedfaktura",
+      "garanti bil",
+      "dokumentasjon bil"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tesla Model Y trender (200+) og vi har allerede bil/utstyr-vinkel, men her dreies til 'service/deler/verkstedbilag' generelt.",
+    "title": "Teslaservice og garanti: bilagene du bør lagre for service, deler og verkstedbesøk (uansett merke)",
+    "ghostPostId": "696223c850c464068e0be28a",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:50.580Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Optiker og briller: hvilken dokumentasjon bør du lagre for garanti, skade og forsikring",
+    "query": "garanti briller",
+    "keywords": [
+      "briller kvittering",
+      "optiker garanti",
+      "forsikring briller",
+      "reparasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Udekket nisje med høy verdi per kjøp; ofte behov ved knuste glass/innboforsikring.",
+    "title": "Garanti på briller: Hvilken dokumentasjon bør du lagre for skade, reparasjon og forsikring?",
+    "ghostPostId": "696223c950c464068e0be290",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:50.897Z"
+  },
+  {
+    "category": "seasonal",
+    "topic": "Sportsutstyr: slik dokumenterer du kjøp av ski, bindinger og støvler for reklamasjon og garanti",
+    "query": "garanti ski",
+    "keywords": [
+      "kvittering sport",
+      "reklamasjon binding",
+      "service",
+      "innstilling bindinger"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Januar = vintersport, mye kjøp og reklamasjonsbehov. Gode nisjeeksempler.",
+    "title": "Garanti på ski i 2026: Slik dokumenterer du kjøp av ski, bindinger og støvler (og finner kvitteringen når du trenger den)",
+    "ghostPostId": "696223c950c464068e0be296",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:51.149Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Chargeback og kortreklamasjon: hvilken dokumentasjon (kvittering/ordre) banken ber om",
+    "query": "kortreklamasjon dokumentasjon",
+    "keywords": [
+      "chargeback",
+      "kortbetaling",
+      "kvittering",
+      "tvist",
+      "dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy praktisk verdi, passer kvitteringsarkiv. Lite dekket i kvitteringsnisjen.",
+    "title": "Chargeback og kortreklamasjon: dokumentasjonen banken ber om (og hvordan du finner den raskt)",
+    "ghostPostId": "696223c950c464068e0be29c",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:51.485Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Når du kjøper brukt på Finn: slik lager du et kjøpsbevis som faktisk holder (for forsikring/videre salg)",
+    "query": "kjøpsbevis finn",
+    "keywords": [
+      "kvittering brukt",
+      "kontrakt",
+      "vipps",
+      "dokumentasjon",
+      "serienummer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Svært norsk og praktisk. Kvitteringsbehov uten ordinær butikk-kvittering.",
+    "title": "Kjøpsbevis på Finn: Slik lager du dokumentasjon som faktisk holder (forsikring og videresalg)",
+    "ghostPostId": "696223ca50c464068e0be2a2",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:51.827Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Idrettsgallaen og prisutdeling: slik dokumenterer du kjøp av dress, kjole og reiseutlegg (kvittering + refusjon)",
+    "query": "idrettsgallaen",
+    "keywords": [
+      "utlegg",
+      "refusjon",
+      "kvittering reise"
+    ],
+    "dataSource": "daily-trends",
+    "rationale": "Trend med indirekte relevans; gir en «life situation»-vinkel på kvitteringsbehov ved arrangementer.",
+    "title": "Idrettsgallaen: Slik dokumenterer du kjøp av dress, kjole og reiseutlegg (kvittering + refusjon)",
+    "ghostPostId": "696223ca50c464068e0be2a8",
+    "batchId": "batch_696221b253508190acf0db346ea382c5",
+    "generatedAt": "2026-01-10T10:02:52.059Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kjøpsbevis når du arver ting: Hvordan dokumentere verdi og alder på hvitevarer, TV og møbler",
+    "query": "dokumentere kjøp",
+    "keywords": [
+      "dokumentere kjøp"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Lav konkurranse, sterk nytte, bygger ekspertise utover butikkguider.",
+    "title": "Kjøpsbevis når du arver ting: Slik kan du dokumentere verdi og alder på hvitevarer, TV og møbler",
+    "ghostPostId": "696226c250c464068e0be2ae",
+    "batchId": "batch_6962260a6698819083a76ac305d5d89f",
+    "generatedAt": "2026-01-10T10:15:31.586Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Når du får gave uten byttelapp: Slik skaffer du kjøpsbevis uten å avsløre pris eller persondata",
+    "query": "kjøpsbevis gave",
+    "keywords": [
+      "bytte uten kvittering",
+      "gavekvittering",
+      "retur gave"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Januar er høysesong for bytte/retur etter jul; tydelig brukerproblem som gir delinger.",
+    "title": "Kjøpsbevis gave: Slik ordner du bytte uten kvittering (uten å avsløre pris eller persondata)",
+    "ghostPostId": "696226c250c464068e0be2b4",
+    "batchId": "batch_6962260a6698819083a76ac305d5d89f",
+    "generatedAt": "2026-01-10T10:15:32.000Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Marte Olsbu Røiseland (trend): Slik dokumenterer du kjøp av skiutstyr, reise og hotell ved avlysninger",
+    "query": "marte olsbu røiseland",
+    "keywords": [
+      "kvittering reise",
+      "dokumentasjon hotell",
+      "avbestilling billetter"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trend kan brukes som ‘aktualitetskrok’ til vintersport-kjøp og refusjoner, som er kvitteringsdrevet.",
+    "title": "Marte Olsbu Røiseland-trenden: Slik dokumenterer du kjøp av skiutstyr, reise og hotell ved avlysninger",
+    "ghostPostId": "696226c250c464068e0be2ba",
+    "batchId": "batch_6962260a6698819083a76ac305d5d89f",
+    "generatedAt": "2026-01-10T10:15:32.342Z"
+  },
+  {
+    "category": "trending",
+    "topic": "NINA DOBREV (trend): Slik får du kontroll på kvitteringer når du handler fra utenlandske nettbutikker",
+    "query": "nina dobrev",
+    "keywords": [
+      "utenlandsk nettbutikk kvittering",
+      "valuta kvittering",
+      "mva dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trend brukes kun som krok; reelt tema er import/utenlandske kvitteringer (valuta, mva, garanti).",
+    "title": "Nina Dobrev-trenden til side: Slik får du kontroll på kvitteringer fra utenlandske nettbutikker",
+    "ghostPostId": "696226c350c464068e0be2c0",
+    "batchId": "batch_6962260a6698819083a76ac305d5d89f",
+    "generatedAt": "2026-01-10T10:15:32.595Z"
   }
 ]

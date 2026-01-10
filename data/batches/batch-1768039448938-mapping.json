@@ -1,0 +1,105 @@
+{
+  "timestamp": 1768039448938,
+  "topics": [
+    {
+      "custom_id": "article-0-1768039448938",
+      "topic": {
+        "category": "trending",
+        "topic": "Tesla Model Y: Slik lagrer du dokumentasjon på ekstrautstyr, vinterhjul og service som kan øke bruktverdien",
+        "query": "tesla model y",
+        "keywords": [
+          "kvittering ekstrautstyr",
+          "dokumentasjon service",
+          "lagre kvitteringer bil"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Google Trends viser «tesla model y». Vi kan koble bil-interesse til kvitteringer for tilbehør/oppgraderinger og videresalg."
+      }
+    },
+    {
+      "custom_id": "article-1-1768039448938",
+      "topic": {
+        "category": "trending",
+        "topic": "Idrettsgallaen: Slik dokumenterer du kjøp av billetter, reise og representasjon (og hva som faktisk er kvittering)",
+        "query": "idrettsgallaen",
+        "keywords": [
+          "billett kvittering",
+          "reiseutlegg dokumentasjon",
+          "pdf billett som kvittering"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Trender rundt arrangementer utløser ofte behov for billetter/kvitteringer ved avbestilling og refusjon."
+      }
+    },
+    {
+      "custom_id": "article-2-1768039448938",
+      "topic": {
+        "category": "trending",
+        "topic": "The Voice: Kjøpt billetter eller stemt via app? Slik finner du transaksjoner og kvitteringer i kontoen din",
+        "query": "the voice",
+        "keywords": [
+          "kvittering i app",
+          "faktura mobilkjøp",
+          "transaksjonshistorikk"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Underholdnings-trender kan gi long-tail rundt appkjøp, SMS-kjøp og transaksjonsbevis."
+      }
+    },
+    {
+      "custom_id": "article-3-1768039448938",
+      "topic": {
+        "category": "…",
+        "topic": "…",
+        "query": "…",
+        "keywords": [
+          "…"
+        ],
+        "dataSource": "…",
+        "rationale": "…"
+      }
+    },
+    {
+      "custom_id": "article-4-1768039448938",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Kvitterings-testen: 60 sekunder som avslører om kjøpsbeviset ditt vil holde i en reklamasjon",
+        "query": "test kjøpsbevis",
+        "keywords": [
+          "test kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Høy delbarhet + matcher intensjonen bak ‘kvittering’ uten å gjenta definisjonsartikler."
+      }
+    },
+    {
+      "custom_id": "article-5-1768039448938",
+      "topic": {
+        "category": "trending",
+        "topic": "Trend: Marte Olsbu Røiseland – hva bør du lagre av kvitteringer når du kjøper brukt sportsutstyr",
+        "query": "marte olsbu røiseland",
+        "keywords": [
+          "marte olsbu røiseland",
+          "kjøpe brukt utstyr",
+          "kvittering brukt",
+          "eierskifte dokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Sportsprofil-trend kan dreies til ‘bruktkjøp av utstyr’ og dokumentasjon for forsikring/videresalg."
+      }
+    },
+    {
+      "custom_id": "article-6-1768039448938",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Kvittering ved betalingssplitt: Slik dokumenterer dere eierskap når flere betaler (Vipps/kort)",
+        "query": "dokumentere delt kjøp",
+        "keywords": [
+          "dokumentere delt kjøp"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Vanlig i husholdninger/vennegrupper, men sjelden forklart tydelig."
+      }
+    }
+  ]
+}

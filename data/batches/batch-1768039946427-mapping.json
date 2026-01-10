@@ -1,0 +1,63 @@
+{
+  "timestamp": 1768039946427,
+  "topics": [
+    {
+      "custom_id": "article-0-1768039946427",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Kjøpsbevis når du arver ting: Hvordan dokumentere verdi og alder på hvitevarer, TV og møbler",
+        "query": "dokumentere kjøp",
+        "keywords": [
+          "dokumentere kjøp"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Lav konkurranse, sterk nytte, bygger ekspertise utover butikkguider."
+      }
+    },
+    {
+      "custom_id": "article-1-1768039946427",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Når du får gave uten byttelapp: Slik skaffer du kjøpsbevis uten å avsløre pris eller persondata",
+        "query": "kjøpsbevis gave",
+        "keywords": [
+          "bytte uten kvittering",
+          "gavekvittering",
+          "retur gave"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Januar er høysesong for bytte/retur etter jul; tydelig brukerproblem som gir delinger."
+      }
+    },
+    {
+      "custom_id": "article-2-1768039946427",
+      "topic": {
+        "category": "trending",
+        "topic": "Marte Olsbu Røiseland (trend): Slik dokumenterer du kjøp av skiutstyr, reise og hotell ved avlysninger",
+        "query": "marte olsbu røiseland",
+        "keywords": [
+          "kvittering reise",
+          "dokumentasjon hotell",
+          "avbestilling billetter"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trend kan brukes som ‘aktualitetskrok’ til vintersport-kjøp og refusjoner, som er kvitteringsdrevet."
+      }
+    },
+    {
+      "custom_id": "article-3-1768039946427",
+      "topic": {
+        "category": "trending",
+        "topic": "NINA DOBREV (trend): Slik får du kontroll på kvitteringer når du handler fra utenlandske nettbutikker",
+        "query": "nina dobrev",
+        "keywords": [
+          "utenlandsk nettbutikk kvittering",
+          "valuta kvittering",
+          "mva dokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trend brukes kun som krok; reelt tema er import/utenlandske kvitteringer (valuta, mva, garanti)."
+      }
+    }
+  ]
+}

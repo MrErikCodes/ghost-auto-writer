@@ -1,6 +1,6 @@
 {
   "date": "2026-01-10",
-  "timestamp": "2026-01-10T09:52:36.899Z",
+  "timestamp": "2026-01-10T10:11:10.640Z",
   "source": "google-trends-scrape",
   "sources": {
     "googleTrends": {
@@ -23,7 +23,7 @@
         },
         {
           "title": "callum turner",
-          "traffic": "500+",
+          "traffic": "1k+",
           "source": "google-trends-scrape"
         },
         {
@@ -52,18 +52,18 @@
           "source": "google-trends-scrape"
         },
         {
-          "title": "kristi noem",
-          "traffic": "200+",
-          "source": "google-trends-scrape"
-        },
-        {
           "title": "isabelle pedersen",
           "traffic": "2k+",
           "source": "google-trends-scrape"
         },
         {
-          "title": "tesla model y",
+          "title": "kristi noem",
           "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "his and hers",
+          "traffic": "500+",
           "source": "google-trends-scrape"
         },
         {
@@ -72,8 +72,8 @@
           "source": "google-trends-scrape"
         },
         {
-          "title": "his and hers",
-          "traffic": "500+",
+          "title": "tesla model y",
+          "traffic": "200+",
           "source": "google-trends-scrape"
         },
         {
@@ -154,7 +154,7 @@
       ]
     },
     "rssFeeds": {
-      "count": 190,
+      "count": 189,
       "items": [
         {
           "title": "Intel og AMD i åpen krig om håndholdte gaming-PC-er",
@@ -1031,16 +1031,6 @@
           "link": "https://e24.no/internasjonal-oekonomi/i/bOnn6v/donald-trump-postet-upubliserte-jobbtall-paa-sosiale-medier-melder-bloomberg-en-skandale",
           "pubDate": "Fri, 09 Jan 2026 16:00:10 GMT",
           "description": "Investeringsdirektør kaller det «en skandale».",
-          "categories": [
-            "Internasjonal økonomi"
-          ],
-          "source": "E24"
-        },
-        {
-          "title": "Beslutning om Trump-toll fra USAs høyesterett kommer ikke i dag",
-          "link": "https://e24.no/internasjonal-oekonomi/i/rrgg3K/beslutning-om-trump-toll-fra-usas-hoeyesterett-kommer-ikke-i-dag",
-          "pubDate": "Fri, 09 Jan 2026 15:17:21 GMT",
-          "description": "Flere amerikanske medier skriver at dommen lar vente på seg.",
           "categories": [
             "Internasjonal økonomi"
           ],
@@ -1946,7 +1936,7 @@
     },
     {
       "title": "callum turner",
-      "traffic": "500+",
+      "traffic": "1k+",
       "source": "google-trends-scrape"
     },
     {
@@ -1975,18 +1965,18 @@
       "source": "google-trends-scrape"
     },
     {
-      "title": "kristi noem",
-      "traffic": "200+",
-      "source": "google-trends-scrape"
-    },
-    {
       "title": "isabelle pedersen",
       "traffic": "2k+",
       "source": "google-trends-scrape"
     },
     {
-      "title": "tesla model y",
+      "title": "kristi noem",
       "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "his and hers",
+      "traffic": "500+",
       "source": "google-trends-scrape"
     },
     {
@@ -1995,8 +1985,8 @@
       "source": "google-trends-scrape"
     },
     {
-      "title": "his and hers",
-      "traffic": "500+",
+      "title": "tesla model y",
+      "traffic": "200+",
       "source": "google-trends-scrape"
     },
     {
@@ -2951,16 +2941,6 @@
       "link": "https://e24.no/internasjonal-oekonomi/i/bOnn6v/donald-trump-postet-upubliserte-jobbtall-paa-sosiale-medier-melder-bloomberg-en-skandale",
       "pubDate": "Fri, 09 Jan 2026 16:00:10 GMT",
       "description": "Investeringsdirektør kaller det «en skandale».",
-      "categories": [
-        "Internasjonal økonomi"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Beslutning om Trump-toll fra USAs høyesterett kommer ikke i dag",
-      "link": "https://e24.no/internasjonal-oekonomi/i/rrgg3K/beslutning-om-trump-toll-fra-usas-hoeyesterett-kommer-ikke-i-dag",
-      "pubDate": "Fri, 09 Jan 2026 15:17:21 GMT",
-      "description": "Flere amerikanske medier skriver at dommen lar vente på seg.",
       "categories": [
         "Internasjonal økonomi"
       ],
