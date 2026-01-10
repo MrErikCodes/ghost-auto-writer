@@ -4,6 +4,7 @@ import fs from 'fs';
 import RSSParser from 'rss-parser';
 import { config } from './config.js';
 import { loadSearchConsoleData, findSeoGaps } from './seo-gaps.js';
+import { scrapeGoogleTrendsNorway, fetchAllRSSFeeds } from './trends-scraper.js';
 
 const BRAIN_FILE = './data/agent-brain.json';
 const TRENDS_FOLDER = './trends';
@@ -127,8 +128,8 @@ export class ResearchAgent {
   }
 
 
-  // Fetch trending topics from Google Trends RSS (works for Norway!)
-  // Caches results for the day to avoid repeated API calls
+  // Fetch trending topics by scraping Google Trends Norway page
+  // Caches results for the day to avoid repeated scraping
   async fetchDailyTrends() {
     const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
 
@@ -138,113 +139,59 @@ export class ResearchAgent {
       return this.brain.cachedTrends.data;
     }
 
-    console.log('📊 Henter ferske trender fra Google Trends Norge...');
-
-    const allItems = [];
-    const seenTitles = new Set();
+    console.log('📊 Henter ferske trender fra Google Trends Norge (scraping)...');
 
     try {
-      const parser = new RSSParser();
+      // Scrape Google Trends Norway page for all trending topics
+      const googleTrends = await scrapeGoogleTrendsNorway();
 
-    // Try multiple RSS feeds
-    const rssFeeds = [
-      { url: 'https://trends.google.com/trending/rss?geo=NO', name: 'NO-general' },
-      // Can add more feeds here if available
-    ];
+      // Also fetch RSS feeds for supplementary tech/news data
+      const rssNews = await fetchAllRSSFeeds();
 
-    // Fetch from all RSS feeds
-    for (const feed of rssFeeds) {
-      try {
-        const feedData = await parser.parseURL(feed.url);
-        if (feedData.items) {
-          feedData.items.forEach(item => {
-            const title = item.title?.toLowerCase();
-            if (title && !seenTitles.has(title)) {
-              seenTitles.add(title);
-              allItems.push({
-                title: item.title,
-                traffic: item['ht:approx_traffic'] || 'Trending',
-                articles: [],
-                relatedQueries: [],
-                source: `google-trends-rss-${feed.name}`
-              });
-            }
-          });
-          console.log(`  ✓ Hentet ${feedData.items.length} trender fra ${feed.name}`);
-        }
-      } catch (error) {
-        console.log(`  ⚠ Kunne ikke hente fra ${feed.name}: ${error.message}`);
+      // Create trends folder if it doesn't exist
+      if (!fs.existsSync(TRENDS_FOLDER)) {
+        fs.mkdirSync(TRENDS_FOLDER, { recursive: true });
       }
-    }
 
-    // Fallback: Try manual XML parsing if RSS parser fails
-    if (allItems.length === 0) {
-      try {
-        const response = await fetch('https://trends.google.com/trending/rss?geo=NO');
-        const xml = await response.text();
+      // Combine: Google Trends as primary (90%), RSS as supplementary (10%)
+      const allTrends = [
+        ...googleTrends,
+        ...rssNews.slice(0, Math.ceil(rssNews.length * 0.1)).map(item => ({
+          title: item.title,
+          traffic: 'RSS News',
+          source: item.source,
+          link: item.link
+        }))
+      ];
 
-        const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-        let match;
+      // Save all trends to date-stamped file
+      const trendsFile = `${TRENDS_FOLDER}/${today}.json`;
+      const trendsData = {
+        date: today,
+        timestamp: new Date().toISOString(),
+        source: 'google-trends-scrape',
+        sources: {
+          googleTrends: { count: googleTrends.length, items: googleTrends },
+          rssFeeds: { count: rssNews.length, items: rssNews }
+        },
+        trends: googleTrends,
+        rssNews: rssNews,
+        totalCount: allTrends.length
+      };
+      fs.writeFileSync(trendsFile, JSON.stringify(trendsData, null, 2));
+      console.log(`  💾 Lagret ${allTrends.length} trender til ${trendsFile}`);
 
-        while ((match = itemRegex.exec(xml)) !== null) {
-          const itemXml = match[1];
-          const titleMatch = itemXml.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) ||
-                            itemXml.match(/<title>(.*?)<\/title>/);
-          const trafficMatch = itemXml.match(/<ht:approx_traffic>(.*?)<\/ht:approx_traffic>/);
+      // Cache for today (only Google Trends for brain cache)
+      this.brain.cachedTrends = { date: today, data: googleTrends };
+      this.brain.rssNews = rssNews;
+      this.saveBrain();
+      console.log(`  ✓ Fant ${googleTrends.length} trending søk + ${rssNews.length} RSS nyheter (cached)`);
+      return googleTrends;
 
-          if (titleMatch) {
-            const title = titleMatch[1].toLowerCase();
-            if (!seenTitles.has(title)) {
-              seenTitles.add(title);
-              allItems.push({
-                title: titleMatch[1],
-                traffic: trafficMatch ? trafficMatch[1] : 'Trending',
-                articles: [],
-                relatedQueries: [],
-                source: 'google-trends-rss-manual'
-              });
-            }
-          }
-        }
-      } catch (error) {
-        console.log(`  ⚠ Kunne ikke hente Google Trends RSS: ${error.message}`);
-      }
-    }
-
-      if (allItems.length > 0) {
-        const results = allItems.slice(0, 200); // Limit to 200 max
-
-        // Create trends folder if it doesn't exist
-        if (!fs.existsSync(TRENDS_FOLDER)) {
-          fs.mkdirSync(TRENDS_FOLDER, { recursive: true });
-        }
-
-        // Save all trends to date-stamped file
-        const trendsFile = `${TRENDS_FOLDER}/${today}.json`;
-        const trendsData = {
-          date: today,
-          timestamp: new Date().toISOString(),
-          source: 'google-trends-rss',
-          trends: results,
-          totalCount: results.length,
-          rssCount: allItems.length
-        };
-        fs.writeFileSync(trendsFile, JSON.stringify(trendsData, null, 2));
-        console.log(`  💾 Lagret ${results.length} trender til ${trendsFile}`);
-
-        // Cache for today
-        this.brain.cachedTrends = { date: today, data: results };
-        this.saveBrain();
-        console.log(`  ✓ Fant ${results.length} trending søk fra Google Trends Norge (cached)`);
-        return results;
-      }
     } catch (error) {
-      console.log(`  ⚠ Kunne ikke hente Google Trends RSS: ${error.message}`);
+      console.log(`  ⚠ Kunne ikke hente trender: ${error.message}`);
+      return [];
     }
-
-    // If RSS failed completely, return empty array
-    console.log('  ⚠ Kunne ikke hente trender fra Google Trends RSS');
-    return [];
   }
 
   // Analyze Search Console data for opportunities

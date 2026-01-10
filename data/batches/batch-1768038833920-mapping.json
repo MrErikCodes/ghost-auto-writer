@@ -1,0 +1,132 @@
+{
+  "timestamp": 1768038833920,
+  "topics": [
+    {
+      "custom_id": "article-0-1768038833920",
+      "topic": {
+        "category": "trending",
+        "topic": "FA Cup og bortetur: Slik dokumenterer du reiseutgifter og billetter når du trenger refusjon",
+        "query": "fa cup",
+        "keywords": [
+          "kvittering",
+          "refusjon",
+          "reiseutgifter dokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Sports-trend kan kobles til kvitteringer for billetter/transport. Ikke kjerne, men kan gi kortsiktig trendtrafikk."
+      }
+    },
+    {
+      "custom_id": "article-1-1768038833920",
+      "topic": {
+        "category": "trending",
+        "topic": "The Voice-billetter og arrangement: Hva er gyldig kjøpsbevis hvis billetten forsvinner?",
+        "query": "the voice",
+        "keywords": [
+          "kvittering billett",
+          "ordrebekreftelse",
+          "billettkjøp dokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Underholdningstrend → billettkvittering er en naturlig bro til tjenesten."
+      }
+    },
+    {
+      "custom_id": "article-2-1768038833920",
+      "topic": {
+        "category": "trending",
+        "topic": "Teslaservice og garanti: hvilke bilag du bør lagre for service, deler og verkstedbesøk (uansett merke)",
+        "query": "tesla model y",
+        "keywords": [
+          "service kvittering",
+          "verkstedfaktura",
+          "garanti bil",
+          "dokumentasjon bil"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Tesla Model Y trender (200+) og vi har allerede bil/utstyr-vinkel, men her dreies til 'service/deler/verkstedbilag' generelt."
+      }
+    },
+    {
+      "custom_id": "article-3-1768038833920",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Optiker og briller: hvilken dokumentasjon bør du lagre for garanti, skade og forsikring",
+        "query": "garanti briller",
+        "keywords": [
+          "briller kvittering",
+          "optiker garanti",
+          "forsikring briller",
+          "reparasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Udekket nisje med høy verdi per kjøp; ofte behov ved knuste glass/innboforsikring."
+      }
+    },
+    {
+      "custom_id": "article-4-1768038833920",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Sportsutstyr: slik dokumenterer du kjøp av ski, bindinger og støvler for reklamasjon og garanti",
+        "query": "garanti ski",
+        "keywords": [
+          "kvittering sport",
+          "reklamasjon binding",
+          "service",
+          "innstilling bindinger"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Januar = vintersport, mye kjøp og reklamasjonsbehov. Gode nisjeeksempler."
+      }
+    },
+    {
+      "custom_id": "article-5-1768038833920",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Chargeback og kortreklamasjon: hvilken dokumentasjon (kvittering/ordre) banken ber om",
+        "query": "kortreklamasjon dokumentasjon",
+        "keywords": [
+          "chargeback",
+          "kortbetaling",
+          "kvittering",
+          "tvist",
+          "dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Høy praktisk verdi, passer kvitteringsarkiv. Lite dekket i kvitteringsnisjen."
+      }
+    },
+    {
+      "custom_id": "article-6-1768038833920",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Når du kjøper brukt på Finn: slik lager du et kjøpsbevis som faktisk holder (for forsikring/videre salg)",
+        "query": "kjøpsbevis finn",
+        "keywords": [
+          "kvittering brukt",
+          "kontrakt",
+          "vipps",
+          "dokumentasjon",
+          "serienummer"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Svært norsk og praktisk. Kvitteringsbehov uten ordinær butikk-kvittering."
+      }
+    },
+    {
+      "custom_id": "article-7-1768038833920",
+      "topic": {
+        "category": "trending",
+        "topic": "Idrettsgallaen og prisutdeling: slik dokumenterer du kjøp av dress, kjole og reiseutlegg (kvittering + refusjon)",
+        "query": "idrettsgallaen",
+        "keywords": [
+          "utlegg",
+          "refusjon",
+          "kvittering reise"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Trend med indirekte relevans; gir en «life situation»-vinkel på kvitteringsbehov ved arrangementer."
+      }
+    }
+  ]
+}

@@ -611,5 +611,645 @@
     "title": "Retur ved nettkjøp uten printer: Slik fikser du returetikett og kvittering helt mobilbasert",
     "ghostPostId": "696101f450c464068e0be186",
     "generatedAt": "2026-01-09T13:26:12.501Z"
+  },
+  {
+    "category": "business",
+    "topic": "Fradrag for næringsdrivende: Kvitteringene som oftest blir avvist (og hvordan du unngår det)",
+    "query": "fradrag for næringsdrivende",
+    "keywords": [
+      "fradrag enkeltpersonforetak",
+      "bilag krav",
+      "bokføring kvitteringer"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Fradrag/ENK er et tema med mange visninger i datasettet; praktisk «avvist/ikke avvist» gir høy nytte.",
+    "title": "Fradrag for næringsdrivende: Kvitteringene som oftest blir avvist (og hvordan du unngår det)",
+    "ghostPostId": "69621b4450c464068e0be18d",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:30.230Z"
+  },
+  {
+    "category": "business",
+    "topic": "Hjemmekontorfradrag i ENK: Hvilke kvitteringer må du faktisk ha?",
+    "query": "fradrag hjemmekontor enkeltmannsforetak",
+    "keywords": [
+      "hjemmekontor fradrag",
+      "kvittering internett",
+      "utstyr hjemmekontor"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy relevans i januar (nytt år/nytt regnskapsår) + finnes i tema-analysen.",
+    "title": "Hjemmekontorfradrag i ENK: Hvilke kvitteringer må du faktisk ha i 2026?",
+    "ghostPostId": "69621b4550c464068e0be193",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:30.621Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Beste mobiltelefon 2025: Slik sikrer du garanti og reklamasjon (kvittering, IMEI, betaling)",
+    "query": "beste mobiltelefon 2025",
+    "keywords": [
+      "garanti mobiltelefon",
+      "kjøpsbevis mobil",
+      "imei",
+      "reklamasjon mobil"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Produkt-temaet «mobil 2025» finnes i data; vi vinkler det mot dokumentasjon (kjerne for oss) og kan fange kjøpsnære søk.",
+    "title": "Beste mobiltelefon 2025: Slik sikrer du garanti og reklamasjon med kvittering, IMEI og betaling",
+    "ghostPostId": "69621b4550c464068e0be199",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:31.077Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Reklamasjonsrett på iPhone: Slik dokumenterer du feilen med bilder, logg og kvittering",
+    "query": "reklamasjonsrett iphone",
+    "keywords": [
+      "reklamasjon iphone",
+      "dokumentere feil",
+      "apple service"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Finnes i problems-listen. Praktisk dokumentasjonsmetode kan skille oss i SERP.",
+    "title": "Reklamasjonsrett på iPhone: Slik dokumenterer du feilen med bilder, logg og kvittering",
+    "ghostPostId": "69621b4550c464068e0be19f",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:31.398Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Xbox-kjøp og gavekort: Slik henter du kvittering fra Microsoft-kontoen (og lagrer den)",
+    "query": "xbox one",
+    "keywords": [
+      "xbox series x",
+      "xbox games",
+      "xbox controller",
+      "kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Xbox trender. Vi knytter til digital kvittering/historikk i konto.",
+    "title": "Xbox-kjøp og gavekort: Slik henter du kvittering fra Microsoft-kontoen (og lagrer den trygt)",
+    "ghostPostId": "69621b4650c464068e0be1a5",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:31.693Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Nintendo Switch-spill: Slik finner du kvitteringer i eShop og dokumenterer kjøp ved feil/konflikt",
+    "query": "switch",
+    "keywords": [
+      "nintendo switch games",
+      "switch spill",
+      "nintendo spill",
+      "kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Nintendo/Switch har høy trend. En eShop-kvitteringsguide er en ny nisje.",
+    "title": "Nintendo Switch-spill: Slik finner du kvitteringer i eShop og dokumenterer kjøp ved feil eller konflikt",
+    "ghostPostId": "69621b4650c464068e0be1ab",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:32.121Z"
+  },
+  {
+    "category": "trending",
+    "topic": "MacBook kjøp brukt eller nytt: Slik lager du ‘garanti-mappe’ med kvittering, serienummer og batteristatus",
+    "query": "macbook air",
+    "keywords": [
+      "macbook pro",
+      "apple macbook",
+      "serienummer",
+      "kjøpsbevis"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "MacBook-søk stiger. Vi vinkler mot dokumentasjon og videresalgsspor (kvitteringer).",
+    "title": "MacBook kjøp brukt eller nytt: Slik lager du en “garanti-mappe” med kvittering, serienummer og batteristatus (MacBook Air i fokus)",
+    "ghostPostId": "69621b4650c464068e0be1b1",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:32.389Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Garanti på møbler: Hva bør du lagre (ordrebekreftelse, materialinfo, monteringsdato)?",
+    "query": "garanti på møbler",
+    "keywords": [
+      "møbler garanti",
+      "kjøpsbevis møbler",
+      "service og reservedeler"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Finnes i warranties-listen. Vi bygger en tydelig ‘hva du bør lagre’-guide.",
+    "title": "Garanti på møbler: Hva bør du lagre for å få hjelp når noe går i stykker?",
+    "ghostPostId": "69621b4750c464068e0be1b7",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:32.615Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Angrerett og nettkjøp: Slik dokumenterer du returfrist og innlevering (kvittering, sporingsnummer, e-post)",
+    "query": "angrerett",
+    "keywords": [
+      "angrerett nettkjøp",
+      "returfrist",
+      "sporingsnummer",
+      "returdokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk og tidløs forbrukerintensjon. Skiller seg fra eksisterende ‘retur uten printer’ ved å fokusere på beviskjeden (frist + innlevering).",
+    "title": "Angrerett og nettkjøp: Slik dokumenterer du returfrist og innlevering (kvittering, sporingsnummer og e-post)",
+    "ghostPostId": "69621b4750c464068e0be1bd",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:32.860Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Prisavslag etter kjøp: Hvilke kvitteringer og bevis trenger du for å kreve kompensasjon?",
+    "query": "prisavslag",
+    "keywords": [
+      "prisavslag reklamasjon",
+      "dokumentasjon prisavslag",
+      "kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Ny vinkel innen forbrukerrett: ikke retur, men prisavslag/kompensasjon. Passer kvitteringslagring.",
+    "title": "Prisavslag etter kjøp: Hvilke kvitteringer og bevis trenger du for å kreve kompensasjon?",
+    "ghostPostId": "69621b4750c464068e0be1c3",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:33.094Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Servicehistorikk: Derfor øker kvitteringer verdien når du selger brukt elektronikk",
+    "query": "servicehistorikk",
+    "keywords": [
+      "selge brukt",
+      "kvittering videresalg",
+      "dokumentasjon elektronikk"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Kobler kvitteringer til kroner og øre ved videresalg (sterk motivasjon).",
+    "title": "Servicehistorikk som gir deg bedre pris: Slik øker kvitteringer verdien når du selger brukt elektronikk",
+    "ghostPostId": "69621b4750c464068e0be1c9",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:33.319Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Mat og dagligvare: Trenger du kvittering for reklamasjon på matvarer (og hvordan gjør du det smart)?",
+    "query": "reklamasjon matvare",
+    "keywords": [
+      "dagligvare kvittering",
+      "reklamasjon butikk",
+      "kjøpsbevis mat"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje som mange opplever, men få guider godt. Gir bredde utover elektronikk.",
+    "title": "Reklamasjon på matvarer: Trenger du kvittering – og hvordan gjør du det smart i 2026?",
+    "ghostPostId": "69621b4850c464068e0be1cf",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:33.602Z"
+  },
+  {
+    "category": "business",
+    "topic": "Reiseutlegg privat: Slik får du orden på taxi, parkering og småkjøp (uten å miste fradrag/tilbakebetaling)",
+    "query": "reiseutlegg",
+    "keywords": [
+      "utlegg kvittering",
+      "parkering kvittering",
+      "taxi kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Tett på kvitteringslagring; komplementerer (uten å kopiere) diett/regnskap-innhold ved å fokusere på småutlegg.",
+    "title": "Reiseutlegg privat: Slik får du orden på taxi, parkering og småkjøp (uten å miste fradrag)",
+    "ghostPostId": "69621b4850c464068e0be1d5",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:33.848Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Nokia og retro-telefoner: Hvorfor kvittering fortsatt betyr noe når du kjøper brukt/retro",
+    "query": "nokia mobil",
+    "keywords": [
+      "nokia 3310",
+      "kjøp brukt",
+      "kjøpsbevis"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Nokia-trenden er høy; vi lager en uventet, relevant vinkel (bruktmarked/retro og dokumentasjon).",
+    "title": "Nokia mobil er tilbake: Derfor bør du alltid ta vare på kvitteringen når du kjøper brukt og retro",
+    "ghostPostId": "69621b4850c464068e0be1db",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:34.089Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Xiaomi robotstøvsuger: Slik dokumenterer du garanti og reservedeler (kvittering + modellnummer)",
+    "query": "xiaomi robotstøvsuger",
+    "keywords": [
+      "roborock",
+      "xiaomi vacuum",
+      "modellnummer",
+      "garanti"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Xiaomi/Roborock-søk stiger; passer godt med dokumentasjon for garanti og reservedeler.",
+    "title": "Xiaomi robotstøvsuger: Slik dokumenterer du garanti og reservedeler (kvittering + modellnummer)",
+    "ghostPostId": "69621b4850c464068e0be1e1",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:34.288Z"
+  },
+  {
+    "category": "trending",
+    "topic": "OnePlus: Slik finner du kjøpsbeviset og hva du gjør hvis nettbutikken er borte",
+    "query": "oneplus",
+    "keywords": [
+      "oneplus nord",
+      "oneplus 11",
+      "garanti",
+      "kjøpsbevis"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "OnePlus trender; vi kobler det til kjøpsbevis og robust lagring.",
+    "title": "OnePlus: Slik finner du kjøpsbeviset – og hva du gjør hvis nettbutikken er borte",
+    "ghostPostId": "69621b4950c464068e0be1e7",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:34.520Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Huawei: Slik dokumenterer du kjøpsbevis for service når du kjøpte via operatør/forhandler",
+    "query": "huawei",
+    "keywords": [
+      "huawei p30 pro",
+      "garanti",
+      "kjøpsbevis",
+      "operatørkjøp"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Huawei-søk stiger. Mange kjøp skjer via operatør—ofte ekstra trøbbel med kvittering.",
+    "title": "Huawei: Slik sikrer du kjøpsbevis for service når mobilen er kjøpt via operatør",
+    "ghostPostId": "69621b4950c464068e0be1ed",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:34.935Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kommunekommisjonen og offentlige dokumenter: Slik lagrer du viktige vedtak/vedlegg sammen med kvitteringene dine",
+    "query": "offentlige dokumenter lagring",
+    "keywords": [
+      "vedtak",
+      "pdf arkiv",
+      "dokumentasjon",
+      "digitalt arkiv"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trenden «kommunekommisjonen» peker på offentlig dokumentinteresse. Vi kobler til trygg lagring av vedtak/vedlegg som ofte trengs sammen med kvitteringer (f.eks. støtteordninger/tilskudd).",
+    "title": "Kommunekommisjonen og offentlige dokumenter: Slik lagrer du vedtak og vedlegg sammen med kvitteringene dine",
+    "ghostPostId": "69621b4950c464068e0be1f3",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:35.098Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "SNL (Store norske leksikon) som kilde: Slik skriver du kvitterings- og garantiartikler med troverdighet (kildeguide)",
+    "query": "kilder for forbrukerrett",
+    "keywords": [
+      "SNL",
+      "Forbrukerrådet",
+      "lovdata",
+      "kildekritikk"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "SNL trender; innholdsstrategi-artikkel for intern E-E-A-T og troverdighet. Kan også deles i fagmiljø.",
+    "title": "SNL som kilde: Slik skriver du kvitterings- og garantiartikler med troverdighet (kildeguide 2026)",
+    "ghostPostId": "69621b4950c464068e0be1f9",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:35.321Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Retur og reklamasjon ved nettkjøp: Slik dokumenterer du leveringstid, skade på pakke og ‘mottatt’-dato",
+    "query": "reklamasjon nettkjøp",
+    "keywords": [
+      "leveringstid",
+      "skadet pakke",
+      "mottatt dato",
+      "sporingshistorikk"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Ny vinkel: beviskjede rundt frister og transportskade (ikke bare kvittering).",
+    "title": "Retur og reklamasjon ved nettkjøp: Slik bygger du en beviskjede for leveringstid, skadet pakke og mottatt-dato",
+    "ghostPostId": "69621b4a50c464068e0be1ff",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:35.535Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når du arver ting: Slik dokumenterer du verdi og proveniens med kvitteringer, bilder og takst",
+    "query": "dokumentere arv",
+    "keywords": [
+      "arv dokumentasjon",
+      "takst",
+      "forsikring",
+      "eierbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Uventet livssituasjon der dokumentasjon er avgjørende. Skiller seg fra skilsmisse-artikkelen.",
+    "title": "Når du arver ting: Slik dokumenterer du verdi og proveniens med kvitteringer, bilder og takst",
+    "ghostPostId": "69621b4a50c464068e0be205",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:35.787Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Elektronikk-service: Dette bør du ta bilde av før du leverer inn produktet (for å unngå tvist)",
+    "query": "levere inn til service",
+    "keywords": [
+      "service tvist",
+      "bilder før service",
+      "reklamasjon dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høyt praktisk behov, ofte oversett. Komplementerer kvitteringslagring.",
+    "title": "Levere inn til service? Dette bør du ta bilde av før du leverer fra deg elektronikken",
+    "ghostPostId": "69621b4a50c464068e0be20b",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:35.986Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "‘Beviskjeden’: Slik dokumenterer du et kjøp fra A til Å (betaling → levering → bruk → service)",
+    "query": "dokumentasjon kjøp",
+    "keywords": [
+      "dokumentasjon kjøp"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Gir et mentalt system som kan anvendes på alle produkter, og bygger merkevareautoritet.",
+    "title": "‘Beviskjeden’: Slik sikrer du dokumentasjon av kjøp fra A til Å (betaling, levering, bruk og service)",
+    "ghostPostId": "69621b4a50c464068e0be211",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:36.208Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når du flytter: Kvitteringer som redder depositumet (vask, maling, småreparasjoner, utstyr)",
+    "query": "depositum dokumentasjon",
+    "keywords": [
+      "depositum dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy relevans for mange, og kvitteringer er ofte avgjørende ved tvist.",
+    "title": "Når du flytter: Kvitteringene som kan redde depositumet ditt (vask, maling og småreparasjoner)",
+    "ghostPostId": "69621b4a50c464068e0be217",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:36.419Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Garantibevis for håndverkertjenester: Hva bør du lagre etter arbeid hjemme?",
+    "query": "dokumentasjon håndverker",
+    "keywords": [
+      "dokumentasjon håndverker"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Underdekket nisje: kvittering/faktura + avtale + bilder før/etter.",
+    "title": "Garantibevis for håndverkertjenester: Dokumentasjonen du bør lagre etter arbeid hjemme",
+    "ghostPostId": "69621b4b50c464068e0be21d",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:36.619Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Skjermdump som bevis: Når holder det, og hvordan tar du ‘riktig’ skjermdump?",
+    "query": "skjermdump kjøpsbevis",
+    "keywords": [
+      "skjermdump kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Ny vinkel som matcher hvordan folk faktisk jobber i mobilen.",
+    "title": "Skjermdump som kjøpsbevis: Når holder det – og hvordan tar du en «riktig» skjermdump?",
+    "ghostPostId": "69621b4b50c464068e0be223",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:36.873Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når du mister telefonen: Slik redder du kvitteringer og bevis du trenger til forsikring",
+    "query": "mistet telefon forsikring dokumentasjon",
+    "keywords": [
+      "mistet telefon forsikring dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy relevans og følelser; viser verdien av sentral lagring.",
+    "title": "Når du mister telefonen: Slik redder du kvitteringer og bevis du trenger til forsikring",
+    "ghostPostId": "69621b4b50c464068e0be229",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:37.117Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "‘Kvitteringen ble borte i spam’: Slik bygger du et søk som alltid finner ordrebekreftelser",
+    "query": "finne ordrebekreftelse",
+    "keywords": [
+      "finne ordrebekreftelse"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Konkret, nyttig, og svært annerledes enn de fleste garantiartikler.",
+    "title": "«Kvitteringen ble borte i spam»: Slik bygger du et søk som alltid finner ordrebekreftelser",
+    "ghostPostId": "69621b4b50c464068e0be22f",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:37.334Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvittering på klær og sko: Hva bør du lagre for reklamasjon på søm, glidelås og såle?",
+    "query": "reklamasjon klær",
+    "keywords": [
+      "reklamasjon sko",
+      "kjøpsbevis klær",
+      "reklamasjonsrett klær",
+      "defekt glidelås reklamasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Ny produktkategori (klær/sko) etterspørres i oppgaven. Mange vet ikke at reklamasjon også gjelder her; kvittering er ofte eneste bevis.",
+    "title": "Kvittering på klær og sko: Hva bør du lagre for reklamasjon på søm, glidelås og såle?",
+    "ghostPostId": "69621b4c50c464068e0be235",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:37.557Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Møbler: Hvordan dokumentere montering og feil (knirk, skeivhet) når du reklamerer",
+    "query": "reklamasjon møbler",
+    "keywords": [
+      "garanti møbler",
+      "kjøpsbevis møbler",
+      "monteringsfeil dokumentasjon",
+      "bilder reklamasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Møbler er en annen produktkategori enn elektronikk; dokumentasjon handler ofte om bilder, underlag og montering.",
+    "title": "Reklamasjon på møbler: Slik dokumenterer du montering og feil (knirk, skeivhet) – og får saken i mål",
+    "ghostPostId": "69621b4c50c464068e0be23b",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:37.755Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Vigo/videregående: Slik dokumenterer du kjøp av PC/utstyr til skole (forsikring og garanti)",
+    "query": "vigo videregående pc",
+    "keywords": [
+      "skole pc kvittering",
+      "laptop garanti skole",
+      "forsikring elev pc",
+      "utstyr videregående dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Google Trends viser Vigo-oppgang. Vi kobler det til typisk januar-vinter tema: skole/utstyr, garanti og dokumentasjon.",
+    "title": "Vigo videregående PC: Slik dokumenterer du kjøp av skole-PC og utstyr (garanti og forsikring)",
+    "ghostPostId": "69621b4c50c464068e0be241",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:37.940Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Skeidar/Bohus/Møbelringen: Dokumentasjon ved reklamasjon på sofa (stoff, søm, puter, ramme)",
+    "query": "reklamasjon sofa",
+    "keywords": [
+      "skeidar kvittering",
+      "bohus kvittering",
+      "møbelringen kvittering",
+      "garanti sofa"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Møbelnisje med stor verdi og typiske feil etter måneder/år. Nytt vs elektronikk.",
+    "title": "Reklamasjon på sofa: Slik sikrer du dokumentasjon fra Skeidar, Bohus og Møbelringen",
+    "ghostPostId": "69621b4c50c464068e0be247",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:38.138Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Når banktransaksjonen mangler butikknavn: Slik finner du igjen kjøpet (MCC, beløp, tidspunkt)",
+    "query": "banktransaksjon kjøpsbevis",
+    "keywords": [
+      "korttransaksjon dokumentasjon",
+      "mcc kode",
+      "bankutskrift kvittering",
+      "korthistorikk bevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Veldig konkret, teknisk og nyttig. Mange får avslag fordi transaksjonen er uklar; dette gir en ‘detektiv-guide’.",
+    "title": "Når banktransaksjonen mangler butikknavn: Slik finner du igjen kjøpet (MCC, beløp og tidspunkt)",
+    "ghostPostId": "69621b4c50c464068e0be24d",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:38.398Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Slik skriver du en kort og effektiv reklamasjons-epost (mal + vedleggsrekkefølge)",
+    "query": "reklamasjon epost mal",
+    "keywords": [
+      "reklamasjon mal",
+      "klagebrev reklamasjon",
+      "vedlegg kjøpsbevis",
+      "bilder ved reklamasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Ikke duplikat av ‘10 vanlige feil’; her får brukeren en konkret mal og ‘rekkefølge på vedlegg’ som øker sjansen for rask løsning.",
+    "title": "Reklamasjon epost mal: Slik skriver du en kort og effektiv reklamasjons-epost (med riktig vedleggsrekkefølge)",
+    "ghostPostId": "69621b4d50c464068e0be253",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:38.614Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kjøp på abonnement/avbetaling: Hvilke dokumenter bør du lagre i tillegg til kvittering (kontrakt, vilkår, leveranse)?",
+    "query": "avbetaling dokumentasjon",
+    "keywords": [
+      "abonnement kjøp dokumentasjon",
+      "delbetaling kvittering",
+      "kontrakt kjøp",
+      "leveringsbekreftelse"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Uvanlig, men relevant: mange kjøp er knyttet til avtaler, ikke én kvittering. Gir nyttig ‘dokumentpakke’-vri uten å kopiere tidligere ‘bevispakke’ (mer avgrenset til avbetaling/abonnement).",
+    "title": "Kjøp på abonnement eller avbetaling: Dokumentasjonen du bør lagre (ikke bare kvitteringen)",
+    "ghostPostId": "69621b4d50c464068e0be259",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:38.917Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Nokia- og retro-elektronikk: Slik dokumenterer du verdi og eierskap når kvittering ikke finnes",
+    "query": "dokumentere verdi elektronikk",
+    "keywords": [
+      "retro mobil verdi",
+      "samlerobjekt dokumentasjon",
+      "forsikring uten kvittering",
+      "bilder og serienummer"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Nokia trender. Vri mot dokumentasjon for verdi/forsikring på eldre/retro gjenstander.",
+    "title": "Nokia og retro-elektronikk: Slik dokumenterer du verdi og eierskap når kvitteringen mangler",
+    "ghostPostId": "69621b4d50c464068e0be25f",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:39.143Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Byggevarer: slik dokumenterer du parti/lot-nummer for fliser, maling og trelast",
+    "query": "partinummer fliser",
+    "keywords": [
+      "partinummer fliser"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Supernisje med høy verdi ved oppussing; lav konkurranse.",
+    "title": "Partinummer på fliser, maling og trelast: Slik dokumenterer du lot-nummeret (og sparer deg for dyrt oppussingskaos)",
+    "ghostPostId": "69621b4d50c464068e0be265",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:39.394Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Planter og hage: ‘vinterdød’-reklamasjon – hvilke bilder og datoer bør du lagre?",
+    "query": "reklamasjon planter",
+    "keywords": [
+      "reklamasjon planter"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Uvanlig tema som passer perfekt til konseptet ‘lagring over tid’.",
+    "title": "Reklamasjon på planter etter «vinterdød»: Bildene og datoene som kan redde hagesesongen",
+    "ghostPostId": "69621b4e50c464068e0be26b",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:39.590Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "NetOnNet/Proshop/Dustin: ‘RMA-klar’ dokumentpakke for nettbutikker",
+    "query": "rma dokumentasjon",
+    "keywords": [
+      "rma dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Skaper en hub-side som kan lenkes fra flere butikkguider.",
+    "title": "RMA-dokumentasjon i 2026: Slik lager du en «RMA-klar» dokumentpakke for NetOnNet, Proshop og Dustin",
+    "ghostPostId": "69621b4e50c464068e0be271",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:39.836Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Banktransaksjonen mangler butikknavn: slik sporer du kjøpet med MCC og tidspunkt",
+    "query": "banktransaksjon kjøpsbevis",
+    "keywords": [
+      "banktransaksjon kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Unik, konkret og svært nyttig når kvittering mangler.",
+    "title": "Banktransaksjonen mangler butikknavn? Slik finner du kjøpet med MCC-kode og tidspunkt",
+    "ghostPostId": "69621b4e50c464068e0be277",
+    "batchId": "batch_69616a8e8f48819097b43a123aee27a1",
+    "generatedAt": "2026-01-10T09:26:40.097Z"
   }
 ]
