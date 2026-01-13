@@ -1448,5 +1448,328 @@
     "ghostPostId": "696226c350c464068e0be2c0",
     "batchId": "batch_6962260a6698819083a76ac305d5d89f",
     "generatedAt": "2026-01-10T10:15:32.595Z"
+  },
+  {
+    "category": "trending",
+    "topic": "IPTV-trenden: hva bør du lagre av kvitteringer ved abonnementstvister og oppsigelse?",
+    "query": "iptv",
+    "keywords": [
+      "abonnement kvittering",
+      "digitale kjøp dokumentasjon",
+      "betaling abonnement"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Google Trends viser 'iptv' (500+). Knytt til dokumentasjon ved tvister/chargeback uten å promotere ulovlig bruk.",
+    "title": "IPTV-trenden i 2026: Hvilke kvitteringer bør du lagre ved abonnementstvister og oppsigelse?",
+    "ghostPostId": "69663fd350c464068e0be2c6",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:31.674Z"
+  },
+  {
+    "category": "trending",
+    "topic": "TV2 Nyheter og nyhetskvitteringer: slik dokumenterer du mediekjøp, abonnement og oppsigelse",
+    "query": "tv2 nyheter",
+    "keywords": [
+      "abonnement kvittering",
+      "oppsigelse dokumentasjon",
+      "digitale kjøp"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trend kan utnyttes ved å lage en generell guide for dokumentasjon av medieabonnement.",
+    "title": "TV2 Nyheter og nyhetskvitteringer: Slik dokumenterer du mediekjøp, abonnement og oppsigelse",
+    "ghostPostId": "69663fd350c464068e0be2cc",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:32.116Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Grok/AI-trenden: slik bruker du AI trygt til å sortere kvitteringer (uten å dele sensitive data)",
+    "query": "grok",
+    "keywords": [
+      "ai kvitteringer",
+      "personvern kvittering",
+      "automatisk kategorisering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "AI-verktøy trender; vinkel på sikkerhet og praksis er relevant for kvitteringslagring.",
+    "title": "Grok og AI-trenden: Slik sorterer du kvitteringer trygt – uten å dele sensitive data",
+    "ghostPostId": "69663fd450c464068e0be2d2",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:32.700Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Lego Pokémon-trenden: kvitteringer som beskytter samlerverdi og reklamasjon på leketøy",
+    "query": "lego pokemon",
+    "keywords": [
+      "samlerverdi dokumentasjon",
+      "kvittering leketøy",
+      "garanti leker"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trend kan kobles til dokumentasjon av samlerkjøp, videresalg og reklamasjon.",
+    "title": "Lego Pokémon-trenden: Slik kan kvitteringen beskytte samlerverdien (og reklamasjonen) på leketøy",
+    "ghostPostId": "69663fd450c464068e0be2d8",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:33.114Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Liverpool/FA Cup-billetter: dokumentene du bør lagre når kampen flyttes eller avlyses",
+    "query": "liverpool",
+    "keywords": [
+      "billetter kvittering",
+      "refusjon arrangement",
+      "reiseutgifter dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Sportstrender gir anledning til generisk guide for billetter/refusjon. (Unngår tidligere FA Cup-bortetur ved annen vinkel: flytting/avlysning + billetter).",
+    "title": "Liverpool og FA Cup-billetter: Dokumentene du bør lagre når kampen flyttes eller avlyses",
+    "ghostPostId": "69663fd550c464068e0be2de",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:33.393Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitterings-beredskap: din «go-bag» av dokumentasjon ved innbrudd, brann eller vannskade",
+    "query": "dokumentasjon ved skade",
+    "keywords": [
+      "dokumentasjon ved skade"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Uventet, høy nytte; knytter kvitteringer til reelle kriser og skaper lagringsmotiv.",
+    "title": "Kvitterings-beredskap: din «go-bag» av dokumentasjon ved innbrudd, brann eller vannskade",
+    "ghostPostId": "69663fd550c464068e0be2e4",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:33.694Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Barneutstyr og garantier: slik bygger du en dokumentmappe som følger vogna til neste eier",
+    "query": "garanti barneutstyr",
+    "keywords": [
+      "garanti barneutstyr"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk bruktmarked-kobling og emosjonell relevans.",
+    "title": "Barneutstyr og garantier: slik bygger du en dokumentmappe som følger vogna til neste eier",
+    "ghostPostId": "69663fd550c464068e0be2ea",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:33.964Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Pakkelapp og ordrebekreftelse som kjøpsbevis: når holder det uten kvittering?",
+    "query": "kvalifisert kjøpsbevis",
+    "keywords": [
+      "ordrebekreftelse",
+      "pakkelapp",
+      "retur uten kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Vanlig friksjon ved netthandel/retur: mange har bare pakkelapp. Ny vinkel som ikke er dekket i listen.",
+    "title": "Pakkelapp og ordrebekreftelse som kjøpsbevis: Når holder det uten kvittering?",
+    "ghostPostId": "69663fd650c464068e0be2f0",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:34.403Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når barnet kjøper i appen: slik dokumenterer du kjøpet og får tilbake penger (Apple/Google)",
+    "query": "refusjon in-app kjøp",
+    "keywords": [
+      "refusjon in-app kjøp"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy emosjonell relevans og konkret dokumentasjonsbehov (kvittering, ordrenr., skjermbilder).",
+    "title": "Når barnet kjøper i appen: slik dokumenterer du kjøpet og får tilbake penger (Apple/Google)",
+    "ghostPostId": "69663fd650c464068e0be2f6",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:34.640Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Strøm og nettleie: slik lagrer du faktura/kvittering for støtteordninger, fradrag og flytting",
+    "query": "strøm faktura dokumentasjon",
+    "keywords": [
+      "strømregning",
+      "faktura strøm",
+      "dokumentasjon bosted"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Januar = høye strømtema; kvittering/faktura brukes som bosteds- og kostnadsdokumentasjon.",
+    "title": "Strøm og nettleie: slik lagrer du faktura/kvittering for støtteordninger, fradrag og flytting",
+    "ghostPostId": "69663fd650c464068e0be2fc",
+    "batchId": "batch_6966311e9ea48190852e7fd095033e81",
+    "generatedAt": "2026-01-13T12:51:34.906Z"
+  },
+  {
+    "category": "trending",
+    "topic": "IPTV: Slik lagrer du kvitteringer og avtalevilkår for strømmetjenester (når du må si opp eller klage)",
+    "query": "iptv",
+    "keywords": [
+      "abonnement kvittering",
+      "betaling bevis",
+      "oppsigelse dokumentasjon"
+    ],
+    "dataSource": "daily-trends",
+    "rationale": "Trend-topic med betalings-/abonnementsdimensjon; vår vinkel er dokumentasjon, ikke ulovlighet/teknikk.",
+    "title": "IPTV i 2026: Slik lagrer du kvitteringer og avtalevilkår for strømmetjenester når du må si opp eller klage",
+    "ghostPostId": "6966452550c464068e0be302",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:13.822Z"
+  },
+  {
+    "category": "seasonal",
+    "topic": "Campus-start i januar: Slik organiserer du kvitteringer for studieutstyr, bøker og PC (for garanti)",
+    "query": "campus",
+    "keywords": [
+      "kvittering pc",
+      "kvittering skolebøker",
+      "garanti laptop"
+    ],
+    "dataSource": "daily-trends",
+    "rationale": "Trend 'campus' + januar; mange kjøp av elektronikk og bøker med behov for garanti/reklamasjon.",
+    "title": "Campus-start i januar: Slik organiserer du kvitteringer for studieutstyr, bøker og PC (garanti og reklamasjon)",
+    "ghostPostId": "6966452650c464068e0be308",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:14.357Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Lego Pokémon: Slik lagrer du kvitteringer for samleobjekter og gaver (for retur og verdi)",
+    "query": "lego pokemon",
+    "keywords": [
+      "kvittering gave",
+      "kvittering samleobjekt",
+      "dokumentasjon verdi"
+    ],
+    "dataSource": "daily-trends",
+    "rationale": "Trend; vinkel på gaver/samleobjekter hvor kvittering brukes til retur og dokumentasjon av verdi.",
+    "title": "Lego Pokémon: Slik lagrer du kvitteringer for samleobjekter og gaver (retur og verdi)",
+    "ghostPostId": "6966452650c464068e0be30e",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:14.830Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik bygger du en 'garanti-tidslinje' for alt i hjemmet (fra mobil til varmepumpe)",
+    "query": "garanti oversikt",
+    "keywords": [
+      "garanti oversikt"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Unik ramme som passer produktet (kvitteringslagring).",
+    "title": "Slik bygger du en garanti-tidslinje for alt i hjemmet (og får full garanti oversikt)",
+    "ghostPostId": "6966452750c464068e0be314",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:15.209Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Skjulte garantibevis: Serienummer-fellen på hvitevarer (hvor du finner det før du trenger det)",
+    "query": "serienummer hvitevarer",
+    "keywords": [
+      "serienummer hvitevarer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Lav konkurranse; høy nytte over mange år.",
+    "title": "Skjulte garantibevis: Serienummer-fellen på hvitevarer (og hvor du finner det før du trenger det)",
+    "ghostPostId": "6966452750c464068e0be31a",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:15.553Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Grok/AI-verktøy: Slik lagrer du kvitteringer fra AI-tjenester (fakturainfo, MVA og firmabilag)",
+    "query": "grok",
+    "keywords": [
+      "ai abonnement kvittering",
+      "mva saas",
+      "digitalt bilag"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "AI-verktøy trend; kobles naturlig til programvarekvitteringer/utlegg uten å kopiere eksisterende app-store/SaaS-artikkel ved å fokusere på nye AI-tjenester.",
+    "title": "Grok og andre AI-verktøy: Slik lagrer du kvitteringer, MVA og firmabilag riktig",
+    "ghostPostId": "6966452750c464068e0be320",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:15.812Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Digital dødsrydding: Slik overtar familien kvitteringer, garanti og abonnement uten kaos",
+    "query": "dødsbo dokumentasjon",
+    "keywords": [
+      "dødsbo dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk livssituasjon med lite konkurranse og høy relevans for dokumentlagring.",
+    "title": "Digital dødsrydding: Slik overtar familien kvitteringer, garanti og abonnement uten kaos",
+    "ghostPostId": "6966452750c464068e0be326",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:16.124Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Bohus: Dokumentasjon du må ha ved reklamasjon på sofa og madrass (impregnering, transport, flekkbehandling)",
+    "query": "bohus reklamasjon",
+    "keywords": [
+      "bohus kvittering",
+      "garanti møbler",
+      "reklamasjonsrett"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Møbler gir ofte tvister om slitasje vs feil; kvittering + pleiehistorikk er kritisk.",
+    "title": "Bohus reklamasjon: Dokumentasjonen du må ha ved reklamasjon på sofa og madrass",
+    "ghostPostId": "6966452850c464068e0be32c",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:16.428Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Kid Interiør: Slik dokumenterer du tekstiler og tepper ved reklamasjon (nupper, røyklukt, krymp)",
+    "query": "kid reklamasjon",
+    "keywords": [
+      "kid kvittering",
+      "retur uten kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Ny butikk og ny produktgruppe (tekstiler) med mange typiske reklamasjonsårsaker.",
+    "title": "Kid Interiør: Slik dokumenterer du tekstiler og tepper ved reklamasjon (nupper, røyklukt, krymp)",
+    "ghostPostId": "6966452850c464068e0be332",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:16.691Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Megaflis/Flisekompaniet: Slik lagrer du batch-/lotnummer på flis for å vinne reklamasjonssaken",
+    "query": "reklamasjon flis batchnummer",
+    "keywords": [
+      "megaflis kvittering",
+      "flisekompaniet kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje: batchnummer er ofte avgjørende ved fargeavvik/feil; få skriver om dette.",
+    "title": "Megaflis/Flisekompaniet: Slik lagrer du batch-/lotnummer på flis for å vinne reklamasjonssaken",
+    "ghostPostId": "6966452850c464068e0be338",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:17.055Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Serienummer-jakt: 12 steder produsenter gjemmer serienummeret (og hvorfor du bør lagre bilde + kvittering)",
+    "query": "finne serienummer",
+    "keywords": [
+      "finne serienummer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje, høy nytte, og leder naturlig til lagring av kvittering sammen med serienummer.",
+    "title": "Serienummer-jakt: 12 steder produsenter gjemmer serienummeret (og hvorfor du bør lagre bilde + kvittering)",
+    "ghostPostId": "6966452950c464068e0be33e",
+    "batchId": "batch_6966429ae464819092450ae01c81af46",
+    "generatedAt": "2026-01-13T13:14:17.335Z"
   }
 ]

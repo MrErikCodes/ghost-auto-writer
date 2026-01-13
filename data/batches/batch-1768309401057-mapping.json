@@ -1,0 +1,162 @@
+{
+  "timestamp": 1768309401057,
+  "topics": [
+    {
+      "custom_id": "article-0-1768309401057",
+      "topic": {
+        "category": "trending",
+        "topic": "IPTV: Slik lagrer du kvitteringer og avtalevilkår for strømmetjenester (når du må si opp eller klage)",
+        "query": "iptv",
+        "keywords": [
+          "abonnement kvittering",
+          "betaling bevis",
+          "oppsigelse dokumentasjon"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Trend-topic med betalings-/abonnementsdimensjon; vår vinkel er dokumentasjon, ikke ulovlighet/teknikk."
+      }
+    },
+    {
+      "custom_id": "article-1-1768309401057",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Campus-start i januar: Slik organiserer du kvitteringer for studieutstyr, bøker og PC (for garanti)",
+        "query": "campus",
+        "keywords": [
+          "kvittering pc",
+          "kvittering skolebøker",
+          "garanti laptop"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Trend 'campus' + januar; mange kjøp av elektronikk og bøker med behov for garanti/reklamasjon."
+      }
+    },
+    {
+      "custom_id": "article-2-1768309401057",
+      "topic": {
+        "category": "trending",
+        "topic": "Lego Pokémon: Slik lagrer du kvitteringer for samleobjekter og gaver (for retur og verdi)",
+        "query": "lego pokemon",
+        "keywords": [
+          "kvittering gave",
+          "kvittering samleobjekt",
+          "dokumentasjon verdi"
+        ],
+        "dataSource": "daily-trends",
+        "rationale": "Trend; vinkel på gaver/samleobjekter hvor kvittering brukes til retur og dokumentasjon av verdi."
+      }
+    },
+    {
+      "custom_id": "article-3-1768309401057",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Slik bygger du en 'garanti-tidslinje' for alt i hjemmet (fra mobil til varmepumpe)",
+        "query": "garanti oversikt",
+        "keywords": [
+          "garanti oversikt"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Unik ramme som passer produktet (kvitteringslagring)."
+      }
+    },
+    {
+      "custom_id": "article-4-1768309401057",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Skjulte garantibevis: Serienummer-fellen på hvitevarer (hvor du finner det før du trenger det)",
+        "query": "serienummer hvitevarer",
+        "keywords": [
+          "serienummer hvitevarer"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Lav konkurranse; høy nytte over mange år."
+      }
+    },
+    {
+      "custom_id": "article-5-1768309401057",
+      "topic": {
+        "category": "trending",
+        "topic": "Grok/AI-verktøy: Slik lagrer du kvitteringer fra AI-tjenester (fakturainfo, MVA og firmabilag)",
+        "query": "grok",
+        "keywords": [
+          "ai abonnement kvittering",
+          "mva saas",
+          "digitalt bilag"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "AI-verktøy trend; kobles naturlig til programvarekvitteringer/utlegg uten å kopiere eksisterende app-store/SaaS-artikkel ved å fokusere på nye AI-tjenester."
+      }
+    },
+    {
+      "custom_id": "article-6-1768309401057",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Digital dødsrydding: Slik overtar familien kvitteringer, garanti og abonnement uten kaos",
+        "query": "dødsbo dokumentasjon",
+        "keywords": [
+          "dødsbo dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Sterk livssituasjon med lite konkurranse og høy relevans for dokumentlagring."
+      }
+    },
+    {
+      "custom_id": "article-7-1768309401057",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Bohus: Dokumentasjon du må ha ved reklamasjon på sofa og madrass (impregnering, transport, flekkbehandling)",
+        "query": "bohus reklamasjon",
+        "keywords": [
+          "bohus kvittering",
+          "garanti møbler",
+          "reklamasjonsrett"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Møbler gir ofte tvister om slitasje vs feil; kvittering + pleiehistorikk er kritisk."
+      }
+    },
+    {
+      "custom_id": "article-8-1768309401057",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Kid Interiør: Slik dokumenterer du tekstiler og tepper ved reklamasjon (nupper, røyklukt, krymp)",
+        "query": "kid reklamasjon",
+        "keywords": [
+          "kid kvittering",
+          "retur uten kvittering",
+          "kjøpsbevis"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Ny butikk og ny produktgruppe (tekstiler) med mange typiske reklamasjonsårsaker."
+      }
+    },
+    {
+      "custom_id": "article-9-1768309401057",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Megaflis/Flisekompaniet: Slik lagrer du batch-/lotnummer på flis for å vinne reklamasjonssaken",
+        "query": "reklamasjon flis batchnummer",
+        "keywords": [
+          "megaflis kvittering",
+          "flisekompaniet kvittering",
+          "kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje: batchnummer er ofte avgjørende ved fargeavvik/feil; få skriver om dette."
+      }
+    },
+    {
+      "custom_id": "article-10-1768309401057",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Serienummer-jakt: 12 steder produsenter gjemmer serienummeret (og hvorfor du bør lagre bilde + kvittering)",
+        "query": "finne serienummer",
+        "keywords": [
+          "finne serienummer"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje, høy nytte, og leder naturlig til lagring av kvittering sammen med serienummer."
+      }
+    }
+  ]
+}

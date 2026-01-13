@@ -1,0 +1,150 @@
+{
+  "timestamp": 1768304923984,
+  "topics": [
+    {
+      "custom_id": "article-0-1768304923984",
+      "topic": {
+        "category": "trending",
+        "topic": "IPTV-trenden: hva bør du lagre av kvitteringer ved abonnementstvister og oppsigelse?",
+        "query": "iptv",
+        "keywords": [
+          "abonnement kvittering",
+          "digitale kjøp dokumentasjon",
+          "betaling abonnement"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Google Trends viser 'iptv' (500+). Knytt til dokumentasjon ved tvister/chargeback uten å promotere ulovlig bruk."
+      }
+    },
+    {
+      "custom_id": "article-1-1768304923984",
+      "topic": {
+        "category": "trending",
+        "topic": "TV2 Nyheter og nyhetskvitteringer: slik dokumenterer du mediekjøp, abonnement og oppsigelse",
+        "query": "tv2 nyheter",
+        "keywords": [
+          "abonnement kvittering",
+          "oppsigelse dokumentasjon",
+          "digitale kjøp"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trend kan utnyttes ved å lage en generell guide for dokumentasjon av medieabonnement."
+      }
+    },
+    {
+      "custom_id": "article-2-1768304923984",
+      "topic": {
+        "category": "trending",
+        "topic": "Grok/AI-trenden: slik bruker du AI trygt til å sortere kvitteringer (uten å dele sensitive data)",
+        "query": "grok",
+        "keywords": [
+          "ai kvitteringer",
+          "personvern kvittering",
+          "automatisk kategorisering"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "AI-verktøy trender; vinkel på sikkerhet og praksis er relevant for kvitteringslagring."
+      }
+    },
+    {
+      "custom_id": "article-3-1768304923984",
+      "topic": {
+        "category": "trending",
+        "topic": "Lego Pokémon-trenden: kvitteringer som beskytter samlerverdi og reklamasjon på leketøy",
+        "query": "lego pokemon",
+        "keywords": [
+          "samlerverdi dokumentasjon",
+          "kvittering leketøy",
+          "garanti leker"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trend kan kobles til dokumentasjon av samlerkjøp, videresalg og reklamasjon."
+      }
+    },
+    {
+      "custom_id": "article-4-1768304923984",
+      "topic": {
+        "category": "trending",
+        "topic": "Liverpool/FA Cup-billetter: dokumentene du bør lagre når kampen flyttes eller avlyses",
+        "query": "liverpool",
+        "keywords": [
+          "billetter kvittering",
+          "refusjon arrangement",
+          "reiseutgifter dokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Sportstrender gir anledning til generisk guide for billetter/refusjon. (Unngår tidligere FA Cup-bortetur ved annen vinkel: flytting/avlysning + billetter)."
+      }
+    },
+    {
+      "custom_id": "article-5-1768304923984",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Kvitterings-beredskap: din «go-bag» av dokumentasjon ved innbrudd, brann eller vannskade",
+        "query": "dokumentasjon ved skade",
+        "keywords": [
+          "dokumentasjon ved skade"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Uventet, høy nytte; knytter kvitteringer til reelle kriser og skaper lagringsmotiv."
+      }
+    },
+    {
+      "custom_id": "article-6-1768304923984",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Barneutstyr og garantier: slik bygger du en dokumentmappe som følger vogna til neste eier",
+        "query": "garanti barneutstyr",
+        "keywords": [
+          "garanti barneutstyr"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Sterk bruktmarked-kobling og emosjonell relevans."
+      }
+    },
+    {
+      "custom_id": "article-7-1768304923984",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Pakkelapp og ordrebekreftelse som kjøpsbevis: når holder det uten kvittering?",
+        "query": "kvalifisert kjøpsbevis",
+        "keywords": [
+          "ordrebekreftelse",
+          "pakkelapp",
+          "retur uten kvittering",
+          "kjøpsbevis"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Vanlig friksjon ved netthandel/retur: mange har bare pakkelapp. Ny vinkel som ikke er dekket i listen."
+      }
+    },
+    {
+      "custom_id": "article-8-1768304923984",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når barnet kjøper i appen: slik dokumenterer du kjøpet og får tilbake penger (Apple/Google)",
+        "query": "refusjon in-app kjøp",
+        "keywords": [
+          "refusjon in-app kjøp"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Høy emosjonell relevans og konkret dokumentasjonsbehov (kvittering, ordrenr., skjermbilder)."
+      }
+    },
+    {
+      "custom_id": "article-9-1768304923984",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Strøm og nettleie: slik lagrer du faktura/kvittering for støtteordninger, fradrag og flytting",
+        "query": "strøm faktura dokumentasjon",
+        "keywords": [
+          "strømregning",
+          "faktura strøm",
+          "dokumentasjon bosted"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Januar = høye strømtema; kvittering/faktura brukes som bosteds- og kostnadsdokumentasjon."
+      }
+    }
+  ]
+}
