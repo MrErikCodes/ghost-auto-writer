@@ -1,0 +1,4192 @@
+{
+  "date": "2026-02-08",
+  "timestamp": "2026-02-08T17:22:02.965Z",
+  "source": "google-trends-scrape",
+  "sources": {
+    "googleTrends": {
+      "count": 62,
+      "items": [
+        {
+          "title": "sander eitrem",
+          "traffic": "10k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "liverpool mot man. city",
+          "traffic": "10k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "lindsey vonn",
+          "traffic": "20k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "anna odine strøm",
+          "traffic": "10k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "mona juul",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "super bowl",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "liverpool vs man city",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ol program i dag",
+          "traffic": "5k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "klæbo",
+          "traffic": "5k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "brad arnold",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "atlético madrid mot real betis",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ted jan bloemen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "maren hjelmeset kirkeeide",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "sven kramer",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "aksel lund svindal",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "bart swings",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "norge milano cortina",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "anterselva",
+          "traffic": "1k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "dorothea wierer",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ain country",
+          "traffic": "1k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "nyenget",
+          "traffic": "1k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "nrk",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "vetle sjåstad christiansen",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ørland",
+          "traffic": "2k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "mattis stenshagen",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ain",
+          "traffic": "1k+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "morsdagen",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "val di fiemme",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "eric perrot",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "julia simon",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "expressen",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "mathis desloges",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "skiathlon",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "harald østberg amundsen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "emil iversen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "gullfisken",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "edvin anger",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "lindsey vonn boyfriend",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "aamodt kilde",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "curling norge",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "breezy johnson",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "mikaela shiffrin",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "marit bjørgen",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "therese johaug",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "østlendingen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "snoop dogg",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "klassekampen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "julie zelingrova",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "niskanen",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "petter northug",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "skiathlon ol",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "tynset",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ilia malinin",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "nika prevc",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "mesternes mester",
+          "traffic": "500+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "adressa",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "fifa",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "svt",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "ola lunde",
+          "traffic": "200+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "altaposten",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "rbnett",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        },
+        {
+          "title": "newcastle vs brentford",
+          "traffic": "100+",
+          "source": "google-trends-scrape"
+        }
+      ]
+    },
+    "rssFeeds": {
+      "count": 191,
+      "items": [
+        {
+          "title": "Er det mulig å unngå USA og Kina når du kjøper nytt?",
+          "link": "https://www.tek.no/i/ArlVBz",
+          "pubDate": "Sun, 08 Feb 2026 04:00:00 GMT",
+          "description": "Dette er de «Trump og Xi-sikre» testvinnerne og anbefalingene våre.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den eneste bilen vi har testet med baguette-holder",
+          "link": "https://www.tek.no/i/aJPV2d",
+          "pubDate": "Sat, 07 Feb 2026 04:00:00 GMT",
+          "description": "Renault 4 E-Tech er både sjarmerende og veldig fransk.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Puster liv i legendarisk Nintendo-flopp",
+          "link": "https://www.tek.no/i/JOEAQj",
+          "pubDate": "Fri, 06 Feb 2026 17:00:00 GMT",
+          "description": "Vi prøvde Nintendos sagnomsuste «VR-helvete».",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Din neste PC kan ha «kina-minne»",
+          "link": "https://www.tek.no/i/RjyJzJ",
+          "pubDate": "Fri, 06 Feb 2026 16:30:00 GMT",
+          "description": "Kinesiske produsenter er billigere, men er de gode nok?",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Vi har testet trådløse støvsugere på budsjett",
+          "link": "https://www.tek.no/i/7660eo",
+          "pubDate": "Fri, 06 Feb 2026 14:44:11 GMT",
+          "description": "Ja, man finner kvalitet til langt under 5000 kr.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Google utvider AirDrop til flere Android-telefoner",
+          "link": "https://www.tek.no/i/gk0g6A",
+          "pubDate": "Fri, 06 Feb 2026 14:30:00 GMT",
+          "description": "Snart kan flere dele filer med iPhone.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Slipp kalde tær i vinter",
+          "link": "https://www.tek.no/i/y6WE8K",
+          "pubDate": "Fri, 06 Feb 2026 13:54:21 GMT",
+          "description": "Vi har testet varmesåler.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Slik holder du deg varm på hendene om vinteren",
+          "link": "https://www.tek.no/i/l36j6e",
+          "pubDate": "Fri, 06 Feb 2026 13:22:55 GMT",
+          "description": "Vi har testet varmehansker og votter.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Nvidia utsetter nye grafikkort",
+          "link": "https://www.tek.no/i/oE64y0",
+          "pubDate": "Fri, 06 Feb 2026 13:03:55 GMT",
+          "description": "RTX 60-serien kan drøye helt til 2028.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "EU-kommisjonen: Tiktok bryter med EU-regler",
+          "link": "https://www.tek.no/i/K8pd5G",
+          "pubDate": "Fri, 06 Feb 2026 11:36:17 GMT",
+          "description": "TikToks design strider mot EUs digitale regelverk, er en foreløpig konklusjon fra EU-kommisjonen.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Morsdag 2026: Våre beste gavetips",
+          "link": "https://www.tek.no/i/zEnKXO",
+          "pubDate": "Fri, 06 Feb 2026 10:34:50 GMT",
+          "description": "Sjekk ut Tek-redaksjonens tips til morsdagsgaver!",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "HBO lager Baldur's Gate-serie",
+          "link": "https://www.tek.no/i/GxQ4M4",
+          "pubDate": "Fri, 06 Feb 2026 09:38:00 GMT",
+          "description": "«The Last of Us»-skaperen står bak.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "AI-agenten alle snakker om: – Et minefelt",
+          "link": "https://www.tek.no/i/bOzVwq",
+          "pubDate": "Thu, 05 Feb 2026 13:41:01 GMT",
+          "description": "Kan kontrollere alt på datamaskinen din.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "PS5-konkurrent utsettes",
+          "link": "https://www.tek.no/i/zOrpdv",
+          "pubDate": "Thu, 05 Feb 2026 08:28:27 GMT",
+          "description": "Skulle egentlig lanseres tidlig i år.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "– Snakker vi årets gøyeste sportsspill?",
+          "link": "https://www.tek.no/i/d4m9dq",
+          "pubDate": "Thu, 05 Feb 2026 06:30:16 GMT",
+          "description": "Vi tok turen til Nintendo for å sjekke ut vårens utgivelser.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Epic Games-sjef innrømmer: – Spillbutikken vår suger",
+          "link": "https://www.tek.no/i/L41b71",
+          "pubDate": "Wed, 04 Feb 2026 15:00:00 GMT",
+          "description": "Lover bedre app og nye funksjoner i år.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Slik kan du gå gjennom Epstein-dokumentene som en Gmail-innboks",
+          "link": "https://www.tek.no/i/GxQ9Wx",
+          "pubDate": "Wed, 04 Feb 2026 12:22:51 GMT",
+          "description": "Utviklere har gjort det enkelt å søke gjennom tusenvis av filer.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Dette skjer når elbilen møter 30 minusgrader",
+          "link": "https://www.tek.no/i/vrO79p",
+          "pubDate": "Wed, 04 Feb 2026 09:44:33 GMT",
+          "description": "på 1 prosent hadde de bare sekunder å komme seg til veikanten.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Take-Two-sjef: Skal ikke utsette GTA 6 igjen",
+          "link": "https://www.tek.no/i/GxQ90x",
+          "pubDate": "Wed, 04 Feb 2026 07:55:19 GMT",
+          "description": "Markedsføringen starter til sommeren.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Telenor tvinger fortsatt kunder til å leie TV-boks for T-We",
+          "link": "https://www.tek.no/i/Ar3V1n",
+          "pubDate": "Tue, 03 Feb 2026 17:02:25 GMT",
+          "description": "Selv om alt egentlig kan strømmes.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Spillaksjer stupte etter Googles nye AI-verktøy",
+          "link": "https://www.tek.no/i/V613W4",
+          "pubDate": "Tue, 03 Feb 2026 09:15:16 GMT",
+          "description": "Kan generere spillverdener på få minutter.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "AI-roboter har fått sitt eget sosiale nettverk",
+          "link": "https://www.tek.no/i/q6Rrr0",
+          "pubDate": "Mon, 02 Feb 2026 12:19:59 GMT",
+          "description": "32.000 boter diskuterer uten menneskelig innblanding.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Full stans i bilmarkedet etter desember-rushet",
+          "link": "https://www.tek.no/i/q6RwLm",
+          "pubDate": "Mon, 02 Feb 2026 10:48:14 GMT",
+          "description": "Det ble registrert bare 2218 nye personbiler i januar, en nedgang på 76,7 prosent fra samme måned i fjor. Det viser registreringstallene fra Opplysningsrådet for veitrafikken (OFV).",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "SpaceX vil skyte opp en million satellitter for kunstig intelligens",
+          "link": "https://www.tek.no/i/j0z13q",
+          "pubDate": "Mon, 02 Feb 2026 07:37:36 GMT",
+          "description": "Elon Musks romfartsselskap søker om å bygge et «orbitalt datasenter».",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den perfekte utvidelsen til en laptop",
+          "link": "https://www.tek.no/i/Av6Wnx",
+          "pubDate": "Sun, 01 Feb 2026 11:30:00 GMT",
+          "description": "Vi har funnet den beste USB-C-huben.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "– Prismarkedsføringen for elsykler fra Momas kan være ulovlig",
+          "link": "https://www.tek.no/i/e7Kl9l",
+          "pubDate": "Sat, 31 Jan 2026 04:00:00 GMT",
+          "description": "Dette uttaler Forbrukerrådet.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Grafikkortgigant advarer om kollaps",
+          "link": "https://www.tek.no/i/7p5QPw",
+          "pubDate": "Fri, 30 Jan 2026 15:09:41 GMT",
+          "description": "Zotac frykter hele bransjen kan gå under på grunn av minnekrisen.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Oppdatering gir trøbbel for Garmin-klokker",
+          "link": "https://www.tek.no/i/Rjyq9a",
+          "pubDate": "Fri, 30 Jan 2026 14:14:24 GMT",
+          "description": "Smartklokkene mistet funksjoner. Slik fikser du det.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Advarer EX30-eiere igjen: Nå om lading innendørs",
+          "link": "https://www.tek.no/i/8pB7Q2",
+          "pubDate": "Fri, 30 Jan 2026 11:44:22 GMT",
+          "description": "Kan begynne å brenne, men ikke i Norge.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Nederlandsk forbrukertilsyn åpner granskingssak mot Roblox",
+          "link": "https://www.tek.no/i/167X6X",
+          "pubDate": "Fri, 30 Jan 2026 09:51:11 GMT",
+          "description": "Forbrukertilsynet i Nederland (ACM) har satt i gang en gransking av den amerikanske spillplattformen Roblox på grunn av risiko for mindreårige brukere i EU.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Windows 11 når én milliard brukere",
+          "link": "https://www.tek.no/i/5pnya1",
+          "pubDate": "Fri, 30 Jan 2026 08:58:47 GMT",
+          "description": "Microsoft feirer milepæl, men erkjenner at operativsystemet har store problemer som må fikses.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Apple melder om knallsalg av iPhone",
+          "link": "https://www.tek.no/i/GxQedB",
+          "pubDate": "Fri, 30 Jan 2026 08:32:57 GMT",
+          "description": "Apple melder selv om et historisk godt kvartalsresultat, der omsetningen steg med 16 prosent til 143,8 milliarder dollar. Salget av Iphone går så det suser.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "«Dispatch» tvunget til å sensurere på Nintendo Switch",
+          "link": "https://www.tek.no/i/GxQOKV",
+          "pubDate": "Thu, 29 Jan 2026 10:55:29 GMT",
+          "description": "Superheltspillet «Dispatch» kom onsdag til Nintendo Switch og Switch 2, men spillere oppdaget raskt at versjonen er kraftig sensurert sammenlignet med andre plattformer.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Verdens største rekkeviddetest gjennomført: Disse gjorde det best i sprengkulda",
+          "link": "https://www.tek.no/i/d4mMkA",
+          "pubDate": "Thu, 29 Jan 2026 08:48:32 GMT",
+          "description": "Hvert eneste år gjennomfører NAF og Motor to rekkeviddetester av elbiler – én på sommeren og én på vinteren – og omfanget har blitt så stort nå at det faktisk er verdens største test av sitt slag.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Tesla slutter å produsere Model S og Model X",
+          "link": "https://www.tek.no/i/M71EO0",
+          "pubDate": "Thu, 29 Jan 2026 06:34:20 GMT",
+          "description": "Skal fokusere på roboter.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Google lekket Android for PC ved en feil",
+          "link": "https://www.tek.no/i/K8pP65",
+          "pubDate": "Wed, 28 Jan 2026 15:00:00 GMT",
+          "description": "Dette er «Aluminium OS»",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Enorm forskjell: AMD gruser Intel",
+          "link": "https://www.tek.no/i/LMmRvR",
+          "pubDate": "Wed, 28 Jan 2026 14:00:03 GMT",
+          "description": "Nå har AMD både beste budsjett- og entusiastprosessor.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Disse amerikanske tek-vanene endrer du raskest",
+          "link": "https://www.tek.no/i/m010W1",
+          "pubDate": "Wed, 28 Jan 2026 08:27:24 GMT",
+          "description": "Tre kjappe ting du kan bytte.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "GTA 6 kan lanseres uten fysisk utgave",
+          "link": "https://www.tek.no/i/167qRQ",
+          "pubDate": "Wed, 28 Jan 2026 07:16:21 GMT",
+          "description": "Sier diskversjon kommer senere, i frykt for lekkasje.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Verdens største rekkeviddetest blir uten Toyota",
+          "link": "https://www.tek.no/i/rrWMXm",
+          "pubDate": "Tue, 27 Jan 2026 14:35:14 GMT",
+          "description": "Mener fokuset på rekkevidde blir for snevert.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Kinesisk selskap vil ha elbilfabrikk i Fredrikstad",
+          "link": "https://www.tek.no/i/7p57mK",
+          "pubDate": "Tue, 27 Jan 2026 12:39:47 GMT",
+          "description": "Dongfeng, som er den minste av de fire store statseide bilprodusentene i Kina, har planer om å etablere en monteringsfabrikk for elbiler i Fredrikstad.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Meta lanserer betalabonnement for Facebook og Instagram",
+          "link": "https://www.tek.no/i/GxQx7Q",
+          "pubDate": "Tue, 27 Jan 2026 10:22:15 GMT",
+          "description": "Meta planlegger å innføre nye betalabonnement for Facebook, Instagram og WhatsApp i løpet av de kommende månedene, melder Techcrunch.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Google betaler 665 millioner kroner i personvernoppgjør",
+          "link": "https://www.tek.no/i/Ok3kpk",
+          "pubDate": "Tue, 27 Jan 2026 07:18:05 GMT",
+          "description": "Men innrømmer ikke ulovlig avlytting av brukere.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Får vi servert årets prisbombe allerede i januar?",
+          "link": "https://www.tek.no/i/y5764r",
+          "pubDate": "Mon, 26 Jan 2026 14:33:56 GMT",
+          "description": "Over 500 kilometer rekkevidde til 400.000 kroner.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "EU vil fjerne Grok fra Europa",
+          "link": "https://www.tek.no/i/d4mnvB",
+          "pubDate": "Mon, 26 Jan 2026 09:01:38 GMT",
+          "description": "EU-kommisjonen åpner sak mot Elon Musks AI-chatbot.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Hues «veggvaskere» gir deg avansert «Ambilight» bak TV-en",
+          "link": "https://www.tek.no/i/Gxav2J",
+          "pubDate": "Sun, 25 Jan 2026 07:00:00 GMT",
+          "description": "«Ambilight», som det opprinnelig ble døpt, var egentlig en innovasjon som kom til Philips-TV-er helt tilbake i 2004. Konseptet med lys rettet mot veggen bak TV-en og som synkroniseres med hva som skjer på skjermen har imidlertid siden blitt adoptert av en rekke selskaper, kanskje med Philips Hue i spissen.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Er Samsungs nye nettbrett heftigere enn iPad Pro?",
+          "link": "https://www.tek.no/i/xrAX68",
+          "pubDate": "Sun, 25 Jan 2026 04:00:00 GMT",
+          "description": "Vi har testet Galaxy Tab S11 og S11 Ultra.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den kraftigste snøfreseren vi har testet",
+          "link": "https://www.tek.no/i/7pKzyW",
+          "pubDate": "Sat, 24 Jan 2026 04:00:00 GMT",
+          "description": "Kan settes rett på ATV-en din.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Det finske «Solid State»-batteriet slaktes av batteriselskap",
+          "link": "https://www.tek.no/i/pBA0qE",
+          "pubDate": "Fri, 23 Jan 2026 14:51:32 GMT",
+          "description": "Hevder batteriet er for godt til å være sant.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den beste kullsyremaskinen: Sodastream er ikke det eneste alternativet",
+          "link": "https://www.tek.no/i/474n8R",
+          "pubDate": "Fri, 23 Jan 2026 12:53:01 GMT",
+          "description": "Vi har testet tolv modeller. Med vinneren kan du karbonere alt.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Sims-«sexmod» brukes 400.000 ganger hver dag",
+          "link": "https://www.tek.no/i/V6qyA4",
+          "pubDate": "Fri, 23 Jan 2026 10:38:39 GMT",
+          "description": "Skaperen tjener 700.000 kroner i måneden.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Boikott-app topper nedlastinger i Danmark",
+          "link": "https://www.tek.no/i/m0BAzq",
+          "pubDate": "Thu, 22 Jan 2026 10:36:50 GMT",
+          "description": "Sjekker om produkter er fra USA.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Ubisoft kansellerer seks spill og stenger to studioer",
+          "link": "https://www.tek.no/i/oEA5JR",
+          "pubDate": "Thu, 22 Jan 2026 07:58:51 GMT",
+          "description": "Spillselskapet går gjennom en massiv omorganisering.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Volvos nye elbil får 810 km rekkevidde og skal produseres i Sverige",
+          "link": "https://www.tek.no/i/6qzGve",
+          "pubDate": "Wed, 21 Jan 2026 19:08:30 GMT",
+          "description": "Her er nye EX60 - med de norske prisene.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Samsung Galaxy Z TriFold selges for 100.000 kroner i Norge",
+          "link": "https://www.tek.no/i/PdRVjJ",
+          "pubDate": "Wed, 21 Jan 2026 13:34:47 GMT",
+          "description": "Billigere å reise til Sør-Korea og kjøpe den selv.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Man skulle tro jeg hadde kjørt med håndbrekket på hele veien",
+          "link": "https://www.tek.no/i/OkQAwE",
+          "pubDate": "Wed, 21 Jan 2026 12:24:41 GMT",
+          "description": "Toyotas Urban Cruiser har et nærmest sjokkerende vinterforbruk.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Netflix varsler nytt design",
+          "link": "https://www.tek.no/i/7pK8b3",
+          "pubDate": "Wed, 21 Jan 2026 10:30:30 GMT",
+          "description": "Får store endringer i løpet av året.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Full forvirring: Hevdet OnePlus skal legges ned",
+          "link": "https://www.tek.no/i/2pd6bv",
+          "pubDate": "Wed, 21 Jan 2026 08:23:05 GMT",
+          "description": "Blir avvist av OnePlus-sjef.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Hvor blir det av Teslas selvkjørende biler?",
+          "link": "https://www.tek.no/i/oEAgLa",
+          "pubDate": "Wed, 21 Jan 2026 06:27:32 GMT",
+          "description": "Kan ta lang, lang tid. Hør siste episode av Tek-podden.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Sony vil gi TCL kontroll over Bravia-merkevaren",
+          "link": "https://www.tek.no/i/k0R9oa",
+          "pubDate": "Tue, 20 Jan 2026 15:30:15 GMT",
+          "description": "Inngår avtale med den kinesiske produsenten.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Microsoft skal by på gratis Xbox-spilling med reklame",
+          "link": "https://www.tek.no/i/L4nb3P",
+          "pubDate": "Tue, 20 Jan 2026 15:07:06 GMT",
+          "description": "Spillere får én time gratis streaming per økt.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "OpenAI lanserer første fysiske produkt i slutten av 2026",
+          "link": "https://www.tek.no/i/6qzJ6L",
+          "pubDate": "Tue, 20 Jan 2026 11:41:26 GMT",
+          "description": "Men ingen aner hva det er.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "ICE-app bruker bilder av turister for identifikasjon",
+          "link": "https://www.tek.no/i/K8y4dy",
+          "pubDate": "Tue, 20 Jan 2026 09:27:15 GMT",
+          "description": "Flyplass-bilder kan brukes mot deg.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "«Europa først»: De beste alternativene til amerikanske tjenester",
+          "link": "https://www.tek.no/i/25wQ5r",
+          "pubDate": "Mon, 19 Jan 2026 18:04:40 GMT",
+          "description": "Ut med X, Chrome, Apple Music og Netflix, og inn med...",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Honor tilbyr den smidigste brukeropplevelsen",
+          "link": "https://www.tek.no/i/431GWe",
+          "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
+          "description": "Magic8 Pro starter mobilåret med et pang.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Kreftsyk fan skal ha fått spille «GTA 6» tidlig",
+          "link": "https://www.tek.no/i/9pOAvr",
+          "pubDate": "Mon, 19 Jan 2026 13:57:40 GMT",
+          "description": "Fikk beskjed om at han bare har seks til tolv måneder igjen å leve.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Asus stopper med mobiltelefoner – satser alt på AI",
+          "link": "https://www.tek.no/i/GxamEB",
+          "pubDate": "Mon, 19 Jan 2026 08:46:33 GMT",
+          "description": "Selskapet flytter ressurser til roboter og smartbriller.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Tid for te: Vi tester tekokere",
+          "link": "https://www.tek.no/i/GyvbQ6",
+          "pubDate": "Sun, 18 Jan 2026 04:00:00 GMT",
+          "description": "Te blir et stadig mer attraktivt alternativ i Norge, og tidligere har VG skrevet om den populære matcha-teen som har blitt et kulturelt fenomen i Vesten – med så stor etterspørsel at verden opplever forsyningsproblemer.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Det er glatt ute - slik holder du deg på beina",
+          "link": "https://www.tek.no/i/oAv5mV",
+          "pubDate": "Sat, 17 Jan 2026 08:45:37 GMT",
+          "description": "Det er ingen skam å brodde.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Kjekk miniprojektor, men her er tilbehøret nesten essensielt",
+          "link": "https://www.tek.no/i/XM844W",
+          "pubDate": "Sat, 17 Jan 2026 04:00:00 GMT",
+          "description": "Har du lest Tek en stund, har du kanskje fått med deg at jeg har lagt min elsk på disse små og (helst) batteridrevne projektorene man kan bruke til å smelle opp et bilde nærmest hvor som helst - tidligere representert blant annet av modeller fra BenQ og Samsung.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Prisene på SSD-er skyter i været",
+          "link": "https://www.tek.no/i/16BeMB",
+          "pubDate": "Fri, 16 Jan 2026 15:10:23 GMT",
+          "description": "Populære lagringsdisker har mer enn doblet seg i pris.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Vi har funnet den beste kaffetrakteren",
+          "link": "https://www.tek.no/i/rgnnRe",
+          "pubDate": "Fri, 16 Jan 2026 13:26:55 GMT",
+          "description": "Flere storselgere og toppmodeller er testet. Én gjør det spesielt godt.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "«Linux-boom» etter Windows 10-slutt",
+          "link": "https://www.tek.no/i/m0BWn0",
+          "pubDate": "Fri, 16 Jan 2026 11:55:25 GMT",
+          "description": "Over 1,5 millioner Windows-brukere kan ha flyktet fra Microsoft.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Januarsalget: vi har samlet de beste tilbudene",
+          "link": "https://www.tek.no/i/Pd9zOp",
+          "pubDate": "Fri, 16 Jan 2026 09:46:08 GMT",
+          "description": "Lite skriker «godt nytt år» som at butikkene kvitter seg med fjorårets varelager og starter året med en langvarig tilbudsperiode i januar.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Lanserer ny TV-teknologi som utfordrer de aller beste",
+          "link": "https://www.tek.no/i/oEARWW",
+          "pubDate": "Fri, 16 Jan 2026 06:10:20 GMT",
+          "description": "TCL satser på «SQD Mini-LED».",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Tesla slutter å selge full selvkjøring",
+          "link": "https://www.tek.no/i/gkWyO1",
+          "pubDate": "Thu, 15 Jan 2026 19:55:14 GMT",
+          "description": "Fra 14. februar blir det kun abonnement.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Nå har Soundcore funnet på noe virkelig smart",
+          "link": "https://www.tek.no/i/GxGd2J",
+          "pubDate": "Thu, 15 Jan 2026 15:00:00 GMT",
+          "description": "Både støydemping og åpne propper i ett.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Gemini kan snart bruke alt Google vet om deg",
+          "link": "https://www.tek.no/i/0pKb80",
+          "pubDate": "Thu, 15 Jan 2026 12:40:35 GMT",
+          "description": "Kan se søkehistorikken din, bilder og e-poster.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Skal spille Kratos i «God of War»-serien",
+          "link": "https://www.tek.no/i/PdREER",
+          "pubDate": "Thu, 15 Jan 2026 07:11:28 GMT",
+          "description": "Skuespilleren spilte Thor i spillet – nå får han hovedrollen.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Apple utfordrer Adobe – nå blir disse appene én abonnementstjeneste",
+          "link": "https://www.tek.no/i/d4lMlq",
+          "pubDate": "Wed, 14 Jan 2026 15:30:00 GMT",
+          "description": "Samler alle kreative apper.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Skal gi foreldre mer kontroll over tenåringers skjermtid",
+          "link": "https://www.tek.no/i/d4lk81",
+          "pubDate": "Wed, 14 Jan 2026 14:00:00 GMT",
+          "description": "YouTube lover endringer.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Micron: RAM-krisen kan vare til 2028",
+          "link": "https://www.tek.no/i/0pK3mE",
+          "pubDate": "Wed, 14 Jan 2026 08:01:40 GMT",
+          "description": "Avviser kritikken etter at de forlot forbrukermarkedet.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Lego stjal showet med en helt ny brikke",
+          "link": "https://www.tek.no/i/k0R8k6",
+          "pubDate": "Wed, 14 Jan 2026 07:40:23 GMT",
+          "description": "De kuleste innovasjonene på CES-messen. Hør Tek-podden hver onsdag.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Nytt StarCraft-spill ryktes å være på vei",
+          "link": "https://www.tek.no/i/JOJ684",
+          "pubDate": "Tue, 13 Jan 2026 13:40:11 GMT",
+          "description": "Skal angivelig annonseres i 2026.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Apple velger Google som AI-partner",
+          "link": "https://www.tek.no/i/WvO6WG",
+          "pubDate": "Tue, 13 Jan 2026 07:20:07 GMT",
+          "description": "Og setter med det ChatGPT i baksetet.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Telia øker prisene på nesten alle mobilabonnement",
+          "link": "https://www.tek.no/i/k0R0lL",
+          "pubDate": "Tue, 13 Jan 2026 07:03:33 GMT",
+          "description": "Telia har oppdatert prisene på mobilabonnement på nettsidene sine. Nesten alle mobilabonnementene deres økes med 20 kroner i måneden.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Asus’ nye Zephyrus Duo har to skjermer og masse wow-faktor",
+          "link": "https://www.tek.no/i/K8yBje",
+          "pubDate": "Mon, 12 Jan 2026 16:00:00 GMT",
+          "description": "Las Vegas/Tek.no: Mens Lenovo viste en gaming-PC som utvider seg ved å «rulle ut» skjermen, satser Asus på rett og slett å utstyre PC-en med to skjermer først som sist.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den beste gamingskjermen på budsjett",
+          "link": "https://www.tek.no/i/3E1XLd",
+          "pubDate": "Mon, 12 Jan 2026 15:28:10 GMT",
+          "description": "Vi lar oss imponere av flere raske 1440p-skjermer. Men det gjelder å velge riktig!",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Vi har testet ni rimelige kaffetraktere",
+          "link": "https://www.tek.no/i/a7vjPa",
+          "pubDate": "Mon, 12 Jan 2026 15:22:32 GMT",
+          "description": "Tre av kaffetrakterne skiller seg ut som smaksvinnere.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Iskremmaskinene som lager all slags is uten forberedelser",
+          "link": "https://www.tek.no/i/K3d424",
+          "pubDate": "Mon, 12 Jan 2026 15:15:11 GMT",
+          "description": "Vi har testet fire iskremmaskiner fra 2.000 kroner til «toppklassen».",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Den beste trådløse gamingmusen",
+          "link": "https://www.tek.no/i/0VWp7E",
+          "pubDate": "Mon, 12 Jan 2026 15:04:51 GMT",
+          "description": "Vi har testet seks allsidige spillmus. Flere er gode kjøp.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Gamingheadset: De beste trådløse modellene",
+          "link": "https://www.tek.no/i/dOyRXO",
+          "pubDate": "Mon, 12 Jan 2026 15:02:36 GMT",
+          "description": "Og prisen? Godt under 2000 kroner!",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Fikk du Instagram-e-post om passordbytte?",
+          "link": "https://www.tek.no/i/V6qggl",
+          "pubDate": "Mon, 12 Jan 2026 13:54:31 GMT",
+          "description": "17,5 millioner brukere rammet, sier sikkerhetsselskap.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Her er Kias EV2 - vil den koste under 300.000?",
+          "link": "https://www.tek.no/i/4313lg",
+          "pubDate": "Mon, 12 Jan 2026 08:59:10 GMT",
+          "description": "Kia lanserer sin foreløpig minste elbil i form av EV2. Den måler 4,06 meter på strømpelesten, og vil konkurrere med biler som Volkswagen ID. Polo/ID.Cross, Skoda Epiq, Hyundai Inster, Firefly og Renault 4/5, for å nevne noen.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Gmail lanserer ny AI-innboks",
+          "link": "https://www.tek.no/i/XM8M97",
+          "pubDate": "Mon, 12 Jan 2026 08:13:40 GMT",
+          "description": "Google lanserer flere AI-funksjoner i Gmail.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Brukte 0 GB data i 5 år. Ble oppgradert til dyrere abonnement med 8 GB",
+          "link": "https://www.tek.no/i/xrPLnn",
+          "pubDate": "Sun, 11 Jan 2026 04:00:00 GMT",
+          "description": "Fra 79 kr til 219 kr.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Intel og AMD i åpen krig om håndholdte gaming-PC-er",
+          "link": "https://www.tek.no/i/QJmon8",
+          "pubDate": "Fri, 09 Jan 2026 14:52:20 GMT",
+          "description": "– De selger eldgammel silisium, sier Intel, og «teaser» ny spesialprosessor.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Alt-i-ett gassbrennere: den beste står støtt i vind",
+          "link": "https://www.tek.no/i/ab7Aod",
+          "pubDate": "Fri, 09 Jan 2026 14:49:14 GMT",
+          "description": "Det finnes en rekke finurlige varianter av gassbrennere på markedet, alle med sine unike kvaliteter. Noen er små, enkle og toppmonterte, andre har bredere brennflate og kommer med slange, mens noen kommer som en «alt i ett»-løsning.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Dette er de beste, og kraftigste, hodelyktene",
+          "link": "https://www.tek.no/i/EQjOMG",
+          "pubDate": "Fri, 09 Jan 2026 14:47:44 GMT",
+          "description": "De sterkeste lyser opp halve skauen, men koster også deretter.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Vi har funnet den beste hodelykten i midtsjiktet",
+          "link": "https://www.tek.no/i/Kzkwpe",
+          "pubDate": "Fri, 09 Jan 2026 13:24:50 GMT",
+          "description": "I prisklassen (ca.) 1000 – 2500 kroner.",
+          "categories": [],
+          "source": "Tek.no"
+        },
+        {
+          "title": "Går av som ambassadør etter Epstein-kontakt: – Alvorlig svikt",
+          "link": "https://e24.no/naeringsliv/i/437dJa/ud-mona-juul-gaar-av-som-ambassadoer",
+          "pubDate": "Sun, 08 Feb 2026 16:55:46 GMT",
+          "description": "Mona Juul (66) går av som ambassadør etter det ble kjent at hun har hatt kontakt med seksualforbryter Jeffrey Epstein.",
+          "categories": [
+            "Næringsliv"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Mona Juul går av som ambassadør",
+          "link": "https://e24.no/naeringsliv/i/RjyJEx/mona-juul-gaar-av-som-ambassadoer",
+          "pubDate": "Sun, 08 Feb 2026 16:47:54 GMT",
+          "description": "– Dette er en riktig og nødvendig beslutning. Den skjer etter samtalene med Utenriksdepartementet denne uken. Juuls kontakt med overgrepsdømte Epstein har vist en alvorlig svikt i dømmekraften. Saken gjør det vanskelig å gjenreise den tilliten som rollen krever, sier utenriksminister Espen Barth Eide i en pressemelding.",
+          "categories": [
+            "Næringsliv"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Bedre og mer effektiv bistand",
+          "link": "https://e24.no/internasjonal-oekonomi/i/PdykXz/bedre-og-mer-effektiv-bistand",
+          "pubDate": "Sun, 08 Feb 2026 14:08:06 GMT",
+          "description": "Norges utviklingsminister Åsmund Aukrust kunngjorde nylig en kursendring ut fra behovet om bedre og mer effektiv bistand. Dette er et kjærkomment skritt i riktig retning som også kan inspirere mange andre land.",
+          "categories": [
+            "Internasjonal økonomi"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Feiret 150 år i fjor – nå er hjørnesteins­bedriften konkurs",
+          "link": "https://e24.no/naeringsliv/i/Rjydqx/feiret-150-aar-i-fjor-naa-er-hjoernesteinsbedriften-konkurs",
+          "pubDate": "Sun, 08 Feb 2026 13:40:13 GMT",
+          "description": "Siden 1875 har bedriften som i dag heter Otta Skifer utvunnet stein fra Pillarguri Skiferbrudd i Gudbrandsdalen.",
+          "categories": [
+            "Næringsliv"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Helle (46) fikk tre styreverv etter ny lov",
+          "link": "https://e24.no/karriere-og-ledelse/i/0pKw66/helle-46-fikk-tre-styreverv-etter-ny-lov",
+          "pubDate": "Sun, 08 Feb 2026 12:33:27 GMT",
+          "description": "Kjønnsbalanse-loven ga flere tusen kvinner plass i norske styrer. Forskere har sett på hva som kjennetegner de nye styremedlemmene.",
+          "categories": [
+            "Karriere og ledelse"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Utbetalte 40 milliarder dollar i bitcoin ved en feil",
+          "link": "https://e24.no/boers-og-finans/i/16OPLQ/utbetalte-40-milliarder-dollar-i-bitcoin-ved-en-feil",
+          "pubDate": "Sun, 08 Feb 2026 12:32:11 GMT",
+          "description": "Won ble til bitcoin da kryptobørsen Bithumb skulle belønne kunder som deltok i en kampanje.",
+          "categories": [
+            "Børs og finans"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Omkampene om Melkøya: Ber regjeringen ta grep",
+          "link": "https://e24.no/energi-og-klima/i/e7P2zO/omkampene-om-melkoeya-ber-regjeringen-ta-grep",
+          "pubDate": "Sun, 08 Feb 2026 10:02:28 GMT",
+          "description": "Finnmarks fylkesordfører Hans-Jacob Bønå (H) er bekymret for et hardt debattklima rundt kraft og Melkøya, og ber regjeringen ta grep for å berolige befolkningen. – Gjort en altfor dårlig jobb.",
+          "categories": [
+            "Energi og klima"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Vil KI rasere tek-bransjen?",
+          "link": "https://e24.no/boers-og-finans/i/zOrmv5/vil-ki-rasere-tek-bransjen",
+          "pubDate": "Sun, 08 Feb 2026 08:57:42 GMT",
+          "description": "Investorene ble skremt av kunstig intelligens denne uken. Er frykten starten på en større sprekk?",
+          "categories": [
+            "Børs og finans"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Tor Bomann-Larsen: Kongehusets største krise?",
+          "link": "https://e24.no/norsk-oekonomi/i/zO755b/tor-bomann-larsen-kongehusets-stoerste-krise",
+          "pubDate": "Sun, 08 Feb 2026 07:14:19 GMT",
+          "description": "Tor Bomann-Larsen skrev åtte hyllede bind om Kong Haakon VII og Dronning Maud og er en kjenner av kongehusets historie. I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om monarkiets vanskelige tid, men med bakgrunn i de lange historiske linjene fra folkeavstemningen i 1905 og frem til i dag. \n\nNoen hevder dette er kongehusets største krise, men er det virkelig det?",
+          "categories": [
+            "Norsk økonomi"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "Dette innrømmer Stein Lier-Hansen",
+          "link": "https://e24.no/naeringsliv/i/wr87b1/dette-innroemmer-stein-lier-hansen",
+          "pubDate": "Sun, 08 Feb 2026 06:18:00 GMT",
+          "description": "Familietur med sightseeing, sjøflypenger i egen lomme og romjulstur med ektefellen. Alt på jobbens regning. Dette er forholdene Stein Lier-Hansen selv mener er grov økonomisk utroskap.",
+          "categories": [
+            "Næringsliv"
+          ],
+          "source": "E24"
+        },
+        {
+          "title": "For mange nye «AI-eksperter» mangler grunnlag",
+          "link": "https://www.digi.no/artikler/debatt-for-mange-nye-ai-eksperter-mangler-grunnlag/567916",
+          "pubDate": "Sun, 08 Feb 2026 15:05:41 +0100",
+          "description": "I Norge ser jeg konsulentselskaper bytte merkelapp til AI-ekspert over natten. Det bekymrer mer enn det imponerer.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Tre av fem er bekymret for personvern ved offentlig bruk av KI",
+          "link": "https://www.digi.no/artikler/tre-av-fem-bekymrer-seg-for-personvern-ved-offentlig-bruk-av-ki/567988",
+          "pubDate": "Sun, 08 Feb 2026 11:03:16 +0100",
+          "description": "Flere er bekymret for personvernet når kunstig intelligens tas i bruk i offentlige virksomheter. Bekymringen er ikke helt grunnløs, mener Kari Laumann i Datatilsynet.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "– KI vil kunne forklare pensum like godt som en underviser. Hvorfor skal studentene komme til oss?",
+          "link": "https://www.digi.no/artikler/ki-vil-kunne-forklare-pensum-like-godt-som-en-underviser-hvorfor-skal-studentene-komme-til-oss/567952",
+          "pubDate": "Sun, 08 Feb 2026 05:00:00 +0100",
+          "description": "KI vil også overta mye av jobben som sensor, spår professor i fysikk Anders Malthe-Sørenssen.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Bedre robusthet med et felles nasjonalt mobilnett",
+          "link": "https://www.digi.no/artikler/debatt-bedre-robusthet-med-et-felles-nasjonalt-mobilnett/567931",
+          "pubDate": "Sat, 07 Feb 2026 15:18:58 +0100",
+          "description": "Gjennom samarbeidet vil vi på rekordtid bygge en stor andel nye basestasjoner som gir bedre dekning i hele landet",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Farlig nær norske satellitter – frykter avlytting og sabotasje",
+          "link": "https://www.digi.no/artikler/var-farlig-naer-norske-satellitter-frykter-avlytting-og-sabotasje/567898",
+          "pubDate": "Sat, 07 Feb 2026 05:00:00 +0100",
+          "description": "Den russiske Luch-satellitten la seg tett på norske satellitter i 2024. Nå frykter militære myndigheter at den vil bli brukt til hybridkrig i rommet.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Norske bedrifter blir lurt: – Inntektene går trolig til å finansiere Nord-Koreas atomvåpenprogram",
+          "link": "https://www.digi.no/artikler/pst-nordkoreansk-it-personell-blir-ansatt-i-norske-bedrifter/567982",
+          "pubDate": "Fri, 06 Feb 2026 16:16:25 +0100",
+          "description": "Utgir seg for å være europeere med falske eller stjålne identitetspapirer, viser en ny rapport fra PST.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Hylles og kritiseres: Nå finnes det eget sosialt nettverk for KI-agenter",
+          "link": "https://www.digi.no/artikler/na-finnes-det-eget-sosialt-nettverk-for-ki-agenter-det-bade-hylles-og-kritiseres/567814",
+          "pubDate": "Fri, 06 Feb 2026 14:50:35 +0100",
+          "description": "«Moltbook» er en slags Reddit for KI-agenter.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Ny epoke i internetthistorien: Vår kjærlighet til internett er i ferd med å ta slutt",
+          "link": "https://www.digi.no/artikler/kommentar-ny-epoke-i-internetthistorien-fra-romantikk-til-realisme/567910",
+          "pubDate": "Fri, 06 Feb 2026 11:39:06 +0100",
+          "description": "Vår kjærlighet til internett er i ferd med å ta slutt. Forholdet er i ferd med å få en mer praktisk art.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] NSM ber norske selskaper legge exit-planer",
+          "link": "https://www.digi.no/artikler/statens-hackere-tok-full-kontroll-over-norske-etater/567802",
+          "pubDate": "Fri, 06 Feb 2026 09:00:00 +0100",
+          "description": "Nasjonal sikkerhetsmyndighet (NSM) kan kunsten å hacke. Nå roper de varsku.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Telenor mistet 56.000 mobilkunder",
+          "link": "https://www.digi.no/artikler/telenor-mistet-56-000-mobilkunder/567943",
+          "pubDate": "Fri, 06 Feb 2026 07:45:51 +0100",
+          "description": "Bredbånd gikk ned 13.000. Den gode nyheten er at Telenor tjener mer på hver mobilkunde.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Telenor betaler for Norden-kjøp med Asia-salgene",
+          "link": "https://www.digi.no/artikler/telenor-betaler-for-norden-kjop-med-asia-salgene/567940",
+          "pubDate": "Fri, 06 Feb 2026 07:40:56 +0100",
+          "description": "Bruker salgsinntektene fra Pakistan og Thailand til å betale for Globalconnect-fiber, og ser etter mer å kjøpe i Norden. Aksjonærene får også milliarder.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Datasenter og ny industri: Her går mesteparten av overskuddsvarmen tapt",
+          "link": "https://www.digi.no/artikler/datasenter-og-industri-her-gar-mesteparten-av-overskuddsvarmen-tapt/567829",
+          "pubDate": "Fri, 06 Feb 2026 05:00:00 +0100",
+          "description": "Tung trekker fram prosjektet som en «perfekt symbiose» mellom datasenter og ny industri – men kun en brøkdel av overskuddsvarmen gjenbrukes.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Advarer mot en «militarisering av offentlig sektor»",
+          "link": "https://www.digi.no/artikler/krever-full-stans-i-tolletatens-bruk-av-palantir/567883",
+          "pubDate": "Thu, 05 Feb 2026 15:48:06 +0100",
+          "description": "Tolletaten: – Palantir er ikke et overvåkingsselskap, de leverer en programvare.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Ville tilby SpaceX-alternativ: Nå går det mot konkurs",
+          "link": "https://www.digi.no/artikler/ville-vaere-europeisk-alternativ-til-spacex-na-styrer-rakettfabrikken-mot-konkurs/567781",
+          "pubDate": "Thu, 05 Feb 2026 14:21:13 +0100",
+          "description": "I Danmark skulle de bygge rakettmotorer for å sende satellitter ut i rommet fra Skottland. Nå har den danske avdelingen av Orbex begjært oppbud.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Gigantinnkjøp gir 20.000 ansatte skyverktøy – nå ryker papiret",
+          "link": "https://www.digi.no/artikler/44-kommuner-har-valgt-journal-na-ryker-skanneren-og-papiret/567613",
+          "pubDate": "Thu, 05 Feb 2026 10:55:25 +0100",
+          "description": "Gigantinnkjøp gir 20.000 ansatte skybasert verktøy. Flere store leverandører gikk tapende ut av konkurransen.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Norsk sjøfiberkjempe går i land",
+          "link": "https://www.digi.no/artikler/norsk-sjofiberkjempe-gar-i-land/567841",
+          "pubDate": "Thu, 05 Feb 2026 07:34:06 +0100",
+          "description": "Tampnet skal bygge ut bredbånd til raffinerier, lagre og havneanlegg.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Telia kuttet 2G: Flere hundre trygghets­alarmer sluttet å virke",
+          "link": "https://www.digi.no/artikler/telia-kuttet-2g-nettet-i-finnmark-flere-hundre-trygghetsalarmer-sluttet-a-virke/567538",
+          "pubDate": "Thu, 05 Feb 2026 05:00:00 +0100",
+          "description": "Telia måtte skru på 2G-nettet igjen etter ni timer for å sikre liv og helse.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Microsoft: Utleverer krypteringsnøkler til FBI: – Svært bekymringsfullt",
+          "link": "https://www.digi.no/artikler/microsoft-utleverer-krypteringsnokler-til-fbi/567826",
+          "pubDate": "Wed, 04 Feb 2026 15:02:01 +0100",
+          "description": "Nå kommer professor med advarsel til danske kunder.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Nets var nede over hele landet: Betalingsproblemer fikset",
+          "link": "https://www.digi.no/artikler/nets-nede-i-norge-betalingsproblemer-over-hele-landet/567862",
+          "pubDate": "Wed, 04 Feb 2026 14:11:06 +0100",
+          "description": "Kortbetalingsløsningen Nets hadde onsdag trøbbel, noe som førte til betalingsproblemer over hele landet. Nå er feilen rettet.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Lei av KI? Firefox går mot strømmen og gir deg mulighet til å slå KI helt av",
+          "link": "https://www.digi.no/artikler/lei-av-ki-firefox-gar-mot-strommen-og-gir-deg-mulighet-til-a-sla-ki-helt-av/567739",
+          "pubDate": "Wed, 04 Feb 2026 13:15:55 +0100",
+          "description": "Mozilla kunngjorde nye funksjoner til nettleseren.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Ansetter mange: Nå skal Forsvaret bruke KI for alvor",
+          "link": "https://www.digi.no/artikler/skal-ansette-mange-for-a-fa-fart-pa-forsvarets-bruk-av-ki/567715",
+          "pubDate": "Wed, 04 Feb 2026 05:00:00 +0100",
+          "description": "Forsvarets nye data- og KI-senter skal bringe kunstig intelligens fra forskning til felt, fra prototyper til ferdig driftede løsninger. Nå skal det vokse.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Nkom: : Ber Telia og Ice om flere opplysninger om mobil-sammenslåing",
+          "link": "https://www.digi.no/artikler/nkom-ber-telia-og-ice-gi-dem-flere-opplysninger-om-mobil-sammenslaing/567787",
+          "pubDate": "Tue, 03 Feb 2026 16:31:20 +0100",
+          "description": "Nkom-sjefen sier at tre nett har vært sentralt i arbeidet med å bedre mobilkonkurransen, og vil følge med på hvordan sammenslåingen kan påvirke den.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Ekstreme planer:  Musk vil sende ut én million satellitter",
+          "link": "https://www.digi.no/artikler/derfor-vil-elon-musk-sende-en-million-satellitter-ut-i-verdensrommet/567694",
+          "pubDate": "Tue, 03 Feb 2026 16:00:00 +0100",
+          "description": "Vil bygge et nettverk av datasentre i bane rundt jorden.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Notepad++ kapret av statssponsede hackere",
+          "link": "https://www.digi.no/artikler/notepad-kapret-av-statssponsede-hackere/567763",
+          "pubDate": "Tue, 03 Feb 2026 14:45:51 +0100",
+          "description": "Brukere ble selektivt omdirigert til skadevare i nesten et halvt år. Sikkerhetseksperter har avdekket en avansert bakdør, som knyttes til Kina.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Chat GPT vil ha pasientjournalen din – leger er skeptiske",
+          "link": "https://www.digi.no/artikler/chat-gpt-vil-ha-pasientjournalen-din-leger-er-skeptiske/567492",
+          "pubDate": "Tue, 03 Feb 2026 13:02:30 +0100",
+          "description": "Flere forhold gjør leger skeptiske til den nye satsingen på KI-assistent.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Exit-strategi: «Apokalypse» for Europa",
+          "link": "https://www.digi.no/artikler/svensk-professor-apokalypse-for-europa-hvis-usa-kobler-ut-teknologien/567772",
+          "pubDate": "Tue, 03 Feb 2026 11:25:34 +0100",
+          "description": "Deler av Europa gjør seg klar til en mulig framtid uten amerikansk teknologi – men full frakobling i dagens situasjon er helt umulig, ifølge professor.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Må punge ut med millioner etter hackerangrep",
+          "link": "https://www.digi.no/artikler/ma-punge-ut-med-millioner-etter-hackerangrep/567706",
+          "pubDate": "Tue, 03 Feb 2026 10:41:42 +0100",
+          "description": "Den hackede appen hadde ikke god nok sikkerhet, mener det svenske datatilsynet, og skriver ut en bot på seks millioner.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Ice-Telia-samarbeidet: Styrkes eller svekkes robustheten?",
+          "link": "https://www.digi.no/artikler/analyse-ice-telia-samarbeidet-styrkes-eller-svekkes-robustheten/567754",
+          "pubDate": "Tue, 03 Feb 2026 08:00:02 +0100",
+          "description": "Ice-Telia-samarbeidet er ikke uten utfordringer, selv om partene lover både bedre konkurranse og bedre robusthet.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "[Ekstra] Ice og Telia slår sammen mobilnettene",
+          "link": "https://www.digi.no/artikler/ice-og-telia-slar-sammen-mobilnettene/567748",
+          "pubDate": "Tue, 03 Feb 2026 07:19:13 +0100",
+          "description": "Skal dele på basestasjoner, men ha egne kjernenett. Hevder det vil styrke, ikke svekke konkurransen.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Elon Musk slår sammen SpaceX og xAI før børsnotering",
+          "link": "https://www.digi.no/artikler/elon-musk-slar-sammen-spacex-og-xai-for-borsnotering/567745",
+          "pubDate": "Tue, 03 Feb 2026 07:11:32 +0100",
+          "description": "Romfartsselskap SpaceX har kjøpt opp KI-selskapet xAI. Formålet med sammenslåingen er å opprette rombaserte datasentre.",
+          "categories": [],
+          "source": "Digi.no"
+        },
+        {
+          "title": "Nye Xbox blir ulikt alt annet",
+          "link": "https://itavisen.no/2026/02/08/xbox-2027-windows-11-konsoll-pc-steam/",
+          "pubDate": "Sun, 08 Feb 2026 17:17:40 +0000",
+          "description": "Microsoft tar Windows-spranget til stua.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Slik skal Apple kickstarte 2026",
+          "link": "https://itavisen.no/2026/02/08/apple-lanseringer-2026-iphone-17e-ipad-mac/",
+          "pubDate": "Sun, 08 Feb 2026 15:21:23 +0000",
+          "description": "Dette er produktene som lanseres før våren.",
+          "categories": [
+            "Nyheter",
+            "Apple",
+            "ipad",
+            "iphone",
+            "mac"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Disney+ har fjernet det, også i Norge",
+          "link": "https://itavisen.no/2026/02/07/disney-plus-dolby-vision-norge-fjernet-rettssak/",
+          "pubDate": "Sat, 07 Feb 2026 15:06:16 +0000",
+          "description": "Ingen vet når Dolby Vision kommer tilbake.",
+          "categories": [
+            "Nyheter",
+            "disney",
+            "norge",
+            "strømming"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Mange vil ønske å gjøre dette med printeren",
+          "link": "https://itavisen.no/2026/02/07/windows-11-fjerner-gamle-skriverdrivere-2026/",
+          "pubDate": "Fri, 06 Feb 2026 23:17:42 +0000",
+          "description": "Årsaken er at Microsoft går bort fra de gamle V3 og V4-driverne.",
+          "categories": [
+            "Nyheter",
+            "Maskinvare",
+            "printer",
+            "windows"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Superhelt-action møter brutal soulslike",
+          "link": "https://itavisen.no/2026/02/06/my-hero-academia-alls-justice-code-vein-2-testet-anime-spill/",
+          "pubDate": "Fri, 06 Feb 2026 22:50:40 +0000",
+          "description": "My Hero Academia: All’s Justice og Code Vein II er begge anime, men helt ulike spill.",
+          "categories": [
+            "Nyheter",
+            "itavisengaming",
+            "Spill"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Apple åpner opp for alle i CarPlay",
+          "link": "https://itavisen.no/2026/02/06/apple-carplay-ai-chatgpt-gemini-eksterne-assistenter/",
+          "pubDate": "Fri, 06 Feb 2026 21:47:06 +0000",
+          "description": "Apple CarPlay får støtte for ChatGPT, Gemini og flere.",
+          "categories": [
+            "Nyheter",
+            "Apple",
+            "Bil"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "YouTube har gjort endringen ingen liker",
+          "link": "https://itavisen.no/2026/02/06/youtube-fjerner-sortere-etter-dato-nyeste-forst-sok/",
+          "pubDate": "Fri, 06 Feb 2026 19:49:10 +0000",
+          "description": "Nå kan du ikke lenger sortere videoer etter opplastingsdato.",
+          "categories": [
+            "Nyheter",
+            "youtube"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "«De stjal VPN-serveren vår»",
+          "link": "https://itavisen.no/2026/02/06/vpn-sikkerhet-windscribe-politi-beslag-server/",
+          "pubDate": "Fri, 06 Feb 2026 17:30:45 +0000",
+          "description": "Windscribe sier politiet ikke finner noe.",
+          "categories": [
+            "Nyheter",
+            "personvern",
+            "sikkerhet",
+            "vpn"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Tjener milliarder på PC og Xbox",
+          "link": "https://itavisen.no/2026/02/06/sony-playstation-pc-xbox-spill-salg-25-milliarder/",
+          "pubDate": "Fri, 06 Feb 2026 15:47:48 +0000",
+          "description": "Sonys inntog hos konkurrentene lønner seg.",
+          "categories": [
+            "Nyheter",
+            "playstation",
+            "sony",
+            "Spill"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "iPhone 18 Pro Max kan få ekstrem batteritid",
+          "link": "https://itavisen.no/2026/02/06/iphone-18-pro-max-batteritid-storre-batteri-2nm/",
+          "pubDate": "Fri, 06 Feb 2026 14:24:07 +0000",
+          "description": "Større batteri og ny 2 nm-brikke.",
+          "categories": [
+            "Nyheter",
+            "iphone",
+            "Mobil"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Derfor virker GTA 6-lanseringen spikret",
+          "link": "https://itavisen.no/2026/02/06/gta-6-lansering-markedsforing-take-two/",
+          "pubDate": "Fri, 06 Feb 2026 13:17:10 +0000",
+          "description": "Take-Two-sjefen bekrefter at markedsføringen starter i sommer.",
+          "categories": [
+            "Nyheter",
+            "gta",
+            "Spill"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Forskjellen er natt og dag",
+          "link": "https://itavisen.no/2026/02/06/windows-hdr-spill-renodx-mitt-valg-bedre-hdr/",
+          "pubDate": "Fri, 06 Feb 2026 12:48:20 +0000",
+          "description": "Få spillene til å skinne i Windows 11.",
+          "categories": [
+            "Nyheter",
+            "hdr",
+            "Spill",
+            "Tips",
+            "windows"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Rekker han det?",
+          "link": "https://itavisen.no/2026/02/06/intel-gpu-satsing-utfordrer-nvidia-ai/",
+          "pubDate": "Fri, 06 Feb 2026 05:01:46 +0000",
+          "description": "Intel endrer kurs: skal lage GPU-brikker.",
+          "categories": [
+            "Nyheter",
+            "intel"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Den nye Windows 11-funksjonen er avslørt",
+          "link": "https://itavisen.no/2026/02/06/windows-11-shared-audio-del-lyd-to-hodetelefoner/",
+          "pubDate": "Fri, 06 Feb 2026 04:40:23 +0000",
+          "description": "Windows 11 lar deg dele lyd med to hodetelefoner samtidig.",
+          "categories": [
+            "Nyheter",
+            "windows"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Microsoft ansetter kvalitetssjef",
+          "link": "https://itavisen.no/2026/02/06/microsoft-ny-kvalitetssjef-charlie-bell/",
+          "pubDate": "Fri, 06 Feb 2026 04:24:37 +0000",
+          "description": "Dette er mannen som skal redde Windows.",
+          "categories": [
+            "Nyheter",
+            "Microsoft",
+            "windows"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Kan bli årets råeste SUV",
+          "link": "https://itavisen.no/2026/02/06/xpeng-gx-arets-raeste-suv/",
+          "pubDate": "Fri, 06 Feb 2026 04:05:01 +0000",
+          "description": "Styring som \"Cybertruck\" - opptil 1000 km rekkevidde.",
+          "categories": [
+            "Nyheter",
+            "Bil",
+            "xpeng"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Tør du slette karakteren? Da får du belønninger",
+          "link": "https://itavisen.no/2026/02/05/arc-raiders-wipe-sletter-karakter-expedition/",
+          "pubDate": "Thu, 05 Feb 2026 19:59:39 +0000",
+          "description": "Blir du med på omstart, får du fetere belønninger i \"Arc Raiders.\"",
+          "categories": [
+            "Nyheter",
+            "Spill"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "«Apple prøvde å stoppe meg»",
+          "link": "https://itavisen.no/2026/02/05/airtag-2-teardown-ifixit-hoyttaler-deaktiveres/",
+          "pubDate": "Thu, 05 Feb 2026 19:19:47 +0000",
+          "description": "Apple sin oppdaterte AirTag er bare litt er tuklesikker.",
+          "categories": [
+            "Nyheter",
+            "Apple",
+            "iFixit"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Apple var allerede overlegne, nå slår de alle igjen",
+          "link": "https://itavisen.no/2026/02/05/ipad-salg-2025-vekst/",
+          "pubDate": "Thu, 05 Feb 2026 18:59:14 +0000",
+          "description": "iPad øker, resten fallr fra nettbrettmarkedet.",
+          "categories": [
+            "Nyheter",
+            "Apple",
+            "ipad",
+            "Maskinvare"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Alle vil elske det, Apple vil hate det",
+          "link": "https://itavisen.no/2026/02/05/android-airdrop-stotte-quick-share-alle-mobiler/",
+          "pubDate": "Thu, 05 Feb 2026 18:21:30 +0000",
+          "description": "Android utvider Quick Share iPhone-støtte til \"alle Androids.\"",
+          "categories": [
+            "Nyheter",
+            "android",
+            "iphone",
+            "Mobil"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Det er ingen tvil: iPhone 17 Pro Max er best",
+          "link": "https://itavisen.no/2026/02/05/iphone-17-pro-max-best-batteritid-test/",
+          "pubDate": "Thu, 05 Feb 2026 15:17:31 +0000",
+          "description": "Slår alle i stor batteritest.",
+          "categories": [
+            "Nyheter",
+            "iphone",
+            "Mobil"
+          ],
+          "source": "ITavisen"
+        },
+        {
+          "title": "Fann bane­brytande metode for å avdekke aggressiv kreftform",
+          "link": "https://www.nrk.no/trondelag/som-dei-forste-i-verda-har-forskarar-ved-ntnu-avdekt-nye-kjenneteikn-for-aggressiv-prostatakreft-1.17743369",
+          "pubDate": "Thu, 05 Feb 2026 08:01:48 GMT",
+          "description": "­",
+          "categories": [
+            "Kreft",
+            "Forskning og vitenskap",
+            "NTNU",
+            "Helse",
+            "Sykdom",
+            "Norge"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Norsk forskning: Vi trenger færre tester for livmorhals­kreft i framtida",
+          "link": "https://www.nrk.no/trondelag/trenger-faerre-tester-for-livmorhalskreft-i-framtida-1.17746626",
+          "pubDate": "Tue, 03 Feb 2026 16:03:20 GMT",
+          "description": "­",
+          "categories": [
+            "Livmorhalskreft",
+            "Kvinnehelse",
+            "Helse og livsstil",
+            "Forskning og vitenskap",
+            "Norge",
+            "Helse",
+            "Kreft"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Får fedmesprøyter: – Sendes hjem uten hjelp",
+          "link": "https://www.nrk.no/trondelag/far-fedmesproyter_-_-sendes-hjem-uten-hjelp-1.17727478",
+          "pubDate": "Mon, 02 Feb 2026 05:55:22 GMT",
+          "description": "Kan i verste fall være uforsvarlig, ifølge forening.",
+          "categories": [
+            "Overvekt  og fedme",
+            "Helse og livsstil",
+            "Legemidler",
+            "Helse"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Brystkreft: Oppdaga fleire svulstar med denne metoden",
+          "link": "https://www.nrk.no/trondelag/brystkreft_-oppdaga-fleire-svulstar-da-ki-hjelpte-til-1.17747498",
+          "pubDate": "Sun, 01 Feb 2026 15:46:31 GMT",
+          "categories": [
+            "Helse og livsstil",
+            "Kvinnehelse",
+            "Forskning og vitenskap",
+            "Kreft"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Dårlig luftkvalitet kan ramme ufødte babyer",
+          "link": "https://www.nrk.no/trondelag/fant-darligere-utviklede-hjerner-hos-spedbarn-hvor-mor-hadde-pustet-forurenset-luft-1.17746138",
+          "pubDate": "Fri, 30 Jan 2026 17:59:43 GMT",
+          "description": "Ny forskning tyder på at det ikke bare er den som puster inn forurenset luft som kan få problemer.",
+          "categories": [
+            "Forskning og vitenskap",
+            "Luftkvalitet i Trondheim",
+            "Luftkvalitet i Oslo",
+            "Luftkvaliteten i Bergen"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Cecilie (24) får høre at hun bør ta livet sitt",
+          "link": "https://www.nrk.no/trondelag/ny-forskning-pa-jenter-og-gaming_-_-dette-er-noe-vi-ma-ta-pa-alvor-1.17728621",
+          "pubDate": "Tue, 27 Jan 2026 21:03:49 GMT",
+          "description": "­",
+          "categories": [
+            "Spill",
+            "Ungdom og fritid",
+            "Norge",
+            "Helse og livsstil",
+            "PC-spill",
+            "PlayStation 2",
+            "Barn/unge",
+            "Samfunn",
+            "Forbruker (Helse og livsstil)",
+            "Forskning og vitenskap"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Usikkerheit om plast i kroppen: – Det er komplisert",
+          "link": "https://www.nrk.no/trondelag/forsking-pa-mikroplast-far-stryk-_-norsk-ekspert-seier-saka-er-komplisert-1.17740038",
+          "pubDate": "Tue, 27 Jan 2026 17:40:32 GMT",
+          "description": "­",
+          "categories": [
+            "Helse",
+            "Plast i havet",
+            "Forskning og vitenskap",
+            "NTNU"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Er du naiv optimist eller tafatt pessimist?",
+          "link": "https://www.nrk.no/trondelag/optimisme-vs.-pessimisme_-slik-ser-norsk-ungdom-pa-framtida-1.17214263",
+          "pubDate": "Tue, 27 Jan 2026 04:56:36 GMT",
+          "description": "­Slik unngår du å bli handlingslamma",
+          "categories": [
+            "Religion og livssyn",
+            "Trøndelag",
+            "Trondheim",
+            "NTNU",
+            "Studenter"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Norsk forskning: Så lite skal til for å redusere risikoen for å dø tidlig",
+          "link": "https://www.nrk.no/trondelag/studie-viser-hvor-lite-som-skal-til-for-a-redusere-risikoen-for-en-tidlig-dod-1.17725080",
+          "pubDate": "Wed, 14 Jan 2026 16:57:06 GMT",
+          "description": "Det er mulig å få til for de aller fleste!",
+          "categories": [
+            "Helse og livsstil",
+            "Overvekt  og fedme",
+            "Trening",
+            "Forskning og vitenskap",
+            "Helse",
+            "Norge"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Ny studie: Så fort går folk opp i vekt etter at de slutter med fedme­medisin",
+          "link": "https://www.nrk.no/trondelag/studie_-folk-som-slutter-med-fedmesproyter-gar-opp-i-vekt-fire-ganger-raskere-enn-folk-pa-diett-1.17720781",
+          "pubDate": "Sun, 11 Jan 2026 07:51:38 GMT",
+          "description": "­",
+          "categories": [
+            "Overvekt  og fedme",
+            "Helse",
+            "Psykisk helse",
+            "Forskning og vitenskap"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Kartla tilsetningsstoffer i norsk mat – forskere ble overrasket av funn",
+          "link": "https://www.nrk.no/trondelag/forskere-kartla-45.000-norske-matvarer_-en-av-tre-inneholdt-stoffer-som-kan-pavirke-helsa-1.17708976",
+          "pubDate": "Sun, 11 Jan 2026 20:27:48 GMT",
+          "description": "­",
+          "categories": [
+            "Mat og kosthold",
+            "Helse",
+            "Kosthold",
+            "Forskning og vitenskap",
+            "Forbruker (Helse og livsstil)",
+            "Samfunn"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Hets og kjeft mot unge håndball­dommere: – Det blir noen tårer",
+          "link": "https://www.nrk.no/trondelag/naer-fire-av-ti-handballdommere-opplever-hets-eller-trakassering-1.17686846",
+          "pubDate": "Wed, 07 Jan 2026 17:26:56 GMT",
+          "description": "­",
+          "categories": [
+            "Forskning og vitenskap",
+            "Norge",
+            "Håndball",
+            "Sport",
+            "Agder",
+            "Trøndelag",
+            "Agder: Lindesnes",
+            "Sport i Agder",
+            "Sport Trøndelag"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Observerte lek med barbiedukker: – Vondt å være vitne til",
+          "link": "https://www.nrk.no/trondelag/skulle-observere-lek-blant-forsteklassinger-_-sa-rasisme-og-diskriminering-1.17687294",
+          "pubDate": "Tue, 06 Jan 2026 12:08:35 GMT",
+          "description": "­",
+          "categories": [
+            "NTNU",
+            "Forskning og vitenskap",
+            "Barn/unge",
+            "Leker/spill/klær",
+            "Skole og utdanning",
+            "Mobbing",
+            "Norge"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Kvifor døyr songarane tidlegare? Studie viser auka dødsrisiko",
+          "link": "https://www.nrk.no/trondelag/ny-studie-avslorer-auka-dodsrisiko-etter-a-ha-blitt-beromt-1.17674210",
+          "pubDate": "Sun, 04 Jan 2026 11:06:22 GMT",
+          "description": "­",
+          "categories": [
+            "Pop / Rock",
+            "Helse og livsstil",
+            "Forskning og vitenskap",
+            "Musikk"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Leve lenge? Kastrering eller prevensjon kan vere svaret",
+          "link": "https://www.nrk.no/trondelag/forskarar-knyter-bruk-av-prevensjon-og-kastrering-til-lengre-levetid-1.17684926",
+          "pubDate": "Mon, 29 Dec 2025 14:24:18 GMT",
+          "description": "­",
+          "categories": [
+            "Natur",
+            "Natur og dyreliv",
+            "Forskning og vitenskap",
+            "Graviditet",
+            "Pattedyr - NRK Natur"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Veganister krever statsstøtte: Har roseseremoni for slakteklare dyr",
+          "link": "https://www.nrk.no/trondelag/xl/livssyn-eller-bare-syn-pa-livet_-1.17696477",
+          "pubDate": "Sun, 28 Dec 2025 09:38:41 GMT",
+          "description": "­",
+          "categories": [
+            "Religion og livssyn",
+            "Vegansk",
+            "Dyrevern",
+            "Griseindustrien",
+            "Norge"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Filmar før dei stikk ut av huset: – Gir meg ei ro",
+          "link": "https://www.nrk.no/trondelag/filmar-alltid-at-dei-laser-dora-og-tar-ut-kontakten-_-psykiater-atvarar-1.17667019",
+          "pubDate": "Sat, 27 Dec 2025 12:32:11 GMT",
+          "description": "­",
+          "categories": [
+            "Helse og livsstil",
+            "Forskning og vitenskap",
+            "Psykologi",
+            "Norge"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Erkjenner svakheter i læreplanen: – Matte­undervisning er basert på tro",
+          "link": "https://www.nrk.no/trondelag/vil-ha-mer-tradisjonell-matteundervisning-framfor-utforsking-i-klasserommet-1.17600884",
+          "pubDate": "Mon, 15 Dec 2025 04:14:33 GMT",
+          "description": "­",
+          "categories": [
+            "Forskning og vitenskap",
+            "Skole og utdanning",
+            "Barn/unge",
+            "Fysikk, kjemi og matematikk"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Vennskap før første blikk",
+          "link": "https://www.nrk.no/trondelag/xl/fremmede-med-lik-hjerne_frekvens-er-skjebne_bestemt-til-a-bli-venner-1.17652211",
+          "pubDate": "Thu, 11 Dec 2025 08:36:25 GMT",
+          "description": "Hjernen kan avsløre hvem du kommer til å bli venn med – lenge før du blir kjent med dem!",
+          "categories": [],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "Derfor gjer vaksenkjeft så vondt",
+          "link": "https://www.nrk.no/trondelag/kvifor-toler-vi-vaksenkjeft-sa-darleg_-1.17669831",
+          "pubDate": "Wed, 10 Dec 2025 19:05:04 GMT",
+          "description": "­",
+          "categories": [
+            "Konstruktiv",
+            "Norge",
+            "Samfunn"
+          ],
+          "source": "NRK Teknologi"
+        },
+        {
+          "title": "111-årsfesten – Lina og Margit er Norges eldste",
+          "link": "https://www.vg.no/nyheter/i/wgykyA/lina-anundsen-111-og-margit-larsen-111-er-norges-eldste",
+          "pubDate": "Wed, 12 Nov 2025 18:49:19 GMT",
+          "description": "Lina Anundsen feiret med alle «ungæne» sine hjemme i Siljan, mens Margit Larsen sang speidersanger med datteren i Odda. Norges to eldste personer fylte utrolige 111 år med stil og sjarm.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Overnattet i telt – Sto i kø for å stå i kø",
+          "link": "https://www.vg.no/nyheter/i/wg22QG/donald-fans-sov-i-telt-foer-billettslipp",
+          "pubDate": "Sat, 24 May 2025 10:05:49 GMT",
+          "description": "Morgengry og regnbyger hadde kanskje stanset B-gjengen, men ikke Donald-fansen!",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Meta beklager frislipp av voldsvideoer på Instagram",
+          "link": "https://www.vg.no/nyheter/i/Gy2rmq/meta-beklager-frislipp-av-voldsvideoer",
+          "pubDate": "Thu, 27 Feb 2025 20:57:20 GMT",
+          "description": "Fikk du opp sjokkerende videoer på Instagram Reels? Nå legger Meta seg flate.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Hussein fikk «Stem Frp! Få dem ut av Norge» i kommentarfeltet",
+          "link": "https://www.vg.no/nyheter/i/Gy2r0B/marian-hussein-sv-ut-mot-stem-frp-kommentarer",
+          "pubDate": "Thu, 27 Feb 2025 20:07:53 GMT",
+          "description": "Stortingsrepresentanten får støtte etter hun åpnet opp om hat i sosiale medier.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Christian (20): – Menn som meg blir nedsnakket",
+          "link": "https://www.vg.no/nyheter/i/93Wxop/christian-20-skriver-stem-frp-menn-som-meg-blir-nedsnakket",
+          "pubDate": "Tue, 25 Feb 2025 15:40:19 GMT",
+          "description": "Derfor gjør han som mange unge, konservative menn på hans alder: De surfer høyrebølgen i Norge.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Siv Jensens Facebook-konto hacket",
+          "link": "https://www.vg.no/nyheter/i/nyrmPJ/facebook-kontoen-til-siv-jensen-hacket",
+          "pubDate": "Sun, 16 Feb 2025 11:47:42 GMT",
+          "description": "Siv Jensen sin Facebook-konto, med 167.000 følgere, er hacket. – Jeg mistet kontrollen over kontoen min i går kveld, sier Jensen til VG.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Hestemysterium i Oslo – nå er det oppklart",
+          "link": "https://www.vg.no/nyheter/i/25wPly/hestemysterie-paa-bjerke-travbane",
+          "pubDate": "Sat, 15 Feb 2025 12:13:36 GMT",
+          "description": "Politiet i Oslo meldte lørdag formiddag om en hest som var sporløst forsvunnet fra Bjerke travbane.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Alvorlige mangler ved legevakten i Oslo, viser rapport",
+          "link": "https://www.vg.no/nyheter/i/4BQLVa/oslo-legevakt-ansatte-uten-kurs-i-akuttmedisin",
+          "pubDate": "Sat, 15 Feb 2025 09:45:57 GMT",
+          "description": "Ansatte ved Oslos nye allmennlegevakt på Aker er uten kurs i akuttmedisin, mangler relevant utdanning og er ikke kurset om seksuelle overgrep, viser en tilsynsrapport.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Frøya (18) ut mot høyresiden: – Oppskriften på hverdagsrasisme",
+          "link": "https://www.vg.no/nyheter/i/GynrVm/groenn-ungdom-reagerer-paa-frp-forslag-skaper-utenforskap",
+          "pubDate": "Mon, 06 Jan 2025 14:54:56 GMT",
+          "description": "Grønn Ungdom hevder høyrepartiene skaper rasisme, utenforskap og polarisering med sin retorikk om innvandring.",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        },
+        {
+          "title": "Lina 110 år: – Jeg er så gammel at nå kan jeg furte så mye jeg vil!",
+          "link": "https://www.vg.no/nyheter/i/GyP7lB/i-dag-fyller-lina-anundsen-og-margit-larsen-110-aar-de-er-norges-eldste-personer",
+          "pubDate": "Tue, 12 Nov 2024 15:47:37 GMT",
+          "description": "Lina Anundsen fra Siljan deler tittelen «Norges eldste» med Margit Larsen fra Odda. I dag fyller de 110 år!",
+          "categories": [
+            "Nyheter"
+          ],
+          "source": "VG Nyheter"
+        }
+      ]
+    }
+  },
+  "trends": [
+    {
+      "title": "sander eitrem",
+      "traffic": "10k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "liverpool mot man. city",
+      "traffic": "10k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "lindsey vonn",
+      "traffic": "20k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "anna odine strøm",
+      "traffic": "10k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "mona juul",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "super bowl",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "liverpool vs man city",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ol program i dag",
+      "traffic": "5k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "klæbo",
+      "traffic": "5k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "brad arnold",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "atlético madrid mot real betis",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ted jan bloemen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "maren hjelmeset kirkeeide",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "sven kramer",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "aksel lund svindal",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "bart swings",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "norge milano cortina",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "anterselva",
+      "traffic": "1k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "dorothea wierer",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ain country",
+      "traffic": "1k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "nyenget",
+      "traffic": "1k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "nrk",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "vetle sjåstad christiansen",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ørland",
+      "traffic": "2k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "mattis stenshagen",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ain",
+      "traffic": "1k+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "morsdagen",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "val di fiemme",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "eric perrot",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "julia simon",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "expressen",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "mathis desloges",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "skiathlon",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "harald østberg amundsen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "emil iversen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "gullfisken",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "edvin anger",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "lindsey vonn boyfriend",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "aamodt kilde",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "curling norge",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "breezy johnson",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "mikaela shiffrin",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "marit bjørgen",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "therese johaug",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "østlendingen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "snoop dogg",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "klassekampen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "julie zelingrova",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "niskanen",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "petter northug",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "skiathlon ol",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "tynset",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ilia malinin",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "nika prevc",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "mesternes mester",
+      "traffic": "500+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "adressa",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "fifa",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "svt",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "ola lunde",
+      "traffic": "200+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "altaposten",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "rbnett",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    },
+    {
+      "title": "newcastle vs brentford",
+      "traffic": "100+",
+      "source": "google-trends-scrape"
+    }
+  ],
+  "rssNews": [
+    {
+      "title": "Er det mulig å unngå USA og Kina når du kjøper nytt?",
+      "link": "https://www.tek.no/i/ArlVBz",
+      "pubDate": "Sun, 08 Feb 2026 04:00:00 GMT",
+      "description": "Dette er de «Trump og Xi-sikre» testvinnerne og anbefalingene våre.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den eneste bilen vi har testet med baguette-holder",
+      "link": "https://www.tek.no/i/aJPV2d",
+      "pubDate": "Sat, 07 Feb 2026 04:00:00 GMT",
+      "description": "Renault 4 E-Tech er både sjarmerende og veldig fransk.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Puster liv i legendarisk Nintendo-flopp",
+      "link": "https://www.tek.no/i/JOEAQj",
+      "pubDate": "Fri, 06 Feb 2026 17:00:00 GMT",
+      "description": "Vi prøvde Nintendos sagnomsuste «VR-helvete».",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Din neste PC kan ha «kina-minne»",
+      "link": "https://www.tek.no/i/RjyJzJ",
+      "pubDate": "Fri, 06 Feb 2026 16:30:00 GMT",
+      "description": "Kinesiske produsenter er billigere, men er de gode nok?",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Vi har testet trådløse støvsugere på budsjett",
+      "link": "https://www.tek.no/i/7660eo",
+      "pubDate": "Fri, 06 Feb 2026 14:44:11 GMT",
+      "description": "Ja, man finner kvalitet til langt under 5000 kr.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Google utvider AirDrop til flere Android-telefoner",
+      "link": "https://www.tek.no/i/gk0g6A",
+      "pubDate": "Fri, 06 Feb 2026 14:30:00 GMT",
+      "description": "Snart kan flere dele filer med iPhone.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Slipp kalde tær i vinter",
+      "link": "https://www.tek.no/i/y6WE8K",
+      "pubDate": "Fri, 06 Feb 2026 13:54:21 GMT",
+      "description": "Vi har testet varmesåler.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Slik holder du deg varm på hendene om vinteren",
+      "link": "https://www.tek.no/i/l36j6e",
+      "pubDate": "Fri, 06 Feb 2026 13:22:55 GMT",
+      "description": "Vi har testet varmehansker og votter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Nvidia utsetter nye grafikkort",
+      "link": "https://www.tek.no/i/oE64y0",
+      "pubDate": "Fri, 06 Feb 2026 13:03:55 GMT",
+      "description": "RTX 60-serien kan drøye helt til 2028.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "EU-kommisjonen: Tiktok bryter med EU-regler",
+      "link": "https://www.tek.no/i/K8pd5G",
+      "pubDate": "Fri, 06 Feb 2026 11:36:17 GMT",
+      "description": "TikToks design strider mot EUs digitale regelverk, er en foreløpig konklusjon fra EU-kommisjonen.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Morsdag 2026: Våre beste gavetips",
+      "link": "https://www.tek.no/i/zEnKXO",
+      "pubDate": "Fri, 06 Feb 2026 10:34:50 GMT",
+      "description": "Sjekk ut Tek-redaksjonens tips til morsdagsgaver!",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "HBO lager Baldur's Gate-serie",
+      "link": "https://www.tek.no/i/GxQ4M4",
+      "pubDate": "Fri, 06 Feb 2026 09:38:00 GMT",
+      "description": "«The Last of Us»-skaperen står bak.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "AI-agenten alle snakker om: – Et minefelt",
+      "link": "https://www.tek.no/i/bOzVwq",
+      "pubDate": "Thu, 05 Feb 2026 13:41:01 GMT",
+      "description": "Kan kontrollere alt på datamaskinen din.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "PS5-konkurrent utsettes",
+      "link": "https://www.tek.no/i/zOrpdv",
+      "pubDate": "Thu, 05 Feb 2026 08:28:27 GMT",
+      "description": "Skulle egentlig lanseres tidlig i år.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "– Snakker vi årets gøyeste sportsspill?",
+      "link": "https://www.tek.no/i/d4m9dq",
+      "pubDate": "Thu, 05 Feb 2026 06:30:16 GMT",
+      "description": "Vi tok turen til Nintendo for å sjekke ut vårens utgivelser.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Epic Games-sjef innrømmer: – Spillbutikken vår suger",
+      "link": "https://www.tek.no/i/L41b71",
+      "pubDate": "Wed, 04 Feb 2026 15:00:00 GMT",
+      "description": "Lover bedre app og nye funksjoner i år.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Slik kan du gå gjennom Epstein-dokumentene som en Gmail-innboks",
+      "link": "https://www.tek.no/i/GxQ9Wx",
+      "pubDate": "Wed, 04 Feb 2026 12:22:51 GMT",
+      "description": "Utviklere har gjort det enkelt å søke gjennom tusenvis av filer.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Dette skjer når elbilen møter 30 minusgrader",
+      "link": "https://www.tek.no/i/vrO79p",
+      "pubDate": "Wed, 04 Feb 2026 09:44:33 GMT",
+      "description": "på 1 prosent hadde de bare sekunder å komme seg til veikanten.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Take-Two-sjef: Skal ikke utsette GTA 6 igjen",
+      "link": "https://www.tek.no/i/GxQ90x",
+      "pubDate": "Wed, 04 Feb 2026 07:55:19 GMT",
+      "description": "Markedsføringen starter til sommeren.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Telenor tvinger fortsatt kunder til å leie TV-boks for T-We",
+      "link": "https://www.tek.no/i/Ar3V1n",
+      "pubDate": "Tue, 03 Feb 2026 17:02:25 GMT",
+      "description": "Selv om alt egentlig kan strømmes.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Spillaksjer stupte etter Googles nye AI-verktøy",
+      "link": "https://www.tek.no/i/V613W4",
+      "pubDate": "Tue, 03 Feb 2026 09:15:16 GMT",
+      "description": "Kan generere spillverdener på få minutter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "AI-roboter har fått sitt eget sosiale nettverk",
+      "link": "https://www.tek.no/i/q6Rrr0",
+      "pubDate": "Mon, 02 Feb 2026 12:19:59 GMT",
+      "description": "32.000 boter diskuterer uten menneskelig innblanding.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Full stans i bilmarkedet etter desember-rushet",
+      "link": "https://www.tek.no/i/q6RwLm",
+      "pubDate": "Mon, 02 Feb 2026 10:48:14 GMT",
+      "description": "Det ble registrert bare 2218 nye personbiler i januar, en nedgang på 76,7 prosent fra samme måned i fjor. Det viser registreringstallene fra Opplysningsrådet for veitrafikken (OFV).",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "SpaceX vil skyte opp en million satellitter for kunstig intelligens",
+      "link": "https://www.tek.no/i/j0z13q",
+      "pubDate": "Mon, 02 Feb 2026 07:37:36 GMT",
+      "description": "Elon Musks romfartsselskap søker om å bygge et «orbitalt datasenter».",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den perfekte utvidelsen til en laptop",
+      "link": "https://www.tek.no/i/Av6Wnx",
+      "pubDate": "Sun, 01 Feb 2026 11:30:00 GMT",
+      "description": "Vi har funnet den beste USB-C-huben.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "– Prismarkedsføringen for elsykler fra Momas kan være ulovlig",
+      "link": "https://www.tek.no/i/e7Kl9l",
+      "pubDate": "Sat, 31 Jan 2026 04:00:00 GMT",
+      "description": "Dette uttaler Forbrukerrådet.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Grafikkortgigant advarer om kollaps",
+      "link": "https://www.tek.no/i/7p5QPw",
+      "pubDate": "Fri, 30 Jan 2026 15:09:41 GMT",
+      "description": "Zotac frykter hele bransjen kan gå under på grunn av minnekrisen.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Oppdatering gir trøbbel for Garmin-klokker",
+      "link": "https://www.tek.no/i/Rjyq9a",
+      "pubDate": "Fri, 30 Jan 2026 14:14:24 GMT",
+      "description": "Smartklokkene mistet funksjoner. Slik fikser du det.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Advarer EX30-eiere igjen: Nå om lading innendørs",
+      "link": "https://www.tek.no/i/8pB7Q2",
+      "pubDate": "Fri, 30 Jan 2026 11:44:22 GMT",
+      "description": "Kan begynne å brenne, men ikke i Norge.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Nederlandsk forbrukertilsyn åpner granskingssak mot Roblox",
+      "link": "https://www.tek.no/i/167X6X",
+      "pubDate": "Fri, 30 Jan 2026 09:51:11 GMT",
+      "description": "Forbrukertilsynet i Nederland (ACM) har satt i gang en gransking av den amerikanske spillplattformen Roblox på grunn av risiko for mindreårige brukere i EU.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Windows 11 når én milliard brukere",
+      "link": "https://www.tek.no/i/5pnya1",
+      "pubDate": "Fri, 30 Jan 2026 08:58:47 GMT",
+      "description": "Microsoft feirer milepæl, men erkjenner at operativsystemet har store problemer som må fikses.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Apple melder om knallsalg av iPhone",
+      "link": "https://www.tek.no/i/GxQedB",
+      "pubDate": "Fri, 30 Jan 2026 08:32:57 GMT",
+      "description": "Apple melder selv om et historisk godt kvartalsresultat, der omsetningen steg med 16 prosent til 143,8 milliarder dollar. Salget av Iphone går så det suser.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "«Dispatch» tvunget til å sensurere på Nintendo Switch",
+      "link": "https://www.tek.no/i/GxQOKV",
+      "pubDate": "Thu, 29 Jan 2026 10:55:29 GMT",
+      "description": "Superheltspillet «Dispatch» kom onsdag til Nintendo Switch og Switch 2, men spillere oppdaget raskt at versjonen er kraftig sensurert sammenlignet med andre plattformer.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Verdens største rekkeviddetest gjennomført: Disse gjorde det best i sprengkulda",
+      "link": "https://www.tek.no/i/d4mMkA",
+      "pubDate": "Thu, 29 Jan 2026 08:48:32 GMT",
+      "description": "Hvert eneste år gjennomfører NAF og Motor to rekkeviddetester av elbiler – én på sommeren og én på vinteren – og omfanget har blitt så stort nå at det faktisk er verdens største test av sitt slag.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Tesla slutter å produsere Model S og Model X",
+      "link": "https://www.tek.no/i/M71EO0",
+      "pubDate": "Thu, 29 Jan 2026 06:34:20 GMT",
+      "description": "Skal fokusere på roboter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Google lekket Android for PC ved en feil",
+      "link": "https://www.tek.no/i/K8pP65",
+      "pubDate": "Wed, 28 Jan 2026 15:00:00 GMT",
+      "description": "Dette er «Aluminium OS»",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Enorm forskjell: AMD gruser Intel",
+      "link": "https://www.tek.no/i/LMmRvR",
+      "pubDate": "Wed, 28 Jan 2026 14:00:03 GMT",
+      "description": "Nå har AMD både beste budsjett- og entusiastprosessor.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Disse amerikanske tek-vanene endrer du raskest",
+      "link": "https://www.tek.no/i/m010W1",
+      "pubDate": "Wed, 28 Jan 2026 08:27:24 GMT",
+      "description": "Tre kjappe ting du kan bytte.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "GTA 6 kan lanseres uten fysisk utgave",
+      "link": "https://www.tek.no/i/167qRQ",
+      "pubDate": "Wed, 28 Jan 2026 07:16:21 GMT",
+      "description": "Sier diskversjon kommer senere, i frykt for lekkasje.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Verdens største rekkeviddetest blir uten Toyota",
+      "link": "https://www.tek.no/i/rrWMXm",
+      "pubDate": "Tue, 27 Jan 2026 14:35:14 GMT",
+      "description": "Mener fokuset på rekkevidde blir for snevert.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Kinesisk selskap vil ha elbilfabrikk i Fredrikstad",
+      "link": "https://www.tek.no/i/7p57mK",
+      "pubDate": "Tue, 27 Jan 2026 12:39:47 GMT",
+      "description": "Dongfeng, som er den minste av de fire store statseide bilprodusentene i Kina, har planer om å etablere en monteringsfabrikk for elbiler i Fredrikstad.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Meta lanserer betalabonnement for Facebook og Instagram",
+      "link": "https://www.tek.no/i/GxQx7Q",
+      "pubDate": "Tue, 27 Jan 2026 10:22:15 GMT",
+      "description": "Meta planlegger å innføre nye betalabonnement for Facebook, Instagram og WhatsApp i løpet av de kommende månedene, melder Techcrunch.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Google betaler 665 millioner kroner i personvernoppgjør",
+      "link": "https://www.tek.no/i/Ok3kpk",
+      "pubDate": "Tue, 27 Jan 2026 07:18:05 GMT",
+      "description": "Men innrømmer ikke ulovlig avlytting av brukere.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Får vi servert årets prisbombe allerede i januar?",
+      "link": "https://www.tek.no/i/y5764r",
+      "pubDate": "Mon, 26 Jan 2026 14:33:56 GMT",
+      "description": "Over 500 kilometer rekkevidde til 400.000 kroner.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "EU vil fjerne Grok fra Europa",
+      "link": "https://www.tek.no/i/d4mnvB",
+      "pubDate": "Mon, 26 Jan 2026 09:01:38 GMT",
+      "description": "EU-kommisjonen åpner sak mot Elon Musks AI-chatbot.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Hues «veggvaskere» gir deg avansert «Ambilight» bak TV-en",
+      "link": "https://www.tek.no/i/Gxav2J",
+      "pubDate": "Sun, 25 Jan 2026 07:00:00 GMT",
+      "description": "«Ambilight», som det opprinnelig ble døpt, var egentlig en innovasjon som kom til Philips-TV-er helt tilbake i 2004. Konseptet med lys rettet mot veggen bak TV-en og som synkroniseres med hva som skjer på skjermen har imidlertid siden blitt adoptert av en rekke selskaper, kanskje med Philips Hue i spissen.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Er Samsungs nye nettbrett heftigere enn iPad Pro?",
+      "link": "https://www.tek.no/i/xrAX68",
+      "pubDate": "Sun, 25 Jan 2026 04:00:00 GMT",
+      "description": "Vi har testet Galaxy Tab S11 og S11 Ultra.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den kraftigste snøfreseren vi har testet",
+      "link": "https://www.tek.no/i/7pKzyW",
+      "pubDate": "Sat, 24 Jan 2026 04:00:00 GMT",
+      "description": "Kan settes rett på ATV-en din.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Det finske «Solid State»-batteriet slaktes av batteriselskap",
+      "link": "https://www.tek.no/i/pBA0qE",
+      "pubDate": "Fri, 23 Jan 2026 14:51:32 GMT",
+      "description": "Hevder batteriet er for godt til å være sant.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den beste kullsyremaskinen: Sodastream er ikke det eneste alternativet",
+      "link": "https://www.tek.no/i/474n8R",
+      "pubDate": "Fri, 23 Jan 2026 12:53:01 GMT",
+      "description": "Vi har testet tolv modeller. Med vinneren kan du karbonere alt.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Sims-«sexmod» brukes 400.000 ganger hver dag",
+      "link": "https://www.tek.no/i/V6qyA4",
+      "pubDate": "Fri, 23 Jan 2026 10:38:39 GMT",
+      "description": "Skaperen tjener 700.000 kroner i måneden.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Boikott-app topper nedlastinger i Danmark",
+      "link": "https://www.tek.no/i/m0BAzq",
+      "pubDate": "Thu, 22 Jan 2026 10:36:50 GMT",
+      "description": "Sjekker om produkter er fra USA.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Ubisoft kansellerer seks spill og stenger to studioer",
+      "link": "https://www.tek.no/i/oEA5JR",
+      "pubDate": "Thu, 22 Jan 2026 07:58:51 GMT",
+      "description": "Spillselskapet går gjennom en massiv omorganisering.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Volvos nye elbil får 810 km rekkevidde og skal produseres i Sverige",
+      "link": "https://www.tek.no/i/6qzGve",
+      "pubDate": "Wed, 21 Jan 2026 19:08:30 GMT",
+      "description": "Her er nye EX60 - med de norske prisene.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Samsung Galaxy Z TriFold selges for 100.000 kroner i Norge",
+      "link": "https://www.tek.no/i/PdRVjJ",
+      "pubDate": "Wed, 21 Jan 2026 13:34:47 GMT",
+      "description": "Billigere å reise til Sør-Korea og kjøpe den selv.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Man skulle tro jeg hadde kjørt med håndbrekket på hele veien",
+      "link": "https://www.tek.no/i/OkQAwE",
+      "pubDate": "Wed, 21 Jan 2026 12:24:41 GMT",
+      "description": "Toyotas Urban Cruiser har et nærmest sjokkerende vinterforbruk.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Netflix varsler nytt design",
+      "link": "https://www.tek.no/i/7pK8b3",
+      "pubDate": "Wed, 21 Jan 2026 10:30:30 GMT",
+      "description": "Får store endringer i løpet av året.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Full forvirring: Hevdet OnePlus skal legges ned",
+      "link": "https://www.tek.no/i/2pd6bv",
+      "pubDate": "Wed, 21 Jan 2026 08:23:05 GMT",
+      "description": "Blir avvist av OnePlus-sjef.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Hvor blir det av Teslas selvkjørende biler?",
+      "link": "https://www.tek.no/i/oEAgLa",
+      "pubDate": "Wed, 21 Jan 2026 06:27:32 GMT",
+      "description": "Kan ta lang, lang tid. Hør siste episode av Tek-podden.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Sony vil gi TCL kontroll over Bravia-merkevaren",
+      "link": "https://www.tek.no/i/k0R9oa",
+      "pubDate": "Tue, 20 Jan 2026 15:30:15 GMT",
+      "description": "Inngår avtale med den kinesiske produsenten.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Microsoft skal by på gratis Xbox-spilling med reklame",
+      "link": "https://www.tek.no/i/L4nb3P",
+      "pubDate": "Tue, 20 Jan 2026 15:07:06 GMT",
+      "description": "Spillere får én time gratis streaming per økt.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "OpenAI lanserer første fysiske produkt i slutten av 2026",
+      "link": "https://www.tek.no/i/6qzJ6L",
+      "pubDate": "Tue, 20 Jan 2026 11:41:26 GMT",
+      "description": "Men ingen aner hva det er.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "ICE-app bruker bilder av turister for identifikasjon",
+      "link": "https://www.tek.no/i/K8y4dy",
+      "pubDate": "Tue, 20 Jan 2026 09:27:15 GMT",
+      "description": "Flyplass-bilder kan brukes mot deg.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "«Europa først»: De beste alternativene til amerikanske tjenester",
+      "link": "https://www.tek.no/i/25wQ5r",
+      "pubDate": "Mon, 19 Jan 2026 18:04:40 GMT",
+      "description": "Ut med X, Chrome, Apple Music og Netflix, og inn med...",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Honor tilbyr den smidigste brukeropplevelsen",
+      "link": "https://www.tek.no/i/431GWe",
+      "pubDate": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "description": "Magic8 Pro starter mobilåret med et pang.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Kreftsyk fan skal ha fått spille «GTA 6» tidlig",
+      "link": "https://www.tek.no/i/9pOAvr",
+      "pubDate": "Mon, 19 Jan 2026 13:57:40 GMT",
+      "description": "Fikk beskjed om at han bare har seks til tolv måneder igjen å leve.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Asus stopper med mobiltelefoner – satser alt på AI",
+      "link": "https://www.tek.no/i/GxamEB",
+      "pubDate": "Mon, 19 Jan 2026 08:46:33 GMT",
+      "description": "Selskapet flytter ressurser til roboter og smartbriller.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Tid for te: Vi tester tekokere",
+      "link": "https://www.tek.no/i/GyvbQ6",
+      "pubDate": "Sun, 18 Jan 2026 04:00:00 GMT",
+      "description": "Te blir et stadig mer attraktivt alternativ i Norge, og tidligere har VG skrevet om den populære matcha-teen som har blitt et kulturelt fenomen i Vesten – med så stor etterspørsel at verden opplever forsyningsproblemer.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Det er glatt ute - slik holder du deg på beina",
+      "link": "https://www.tek.no/i/oAv5mV",
+      "pubDate": "Sat, 17 Jan 2026 08:45:37 GMT",
+      "description": "Det er ingen skam å brodde.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Kjekk miniprojektor, men her er tilbehøret nesten essensielt",
+      "link": "https://www.tek.no/i/XM844W",
+      "pubDate": "Sat, 17 Jan 2026 04:00:00 GMT",
+      "description": "Har du lest Tek en stund, har du kanskje fått med deg at jeg har lagt min elsk på disse små og (helst) batteridrevne projektorene man kan bruke til å smelle opp et bilde nærmest hvor som helst - tidligere representert blant annet av modeller fra BenQ og Samsung.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Prisene på SSD-er skyter i været",
+      "link": "https://www.tek.no/i/16BeMB",
+      "pubDate": "Fri, 16 Jan 2026 15:10:23 GMT",
+      "description": "Populære lagringsdisker har mer enn doblet seg i pris.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Vi har funnet den beste kaffetrakteren",
+      "link": "https://www.tek.no/i/rgnnRe",
+      "pubDate": "Fri, 16 Jan 2026 13:26:55 GMT",
+      "description": "Flere storselgere og toppmodeller er testet. Én gjør det spesielt godt.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "«Linux-boom» etter Windows 10-slutt",
+      "link": "https://www.tek.no/i/m0BWn0",
+      "pubDate": "Fri, 16 Jan 2026 11:55:25 GMT",
+      "description": "Over 1,5 millioner Windows-brukere kan ha flyktet fra Microsoft.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Januarsalget: vi har samlet de beste tilbudene",
+      "link": "https://www.tek.no/i/Pd9zOp",
+      "pubDate": "Fri, 16 Jan 2026 09:46:08 GMT",
+      "description": "Lite skriker «godt nytt år» som at butikkene kvitter seg med fjorårets varelager og starter året med en langvarig tilbudsperiode i januar.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Lanserer ny TV-teknologi som utfordrer de aller beste",
+      "link": "https://www.tek.no/i/oEARWW",
+      "pubDate": "Fri, 16 Jan 2026 06:10:20 GMT",
+      "description": "TCL satser på «SQD Mini-LED».",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Tesla slutter å selge full selvkjøring",
+      "link": "https://www.tek.no/i/gkWyO1",
+      "pubDate": "Thu, 15 Jan 2026 19:55:14 GMT",
+      "description": "Fra 14. februar blir det kun abonnement.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Nå har Soundcore funnet på noe virkelig smart",
+      "link": "https://www.tek.no/i/GxGd2J",
+      "pubDate": "Thu, 15 Jan 2026 15:00:00 GMT",
+      "description": "Både støydemping og åpne propper i ett.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Gemini kan snart bruke alt Google vet om deg",
+      "link": "https://www.tek.no/i/0pKb80",
+      "pubDate": "Thu, 15 Jan 2026 12:40:35 GMT",
+      "description": "Kan se søkehistorikken din, bilder og e-poster.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Skal spille Kratos i «God of War»-serien",
+      "link": "https://www.tek.no/i/PdREER",
+      "pubDate": "Thu, 15 Jan 2026 07:11:28 GMT",
+      "description": "Skuespilleren spilte Thor i spillet – nå får han hovedrollen.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Apple utfordrer Adobe – nå blir disse appene én abonnementstjeneste",
+      "link": "https://www.tek.no/i/d4lMlq",
+      "pubDate": "Wed, 14 Jan 2026 15:30:00 GMT",
+      "description": "Samler alle kreative apper.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Skal gi foreldre mer kontroll over tenåringers skjermtid",
+      "link": "https://www.tek.no/i/d4lk81",
+      "pubDate": "Wed, 14 Jan 2026 14:00:00 GMT",
+      "description": "YouTube lover endringer.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Micron: RAM-krisen kan vare til 2028",
+      "link": "https://www.tek.no/i/0pK3mE",
+      "pubDate": "Wed, 14 Jan 2026 08:01:40 GMT",
+      "description": "Avviser kritikken etter at de forlot forbrukermarkedet.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Lego stjal showet med en helt ny brikke",
+      "link": "https://www.tek.no/i/k0R8k6",
+      "pubDate": "Wed, 14 Jan 2026 07:40:23 GMT",
+      "description": "De kuleste innovasjonene på CES-messen. Hør Tek-podden hver onsdag.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Nytt StarCraft-spill ryktes å være på vei",
+      "link": "https://www.tek.no/i/JOJ684",
+      "pubDate": "Tue, 13 Jan 2026 13:40:11 GMT",
+      "description": "Skal angivelig annonseres i 2026.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Apple velger Google som AI-partner",
+      "link": "https://www.tek.no/i/WvO6WG",
+      "pubDate": "Tue, 13 Jan 2026 07:20:07 GMT",
+      "description": "Og setter med det ChatGPT i baksetet.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Telia øker prisene på nesten alle mobilabonnement",
+      "link": "https://www.tek.no/i/k0R0lL",
+      "pubDate": "Tue, 13 Jan 2026 07:03:33 GMT",
+      "description": "Telia har oppdatert prisene på mobilabonnement på nettsidene sine. Nesten alle mobilabonnementene deres økes med 20 kroner i måneden.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Asus’ nye Zephyrus Duo har to skjermer og masse wow-faktor",
+      "link": "https://www.tek.no/i/K8yBje",
+      "pubDate": "Mon, 12 Jan 2026 16:00:00 GMT",
+      "description": "Las Vegas/Tek.no: Mens Lenovo viste en gaming-PC som utvider seg ved å «rulle ut» skjermen, satser Asus på rett og slett å utstyre PC-en med to skjermer først som sist.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den beste gamingskjermen på budsjett",
+      "link": "https://www.tek.no/i/3E1XLd",
+      "pubDate": "Mon, 12 Jan 2026 15:28:10 GMT",
+      "description": "Vi lar oss imponere av flere raske 1440p-skjermer. Men det gjelder å velge riktig!",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Vi har testet ni rimelige kaffetraktere",
+      "link": "https://www.tek.no/i/a7vjPa",
+      "pubDate": "Mon, 12 Jan 2026 15:22:32 GMT",
+      "description": "Tre av kaffetrakterne skiller seg ut som smaksvinnere.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Iskremmaskinene som lager all slags is uten forberedelser",
+      "link": "https://www.tek.no/i/K3d424",
+      "pubDate": "Mon, 12 Jan 2026 15:15:11 GMT",
+      "description": "Vi har testet fire iskremmaskiner fra 2.000 kroner til «toppklassen».",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Den beste trådløse gamingmusen",
+      "link": "https://www.tek.no/i/0VWp7E",
+      "pubDate": "Mon, 12 Jan 2026 15:04:51 GMT",
+      "description": "Vi har testet seks allsidige spillmus. Flere er gode kjøp.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Gamingheadset: De beste trådløse modellene",
+      "link": "https://www.tek.no/i/dOyRXO",
+      "pubDate": "Mon, 12 Jan 2026 15:02:36 GMT",
+      "description": "Og prisen? Godt under 2000 kroner!",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Fikk du Instagram-e-post om passordbytte?",
+      "link": "https://www.tek.no/i/V6qggl",
+      "pubDate": "Mon, 12 Jan 2026 13:54:31 GMT",
+      "description": "17,5 millioner brukere rammet, sier sikkerhetsselskap.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Her er Kias EV2 - vil den koste under 300.000?",
+      "link": "https://www.tek.no/i/4313lg",
+      "pubDate": "Mon, 12 Jan 2026 08:59:10 GMT",
+      "description": "Kia lanserer sin foreløpig minste elbil i form av EV2. Den måler 4,06 meter på strømpelesten, og vil konkurrere med biler som Volkswagen ID. Polo/ID.Cross, Skoda Epiq, Hyundai Inster, Firefly og Renault 4/5, for å nevne noen.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Gmail lanserer ny AI-innboks",
+      "link": "https://www.tek.no/i/XM8M97",
+      "pubDate": "Mon, 12 Jan 2026 08:13:40 GMT",
+      "description": "Google lanserer flere AI-funksjoner i Gmail.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Brukte 0 GB data i 5 år. Ble oppgradert til dyrere abonnement med 8 GB",
+      "link": "https://www.tek.no/i/xrPLnn",
+      "pubDate": "Sun, 11 Jan 2026 04:00:00 GMT",
+      "description": "Fra 79 kr til 219 kr.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Intel og AMD i åpen krig om håndholdte gaming-PC-er",
+      "link": "https://www.tek.no/i/QJmon8",
+      "pubDate": "Fri, 09 Jan 2026 14:52:20 GMT",
+      "description": "– De selger eldgammel silisium, sier Intel, og «teaser» ny spesialprosessor.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Alt-i-ett gassbrennere: den beste står støtt i vind",
+      "link": "https://www.tek.no/i/ab7Aod",
+      "pubDate": "Fri, 09 Jan 2026 14:49:14 GMT",
+      "description": "Det finnes en rekke finurlige varianter av gassbrennere på markedet, alle med sine unike kvaliteter. Noen er små, enkle og toppmonterte, andre har bredere brennflate og kommer med slange, mens noen kommer som en «alt i ett»-løsning.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Dette er de beste, og kraftigste, hodelyktene",
+      "link": "https://www.tek.no/i/EQjOMG",
+      "pubDate": "Fri, 09 Jan 2026 14:47:44 GMT",
+      "description": "De sterkeste lyser opp halve skauen, men koster også deretter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Vi har funnet den beste hodelykten i midtsjiktet",
+      "link": "https://www.tek.no/i/Kzkwpe",
+      "pubDate": "Fri, 09 Jan 2026 13:24:50 GMT",
+      "description": "I prisklassen (ca.) 1000 – 2500 kroner.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Går av som ambassadør etter Epstein-kontakt: – Alvorlig svikt",
+      "link": "https://e24.no/naeringsliv/i/437dJa/ud-mona-juul-gaar-av-som-ambassadoer",
+      "pubDate": "Sun, 08 Feb 2026 16:55:46 GMT",
+      "description": "Mona Juul (66) går av som ambassadør etter det ble kjent at hun har hatt kontakt med seksualforbryter Jeffrey Epstein.",
+      "categories": [
+        "Næringsliv"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Mona Juul går av som ambassadør",
+      "link": "https://e24.no/naeringsliv/i/RjyJEx/mona-juul-gaar-av-som-ambassadoer",
+      "pubDate": "Sun, 08 Feb 2026 16:47:54 GMT",
+      "description": "– Dette er en riktig og nødvendig beslutning. Den skjer etter samtalene med Utenriksdepartementet denne uken. Juuls kontakt med overgrepsdømte Epstein har vist en alvorlig svikt i dømmekraften. Saken gjør det vanskelig å gjenreise den tilliten som rollen krever, sier utenriksminister Espen Barth Eide i en pressemelding.",
+      "categories": [
+        "Næringsliv"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Bedre og mer effektiv bistand",
+      "link": "https://e24.no/internasjonal-oekonomi/i/PdykXz/bedre-og-mer-effektiv-bistand",
+      "pubDate": "Sun, 08 Feb 2026 14:08:06 GMT",
+      "description": "Norges utviklingsminister Åsmund Aukrust kunngjorde nylig en kursendring ut fra behovet om bedre og mer effektiv bistand. Dette er et kjærkomment skritt i riktig retning som også kan inspirere mange andre land.",
+      "categories": [
+        "Internasjonal økonomi"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Feiret 150 år i fjor – nå er hjørnesteins­bedriften konkurs",
+      "link": "https://e24.no/naeringsliv/i/Rjydqx/feiret-150-aar-i-fjor-naa-er-hjoernesteinsbedriften-konkurs",
+      "pubDate": "Sun, 08 Feb 2026 13:40:13 GMT",
+      "description": "Siden 1875 har bedriften som i dag heter Otta Skifer utvunnet stein fra Pillarguri Skiferbrudd i Gudbrandsdalen.",
+      "categories": [
+        "Næringsliv"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Helle (46) fikk tre styreverv etter ny lov",
+      "link": "https://e24.no/karriere-og-ledelse/i/0pKw66/helle-46-fikk-tre-styreverv-etter-ny-lov",
+      "pubDate": "Sun, 08 Feb 2026 12:33:27 GMT",
+      "description": "Kjønnsbalanse-loven ga flere tusen kvinner plass i norske styrer. Forskere har sett på hva som kjennetegner de nye styremedlemmene.",
+      "categories": [
+        "Karriere og ledelse"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Utbetalte 40 milliarder dollar i bitcoin ved en feil",
+      "link": "https://e24.no/boers-og-finans/i/16OPLQ/utbetalte-40-milliarder-dollar-i-bitcoin-ved-en-feil",
+      "pubDate": "Sun, 08 Feb 2026 12:32:11 GMT",
+      "description": "Won ble til bitcoin da kryptobørsen Bithumb skulle belønne kunder som deltok i en kampanje.",
+      "categories": [
+        "Børs og finans"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Omkampene om Melkøya: Ber regjeringen ta grep",
+      "link": "https://e24.no/energi-og-klima/i/e7P2zO/omkampene-om-melkoeya-ber-regjeringen-ta-grep",
+      "pubDate": "Sun, 08 Feb 2026 10:02:28 GMT",
+      "description": "Finnmarks fylkesordfører Hans-Jacob Bønå (H) er bekymret for et hardt debattklima rundt kraft og Melkøya, og ber regjeringen ta grep for å berolige befolkningen. – Gjort en altfor dårlig jobb.",
+      "categories": [
+        "Energi og klima"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Vil KI rasere tek-bransjen?",
+      "link": "https://e24.no/boers-og-finans/i/zOrmv5/vil-ki-rasere-tek-bransjen",
+      "pubDate": "Sun, 08 Feb 2026 08:57:42 GMT",
+      "description": "Investorene ble skremt av kunstig intelligens denne uken. Er frykten starten på en større sprekk?",
+      "categories": [
+        "Børs og finans"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Tor Bomann-Larsen: Kongehusets største krise?",
+      "link": "https://e24.no/norsk-oekonomi/i/zO755b/tor-bomann-larsen-kongehusets-stoerste-krise",
+      "pubDate": "Sun, 08 Feb 2026 07:14:19 GMT",
+      "description": "Tor Bomann-Larsen skrev åtte hyllede bind om Kong Haakon VII og Dronning Maud og er en kjenner av kongehusets historie. I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om monarkiets vanskelige tid, men med bakgrunn i de lange historiske linjene fra folkeavstemningen i 1905 og frem til i dag. \n\nNoen hevder dette er kongehusets største krise, men er det virkelig det?",
+      "categories": [
+        "Norsk økonomi"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Dette innrømmer Stein Lier-Hansen",
+      "link": "https://e24.no/naeringsliv/i/wr87b1/dette-innroemmer-stein-lier-hansen",
+      "pubDate": "Sun, 08 Feb 2026 06:18:00 GMT",
+      "description": "Familietur med sightseeing, sjøflypenger i egen lomme og romjulstur med ektefellen. Alt på jobbens regning. Dette er forholdene Stein Lier-Hansen selv mener er grov økonomisk utroskap.",
+      "categories": [
+        "Næringsliv"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "For mange nye «AI-eksperter» mangler grunnlag",
+      "link": "https://www.digi.no/artikler/debatt-for-mange-nye-ai-eksperter-mangler-grunnlag/567916",
+      "pubDate": "Sun, 08 Feb 2026 15:05:41 +0100",
+      "description": "I Norge ser jeg konsulentselskaper bytte merkelapp til AI-ekspert over natten. Det bekymrer mer enn det imponerer.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Tre av fem er bekymret for personvern ved offentlig bruk av KI",
+      "link": "https://www.digi.no/artikler/tre-av-fem-bekymrer-seg-for-personvern-ved-offentlig-bruk-av-ki/567988",
+      "pubDate": "Sun, 08 Feb 2026 11:03:16 +0100",
+      "description": "Flere er bekymret for personvernet når kunstig intelligens tas i bruk i offentlige virksomheter. Bekymringen er ikke helt grunnløs, mener Kari Laumann i Datatilsynet.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "– KI vil kunne forklare pensum like godt som en underviser. Hvorfor skal studentene komme til oss?",
+      "link": "https://www.digi.no/artikler/ki-vil-kunne-forklare-pensum-like-godt-som-en-underviser-hvorfor-skal-studentene-komme-til-oss/567952",
+      "pubDate": "Sun, 08 Feb 2026 05:00:00 +0100",
+      "description": "KI vil også overta mye av jobben som sensor, spår professor i fysikk Anders Malthe-Sørenssen.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Bedre robusthet med et felles nasjonalt mobilnett",
+      "link": "https://www.digi.no/artikler/debatt-bedre-robusthet-med-et-felles-nasjonalt-mobilnett/567931",
+      "pubDate": "Sat, 07 Feb 2026 15:18:58 +0100",
+      "description": "Gjennom samarbeidet vil vi på rekordtid bygge en stor andel nye basestasjoner som gir bedre dekning i hele landet",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Farlig nær norske satellitter – frykter avlytting og sabotasje",
+      "link": "https://www.digi.no/artikler/var-farlig-naer-norske-satellitter-frykter-avlytting-og-sabotasje/567898",
+      "pubDate": "Sat, 07 Feb 2026 05:00:00 +0100",
+      "description": "Den russiske Luch-satellitten la seg tett på norske satellitter i 2024. Nå frykter militære myndigheter at den vil bli brukt til hybridkrig i rommet.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Norske bedrifter blir lurt: – Inntektene går trolig til å finansiere Nord-Koreas atomvåpenprogram",
+      "link": "https://www.digi.no/artikler/pst-nordkoreansk-it-personell-blir-ansatt-i-norske-bedrifter/567982",
+      "pubDate": "Fri, 06 Feb 2026 16:16:25 +0100",
+      "description": "Utgir seg for å være europeere med falske eller stjålne identitetspapirer, viser en ny rapport fra PST.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Hylles og kritiseres: Nå finnes det eget sosialt nettverk for KI-agenter",
+      "link": "https://www.digi.no/artikler/na-finnes-det-eget-sosialt-nettverk-for-ki-agenter-det-bade-hylles-og-kritiseres/567814",
+      "pubDate": "Fri, 06 Feb 2026 14:50:35 +0100",
+      "description": "«Moltbook» er en slags Reddit for KI-agenter.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Ny epoke i internetthistorien: Vår kjærlighet til internett er i ferd med å ta slutt",
+      "link": "https://www.digi.no/artikler/kommentar-ny-epoke-i-internetthistorien-fra-romantikk-til-realisme/567910",
+      "pubDate": "Fri, 06 Feb 2026 11:39:06 +0100",
+      "description": "Vår kjærlighet til internett er i ferd med å ta slutt. Forholdet er i ferd med å få en mer praktisk art.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] NSM ber norske selskaper legge exit-planer",
+      "link": "https://www.digi.no/artikler/statens-hackere-tok-full-kontroll-over-norske-etater/567802",
+      "pubDate": "Fri, 06 Feb 2026 09:00:00 +0100",
+      "description": "Nasjonal sikkerhetsmyndighet (NSM) kan kunsten å hacke. Nå roper de varsku.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Telenor mistet 56.000 mobilkunder",
+      "link": "https://www.digi.no/artikler/telenor-mistet-56-000-mobilkunder/567943",
+      "pubDate": "Fri, 06 Feb 2026 07:45:51 +0100",
+      "description": "Bredbånd gikk ned 13.000. Den gode nyheten er at Telenor tjener mer på hver mobilkunde.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Telenor betaler for Norden-kjøp med Asia-salgene",
+      "link": "https://www.digi.no/artikler/telenor-betaler-for-norden-kjop-med-asia-salgene/567940",
+      "pubDate": "Fri, 06 Feb 2026 07:40:56 +0100",
+      "description": "Bruker salgsinntektene fra Pakistan og Thailand til å betale for Globalconnect-fiber, og ser etter mer å kjøpe i Norden. Aksjonærene får også milliarder.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Datasenter og ny industri: Her går mesteparten av overskuddsvarmen tapt",
+      "link": "https://www.digi.no/artikler/datasenter-og-industri-her-gar-mesteparten-av-overskuddsvarmen-tapt/567829",
+      "pubDate": "Fri, 06 Feb 2026 05:00:00 +0100",
+      "description": "Tung trekker fram prosjektet som en «perfekt symbiose» mellom datasenter og ny industri – men kun en brøkdel av overskuddsvarmen gjenbrukes.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Advarer mot en «militarisering av offentlig sektor»",
+      "link": "https://www.digi.no/artikler/krever-full-stans-i-tolletatens-bruk-av-palantir/567883",
+      "pubDate": "Thu, 05 Feb 2026 15:48:06 +0100",
+      "description": "Tolletaten: – Palantir er ikke et overvåkingsselskap, de leverer en programvare.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Ville tilby SpaceX-alternativ: Nå går det mot konkurs",
+      "link": "https://www.digi.no/artikler/ville-vaere-europeisk-alternativ-til-spacex-na-styrer-rakettfabrikken-mot-konkurs/567781",
+      "pubDate": "Thu, 05 Feb 2026 14:21:13 +0100",
+      "description": "I Danmark skulle de bygge rakettmotorer for å sende satellitter ut i rommet fra Skottland. Nå har den danske avdelingen av Orbex begjært oppbud.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Gigantinnkjøp gir 20.000 ansatte skyverktøy – nå ryker papiret",
+      "link": "https://www.digi.no/artikler/44-kommuner-har-valgt-journal-na-ryker-skanneren-og-papiret/567613",
+      "pubDate": "Thu, 05 Feb 2026 10:55:25 +0100",
+      "description": "Gigantinnkjøp gir 20.000 ansatte skybasert verktøy. Flere store leverandører gikk tapende ut av konkurransen.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Norsk sjøfiberkjempe går i land",
+      "link": "https://www.digi.no/artikler/norsk-sjofiberkjempe-gar-i-land/567841",
+      "pubDate": "Thu, 05 Feb 2026 07:34:06 +0100",
+      "description": "Tampnet skal bygge ut bredbånd til raffinerier, lagre og havneanlegg.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Telia kuttet 2G: Flere hundre trygghets­alarmer sluttet å virke",
+      "link": "https://www.digi.no/artikler/telia-kuttet-2g-nettet-i-finnmark-flere-hundre-trygghetsalarmer-sluttet-a-virke/567538",
+      "pubDate": "Thu, 05 Feb 2026 05:00:00 +0100",
+      "description": "Telia måtte skru på 2G-nettet igjen etter ni timer for å sikre liv og helse.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Microsoft: Utleverer krypteringsnøkler til FBI: – Svært bekymringsfullt",
+      "link": "https://www.digi.no/artikler/microsoft-utleverer-krypteringsnokler-til-fbi/567826",
+      "pubDate": "Wed, 04 Feb 2026 15:02:01 +0100",
+      "description": "Nå kommer professor med advarsel til danske kunder.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Nets var nede over hele landet: Betalingsproblemer fikset",
+      "link": "https://www.digi.no/artikler/nets-nede-i-norge-betalingsproblemer-over-hele-landet/567862",
+      "pubDate": "Wed, 04 Feb 2026 14:11:06 +0100",
+      "description": "Kortbetalingsløsningen Nets hadde onsdag trøbbel, noe som førte til betalingsproblemer over hele landet. Nå er feilen rettet.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Lei av KI? Firefox går mot strømmen og gir deg mulighet til å slå KI helt av",
+      "link": "https://www.digi.no/artikler/lei-av-ki-firefox-gar-mot-strommen-og-gir-deg-mulighet-til-a-sla-ki-helt-av/567739",
+      "pubDate": "Wed, 04 Feb 2026 13:15:55 +0100",
+      "description": "Mozilla kunngjorde nye funksjoner til nettleseren.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Ansetter mange: Nå skal Forsvaret bruke KI for alvor",
+      "link": "https://www.digi.no/artikler/skal-ansette-mange-for-a-fa-fart-pa-forsvarets-bruk-av-ki/567715",
+      "pubDate": "Wed, 04 Feb 2026 05:00:00 +0100",
+      "description": "Forsvarets nye data- og KI-senter skal bringe kunstig intelligens fra forskning til felt, fra prototyper til ferdig driftede løsninger. Nå skal det vokse.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Nkom: : Ber Telia og Ice om flere opplysninger om mobil-sammenslåing",
+      "link": "https://www.digi.no/artikler/nkom-ber-telia-og-ice-gi-dem-flere-opplysninger-om-mobil-sammenslaing/567787",
+      "pubDate": "Tue, 03 Feb 2026 16:31:20 +0100",
+      "description": "Nkom-sjefen sier at tre nett har vært sentralt i arbeidet med å bedre mobilkonkurransen, og vil følge med på hvordan sammenslåingen kan påvirke den.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Ekstreme planer:  Musk vil sende ut én million satellitter",
+      "link": "https://www.digi.no/artikler/derfor-vil-elon-musk-sende-en-million-satellitter-ut-i-verdensrommet/567694",
+      "pubDate": "Tue, 03 Feb 2026 16:00:00 +0100",
+      "description": "Vil bygge et nettverk av datasentre i bane rundt jorden.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Notepad++ kapret av statssponsede hackere",
+      "link": "https://www.digi.no/artikler/notepad-kapret-av-statssponsede-hackere/567763",
+      "pubDate": "Tue, 03 Feb 2026 14:45:51 +0100",
+      "description": "Brukere ble selektivt omdirigert til skadevare i nesten et halvt år. Sikkerhetseksperter har avdekket en avansert bakdør, som knyttes til Kina.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Chat GPT vil ha pasientjournalen din – leger er skeptiske",
+      "link": "https://www.digi.no/artikler/chat-gpt-vil-ha-pasientjournalen-din-leger-er-skeptiske/567492",
+      "pubDate": "Tue, 03 Feb 2026 13:02:30 +0100",
+      "description": "Flere forhold gjør leger skeptiske til den nye satsingen på KI-assistent.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Exit-strategi: «Apokalypse» for Europa",
+      "link": "https://www.digi.no/artikler/svensk-professor-apokalypse-for-europa-hvis-usa-kobler-ut-teknologien/567772",
+      "pubDate": "Tue, 03 Feb 2026 11:25:34 +0100",
+      "description": "Deler av Europa gjør seg klar til en mulig framtid uten amerikansk teknologi – men full frakobling i dagens situasjon er helt umulig, ifølge professor.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Må punge ut med millioner etter hackerangrep",
+      "link": "https://www.digi.no/artikler/ma-punge-ut-med-millioner-etter-hackerangrep/567706",
+      "pubDate": "Tue, 03 Feb 2026 10:41:42 +0100",
+      "description": "Den hackede appen hadde ikke god nok sikkerhet, mener det svenske datatilsynet, og skriver ut en bot på seks millioner.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Ice-Telia-samarbeidet: Styrkes eller svekkes robustheten?",
+      "link": "https://www.digi.no/artikler/analyse-ice-telia-samarbeidet-styrkes-eller-svekkes-robustheten/567754",
+      "pubDate": "Tue, 03 Feb 2026 08:00:02 +0100",
+      "description": "Ice-Telia-samarbeidet er ikke uten utfordringer, selv om partene lover både bedre konkurranse og bedre robusthet.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Ice og Telia slår sammen mobilnettene",
+      "link": "https://www.digi.no/artikler/ice-og-telia-slar-sammen-mobilnettene/567748",
+      "pubDate": "Tue, 03 Feb 2026 07:19:13 +0100",
+      "description": "Skal dele på basestasjoner, men ha egne kjernenett. Hevder det vil styrke, ikke svekke konkurransen.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Elon Musk slår sammen SpaceX og xAI før børsnotering",
+      "link": "https://www.digi.no/artikler/elon-musk-slar-sammen-spacex-og-xai-for-borsnotering/567745",
+      "pubDate": "Tue, 03 Feb 2026 07:11:32 +0100",
+      "description": "Romfartsselskap SpaceX har kjøpt opp KI-selskapet xAI. Formålet med sammenslåingen er å opprette rombaserte datasentre.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Nye Xbox blir ulikt alt annet",
+      "link": "https://itavisen.no/2026/02/08/xbox-2027-windows-11-konsoll-pc-steam/",
+      "pubDate": "Sun, 08 Feb 2026 17:17:40 +0000",
+      "description": "Microsoft tar Windows-spranget til stua.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Slik skal Apple kickstarte 2026",
+      "link": "https://itavisen.no/2026/02/08/apple-lanseringer-2026-iphone-17e-ipad-mac/",
+      "pubDate": "Sun, 08 Feb 2026 15:21:23 +0000",
+      "description": "Dette er produktene som lanseres før våren.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "ipad",
+        "iphone",
+        "mac"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Disney+ har fjernet det, også i Norge",
+      "link": "https://itavisen.no/2026/02/07/disney-plus-dolby-vision-norge-fjernet-rettssak/",
+      "pubDate": "Sat, 07 Feb 2026 15:06:16 +0000",
+      "description": "Ingen vet når Dolby Vision kommer tilbake.",
+      "categories": [
+        "Nyheter",
+        "disney",
+        "norge",
+        "strømming"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Mange vil ønske å gjøre dette med printeren",
+      "link": "https://itavisen.no/2026/02/07/windows-11-fjerner-gamle-skriverdrivere-2026/",
+      "pubDate": "Fri, 06 Feb 2026 23:17:42 +0000",
+      "description": "Årsaken er at Microsoft går bort fra de gamle V3 og V4-driverne.",
+      "categories": [
+        "Nyheter",
+        "Maskinvare",
+        "printer",
+        "windows"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Superhelt-action møter brutal soulslike",
+      "link": "https://itavisen.no/2026/02/06/my-hero-academia-alls-justice-code-vein-2-testet-anime-spill/",
+      "pubDate": "Fri, 06 Feb 2026 22:50:40 +0000",
+      "description": "My Hero Academia: All’s Justice og Code Vein II er begge anime, men helt ulike spill.",
+      "categories": [
+        "Nyheter",
+        "itavisengaming",
+        "Spill"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Apple åpner opp for alle i CarPlay",
+      "link": "https://itavisen.no/2026/02/06/apple-carplay-ai-chatgpt-gemini-eksterne-assistenter/",
+      "pubDate": "Fri, 06 Feb 2026 21:47:06 +0000",
+      "description": "Apple CarPlay får støtte for ChatGPT, Gemini og flere.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "Bil"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "YouTube har gjort endringen ingen liker",
+      "link": "https://itavisen.no/2026/02/06/youtube-fjerner-sortere-etter-dato-nyeste-forst-sok/",
+      "pubDate": "Fri, 06 Feb 2026 19:49:10 +0000",
+      "description": "Nå kan du ikke lenger sortere videoer etter opplastingsdato.",
+      "categories": [
+        "Nyheter",
+        "youtube"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "«De stjal VPN-serveren vår»",
+      "link": "https://itavisen.no/2026/02/06/vpn-sikkerhet-windscribe-politi-beslag-server/",
+      "pubDate": "Fri, 06 Feb 2026 17:30:45 +0000",
+      "description": "Windscribe sier politiet ikke finner noe.",
+      "categories": [
+        "Nyheter",
+        "personvern",
+        "sikkerhet",
+        "vpn"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Tjener milliarder på PC og Xbox",
+      "link": "https://itavisen.no/2026/02/06/sony-playstation-pc-xbox-spill-salg-25-milliarder/",
+      "pubDate": "Fri, 06 Feb 2026 15:47:48 +0000",
+      "description": "Sonys inntog hos konkurrentene lønner seg.",
+      "categories": [
+        "Nyheter",
+        "playstation",
+        "sony",
+        "Spill"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "iPhone 18 Pro Max kan få ekstrem batteritid",
+      "link": "https://itavisen.no/2026/02/06/iphone-18-pro-max-batteritid-storre-batteri-2nm/",
+      "pubDate": "Fri, 06 Feb 2026 14:24:07 +0000",
+      "description": "Større batteri og ny 2 nm-brikke.",
+      "categories": [
+        "Nyheter",
+        "iphone",
+        "Mobil"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Derfor virker GTA 6-lanseringen spikret",
+      "link": "https://itavisen.no/2026/02/06/gta-6-lansering-markedsforing-take-two/",
+      "pubDate": "Fri, 06 Feb 2026 13:17:10 +0000",
+      "description": "Take-Two-sjefen bekrefter at markedsføringen starter i sommer.",
+      "categories": [
+        "Nyheter",
+        "gta",
+        "Spill"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Forskjellen er natt og dag",
+      "link": "https://itavisen.no/2026/02/06/windows-hdr-spill-renodx-mitt-valg-bedre-hdr/",
+      "pubDate": "Fri, 06 Feb 2026 12:48:20 +0000",
+      "description": "Få spillene til å skinne i Windows 11.",
+      "categories": [
+        "Nyheter",
+        "hdr",
+        "Spill",
+        "Tips",
+        "windows"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Rekker han det?",
+      "link": "https://itavisen.no/2026/02/06/intel-gpu-satsing-utfordrer-nvidia-ai/",
+      "pubDate": "Fri, 06 Feb 2026 05:01:46 +0000",
+      "description": "Intel endrer kurs: skal lage GPU-brikker.",
+      "categories": [
+        "Nyheter",
+        "intel"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Den nye Windows 11-funksjonen er avslørt",
+      "link": "https://itavisen.no/2026/02/06/windows-11-shared-audio-del-lyd-to-hodetelefoner/",
+      "pubDate": "Fri, 06 Feb 2026 04:40:23 +0000",
+      "description": "Windows 11 lar deg dele lyd med to hodetelefoner samtidig.",
+      "categories": [
+        "Nyheter",
+        "windows"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Microsoft ansetter kvalitetssjef",
+      "link": "https://itavisen.no/2026/02/06/microsoft-ny-kvalitetssjef-charlie-bell/",
+      "pubDate": "Fri, 06 Feb 2026 04:24:37 +0000",
+      "description": "Dette er mannen som skal redde Windows.",
+      "categories": [
+        "Nyheter",
+        "Microsoft",
+        "windows"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Kan bli årets råeste SUV",
+      "link": "https://itavisen.no/2026/02/06/xpeng-gx-arets-raeste-suv/",
+      "pubDate": "Fri, 06 Feb 2026 04:05:01 +0000",
+      "description": "Styring som \"Cybertruck\" - opptil 1000 km rekkevidde.",
+      "categories": [
+        "Nyheter",
+        "Bil",
+        "xpeng"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Tør du slette karakteren? Da får du belønninger",
+      "link": "https://itavisen.no/2026/02/05/arc-raiders-wipe-sletter-karakter-expedition/",
+      "pubDate": "Thu, 05 Feb 2026 19:59:39 +0000",
+      "description": "Blir du med på omstart, får du fetere belønninger i \"Arc Raiders.\"",
+      "categories": [
+        "Nyheter",
+        "Spill"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "«Apple prøvde å stoppe meg»",
+      "link": "https://itavisen.no/2026/02/05/airtag-2-teardown-ifixit-hoyttaler-deaktiveres/",
+      "pubDate": "Thu, 05 Feb 2026 19:19:47 +0000",
+      "description": "Apple sin oppdaterte AirTag er bare litt er tuklesikker.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "iFixit"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Apple var allerede overlegne, nå slår de alle igjen",
+      "link": "https://itavisen.no/2026/02/05/ipad-salg-2025-vekst/",
+      "pubDate": "Thu, 05 Feb 2026 18:59:14 +0000",
+      "description": "iPad øker, resten fallr fra nettbrettmarkedet.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "ipad",
+        "Maskinvare"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Alle vil elske det, Apple vil hate det",
+      "link": "https://itavisen.no/2026/02/05/android-airdrop-stotte-quick-share-alle-mobiler/",
+      "pubDate": "Thu, 05 Feb 2026 18:21:30 +0000",
+      "description": "Android utvider Quick Share iPhone-støtte til \"alle Androids.\"",
+      "categories": [
+        "Nyheter",
+        "android",
+        "iphone",
+        "Mobil"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Det er ingen tvil: iPhone 17 Pro Max er best",
+      "link": "https://itavisen.no/2026/02/05/iphone-17-pro-max-best-batteritid-test/",
+      "pubDate": "Thu, 05 Feb 2026 15:17:31 +0000",
+      "description": "Slår alle i stor batteritest.",
+      "categories": [
+        "Nyheter",
+        "iphone",
+        "Mobil"
+      ],
+      "source": "ITavisen"
+    },
+    {
+      "title": "Fann bane­brytande metode for å avdekke aggressiv kreftform",
+      "link": "https://www.nrk.no/trondelag/som-dei-forste-i-verda-har-forskarar-ved-ntnu-avdekt-nye-kjenneteikn-for-aggressiv-prostatakreft-1.17743369",
+      "pubDate": "Thu, 05 Feb 2026 08:01:48 GMT",
+      "description": "­",
+      "categories": [
+        "Kreft",
+        "Forskning og vitenskap",
+        "NTNU",
+        "Helse",
+        "Sykdom",
+        "Norge"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Norsk forskning: Vi trenger færre tester for livmorhals­kreft i framtida",
+      "link": "https://www.nrk.no/trondelag/trenger-faerre-tester-for-livmorhalskreft-i-framtida-1.17746626",
+      "pubDate": "Tue, 03 Feb 2026 16:03:20 GMT",
+      "description": "­",
+      "categories": [
+        "Livmorhalskreft",
+        "Kvinnehelse",
+        "Helse og livsstil",
+        "Forskning og vitenskap",
+        "Norge",
+        "Helse",
+        "Kreft"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Får fedmesprøyter: – Sendes hjem uten hjelp",
+      "link": "https://www.nrk.no/trondelag/far-fedmesproyter_-_-sendes-hjem-uten-hjelp-1.17727478",
+      "pubDate": "Mon, 02 Feb 2026 05:55:22 GMT",
+      "description": "Kan i verste fall være uforsvarlig, ifølge forening.",
+      "categories": [
+        "Overvekt  og fedme",
+        "Helse og livsstil",
+        "Legemidler",
+        "Helse"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Brystkreft: Oppdaga fleire svulstar med denne metoden",
+      "link": "https://www.nrk.no/trondelag/brystkreft_-oppdaga-fleire-svulstar-da-ki-hjelpte-til-1.17747498",
+      "pubDate": "Sun, 01 Feb 2026 15:46:31 GMT",
+      "categories": [
+        "Helse og livsstil",
+        "Kvinnehelse",
+        "Forskning og vitenskap",
+        "Kreft"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Dårlig luftkvalitet kan ramme ufødte babyer",
+      "link": "https://www.nrk.no/trondelag/fant-darligere-utviklede-hjerner-hos-spedbarn-hvor-mor-hadde-pustet-forurenset-luft-1.17746138",
+      "pubDate": "Fri, 30 Jan 2026 17:59:43 GMT",
+      "description": "Ny forskning tyder på at det ikke bare er den som puster inn forurenset luft som kan få problemer.",
+      "categories": [
+        "Forskning og vitenskap",
+        "Luftkvalitet i Trondheim",
+        "Luftkvalitet i Oslo",
+        "Luftkvaliteten i Bergen"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Cecilie (24) får høre at hun bør ta livet sitt",
+      "link": "https://www.nrk.no/trondelag/ny-forskning-pa-jenter-og-gaming_-_-dette-er-noe-vi-ma-ta-pa-alvor-1.17728621",
+      "pubDate": "Tue, 27 Jan 2026 21:03:49 GMT",
+      "description": "­",
+      "categories": [
+        "Spill",
+        "Ungdom og fritid",
+        "Norge",
+        "Helse og livsstil",
+        "PC-spill",
+        "PlayStation 2",
+        "Barn/unge",
+        "Samfunn",
+        "Forbruker (Helse og livsstil)",
+        "Forskning og vitenskap"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Usikkerheit om plast i kroppen: – Det er komplisert",
+      "link": "https://www.nrk.no/trondelag/forsking-pa-mikroplast-far-stryk-_-norsk-ekspert-seier-saka-er-komplisert-1.17740038",
+      "pubDate": "Tue, 27 Jan 2026 17:40:32 GMT",
+      "description": "­",
+      "categories": [
+        "Helse",
+        "Plast i havet",
+        "Forskning og vitenskap",
+        "NTNU"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Er du naiv optimist eller tafatt pessimist?",
+      "link": "https://www.nrk.no/trondelag/optimisme-vs.-pessimisme_-slik-ser-norsk-ungdom-pa-framtida-1.17214263",
+      "pubDate": "Tue, 27 Jan 2026 04:56:36 GMT",
+      "description": "­Slik unngår du å bli handlingslamma",
+      "categories": [
+        "Religion og livssyn",
+        "Trøndelag",
+        "Trondheim",
+        "NTNU",
+        "Studenter"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Norsk forskning: Så lite skal til for å redusere risikoen for å dø tidlig",
+      "link": "https://www.nrk.no/trondelag/studie-viser-hvor-lite-som-skal-til-for-a-redusere-risikoen-for-en-tidlig-dod-1.17725080",
+      "pubDate": "Wed, 14 Jan 2026 16:57:06 GMT",
+      "description": "Det er mulig å få til for de aller fleste!",
+      "categories": [
+        "Helse og livsstil",
+        "Overvekt  og fedme",
+        "Trening",
+        "Forskning og vitenskap",
+        "Helse",
+        "Norge"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Ny studie: Så fort går folk opp i vekt etter at de slutter med fedme­medisin",
+      "link": "https://www.nrk.no/trondelag/studie_-folk-som-slutter-med-fedmesproyter-gar-opp-i-vekt-fire-ganger-raskere-enn-folk-pa-diett-1.17720781",
+      "pubDate": "Sun, 11 Jan 2026 07:51:38 GMT",
+      "description": "­",
+      "categories": [
+        "Overvekt  og fedme",
+        "Helse",
+        "Psykisk helse",
+        "Forskning og vitenskap"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Kartla tilsetningsstoffer i norsk mat – forskere ble overrasket av funn",
+      "link": "https://www.nrk.no/trondelag/forskere-kartla-45.000-norske-matvarer_-en-av-tre-inneholdt-stoffer-som-kan-pavirke-helsa-1.17708976",
+      "pubDate": "Sun, 11 Jan 2026 20:27:48 GMT",
+      "description": "­",
+      "categories": [
+        "Mat og kosthold",
+        "Helse",
+        "Kosthold",
+        "Forskning og vitenskap",
+        "Forbruker (Helse og livsstil)",
+        "Samfunn"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Hets og kjeft mot unge håndball­dommere: – Det blir noen tårer",
+      "link": "https://www.nrk.no/trondelag/naer-fire-av-ti-handballdommere-opplever-hets-eller-trakassering-1.17686846",
+      "pubDate": "Wed, 07 Jan 2026 17:26:56 GMT",
+      "description": "­",
+      "categories": [
+        "Forskning og vitenskap",
+        "Norge",
+        "Håndball",
+        "Sport",
+        "Agder",
+        "Trøndelag",
+        "Agder: Lindesnes",
+        "Sport i Agder",
+        "Sport Trøndelag"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Observerte lek med barbiedukker: – Vondt å være vitne til",
+      "link": "https://www.nrk.no/trondelag/skulle-observere-lek-blant-forsteklassinger-_-sa-rasisme-og-diskriminering-1.17687294",
+      "pubDate": "Tue, 06 Jan 2026 12:08:35 GMT",
+      "description": "­",
+      "categories": [
+        "NTNU",
+        "Forskning og vitenskap",
+        "Barn/unge",
+        "Leker/spill/klær",
+        "Skole og utdanning",
+        "Mobbing",
+        "Norge"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Kvifor døyr songarane tidlegare? Studie viser auka dødsrisiko",
+      "link": "https://www.nrk.no/trondelag/ny-studie-avslorer-auka-dodsrisiko-etter-a-ha-blitt-beromt-1.17674210",
+      "pubDate": "Sun, 04 Jan 2026 11:06:22 GMT",
+      "description": "­",
+      "categories": [
+        "Pop / Rock",
+        "Helse og livsstil",
+        "Forskning og vitenskap",
+        "Musikk"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Leve lenge? Kastrering eller prevensjon kan vere svaret",
+      "link": "https://www.nrk.no/trondelag/forskarar-knyter-bruk-av-prevensjon-og-kastrering-til-lengre-levetid-1.17684926",
+      "pubDate": "Mon, 29 Dec 2025 14:24:18 GMT",
+      "description": "­",
+      "categories": [
+        "Natur",
+        "Natur og dyreliv",
+        "Forskning og vitenskap",
+        "Graviditet",
+        "Pattedyr - NRK Natur"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Veganister krever statsstøtte: Har roseseremoni for slakteklare dyr",
+      "link": "https://www.nrk.no/trondelag/xl/livssyn-eller-bare-syn-pa-livet_-1.17696477",
+      "pubDate": "Sun, 28 Dec 2025 09:38:41 GMT",
+      "description": "­",
+      "categories": [
+        "Religion og livssyn",
+        "Vegansk",
+        "Dyrevern",
+        "Griseindustrien",
+        "Norge"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Filmar før dei stikk ut av huset: – Gir meg ei ro",
+      "link": "https://www.nrk.no/trondelag/filmar-alltid-at-dei-laser-dora-og-tar-ut-kontakten-_-psykiater-atvarar-1.17667019",
+      "pubDate": "Sat, 27 Dec 2025 12:32:11 GMT",
+      "description": "­",
+      "categories": [
+        "Helse og livsstil",
+        "Forskning og vitenskap",
+        "Psykologi",
+        "Norge"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Erkjenner svakheter i læreplanen: – Matte­undervisning er basert på tro",
+      "link": "https://www.nrk.no/trondelag/vil-ha-mer-tradisjonell-matteundervisning-framfor-utforsking-i-klasserommet-1.17600884",
+      "pubDate": "Mon, 15 Dec 2025 04:14:33 GMT",
+      "description": "­",
+      "categories": [
+        "Forskning og vitenskap",
+        "Skole og utdanning",
+        "Barn/unge",
+        "Fysikk, kjemi og matematikk"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Vennskap før første blikk",
+      "link": "https://www.nrk.no/trondelag/xl/fremmede-med-lik-hjerne_frekvens-er-skjebne_bestemt-til-a-bli-venner-1.17652211",
+      "pubDate": "Thu, 11 Dec 2025 08:36:25 GMT",
+      "description": "Hjernen kan avsløre hvem du kommer til å bli venn med – lenge før du blir kjent med dem!",
+      "categories": [],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "Derfor gjer vaksenkjeft så vondt",
+      "link": "https://www.nrk.no/trondelag/kvifor-toler-vi-vaksenkjeft-sa-darleg_-1.17669831",
+      "pubDate": "Wed, 10 Dec 2025 19:05:04 GMT",
+      "description": "­",
+      "categories": [
+        "Konstruktiv",
+        "Norge",
+        "Samfunn"
+      ],
+      "source": "NRK Teknologi"
+    },
+    {
+      "title": "111-årsfesten – Lina og Margit er Norges eldste",
+      "link": "https://www.vg.no/nyheter/i/wgykyA/lina-anundsen-111-og-margit-larsen-111-er-norges-eldste",
+      "pubDate": "Wed, 12 Nov 2025 18:49:19 GMT",
+      "description": "Lina Anundsen feiret med alle «ungæne» sine hjemme i Siljan, mens Margit Larsen sang speidersanger med datteren i Odda. Norges to eldste personer fylte utrolige 111 år med stil og sjarm.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Overnattet i telt – Sto i kø for å stå i kø",
+      "link": "https://www.vg.no/nyheter/i/wg22QG/donald-fans-sov-i-telt-foer-billettslipp",
+      "pubDate": "Sat, 24 May 2025 10:05:49 GMT",
+      "description": "Morgengry og regnbyger hadde kanskje stanset B-gjengen, men ikke Donald-fansen!",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Meta beklager frislipp av voldsvideoer på Instagram",
+      "link": "https://www.vg.no/nyheter/i/Gy2rmq/meta-beklager-frislipp-av-voldsvideoer",
+      "pubDate": "Thu, 27 Feb 2025 20:57:20 GMT",
+      "description": "Fikk du opp sjokkerende videoer på Instagram Reels? Nå legger Meta seg flate.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Hussein fikk «Stem Frp! Få dem ut av Norge» i kommentarfeltet",
+      "link": "https://www.vg.no/nyheter/i/Gy2r0B/marian-hussein-sv-ut-mot-stem-frp-kommentarer",
+      "pubDate": "Thu, 27 Feb 2025 20:07:53 GMT",
+      "description": "Stortingsrepresentanten får støtte etter hun åpnet opp om hat i sosiale medier.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Christian (20): – Menn som meg blir nedsnakket",
+      "link": "https://www.vg.no/nyheter/i/93Wxop/christian-20-skriver-stem-frp-menn-som-meg-blir-nedsnakket",
+      "pubDate": "Tue, 25 Feb 2025 15:40:19 GMT",
+      "description": "Derfor gjør han som mange unge, konservative menn på hans alder: De surfer høyrebølgen i Norge.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Siv Jensens Facebook-konto hacket",
+      "link": "https://www.vg.no/nyheter/i/nyrmPJ/facebook-kontoen-til-siv-jensen-hacket",
+      "pubDate": "Sun, 16 Feb 2025 11:47:42 GMT",
+      "description": "Siv Jensen sin Facebook-konto, med 167.000 følgere, er hacket. – Jeg mistet kontrollen over kontoen min i går kveld, sier Jensen til VG.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Hestemysterium i Oslo – nå er det oppklart",
+      "link": "https://www.vg.no/nyheter/i/25wPly/hestemysterie-paa-bjerke-travbane",
+      "pubDate": "Sat, 15 Feb 2025 12:13:36 GMT",
+      "description": "Politiet i Oslo meldte lørdag formiddag om en hest som var sporløst forsvunnet fra Bjerke travbane.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Alvorlige mangler ved legevakten i Oslo, viser rapport",
+      "link": "https://www.vg.no/nyheter/i/4BQLVa/oslo-legevakt-ansatte-uten-kurs-i-akuttmedisin",
+      "pubDate": "Sat, 15 Feb 2025 09:45:57 GMT",
+      "description": "Ansatte ved Oslos nye allmennlegevakt på Aker er uten kurs i akuttmedisin, mangler relevant utdanning og er ikke kurset om seksuelle overgrep, viser en tilsynsrapport.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Frøya (18) ut mot høyresiden: – Oppskriften på hverdagsrasisme",
+      "link": "https://www.vg.no/nyheter/i/GynrVm/groenn-ungdom-reagerer-paa-frp-forslag-skaper-utenforskap",
+      "pubDate": "Mon, 06 Jan 2025 14:54:56 GMT",
+      "description": "Grønn Ungdom hevder høyrepartiene skaper rasisme, utenforskap og polarisering med sin retorikk om innvandring.",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    },
+    {
+      "title": "Lina 110 år: – Jeg er så gammel at nå kan jeg furte så mye jeg vil!",
+      "link": "https://www.vg.no/nyheter/i/GyP7lB/i-dag-fyller-lina-anundsen-og-margit-larsen-110-aar-de-er-norges-eldste-personer",
+      "pubDate": "Tue, 12 Nov 2024 15:47:37 GMT",
+      "description": "Lina Anundsen fra Siljan deler tittelen «Norges eldste» med Margit Larsen fra Odda. I dag fyller de 110 år!",
+      "categories": [
+        "Nyheter"
+      ],
+      "source": "VG Nyheter"
+    }
+  ],
+  "totalCount": 82
+}

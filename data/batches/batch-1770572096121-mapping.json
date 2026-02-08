@@ -1,0 +1,139 @@
+{
+  "timestamp": 1770572096121,
+  "topics": [
+    {
+      "custom_id": "article-0-1770572096121",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Chilli (møbler): Reklamasjon på sofa når det er «normal slitasje» vs feil – dokumentasjonen som avgjør",
+        "query": "chilli reklamasjon",
+        "keywords": [
+          "chilli møbler",
+          "sofa reklamasjon",
+          "slitasje vurdering",
+          "bilde-dokumentasjon"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Ny butikk (Chilli). Møbelsaker er ofte bevis-tunge; kvittering + fotodokumentasjon + tidslinje er essensielt."
+      }
+    },
+    {
+      "custom_id": "article-1-1770572096121",
+      "topic": {
+        "category": "store-guide",
+        "topic": "A-Møbler: Slik finner du ordrenummer og kjøpsbevis ved etterbestilling av deler (bein, trekk, puter)",
+        "query": "a-møbler ordrenummer",
+        "keywords": [
+          "a-møbler kvittering",
+          "etterbestille deler",
+          "møbel deler",
+          "ordrehistorikk"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje-intensjon: etterbestilling krever ofte ordrenr/produktnavn som står på kvittering/ordrebekreftelse."
+      }
+    },
+    {
+      "custom_id": "article-2-1770572096121",
+      "topic": {
+        "category": "trending",
+        "topic": "Gullfisken-reklamene: Slik finner du igjen kvitteringer når du «vet du har den et sted»",
+        "query": "gullfisken",
+        "keywords": [
+          "rydde kvitteringer",
+          "finne kvittering",
+          "digitalt arkiv"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trender i Norge i dag. Brukes som kulturell krok inn i et praktisk kvitteringsproblem, uten å være sportsnyheter."
+      }
+    },
+    {
+      "custom_id": "article-3-1770572096121",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Morsdagen: Gi bort gave uten pris – slik gjør du bytte enkelt med anonymt kjøpsbevis",
+        "query": "morsdagen",
+        "keywords": [
+          "gavekvittering",
+          "bytte gave",
+          "kjøpsbevis uten pris"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Morsdag trender. Sesongkobling til gavekvittering/bytte (uten å kopiere eksisterende 'Kjøpsbevis gave' ved å fokusere på morsdag-setup og butikkpraksis)."
+      }
+    },
+    {
+      "custom_id": "article-4-1770572096121",
+      "topic": {
+        "category": "life-situation",
+        "topic": "Super Bowl-fest: Slik dokumenterer du innkjøp når dere spleiser (Vipps, kort, kvittering)",
+        "query": "super bowl",
+        "keywords": [
+          "spleis",
+          "vipps utlegg",
+          "felleskjøp kvittering"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Super Bowl trender. Naturlig kvitteringsvinkel: spleis/utlegg og hvem som får «originalbilaget»."
+      }
+    },
+    {
+      "custom_id": "article-5-1770572096121",
+      "topic": {
+        "category": "trending",
+        "topic": "Klæbo/OL-program i dag: Slik lagrer du kvitteringer for sportsreiser (transport, overnatting, billetter) uten å rote",
+        "query": "ol program i dag",
+        "keywords": [
+          "sportsreise kvitteringer",
+          "reiseutlegg",
+          "billettdokumentasjon"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Mye sport i Trends. Kobles til reisebilag/utlegg-arkivering. Skiller seg fra FA Cup-artikkelen ved å være generell sportsreise."
+      }
+    },
+    {
+      "custom_id": "article-6-1770572096121",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når du betaler med gavekort: Slik beviser du kjøpet hvis du må reklamere (og gavekortet er kastet)",
+        "query": "reklamasjon betalt med gavekort",
+        "keywords": [
+          "reklamasjon betalt med gavekort"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Vanlig problem, få gode norske guider, gir klare steg og sjekkliste."
+      }
+    },
+    {
+      "custom_id": "article-7-1770572096121",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Når garantien starter feil: Slik beviser du riktig kjøpsdato med 3 uavhengige kilder",
+        "query": "bevise kjøpsdato",
+        "keywords": [
+          "bevise kjøpsdato"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Mange konflikter i reklamasjon handler om dato. Gir tydelig, handlingsrettet verdi og kan internlenkes fra iPhone/elektronikk."
+      }
+    },
+    {
+      "custom_id": "article-8-1770572096121",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Skeidar reklamasjon: Slik dokumenterer du montering og mål uten å overdele personopplysninger",
+        "query": "skeidar reklamasjon",
+        "keywords": [
+          "møbelreklamasjon",
+          "monteringsbevis",
+          "målskisse",
+          "personvern dokumentasjon"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Lavere volum, men svært målrettet long-tail. Kombinerer dokumentasjon + personvern (ny vinkel)."
+      }
+    }
+  ]
+}

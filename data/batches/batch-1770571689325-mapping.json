@@ -1,0 +1,127 @@
+{
+  "timestamp": 1770571689325,
+  "topics": [
+    {
+      "custom_id": "article-0-1770571689325",
+      "topic": {
+        "category": "business",
+        "topic": "Fradrag enkeltpersonforetak: Kvitteringene du må ha for å få fradraget (med enkel sjekkliste)",
+        "query": "fradrag enkeltpersonforetak",
+        "keywords": [
+          "fradrag for næringsdrivende",
+          "bilag",
+          "bokføring",
+          "mva-dokumentasjon"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Sterkt fradragscluster (139/119). Kan bli en «pillar page» for ENK + internlenking til spesifikke fradrag."
+      }
+    },
+    {
+      "custom_id": "article-1-1770571689325",
+      "topic": {
+        "category": "trending",
+        "topic": "Super Bowl-fest i Norge: Slik dokumenterer du catering, matlevering og utlegg når flere spleiser",
+        "query": "super bowl",
+        "keywords": [
+          "spleis utlegg",
+          "kvittering mat",
+          "vipps utlegg dokumentasjon",
+          "refusjon utlegg"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Trend-toppen 'super bowl' kan kobles til praktisk kvitteringsbehov: spleis/utlegg/arrangement hjemme."
+      }
+    },
+    {
+      "custom_id": "article-2-1770571689325",
+      "topic": {
+        "category": "seasonal",
+        "topic": "Morsdagen: Gavekvittering og bytterett – dette må du ha for å unngå gavekaos",
+        "query": "morsdagen",
+        "keywords": [
+          "gavekvittering",
+          "bytte gave",
+          "åpent kjøp",
+          "kvittering gave"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Morsdagen er på trendlisten; gavekjøp gir høy friksjon rundt bytte/retur uten ordinær kvittering."
+      }
+    },
+    {
+      "custom_id": "article-3-1770571689325",
+      "topic": {
+        "category": "trending",
+        "topic": "OL-program i dag: Slik lagrer du kvitteringer for strømmetjenester, sportspakker og engangskjøp (så du kan si opp/klage)",
+        "query": "ol program i dag",
+        "keywords": [
+          "abonnement kvittering",
+          "oppsigelse dokumentasjon",
+          "sportspakke",
+          "digital kvittering"
+        ],
+        "dataSource": "google-trends",
+        "rationale": "Sportsinteresse driver kjøp av korttidsabonnement; kvitteringer brukes i oppsigelse/feilfakturering."
+      }
+    },
+    {
+      "custom_id": "article-4-1770571689325",
+      "topic": {
+        "category": "ai-creative",
+        "topic": "Garanti på sexleketøy og intimprodukter: Diskré dokumentasjon, hygiene-unntak og hva som faktisk kan reklameres",
+        "query": "reklamasjon sexleketøy",
+        "keywords": [
+          "reklamasjon sexleketøy"
+        ],
+        "dataSource": "ai-creative",
+        "rationale": "Nisje med høy nysgjerrighet og få gode guider; passer kvitteringslagring og personvern."
+      }
+    },
+    {
+      "custom_id": "article-5-1770571689325",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Montér reklamasjon: Dokumentasjonen du bør samle før du klager på byggvarer (batch/partinummer, bilder, montering)",
+        "query": "montér reklamasjon",
+        "keywords": [
+          "monter reklamasjon",
+          "byggvare reklamasjon",
+          "garanti byggvarer"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Ny butikk og ny kategori. Byggvarer krever ofte mer enn kvittering: partinummer, monteringsbetingelser og bildebevis."
+      }
+    },
+    {
+      "custom_id": "article-6-1770571689325",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Boozt reklamasjon: Dokumenter «feil størrelse vs feilvare» – slik unngår du avslag",
+        "query": "boozt reklamasjon",
+        "keywords": [
+          "boozt retur",
+          "boozt kvittering",
+          "feilvare dokumentasjon"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Ny nettbutikk, høy relevans for kvitteringsarkiv og retur/reklamasjon."
+      }
+    },
+    {
+      "custom_id": "article-7-1770571689325",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Stormberg garanti: Hva du må lagre når du reklamerer på teknisk tøy (bilder, vaskelapp, kjøpsbevis)",
+        "query": "stormberg garanti",
+        "keywords": [
+          "stormberg reklamasjon",
+          "garanti klær",
+          "teknisk tøy reklamasjon"
+        ],
+        "dataSource": "seo-gap",
+        "rationale": "Kleskategori + tekniske materialer gir dokumentasjonsbehov utover kvittering (vaskeanvisning, slitasje)."
+      }
+    }
+  ]
+}
