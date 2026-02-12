@@ -1,49 +1,58 @@
 {
-  "lastResearch": "2026-02-08T17:34:56.115Z",
+  "lastResearch": "2026-02-12T11:04:46.399Z",
   "trendingTopics": [
     {
-      "topic": "morsdagen",
+      "topic": "tv / nrk tv / tv2.no",
       "source": "google-trends",
-      "relevance": "Gavekjøp skaper behov for gavekvittering, bytte uten å avsløre pris og lagring av dokumentasjon for garanti.",
+      "relevance": "TV-kjøp, retur og garanti krever kvittering; godt tidspunkt å publisere guider om dokumentasjon ved elektronikkjøp",
       "risingQueries": [
-        "gavekvittering",
-        "bytte gave uten kvittering"
+        "tv garanti",
+        "kvittering tv"
       ]
     },
     {
-      "topic": "super bowl",
+      "topic": "OL i dag på TV",
       "source": "google-trends",
-      "relevance": "Mat/drikke-utlegg, spleis og refusjon gir behov for ryddig kvitteringsflyt og dokumentasjon.",
+      "relevance": "OL-sesong gir flere TV-/streaming-relaterte kjøp; koble til kvittering for elektronikk og abonnement",
       "risingQueries": [
-        "spleis kvittering",
-        "utlegg dokumentasjon vipps"
+        "ol i dag på tv",
+        "tv abonnement kvittering"
       ]
     },
     {
-      "topic": "ol program i dag",
+      "topic": "dnb",
       "source": "google-trends",
-      "relevance": "Reiser/arrangement/utstyr knyttet til sport gir kvitteringsbehov (utstyr, service, billetter).",
+      "relevance": "Mange mister kvittering og bruker banktransaksjon som støtte; forklar hva som holder som dokumentasjon",
       "risingQueries": [
-        "reiseutlegg",
-        "kvittering heiskort"
+        "dnb kortkjøp detaljer",
+        "kontoutskrift som kvittering"
       ]
     },
     {
-      "topic": "nrk",
+      "topic": "translate",
       "source": "google-trends",
-      "relevance": "Strømmetjenester/abonnement gir kvitteringsbehov når banktekst er uklar (APP/NRK-lisenser er historisk, men abonnement/tilleggstjenester er relevant).",
+      "relevance": "Utenlandske kvitteringer/garantivilkår må ofte oversettes ved reklamasjon i Norge",
       "risingQueries": [
-        "abonnement kvittering",
-        "apple.com/bill kvittering"
+        "oversette kvittering",
+        "warranty receipt translation"
       ]
     },
     {
-      "topic": "gullfisken",
+      "topic": "chatgpt",
       "source": "google-trends",
-      "relevance": "Kampanjer og reklame trigger impulskjøp—god anledning til artikler om å sikre kvittering ved kampanjevarer og returfrister.",
+      "relevance": "AI for organisering/klassifisering av kvitteringer + personvernvinkel",
       "risingQueries": [
-        "returfrist kampanje",
-        "prisavslag dokumentasjon"
+        "ai organisere kvitteringer",
+        "chatgpt personvern dokumenter"
+      ]
+    },
+    {
+      "topic": "vikinglotto trekning",
+      "source": "google-trends",
+      "relevance": "Dokumentasjon/kvittering ved premie, gave og økonomiske hendelser",
+      "risingQueries": [
+        "kvittering premie",
+        "dokumentasjon gevinst"
       ]
     }
   ],
@@ -83,219 +92,342 @@
   },
   "suggestedTopics": [
     {
-      "title": "Kvittering vs kontoutskrift i Norge (2026): Når holder banktransaksjonen som kjøpsbevis?",
+      "title": "Hva er en kvittering – og hvorfor trenger du den i 2026?",
       "primaryKeyword": "kvittering",
       "keywords": [
-        "kjøpsbevis",
-        "kontoutskrift som kvittering",
-        "banktransaksjon dokumentasjon",
-        "reklamasjon uten kvittering"
-      ],
-      "category": "seo-gap",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Høy visning på «kvittering» men svært lav CTR. Artikkel kan løfte klikk med tydelig svar på et vanlig under-spørsmål som ikke er dekket i eksisterende titler."
-    },
-    {
-      "title": "E-kvittering i praksis: Slik finner du den i e-post, apper og betalingsløsninger (uten å logge inn i butikken)",
-      "primaryKeyword": "e-kvittering",
-      "keywords": [
-        "digital kvittering",
-        "e-kvittering ikke mottatt",
-        "hvor finner jeg e-kvittering",
-        "kvittering på epost"
-      ],
-      "category": "seo-gap",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "«e-kvittering» har høy opportunity og lav CTR. Vi har en generell e-kvittering-artikkel fra før, så denne må være tydelig mer praktisk/kanalbasert (e-post/Wallet/apper) og ikke en definisjonsartikkel."
-    },
-    {
-      "title": "Fysisk butikk + digital kvittering (uten medlemskap): 7 fraser som faktisk får deg e-kvittering i kassen",
-      "primaryKeyword": "fysisk butikk digital kvittering",
-      "keywords": [
-        "digital kvittering i butikk",
-        "e-kvittering i kassen",
-        "kvittering på sms",
-        "kvittering på epost"
+        "kvitteringer",
+        "e-kvittering",
+        "digital kvittering"
       ],
       "category": "problem-solving",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Søket har 0 klikk men god posisjon. Ny artikkel kan kapre klikk ved å være ekstremt konkret (setninger, valg i terminal, personvern)."
+      "rationale": "Høyeste visninger på «kvittering» (2116) med lav CTR; informasjonsartikkel kan øke klikk og eie definisjons-intent."
     },
     {
-      "title": "Zalando reklamasjon uten originalemballasje: Dokumentasjon som veier tyngre enn esken",
+      "title": "Kvitering eller kvittering? Slik finner du igjen dokumentasjon uansett stavemåte",
+      "primaryKeyword": "kvitering",
+      "keywords": [
+        "kvittering",
+        "kvitteringer",
+        "mistet kvittering"
+      ],
+      "category": "problem-solving",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "Null klikk på «kvitering» med 332 visninger; egen side fanger stavefeil-intent og sender til riktig innhold."
+    },
+    {
+      "title": "E-kvittering: Fordeler, ulemper og hva som faktisk gjelder i norske butikker",
+      "primaryKeyword": "e-kvittering",
+      "keywords": [
+        "digital kvittering",
+        "fysisk butikk digital kvittering",
+        "kvitteringer lagret på ett sted"
+      ],
+      "category": "feature-highlight",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "Lav CTR på «e-kvittering» + «fysisk butikk digital kvittering» (0 klikk) – tydelig informasjonsbehov."
+    },
+    {
+      "title": "Digital kvittering i fysisk butikk: Slik ber du om det (og hva du gjør hvis de sier nei)",
+      "primaryKeyword": "fysisk butikk digital kvittering",
+      "keywords": [
+        "e-kvittering",
+        "kvittering",
+        "kvitteringer lagret på ett sted"
+      ],
+      "category": "problem-solving",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "217 visninger, 0 klikk og posisjon ~1.1 tyder på snippet/tittel-mismatch; konkret guide kan løfte CTR."
+    },
+    {
+      "title": "Kvitteringer lagret på ett sted: Slik lager du et system som faktisk fungerer",
+      "primaryKeyword": "kvitteringer lagret på ett sted",
+      "keywords": [
+        "mine kvitteringer",
+        "kvitteringer",
+        "e-kvittering"
+      ],
+      "category": "feature-highlight",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "0 klikk på 220 visninger og god posisjon; tydelig behov for bedre innhold/CTA."
+    },
+    {
+      "title": "Garanti på iPhone i Norge: Dette må du kunne (og hvilken dokumentasjon som kreves)",
+      "primaryKeyword": "garanti iphone",
+      "keywords": [
+        "iphone garanti",
+        "kvittering iphone",
+        "reklamasjon iphone"
+      ],
+      "category": "problem-solving",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "«garanti iphone» er en topp-mulighet (350 visninger) og passer perfekt til kvitteringslagring."
+    },
+    {
+      "title": "Zalando faktura: Hvor finner du den, og hva hvis du mangler dokumentasjon ved retur?",
+      "primaryKeyword": "zalando faktura",
+      "keywords": [
+        "zalando kvittering",
+        "zalando retur",
+        "dokumentasjon kjøp"
+      ],
+      "category": "store-guide",
+      "priority": "high",
+      "dataSource": "search-console",
+      "rationale": "Høy interesse (349 visninger) og sterk kjøps-/returintensjon; lett å konvertere til lagring av kvittering."
+    },
+    {
+      "title": "Zalando reklamasjon i 2026: Steg-for-steg + hvilke bevis du bør samle",
       "primaryKeyword": "zalando reklamasjon",
       "keywords": [
         "reklamasjon zalando",
         "zalando retur",
-        "mangler eske",
-        "bildebevis reklamasjon"
+        "kvittering"
       ],
       "category": "store-guide",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "Zalando-reklamasjon er et sterkt tema i data. Dette er en ny vinkel (emballasje/dok-pakke) uten å gjenta eksisterende «dokumentasjon som avgjør saken»-artikkel ved å fokusere på emballasje-spesifikt."
+      "rationale": "435 visninger på «zalando reklamasjon»; tydelig problem-intent, viktig å eie med guide og sjekkliste."
     },
     {
-      "title": "Zalando faktura: Slik dokumenterer du kjøpet når Klarna-oversikten er tom (delbetaling, fornyet kort eller sperret konto)",
-      "primaryKeyword": "zalando faktura",
+      "title": "Elkjøp: Finn «Mine ordre» og hent kvittering – komplett guide",
+      "primaryKeyword": "elkjøp mine ordre",
       "keywords": [
-        "klarna zalando",
-        "mangler faktura",
-        "betalingshistorikk klarna",
-        "ordrebekreftelse zalando"
+        "elkjøp kvittering",
+        "elkjøp min side",
+        "mistet kvittering elkjøp"
       ],
       "category": "store-guide",
       "priority": "high",
       "dataSource": "search-console",
-      "rationale": "«zalando faktura» har høy opportunity. Nytt scenario-drevet innhold (tom oversikt/endelendringer) gir differensiering fra tidligere faktura-artikler."
+      "rationale": "Sterk opportunity-score og tydelig navigasjonsintensjon; kan gi høy trafikk og signups."
     },
     {
-      "title": "Garanti på mobiltelefon kjøpt i utlandet: Slik bruker du norsk kvitteringsarkiv når butikken er i et annet land",
-      "primaryKeyword": "garanti mobiltelefon",
+      "title": "Kvitteringer: Hvorfor CTR er lav selv med god plassering – og hva du kan gjøre som forbruker",
+      "primaryKeyword": "kvitteringer",
       "keywords": [
-        "garanti på mobiltelefon",
-        "utenlandsk kvittering",
-        "dokumentasjon garanti",
-        "IMEI kjøpsbevis"
-      ],
-      "category": "problem-solving",
-      "priority": "high",
-      "dataSource": "search-console",
-      "rationale": "Mobil/garanti er et tydelig cluster i data. Utenlandsk kjøp er en ny vinkel som skaper long-tail trafikk."
-    },
-    {
-      "title": "Samsung garanti i Norge: Hva du må lagre av kvittering, serienummer og modellkode for å unngå avslag",
-      "primaryKeyword": "samsung garanti",
-      "keywords": [
-        "garanti elektronikk",
-        "serienummer samsung",
-        "modellkode",
-        "servicebevis"
+        "kvittering",
+        "e-kvittering",
+        "digital kvittering"
       ],
       "category": "seo-gap",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Data viser interesse for Samsung/garanti. Artikkel bør være en sjekkliste (modellkode/serienummer) og ikke duplisere generelle garanti-artikler."
+      "rationale": "«kvitteringer» har mange visninger (522) men posisjon ~7; en mer spisset artikkel kan flytte oss opp."
     },
     {
-      "title": "Garanti på hvitevarer ved gave: Slik håndterer du kvittering når du ikke er den som betalte",
-      "primaryKeyword": "garanti hvitevarer",
+      "title": "Kvittering uten kvittering? Slik dokumenterer du kjøpet med kontoutskrift og ordrebekreftelse",
+      "primaryKeyword": "mistet kvittering",
       "keywords": [
-        "gavekvittering",
-        "garanti uten kvittering",
-        "kjøpsbevis gave",
-        "overføre kvittering"
+        "kontoutskrift som kvittering",
+        "ordrebekreftelse",
+        "reklamasjon uten kvittering"
+      ],
+      "category": "problem-solving",
+      "priority": "medium",
+      "dataSource": "seo-gap",
+      "rationale": "Temaet «uten kvittering» fungerer allerede (Clas Ohlson), men vi lager en generell evergreen-guide (ikke butikkspesifikk)."
+    },
+    {
+      "title": "Garanti vs reklamasjon: Hva er forskjellen – og hvilken «kvittering» trenger du?",
+      "primaryKeyword": "garanti",
+      "keywords": [
+        "reklamasjon",
+        "kvittering",
+        "forbrukerkjøpsloven"
+      ],
+      "category": "problem-solving",
+      "priority": "high",
+      "dataSource": "seo-gap",
+      "rationale": "Data viser sterk interesse for både garanti og reklamasjon (iPhone/Zalando/mobil). En generell side kan samle autoritet."
+    },
+    {
+      "title": "Hvordan lagre kvitteringer trygt: PDF, e-post, skjermbilde eller kvitteringsapp?",
+      "primaryKeyword": "lagre kvitteringer",
+      "keywords": [
+        "digital kvittering",
+        "e-kvittering",
+        "kvitteringer lagret på ett sted"
+      ],
+      "category": "feature-highlight",
+      "priority": "high",
+      "dataSource": "seo-gap",
+      "rationale": "Sterk produkt-fit for minekvitteringer.no og tett på eksisterende queries om digital kvittering."
+    },
+    {
+      "title": "Når trenger du kvittering? 27 vanlige situasjoner nordmenn faktisk møter",
+      "primaryKeyword": "når trenger man kvittering",
+      "keywords": [
+        "kvittering",
+        "reklamasjon",
+        "garanti"
       ],
       "category": "life-situation",
       "priority": "medium",
-      "dataSource": "search-console",
-      "rationale": "«garanti hvitevarer» er i datasettet. Gave-situasjon er en konkret case som ofte skaper friksjon i reklamasjon."
+      "dataSource": "ai-creative",
+      "rationale": "Bred top-of-funnel som bygger interne lenker til store guider (Elkjøp/Zalando/iPhone) uten å duplisere dem."
     },
     {
-      "title": "Bohus reklamasjon ved transportskade: Dokumentasjon du bør sikre samme dag (før du monterer)",
-      "primaryKeyword": "reklamasjon bohus",
+      "title": "OL på TV og store kjøp: Slik sikrer du kvittering på ny TV (retur, reklamasjon, garanti)",
+      "primaryKeyword": "tv garanti",
       "keywords": [
-        "transportskade møbler",
-        "mottakskontroll",
-        "bilder ved levering",
-        "kvittering bohus"
+        "nrk tv",
+        "tv2.no",
+        "tv",
+        "kvittering tv"
       ],
-      "category": "store-guide",
+      "category": "trending",
+      "priority": "medium",
+      "dataSource": "google-trends",
+      "rationale": "Trender på «tv», «nrk tv» og «tv2.no»; naturlig kobling til TV-kjøp, dokumentasjon og garanti."
+    },
+    {
+      "title": "DNB-kjøp og kvittering: Slik finner du transaksjonsdetaljer som kan støtte en reklamasjon",
+      "primaryKeyword": "dnb kvittering",
+      "keywords": [
+        "dnb",
+        "kontoutskrift",
+        "kortkjøp dokumentasjon"
+      ],
+      "category": "problem-solving",
+      "priority": "low",
+      "dataSource": "google-trends",
+      "rationale": "«dnb» trender; vi kan fange behovet for betalingsdokumentasjon når kvittering mangler."
+    },
+    {
+      "title": "ChatGPT for kvitteringskaos: Slik kan AI hjelpe deg å organisere kjøpsbevis (uten å dele sensitive data)",
+      "primaryKeyword": "ai kvitteringer",
+      "keywords": [
+        "chatgpt",
+        "kvitteringer",
+        "personvern"
+      ],
+      "category": "trending",
+      "priority": "low",
+      "dataSource": "google-trends",
+      "rationale": "«chatgpt» trender; gir ny vinkel på organisering og personvern som passer produktet."
+    },
+    {
+      "title": "Translate og utenlandske kvitteringer: Slik tolker du garantivilkår på engelsk (og lagrer beviset)",
+      "primaryKeyword": "utenlandsk kvittering",
+      "keywords": [
+        "translate",
+        "garanti",
+        "kvittering"
+      ],
+      "category": "trending",
+      "priority": "low",
+      "dataSource": "google-trends",
+      "rationale": "«translate» trender; kan kobles til reiser/utenlandske kjøp og behovet for å forstå vilkår."
+    },
+    {
+      "title": "VikingLotto og store gevinster: Hvilke kvitteringer bør du faktisk ta vare på ved premie og skatt?",
+      "primaryKeyword": "gevinst kvittering",
+      "keywords": [
+        "vikinglotto trekning",
+        "dokumentasjon",
+        "skatt"
+      ],
+      "category": "life-situation",
+      "priority": "low",
+      "dataSource": "google-trends",
+      "rationale": "«vikinglotto trekning» trender; uvanlig men relevant dokumentasjons-case."
+    },
+    {
+      "title": "Kvittering som bevis i forsikring: Slik dokumenterer du verdi etter tyveri eller skade",
+      "primaryKeyword": "kvittering forsikring",
+      "keywords": [
+        "dokumentasjon",
+        "innboforsikring",
+        "verdivurdering"
+      ],
+      "category": "life-situation",
+      "priority": "high",
+      "dataSource": "ai-creative",
+      "rationale": "Høy praktisk verdi og direkte relevans for kvitteringslagring, uten å overlappe butikk-guider."
+    },
+    {
+      "title": "Slik bygger du et «bilagsarkiv» privat: En enkel struktur som tåler 5 år",
+      "primaryKeyword": "bilagsarkiv",
+      "keywords": [
+        "arkivering kvitteringer",
+        "kvitteringer",
+        "dokumentasjon"
+      ],
+      "category": "business",
       "priority": "medium",
       "dataSource": "search-console",
-      "rationale": "Bohus finnes i tema-data. Transportskade er en egen nisje (levering/montering) som ikke overlapper eksisterende «reklamasjon på møbler»-artikkel dersom vi fokuserer på transport/levering og tidslinje dag 0."
+      "rationale": "Tema-analysen viser «bilagsarkiv» (ARK) – lavt volum i dag, men kan bli autoritetsinnhold og fange long-tail."
     },
     {
-      "title": "Skeidar reklamasjon: Slik dokumenterer du montering og mål uten å overdele personopplysninger",
-      "primaryKeyword": "skeidar reklamasjon",
+      "title": "Mistet kvittering til regnskap: Hva gjør du – og hva kan brukes som erstatning?",
+      "primaryKeyword": "mistet kvittering regnskap",
       "keywords": [
-        "møbelreklamasjon",
-        "monteringsbevis",
-        "målskisse",
-        "personvern dokumentasjon"
+        "regnskap",
+        "bilag",
+        "kontoutskrift"
       ],
-      "category": "store-guide",
+      "category": "business",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "Finnes i problem-listen (18 visninger); liten, men svært kvalifisert målgruppe med høy produkt-fit."
+    },
+    {
+      "title": "Kvittering fra privatperson til firma: Slik skriver du et gyldig bilag",
+      "primaryKeyword": "kvittering fra privatperson til firma",
+      "keywords": [
+        "bilag",
+        "regnskap",
+        "dokumentasjon"
+      ],
+      "category": "business",
+      "priority": "medium",
+      "dataSource": "search-console",
+      "rationale": "Nisje (21 visninger) men tydelig behov; bra for E-E-A-T og kan ranke lett."
+    },
+    {
+      "title": "Firmabil og bompenger: Hvilke kvitteringer må du ta vare på?",
+      "primaryKeyword": "firmabil bompenger",
+      "keywords": [
+        "enk",
+        "regnskap",
+        "bilag"
+      ],
+      "category": "business",
       "priority": "low",
       "dataSource": "search-console",
-      "rationale": "Lavere volum, men svært målrettet long-tail. Kombinerer dokumentasjon + personvern (ny vinkel)."
+      "rationale": "Business-tema finnes i data; gir flere innganger til kvitteringsarkiv for småbedrifter."
     },
     {
-      "title": "Kvittering for apotek-kjøp: Hva du bør lagre for reklamasjon på blodtrykksmåler, termometer og helseutstyr",
-      "primaryKeyword": "kvittering",
+      "title": "Kvitterings-beredskap: 10 dokumenter du bør ha klare før uhellet skjer",
+      "primaryKeyword": "kvitteringsberedskap",
       "keywords": [
-        "apotek kvittering",
-        "reklamasjon helseutstyr",
-        "garanti medisinsk utstyr",
-        "serienummer helseprodukt"
+        "kvitteringsberedskap"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Nisje få skriver om: apotek/helseutstyr har ofte serienummer og «hygiene»-diskusjoner. Sterk relevans for kvitteringslagring."
+      "rationale": "Gir delbart, nyttig evergreen-innhold som bygger behovet for én lagringsplass."
     },
     {
-      "title": "Optiker og briller: Slik lagrer du kvittering, styrker og tilpasningsdata for reklamasjon og forsikring",
-      "primaryKeyword": "kvittering",
+      "title": "Den skjulte kostnaden ved å miste kvitteringer: tid, penger og stress (med regneeksempel)",
+      "primaryKeyword": "miste kvittering kostnad",
       "keywords": [
-        "briller reklamasjon",
-        "optiker kvittering",
-        "styrker dokumentasjon",
-        "forsikring briller"
+        "miste kvittering kostnad"
       ],
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Høy betalingsvilje/konfliktpotensial (dyre briller). Kvittering alene er ofte ikke nok—tilpasningsdata gir ny vinkel."
+      "rationale": "Skaper emosjonell hook og naturlig overgang til løsning."
     },
     {
-      "title": "Når kvitteringen blekner: Slik «redder» du termokvitteringer før teksten forsvinner",
-      "primaryKeyword": "termokvittering blekner",
-      "keywords": [
-        "termokvittering blekner"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Høy nytteverdi og svært delbart; mange opplever dette uten å vite at termopapir degraderer."
-    },
-    {
-      "title": "Kvittering ved kjøp av planter og hageutstyr: Hva du trenger for å klage på «døde planter»",
-      "primaryKeyword": "hagebutikk reklamasjon plante",
-      "keywords": [
-        "hagebutikk reklamasjon plante"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Nisje med lite konkurranse og tydelig kvitterings-/dokumentasjonsbehov."
-    },
-    {
-      "title": "Dyrt sexleketøy? (uten å nevne sexleketøy): Slik navngir du kvitteringer nøytralt i arkivet ditt",
-      "primaryKeyword": "navngi kvitteringer privat",
-      "keywords": [
-        "navngi kvitteringer privat"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Reell smerte (pinlige kjøp) + løsninger som passer produktet (kvitteringslagring) uten å være identisk med tidligere diskre-artikkel."
-    },
-    {
-      "title": "Reklamasjon på sexleketøy/helseprodukt når butikken krever «hygiene»-bevis: Hva er rimelig dokumentasjon?",
-      "primaryKeyword": "reklamasjon hygieneprodukt dokumentasjon",
-      "keywords": [
-        "reklamasjon hygieneprodukt dokumentasjon"
-      ],
-      "category": "ai-creative",
-      "priority": "medium",
-      "dataSource": "ai-creative",
-      "rationale": "Tydelig konfliktområde i praksis, lite godt innhold på norsk."
-    },
-    {
-      "title": "Kvitteringer i dødsbo: Slik finner du kjøpsbevis for hvitevarer, møbler og abonnement når du rydder bolig",
+      "title": "Slik lager du et «kvitterings-testament» for familie: hva som trengs ved dødsbo",
       "primaryKeyword": "kvitteringer dødsbo",
       "keywords": [
         "kvitteringer dødsbo"
@@ -303,7 +435,62 @@
       "category": "ai-creative",
       "priority": "medium",
       "dataSource": "ai-creative",
-      "rationale": "Sterkt behov, lav konkurranse, høy relevans for digitalt arkiv."
+      "rationale": "Nisje + høy alvorlighet = høy tillit og lenkebarhet."
+    },
+    {
+      "title": "Falske kvitteringer og svindel: Slik sjekker du om en kvittering er ekte",
+      "primaryKeyword": "falsk kvittering",
+      "keywords": [
+        "falsk kvittering"
+      ],
+      "category": "ai-creative",
+      "priority": "medium",
+      "dataSource": "ai-creative",
+      "rationale": "Aktuelt for Finn.no/ bruktmarked; gir praktiske sjekklister."
+    },
+    {
+      "title": "Kvitteringer og personvern: hva bør du aldri lagre i skyen?",
+      "primaryKeyword": "kvittering personvern",
+      "keywords": [
+        "kvittering personvern"
+      ],
+      "category": "ai-creative",
+      "priority": "medium",
+      "dataSource": "ai-creative",
+      "rationale": "Bygger tillit til tjenesten og adresserer barriere for digital lagring."
+    },
+    {
+      "title": "AI som leser kvitteringer: hva er mulig i 2026 – og hva bør du være skeptisk til?",
+      "primaryKeyword": "ai kvittering",
+      "keywords": [
+        "ai kvittering"
+      ],
+      "category": "ai-creative",
+      "priority": "medium",
+      "dataSource": "ai-creative",
+      "rationale": "Treffer trend («chatgpt») og posisjonerer dere som trygg aktør."
+    },
+    {
+      "title": "Slik lager du en kvitteringsrutine som varer: psykologi og vaner (2 minutter per uke)",
+      "primaryKeyword": "kvitteringsrutine",
+      "keywords": [
+        "kvitteringsrutine"
+      ],
+      "category": "ai-creative",
+      "priority": "medium",
+      "dataSource": "ai-creative",
+      "rationale": "Skiller seg fra vanlige «tips»-artikler; høy retention."
+    },
+    {
+      "title": "Hvor lenge bør du ta vare på kvitteringer? En enkel «behold til»-tabell",
+      "primaryKeyword": "hvor lenge spare kvitteringer",
+      "keywords": [
+        "hvor lenge spare kvitteringer"
+      ],
+      "category": "ai-creative",
+      "priority": "medium",
+      "dataSource": "ai-creative",
+      "rationale": "Høy søkeintensjon, enkel å skumme, god for featured snippet."
     }
   ],
   "researchHistory": [
@@ -666,176 +853,34 @@
       "date": "2026-02-08T17:34:56.115Z",
       "focus": "general",
       "topicsFound": 17
+    },
+    {
+      "date": "2026-02-12T10:58:37.722Z",
+      "focus": "general",
+      "topicsFound": 33
+    },
+    {
+      "date": "2026-02-12T11:00:17.550Z",
+      "focus": "general",
+      "topicsFound": 37
+    },
+    {
+      "date": "2026-02-12T11:01:56.422Z",
+      "focus": "general",
+      "topicsFound": 33
+    },
+    {
+      "date": "2026-02-12T11:03:15.551Z",
+      "focus": "general",
+      "topicsFound": 29
+    },
+    {
+      "date": "2026-02-12T11:04:46.399Z",
+      "focus": "general",
+      "topicsFound": 32
     }
   ],
   "insights": [
-    {
-      "date": "2026-02-08T17:23:34.503Z",
-      "seasonal": {
-        "currentMonth": "februar",
-        "opportunities": [
-          "Morsdagen: høy gavehandel -> behov for bytte/retur uten å avsløre pris (bruk digital kvittering/ordrebekreftelse).",
-          "Vinterferie og reiser: kvitteringer på hotell, parkering, leiebil og aktiviteter for refusjon/forsikring.",
-          "Sportsutstyr-sesong: reklamasjon/garanti på ski, skøyter, klær og elektronikk (pulsklokke/ørepropper).",
-          "Årsoppgjør for ENK: fradrag, bilag, hjemmekontor og firmabil-dokumentasjon blir ekstra relevant."
-        ],
-        "upcomingEvents": [
-          "Vinterferie (varierer per fylke)",
-          "Morsdagen (andre søndag i februar)",
-          "Sluttsalg/rydding etter januar-kjøp (retur/reklamasjon topper seg)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkguider (Clas Ohlson) med konkrete «finn kvittering»-steg",
-          "Elektronikk/garanti (iPhone/mobil) og dokumentasjonsbehov",
-          "Retur/bytte uten kvittering"
-        ],
-        "emergingTopics": [
-          "Elkjøp Min Side/Mine ordre (stort volum og lav CTR)",
-          "E-kvittering/digital kvittering i fysisk butikk (lav CTR selv med god posisjon)",
-          "Zalando faktura/reklamasjon (sterk intensjon og gode posisjoner å forbedre)"
-        ],
-        "recommendations": [
-          "Bygg en «Elkjøp-hub» (Min Side, Mine ordre, Kvittering, Garanti) med internlenker og FAQ-schema for å løfte CTR og posisjon til topp 3.",
-          "Lag en «Digital kvittering»-pillar (e-kvittering, fysisk butikk, personvern, lagring) og lenk til tjenesteforklaring/produkt.",
-          "Skaler Clas Ohlson-suksessen til Power, Komplett, XXL, JYSK med samme mal: steg-for-steg + alternativer uten kvittering + hva som gjelder som kjøpsbevis."
-        ]
-      }
-    },
-    {
-      "date": "2026-02-08T17:24:42.544Z",
-      "seasonal": {
-        "currentMonth": "februar",
-        "opportunities": [
-          "Morsdag: gavekvittering, bytterett, åpent kjøp og retur uten originalkvittering",
-          "Vinterferie/helgeturer: utlegg, bom/parkering, overnatting og diett-bilag (privat og jobb)",
-          "Sportsesong/OL-interesse: korttidsabonnement på sport/streaming og dokumentasjon ved oppsigelse/feiltrekk"
-        ],
-        "upcomingEvents": [
-          "Morsdagen (midt i februar i Norge)",
-          "Vinterferier (uke 8/9 avhengig av fylke)",
-          "Store sportshelger (drar abonnementskjøp og impulsinnkjøp)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkguider (Clas Ohlson, Elkjøp) med konkrete 'finn kvittering'-steg",
-          "Retur/reklamasjon uten kvittering (kjøpsbevis-alternativer)",
-          "Garanti/reklamasjon for elektronikk (mobil/iPhone, hvitevarer, Samsung)"
-        ],
-        "emergingTopics": [
-          "E-kvittering og digital kvittering i fysisk butikk (lav CTR selv med god posisjon)",
-          "Zalando-dokumentasjon for faktura og reklamasjon",
-          "ENK/firma: bilag og fradragsdokumentasjon (firmabil, diett)"
-        ],
-        "recommendations": [
-          "Prioriter å forbedre CTR på søk der vi allerede er topp 1–5 (e-kvittering, fysisk butikk digital kvittering) med tydeligere titler, FAQ og bedre metabeskrivelser",
-          "Utvid longtail rundt 'kvittering' med undersider for bankutskrift, kortkjøp, Apple Pay/Google Pay og gavekvittering",
-          "Bygg klynger per butikk og per problem (finne kvittering / uten kvittering / reklamasjon) og bind dem sammen med internlenker"
-        ]
-      }
-    },
-    {
-      "date": "2026-02-08T17:25:49.249Z",
-      "seasonal": {
-        "currentMonth": "februar",
-        "opportunities": [
-          "Gavekjøp (Morsdagen): artikler om gavekvittering, bytte uten å legge ved original kvittering, og digital lagring før du gir gaven.",
-          "Vinter-/sportsesong: kjøp av utstyr, klær og elektronikk øker; vinkler på reklamasjon/garanti for sportsutstyr og teknikk (serienummer, modell, kjøpsdato).",
-          "Salgsperioder/ryddesalg: flere impulskjøp gir høyere returvolum—innhold om dokumentasjon ved retur når tag/etikett/ordrebekreftelse mangler."
-        ],
-        "upcomingEvents": [
-          "Morsdagen (tidlig/midten av februar, avhengig av år)",
-          "Vinterferie (varierer mellom fylker/uker)",
-          "Store sportsarrangementer (OL/VM-relatert interesse i trendbildet)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke ‘slik finner du kvittering’-guider (Clas Ohlson, Elkjøp)",
-          "Reklamasjon/garanti med konkret dokumentasjon (elektronikk, mobil)",
-          "Praktiske problemløsere: ‘uten kvittering’, ‘mistet’, ‘hva gjelder som kjøpsbevis’"
-        ],
-        "emergingTopics": [
-          "Generiske termer med høy visning men lav CTR (kvittering/kvitteringer)",
-          "Mer feilsøkings-orientert innhold for Elkjøp Min Side (posisjon rundt 5)",
-          "E-kvittering/digital kvittering i fysisk butikk (0-klikk-lomme å hente)"
-        ],
-        "recommendations": [
-          "Lag 1–2 ‘pillar pages’ rundt ‘Kvittering’ og ‘Kjøpsbevis’ som kan interne-lenke til alle butikkguidene og fange generiske søk.",
-          "For Elkjøp Min Side: skriv en dedikert feilsøkingsartikkel med FAQ + skjermbilder; mål ‘posisjon 5 → 3’ og øk CTR med tydelig tittel.",
-          "Bygg mer innhold rundt ‘uten kvittering’-caser (bank, Vipps, Apple/Google Pay) som støtte for både forbruker- og bedriftsintensjon."
-        ]
-      }
-    },
-    {
-      "date": "2026-02-08T17:27:07.306Z",
-      "seasonal": {
-        "currentMonth": "februar",
-        "opportunities": [
-          "Morsdag: gavebytte/retur uten å dele pris eller persondata (delkvittering, maskering)",
-          "Vinter og sport: kjøp av skiutstyr/yttertøy – reklamasjon på glidelås, søm, membran krever kvittering + bilder",
-          "Vinterreiser: kvitteringer for bagasje, forsinkelser, parkering og transport ved refusjon",
-          "Oppstart av ‘vårprosjekter’: planlegging av oppussing/hage – byggvare- og hagebutikk-kvitteringer blir mange og rotete"
-        ],
-        "upcomingEvents": [
-          "Morsdag (Norge – februar)",
-          "Vinterferie (varierer per fylke) – reise- og aktivitetskjøp",
-          "Sportsarrangementer (kampkvelder/streaming) – spleis og refusjon"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke guider (Clas Ohlson/Elkjøp-type navigasjon og kvitteringsfunn)",
-          "‘Uten kvittering’-problemer og alternative kjøpsbevis",
-          "Garanti/reklamasjon på populære produkter (mobil/iphone/hvitevarer)"
-        ],
-        "emergingTopics": [
-          "Byggvare/oppussing-kvitteringer (gap i innhold og tydelig livssituasjon)",
-          "Klær/teknisk tøy-reklamasjon (slitasje vs feil) med dokumentasjonskrav",
-          "Abonnement/apputgifter (kvitteringer fra Apple/Google) knyttet til refusjon/feiltrekk"
-        ],
-        "recommendations": [
-          "Lag 3 ‘hub’-sider: (1) Kvittering (generelt), (2) Elkjøp (Min Side/Mine ordre/kvittering), (3) Garanti & reklamasjon (mobil/hvitevarer/klær).",
-          "Bruk FAQ-schema og ‘step-by-step’ for søk med lav CTR (kvittering, e-kvittering, Elkjøp Min Side).",
-          "Utvid butikkdekningen til byggvarer (Obs Bygg/Montér/Maxbo/Megaflis) og klær (H&M/Cubus/Dressmann/Stormberg) for nye, mindre konkurranseutsatte SERP-er."
-        ]
-      }
-    },
-    {
-      "date": "2026-02-08T17:28:09.316Z",
-      "seasonal": {
-        "currentMonth": "februar",
-        "opportunities": [
-          "Morsdagen: gavekjøp, bytte/retur, anonymisering av pris og deling av bytterett uten å dele hele kvitteringen",
-          "Vintersport/arrangementer: spleis/utlegg på mat, transport og overnatting -> behov for ryddige bilag",
-          "Vinteropprydding: folk rydder i e-post/apper; god timing for «lagringsrutine»-innhold"
-        ],
-        "upcomingEvents": [
-          "Morsdagen (norsk sesongtrend)",
-          "Vinterferie (reiseutgifter, utlegg, refusjon, forsikring)",
-          "Salgsperioder/ryddesalg i retail (retur og prisjustering krever dokumentasjon)"
-        ]
-      },
-      "dataInsights": {
-        "topPerformingThemes": [
-          "Butikkspesifikke guider (særlig Clas Ohlson og Elkjøp)",
-          "Praktiske problemer: retur uten kvittering, reklamasjon, garanti",
-          "Produktklynger: mobil/iPhone og hvitevarer (garanti/dokumentasjon)"
-        ],
-        "emergingTopics": [
-          "E-kvittering som ikke er varig (SMS-lenker, apper, utløp)",
-          "CTR-problemer på generiske søk som 'kvittering' selv ved god posisjon",
-          "Mer behov for personvernvennlig deling av kvittering (gave/retur)"
-        ],
-        "recommendations": [
-          "Lag én oppdatert «kvittering»-pillar (2026) med sterke FAQ-svar og tydelige underseksjoner for bank, Vipps, e-post, SMS, app",
-          "Lag egne nisjeartikler for 'Elkjøp Min Side' og 'fysisk butikk digital kvittering' med konkrete feilsituasjoner (kontant, delbetaling, feil epost/telefon)",
-          "Utvid butikk-universet med nye kjeder (Biltema, Europris, Normal, Jula, Rusta, Proshop, Multicom, Dustin Home) for å spre risiko og fange nye søk"
-        ]
-      }
-    },
     {
       "date": "2026-02-08T17:29:58.437Z",
       "seasonal": {
@@ -1004,318 +1049,415 @@
           "Utvid butikkdekning til nye vertikaler (hage, apotek, optikk) for å skape ny organisk trafikk uten å duplisere eksisterende guider"
         ]
       }
+    },
+    {
+      "date": "2026-02-12T10:58:37.722Z",
+      "seasonal": {
+        "currentMonth": "februar",
+        "opportunities": [
+          "OL-/vintersport-sesong: økt kjøp av TV, lyd, abonnement og sportsutstyr → behov for kvittering/garanti",
+          "Vintervær: flere skader på mobil/elektronikk (fukt/kulde) → garanti/reklamasjon og dokumentasjon",
+          "Vintersalg/ryddesalg: flere impulskjøp og returer → guider om retur/reklamasjon uten kvittering/med e-kvittering",
+          "Skattemodus starter tidlig for noen næringsdrivende: behov for bilagskontroll, kvitteringer og alternativ dokumentasjon"
+        ],
+        "upcomingEvents": [
+          "Vinterferie (varierer per fylke): reiseutgifter og kvitteringer, utlegg og refusjon",
+          "Slutten av vintersalg hos mange kjeder: mer retur/reklamasjon-trafikk",
+          "Forberedelser til skattemelding (mars/april): økende interesse for regnskap/bilag/kvitteringer"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikk-guider (særlig Clas Ohlson) – folk søker konkret «finne kvittering [butikk]»",
+          "Garanti/reklamasjon på forbrukerelektronikk (iPhone/mobil/hvitevarer)",
+          "Retur uten kvittering – høy praktisk verdi og tydelig intensjon"
+        ],
+        "emergingTopics": [
+          "E-kvittering/digital kvittering i fysisk butikk (lav CTR men høy posisjon → innholds-/snippet-gap)",
+          "Elkjøp-økosystemet (Mine ordre/Min side/kvittering) – stor etterspørsel",
+          "AI/automatisering (ChatGPT-trend) som krok for kvitteringsorganisering"
+        ],
+        "recommendations": [
+          "Lag en «hub»-side for KVITTERING (definisjon, krav, oppbevaring, mistet) som internlenker til butikk- og garanti-guider",
+          "Bygg en skalerbar mal for butikk-guider (Elkjøp, Power, Komplett, XXL, JYSK, Bohus, Skeidar) med FAQ og HowTo-markup",
+          "Prioriter CTR-optimalisering på søk med posisjon ~1 men 0–1 klikk (e-kvittering, fysisk butikk digital kvittering, kvitteringer lagret på ett sted, kvitering)",
+          "Angrip posisjon 5–20 med ny, spisset artikkel der vi faktisk ligger rundt 7 («kvitteringer»)"
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12T11:00:17.550Z",
+      "seasonal": {
+        "currentMonth": "februar",
+        "opportunities": [
+          "Vintersport/OL-oppmerksomhet: artikler om garanti/reklamasjon på sportsutstyr og klær (kvitteringsbehov).",
+          "Salg/ryddemåned: ‘opprydding i kvitteringer’, årsoppsummering, orden før vår og skattemelding.",
+          "Vinterrelaterte skader: klær/sko/yttertøy og reklamasjon ved glidelås/søm/vanntetthet – dokumentasjon."
+        ],
+        "upcomingEvents": [
+          "Vinterferie (reise og utstyrsinnkjøp gir flere kvitteringer og behov for dokumentasjon).",
+          "Forberedelse til skattemelding (ENK/firma: bilag, kvitteringer, fradrag)."
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikk-guider som ‘finne kvittering’ (eksempel: Clas Ohlson i våre best-performers)",
+          "Reklamasjon/garanti koblet til konkrete produkter (iPhone/mobil)",
+          "Praktiske ‘hvor finner jeg kvitteringen’-søk (Elkjøp/Zalando)"
+        ],
+        "emergingTopics": [
+          "Digital kvittering i fysisk butikk (0 CTR men høy posisjon = snippet-mulighet)",
+          "E-kvittering som eget pillar-tema",
+          "Bank/kontoutskrift som alternativt kjøpsbevis (støttes av DNB-trend)"
+        ],
+        "recommendations": [
+          "Lag 1–2 pillar-sider (Kvittering, Kvitteringer, E-kvittering) + mange butikk-spesifikke undersider med interne lenker.",
+          "Optimaliser metatitler/metabeskrivelser på søk der vi allerede har posisjon 1–3 men lav CTR (tyder på snippet-mismatch).",
+          "Klon ‘Clas Ohlson-oppskriften’ til Power/Komplett/XXL/Jysk/Bohus med tydelig steg-for-steg og FAQ."
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12T11:01:56.422Z",
+      "seasonal": {
+        "currentMonth": "februar",
+        "opportunities": [
+          "Vinterutstyr og sportsutstyr: flere reklamasjoner/returer (ski, skøyter, jakker) → behov for kvittering og dokumentasjon",
+          "Hjemme-elektronikk i mørketiden: TV/lyd, gaming, småelektrisk → garanti/reklamasjon og serienummer-kontroll",
+          "Møbler/hvitevarer: innendørsprosjekter gir økt behov for å samle kvitteringer og servicepapirer",
+          "Årsoppgjør/orden: mange rydder i økonomi og dokumentasjon – god timing for «kvitteringsarkiv»-innhold"
+        ],
+        "upcomingEvents": [
+          "Vinterferie (reiseutgifter, refusjoner, leieutstyr)",
+          "Vintersalg/tilbud (prisavslag/prisgaranti – kvitteringen avgjør)",
+          "Skatte-/regnskapsforberedelser for småbedrifter (bilag/kvitteringer)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke guider (særlig «finne kvittering»/«kvittering på nett»)",
+          "Digital kvittering/e‑kvittering",
+          "Reklamasjon/retur – spesielt når kvittering mangler"
+        ],
+        "emergingTopics": [
+          "Garanti på mobil/iphone og elektronikk (høy intensjon)",
+          "Møbelreklamasjon (Bohus/Skeidar/Jysk-klynge)",
+          "Regnskap/bilag (mistet kvittering, kvittering fra privatperson til firma)"
+        ],
+        "recommendations": [
+          "Bygg 2–3 pillar-sider (kvittering, kvitteringer, e‑kvittering) og lenk hardt ut til butikkguider og garantiartikler",
+          "Lag FAQ/HowTo-svarblokker for å øke CTR på søk med høy visning men lave klikk",
+          "Utvid butikkguider utover dagens vinnere ved å kopiere formatet: «slik finner du kvitteringen», «hva gjelder uten kvittering», «hva regnes som kjøpsbevis»",
+          "Test titler som matcher brukerens ordvalg («mine ordre», «min side», «faktura», «kjøpsbevis») for å løfte CTR"
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12T11:03:15.551Z",
+      "seasonal": {
+        "currentMonth": "februar",
+        "opportunities": [
+          "Vinterutstyr og sportsutstyr: mer reklamasjon/garantispørsmål når utstyr brukes hardt (ski, skøyter, klær).",
+          "Post-julesalg/nyttårsrydding: mange bytter/returer og behov for å finne igjen kvitteringer.",
+          "Innendørsprosjekter (maling, oppussing): byggevarer kjøpes i februar – kvitteringer trengs ved feil og garanti."
+        ],
+        "upcomingEvents": [
+          "Vinterferie (reise og utstyrskjøp gir økt behov for dokumentasjon)",
+          "Eventuelle sportsarrangementer/OL-relaterte sendinger (utstyrsinnkjøp, TV/streaming-kjøp)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikkspesifikke kvitteringsguider (særlig Clas Ohlson)",
+          "Elektronikk/garanti (iPhone/mobil)",
+          "Zalando (faktura/reklamasjon)"
+        ],
+        "emergingTopics": [
+          "Digital kvittering i fysisk butikk",
+          "Feilstaving/varianter av «kvittering» (kvitering)",
+          "Behov for kjøpsbevis uten papir (kontoutskrift/e-post)"
+        ],
+        "recommendations": [
+          "Lag en «kvittering»-hub med undersider for e-kvittering, kjøpsbevis uten kvittering, og butikkguider – og bygg interne lenker.",
+          "Optimaliser titler/metabeskrivelser for søkeord med posisjon ~1–3 men lav CTR (snippet-gap).",
+          "Utvid butikkdekning til store norske kjeder utenfor elektronikk (IKEA, byggevare, klær) for å fange bredere long-tail."
+        ]
+      }
+    },
+    {
+      "date": "2026-02-12T11:04:46.399Z",
+      "seasonal": {
+        "currentMonth": "februar",
+        "opportunities": [
+          "Vinter-/OL-sesong: flere kjøper TV/lyd/bilde og trenger kvittering for retur/garanti",
+          "Vintersportutstyr: sesong for reklamasjon på ski, bindinger, skøyter og klær (behov for kjøpsbevis)",
+          "Vårforberedelser: planlegging av regnskap/årsoppgjør for ENK – behov for rydding i bilag"
+        ],
+        "upcomingEvents": [
+          "Vinterferie (reise, utstyr, elektronikk-kjøp før tur)",
+          "Årsoppgjør/skattemassasje for små næringsdrivende (bilag og dokumentasjon)",
+          "Sesongslutt-salg (retur/bytte og prisavslag – krever kvittering)"
+        ]
+      },
+      "dataInsights": {
+        "topPerformingThemes": [
+          "Butikk-guider som svarer på «finn kvittering» (eksempel: Clas Ohlson)",
+          "Elektronikk + garanti (iPhone/mobil)",
+          "Reklamasjon/retur-problemer som krever dokumentasjon"
+        ],
+        "emergingTopics": [
+          "Digital kvittering i fysisk butikk (mange visninger, 0 klikk – tydelig uutnyttet)",
+          "Stavefeil-trafikk («kvitering») som kan eies med egne landingssider",
+          "Banktransaksjon som sekundær dokumentasjon (kobling til DNB-trend)"
+        ],
+        "recommendations": [
+          "Lag én «pillar»-side for «kvittering/kvitteringer» med sterke FAQ-seksjoner for å øke CTR på høye visninger",
+          "Publiser flere konkrete steg-for-steg-guider som matcher navigasjonsintensjon (f.eks. «Mine ordre», «finn faktura»)",
+          "Bygg internlenker fra generelle artikler (kvittering/e-kvittering) til store/garanti/reklamasjon for å løfte hele klyngen"
+        ]
+      }
     }
   ],
   "rawData": {
-    "lastFetched": "2026-02-08T17:33:53.514Z",
+    "lastFetched": "2026-02-12T11:03:22.496Z",
     "dailyTrends": [
       {
-        "title": "sander eitrem",
+        "title": "james van der beek",
         "traffic": "10k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "liverpool mot man. city",
-        "traffic": "10k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "lindsey vonn",
-        "traffic": "20k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "anna odine strøm",
-        "traffic": "10k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mona juul",
+        "title": "2026 winter olympics women's snowboarding halfpipe",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "super bowl",
+        "title": "pam bondi",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "liverpool vs man city",
+        "title": "sofie marhaug",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "ol program i dag",
+        "title": "jesse van rootselaar",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "kajsa vickhoff lie",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "sunderland mot liverpool",
         "traffic": "5k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "klæbo",
-        "traffic": "5k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "brad arnold",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "atlético madrid mot real betis",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ted jan bloemen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "maren hjelmeset kirkeeide",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "sven kramer",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "aksel lund svindal",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "bart swings",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "norge milano cortina",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "anterselva",
+        "title": "wuthering heights",
         "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "dorothea wierer",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ain country",
-        "traffic": "1k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nyenget",
-        "traffic": "1k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nrk",
+        "title": "dawson creek",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "vetle sjåstad christiansen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ørland",
+        "title": "crystal palace mot burnley",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "mattis stenshagen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ain",
+        "title": "milla ruud reitan",
         "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "morsdagen",
-        "traffic": "500+",
+        "title": "nottingham forest mot wolves",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "val di fiemme",
-        "traffic": "500+",
+        "title": "liverpool",
+        "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "eric perrot",
+        "title": "igor medved",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "aston villa mot brighton",
+        "traffic": "1k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "skeleton",
         "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "bjørn magnussen",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
         "title": "julia simon",
-        "traffic": "200+",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "expressen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mathis desloges",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "skiathlon",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "harald østberg amundsen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "emil iversen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "gullfisken",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "edvin anger",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "lindsey vonn boyfriend",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "aamodt kilde",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "curling norge",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "breezy johnson",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mikaela shiffrin",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "marit bjørgen",
+        "title": "eileen gu",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "therese johaug",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "østlendingen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "snoop dogg",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "klassekampen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "julie zelingrova",
+        "title": "ol i dag på tv",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "niskanen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "petter northug",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "skiathlon ol",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "tynset",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ilia malinin",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nika prevc",
+        "title": "man city vs fulham",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "mesternes mester",
+        "title": "crystal palace",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "adressa",
+        "title": "harpefoss",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "kjetil andre aamodt",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "tv",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "jordan stolz",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "nrk tv",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "tv2.no",
+        "traffic": "1k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "oddvar brå",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "fifa",
+        "title": "eric heiden",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "svt",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ola lunde",
+        "title": "oftebro",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "altaposten",
+        "title": "tv2 nyheter",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "fritz aanes",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "bayern mot rb leipzig",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "vikinglotto trekning",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "laurence fournier beaudry",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "rbnett",
+        "title": "guillaume cizeron",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "newcastle vs brentford",
+        "title": "translate",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "dorothea wierer",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "ingrid landmark tandrevold",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "1000 m skøyter ol 2026 menn",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "jens oftebro",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "chatgpt",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "oscar bobb",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "pl",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "iga świątek",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "dnb",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "sporty",
         "traffic": "100+",
         "source": "google-trends-scrape"
       }
@@ -1324,235 +1466,235 @@
       "opportunities": [
         {
           "keyword": "kvittering",
-          "impressions": 1996,
+          "impressions": 2116,
           "clicks": 4,
-          "ctr": 0.10342586200739592,
-          "position": 4.154272123963737,
-          "opportunity": 4799.723177238202
-        },
-        {
-          "keyword": "elkjøp min side",
-          "impressions": 2316,
-          "clicks": 5,
-          "ctr": 0.14364703056582767,
-          "position": 5.154055456701897,
-          "opportunity": 4487.094006264311
+          "ctr": 0.0700253327916168,
+          "position": 2.936944840024869,
+          "opportunity": 7199.720727271896
         },
         {
           "keyword": "elkjøp mine ordre",
-          "impressions": 362,
-          "clicks": 4,
-          "ctr": 0.700997509161239,
-          "position": 1.3675197309866796,
-          "opportunity": 2628.5718653395993
+          "impressions": 392,
+          "clicks": 5,
+          "ctr": 0.5684409367790069,
+          "position": 0.9309250124061996,
+          "opportunity": 3897.717115278263
         },
         {
           "keyword": "garanti iphone",
-          "impressions": 336,
+          "impressions": 350,
           "clicks": 2,
-          "ctr": 0.4596704978106486,
-          "position": 1.8616655161331268,
-          "opportunity": 1796.5391969125321
+          "ctr": 0.3336501150659389,
+          "position": 1.256336853026066,
+          "opportunity": 2776.5819633250208
         },
         {
           "keyword": "zalando faktura",
-          "impressions": 330,
-          "clicks": 4,
-          "ctr": 1.022766857628693,
-          "position": 1.8789031598010262,
-          "opportunity": 1738.3805422117366
-        },
-        {
-          "keyword": "største plattform for digitale kvitteringer",
-          "impressions": 212,
-          "clicks": 1,
-          "ctr": 0.26431053624112294,
-          "position": 1.390503255877212,
-          "opportunity": 1520.5981055382726
-        },
-        {
-          "keyword": "e-kvittering",
-          "impressions": 231,
-          "clicks": 1,
-          "ctr": 0.2355811301279574,
-          "position": 1.5169126427751405,
-          "opportunity": 1519.2424473949486
-        },
-        {
-          "keyword": "clas ohlson retur uten kvittering",
-          "impressions": 148,
-          "clicks": 1,
-          "ctr": 0.3504987545806195,
-          "position": 0.6033175283764763,
-          "opportunity": 1474.8126184322068
+          "impressions": 349,
+          "clicks": 5,
+          "ctr": 0.7661595234847485,
+          "position": 1.4540554397318075,
+          "opportunity": 2381.7943511625404
         },
         {
           "keyword": "zalando reklamasjon",
-          "impressions": 362,
-          "clicks": 2,
-          "ctr": 0.3504987545806195,
-          "position": 2.602884193852798,
-          "opportunity": 1385.8902956971847
+          "impressions": 435,
+          "clicks": 3,
+          "ctr": 0.30481615450468486,
+          "position": 1.9318753576040164,
+          "opportunity": 2244.8345232052825
+        },
+        {
+          "keyword": "e-kvittering",
+          "impressions": 236,
+          "clicks": 1,
+          "ctr": 0.16888462614448754,
+          "position": 1.066856540766397,
+          "opportunity": 2208.370322340154
+        },
+        {
+          "keyword": "største plattform for digitale kvitteringer",
+          "impressions": 216,
+          "clicks": 1,
+          "ctr": 0.18536117503663269,
+          "position": 1.021546031312998,
+          "opportunity": 2110.522808108898
         },
         {
           "keyword": "fysisk butikk digital kvittering",
-          "impressions": 213,
+          "impressions": 217,
           "clicks": 0,
           "ctr": 0,
-          "position": 1.5456420488883058,
-          "opportunity": 1378.0680989702566
-        },
-        {
-          "keyword": "kvittering på e-post",
-          "impressions": 214,
-          "clicks": 0,
-          "ctr": 0,
-          "position": 1.6720514357862344,
-          "opportunity": 1279.8649336966876
-        },
-        {
-          "keyword": "kvitteringer lagret på ett sted",
-          "impressions": 216,
-          "clicks": 0,
-          "ctr": 0,
-          "position": 1.6950349606767667,
-          "opportunity": 1274.3099995634245
+          "position": 1.1121670502197962,
+          "opportunity": 1951.1457380176348
         },
         {
           "keyword": "kvitering",
-          "impressions": 320,
+          "impressions": 332,
           "clicks": 0,
           "ctr": 0,
-          "position": 2.6431053624112293,
-          "opportunity": 1210.6971010344937
+          "position": 1.7959438292438192,
+          "opportunity": 1848.6101546939155
+        },
+        {
+          "keyword": "kvitteringer lagret på ett sted",
+          "impressions": 220,
+          "clicks": 0,
+          "ctr": 0,
+          "position": 1.2027880691265944,
+          "opportunity": 1829.083656938443
+        },
+        {
+          "keyword": "kvittering på e-post",
+          "impressions": 217,
+          "clicks": 0,
+          "ctr": 0,
+          "position": 1.2357411669108846,
+          "opportunity": 1756.0311642158713
         },
         {
           "keyword": "kvitteringshåndtering",
-          "impressions": 273,
+          "impressions": 274,
           "clicks": 0,
           "ctr": 0,
-          "position": 2.2983524890532427,
-          "opportunity": 1187.8073589680603
+          "position": 1.6682505753296941,
+          "opportunity": 1642.4391158735236
         },
         {
           "keyword": "elkjøp mine kjøp",
-          "impressions": 254,
+          "impressions": 260,
           "clicks": 0,
           "ctr": 0,
-          "position": 2.154705458487415,
-          "opportunity": 1178.815410707252
+          "position": 1.5941061053150412,
+          "opportunity": 1631.0081188015808
         },
         {
-          "keyword": "clas ohlson app",
-          "impressions": 98,
-          "clicks": 2,
-          "ctr": 1.4709455929940756,
-          "position": 0.7239810340517715,
-          "opportunity": 965.5847331886581
+          "keyword": "clas ohlson retur uten kvittering",
+          "impressions": 154,
+          "clicks": 1,
+          "ctr": 0.2512673706052132,
+          "position": 0.43250940841880964,
+          "opportunity": 1536.1304824926797
         },
         {
           "keyword": "kvittering clas ohlson",
-          "impressions": 217,
+          "impressions": 218,
           "clicks": 3,
-          "ctr": 1.0572421449644918,
-          "position": 2.470728925732236,
-          "opportunity": 868.9977371022032
+          "ctr": 0.7538021118156396,
+          "position": 1.7629907314595288,
+          "opportunity": 1227.2141170993364
         },
         {
           "keyword": "iphone garanti",
-          "impressions": 226,
+          "impressions": 233,
           "clicks": 5,
-          "ctr": 1.1606680069718878,
-          "position": 2.775260630531791,
-          "opportunity": 804.8861712185944
+          "ctr": 0.8485422679454742,
+          "position": 1.92775622038098,
+          "opportunity": 1198.4030660787093
+        },
+        {
+          "keyword": "xxl min side",
+          "impressions": 286,
+          "clicks": 0,
+          "ctr": 0,
+          "position": 2.557984215505531,
+          "opportunity": 1118.0678843378953
+        },
+        {
+          "keyword": "garanti elektronikk",
+          "impressions": 138,
+          "clicks": 1,
+          "ctr": 0.23479082171306806,
+          "position": 1.2316220296878484,
+          "opportunity": 1117.842855579074
+        },
+        {
+          "keyword": "clas ohlson app",
+          "impressions": 109,
+          "clicks": 2,
+          "ctr": 0.9968312079747802,
+          "position": 0.5148921528795353,
+          "opportunity": 1079.134539833075
         },
         {
           "keyword": "power kvittering",
-          "impressions": 325,
+          "impressions": 323,
           "clicks": 1,
-          "ctr": 0.36199051702588575,
-          "position": 4.2347144610806,
-          "opportunity": 764.6879944227308
-        },
-        {
-          "keyword": "garanti mobiltelefon",
-          "impressions": 209,
-          "clicks": 3,
-          "ctr": 0.7297269152744046,
-          "position": 2.71780181830546,
-          "opportunity": 763.3921993489444
+          "ctr": 0.2553865078282495,
+          "position": 3.0152084472625584,
+          "opportunity": 1068.5002619709774
         }
       ],
       "topPerformers": [
         {
           "keyword": "mine kvitteringer",
-          "clicks": 127,
-          "impressions": 198,
-          "ctr": 36.27374815848281,
-          "position": 1.1032091947455565
+          "clicks": 108,
+          "impressions": 181,
+          "ctr": 20.991123288592895,
+          "position": 0.935044149629236
         },
         {
           "keyword": "minekvitteringer",
-          "clicks": 50,
-          "impressions": 77,
-          "ctr": 37.566571433575255,
-          "position": 0.5745881222633107
+          "clicks": 38,
+          "impressions": 60,
+          "ctr": 22.263936690511102,
+          "position": 0.4119137223036282
         },
         {
           "keyword": "finne kvittering clas ohlson",
-          "clicks": 32,
-          "impressions": 562,
-          "ctr": 3.7750439632699515,
-          "position": 0.6263010532670087
+          "clicks": 34,
+          "impressions": 545,
+          "ctr": 2.92458742835576,
+          "position": 0.4489859573109548
         },
         {
           "keyword": "digital kvittering clas ohlson",
           "clicks": 18,
-          "impressions": 169,
-          "ctr": 5.895274134421568,
-          "position": 0.8848657082854985
+          "impressions": 164,
+          "ctr": 4.753484355383869,
+          "position": 0.6137514462324061
         },
         {
           "keyword": "clas ohlson kvittering på nett",
           "clicks": 14,
-          "impressions": 86,
-          "ctr": 9.469212254899361,
-          "position": 1.068733907409758
-        },
-        {
-          "keyword": "minekvitteringer.no",
-          "clicks": 14,
-          "impressions": 25,
-          "ctr": 32.176934846745404,
-          "position": 0.5745881222633107
+          "impressions": 88,
+          "ctr": 6.788338143563793,
+          "position": 0.7620403862617122
         },
         {
           "keyword": "clas ohlson kvittering",
-          "clicks": 10,
-          "impressions": 332,
-          "ctr": 2.1144842899289835,
-          "position": 2.3960324698380058
+          "clicks": 12,
+          "impressions": 326,
+          "ctr": 1.8206586525820367,
+          "position": 1.7094419475600573
+        },
+        {
+          "keyword": "minekvitteringer.no",
+          "clicks": 12,
+          "impressions": 21,
+          "ctr": 25.744607643976764,
+          "position": 0.4119137223036282
         },
         {
           "keyword": "kvitteringer",
-          "clicks": 9,
-          "impressions": 517,
-          "ctr": 1.1836515318624201,
-          "position": 9.946120396377909
+          "clicks": 10,
+          "impressions": 522,
+          "ctr": 0.8567805423915467,
+          "position": 7.175537042529204
         },
         {
           "keyword": "elkjøp kvittering",
           "clicks": 9,
-          "impressions": 860,
-          "ctr": 0.5516045973727782,
-          "position": 2.7063100558601936
+          "impressions": 905,
+          "ctr": 0.4242711339727371,
+          "position": 1.9153988087118714
         },
         {
           "keyword": "clas ohlson kvittering fra butikk",
-          "clicks": 7,
-          "impressions": 50,
-          "ctr": 7.412186777196709,
-          "position": 0.6033175283764763
+          "clicks": 8,
+          "impressions": 58,
+          "ctr": 6.565904733519833,
+          "position": 0.42839027119577333
         }
       ],
       "themes": {
@@ -1560,47 +1702,47 @@
           {
             "store": "clas ohlson",
             "query": "finne kvittering clas ohlson",
-            "impressions": 562
+            "impressions": 545
           },
           {
             "store": "elkjøp",
-            "query": "elkjøp kvittering",
-            "impressions": 860
-          },
-          {
-            "store": "zalando",
-            "query": "zalando faktura",
-            "impressions": 330
+            "query": "elkjøp min side",
+            "impressions": 2582
           },
           {
             "store": "power",
             "query": "mypower kvittering",
-            "impressions": 380
+            "impressions": 397
+          },
+          {
+            "store": "zalando",
+            "query": "zalando faktura",
+            "impressions": 349
           },
           {
             "store": "xxl",
             "query": "kvittering xxl",
-            "impressions": 72
-          },
-          {
-            "store": "jysk",
-            "query": "jysk kvittering",
-            "impressions": 21
+            "impressions": 71
           },
           {
             "store": "komplett",
             "query": "komplett kvittering",
-            "impressions": 60
+            "impressions": 61
+          },
+          {
+            "store": "jysk",
+            "query": "jysk kvittering",
+            "impressions": 23
           },
           {
             "store": "bohus",
-            "query": "reklamasjon bohus",
-            "impressions": 55
+            "query": "bohus reklamasjon",
+            "impressions": 108
           },
           {
             "store": "skeidar",
             "query": "skeidar reklamasjon",
-            "impressions": 12
+            "impressions": 17
           },
           {
             "store": "ark",
@@ -1612,156 +1754,156 @@
           {
             "product": "iphone",
             "query": "iphone garanti",
-            "impressions": 226
+            "impressions": 233
           },
           {
             "product": "iphone",
             "query": "garanti iphone",
-            "impressions": 336
+            "impressions": 350
           },
           {
             "product": "mobil",
             "query": "garanti mobiltelefon",
-            "impressions": 209
+            "impressions": 222
           },
           {
             "product": "mobil",
             "query": "beste kamera mobil 2025",
-            "impressions": 104
+            "impressions": 106
           },
           {
             "product": "mobil",
             "query": "beste kamera mobil 2025 budsjett",
-            "impressions": 46
+            "impressions": 47
           },
           {
             "product": "mobil",
             "query": "beste mobiltelefon 2025",
-            "impressions": 169
+            "impressions": 166
           },
           {
             "product": "mobil",
             "query": "garanti på mobiltelefon",
-            "impressions": 131
+            "impressions": 136
           },
           {
             "product": "mobil",
             "query": "beste billige mobil 2025",
-            "impressions": 124
+            "impressions": 130
           },
           {
             "product": "telefon",
             "query": "beste android telefon 2025",
-            "impressions": 97
+            "impressions": 104
           },
           {
             "product": "samsung",
             "query": "samsung garanti",
-            "impressions": 85
+            "impressions": 95
           }
         ],
         "problems": [
           {
             "problem": "reklamasjon",
             "query": "zalando reklamasjon",
-            "impressions": 362
+            "impressions": 435
           },
           {
             "problem": "reklamasjon",
             "query": "reklamasjon zalando",
-            "impressions": 123
+            "impressions": 177
           },
           {
             "problem": "uten kvittering",
             "query": "clas ohlson retur uten kvittering",
-            "impressions": 148
+            "impressions": 154
+          },
+          {
+            "problem": "reklamasjon",
+            "query": "bohus reklamasjon",
+            "impressions": 108
           },
           {
             "problem": "uten kvittering",
             "query": "clas ohlson bytte uten kvittering",
-            "impressions": 71
+            "impressions": 74
           },
           {
             "problem": "reklamasjon",
             "query": "reklamasjon bohus",
-            "impressions": 55
+            "impressions": 62
           },
           {
             "problem": "reklamasjon",
             "query": "samsung reklamasjon",
-            "impressions": 47
+            "impressions": 52
+          },
+          {
+            "problem": "reklamasjon",
+            "query": "clas ohlson reklamasjon",
+            "impressions": 28
           },
           {
             "problem": "reklamasjon",
             "query": "skeidar reklamasjon",
-            "impressions": 12
+            "impressions": 17
           },
           {
             "problem": "mistet",
             "query": "mistet kvittering regnskap",
-            "impressions": 16
-          },
-          {
-            "problem": "uten kvittering",
-            "query": "reklamere uten kvittering",
-            "impressions": 16
-          },
-          {
-            "problem": "reklamasjon",
-            "query": "reklamasjonsrett elektronikk",
-            "impressions": 158
+            "impressions": 18
           }
         ],
         "warranties": [
           {
             "topic": "garanti",
             "query": "iphone garanti",
-            "impressions": 226
+            "impressions": 233
           },
           {
             "topic": "reklamasjon",
             "query": "zalando reklamasjon",
-            "impressions": 362
+            "impressions": 435
           },
           {
             "topic": "garanti",
             "query": "garanti iphone",
-            "impressions": 336
-          },
-          {
-            "topic": "garanti",
-            "query": "garanti mobiltelefon",
-            "impressions": 209
+            "impressions": 350
           },
           {
             "topic": "reklamasjon",
             "query": "reklamasjon zalando",
-            "impressions": 123
+            "impressions": 177
+          },
+          {
+            "topic": "garanti",
+            "query": "garanti mobiltelefon",
+            "impressions": 222
+          },
+          {
+            "topic": "garanti",
+            "query": "tesla garanti",
+            "impressions": 88
           },
           {
             "topic": "garanti",
             "query": "garanti på møbler",
-            "impressions": 37
+            "impressions": 40
           },
           {
             "topic": "garanti",
             "query": "garanti hvitevarer",
-            "impressions": 203
-          },
-          {
-            "topic": "retur",
-            "query": "clas ohlson retur uten kvittering",
-            "impressions": 148
+            "impressions": 233
           },
           {
             "topic": "garanti",
             "query": "garanti elektronikk",
-            "impressions": 112
+            "impressions": 138
           },
           {
-            "topic": "garanti",
-            "query": "garanti på mobiltelefon",
-            "impressions": 131
+            "topic": "retur",
+            "query": "clas ohlson retur uten kvittering",
+            "impressions": 154
           }
         ],
         "business": [
@@ -1773,451 +1915,434 @@
           {
             "topic": "regnskap",
             "query": "mistet kvittering regnskap",
-            "impressions": 16
-          },
-          {
-            "topic": "enk",
-            "query": "registrere bil på enkeltmannsforetak",
-            "impressions": 4
+            "impressions": 18
           },
           {
             "topic": "enkeltpersonforetak",
             "query": "firmabil enkeltpersonforetak",
-            "impressions": 296
+            "impressions": 299
           },
           {
             "topic": "enk",
             "query": "firmabil enkeltmannsforetak",
-            "impressions": 205
+            "impressions": 206
           },
           {
             "topic": "enkeltpersonforetak",
             "query": "fradrag enkeltpersonforetak",
-            "impressions": 139
+            "impressions": 153
           },
           {
             "topic": "regnskap",
             "query": "diett regnskap",
-            "impressions": 145
+            "impressions": 147
           },
           {
             "topic": "fradrag",
             "query": "fradrag for næringsdrivende",
-            "impressions": 119
+            "impressions": 132
           },
           {
             "topic": "enk",
             "query": "kjøpe firmabil enkeltmannsforetak",
-            "impressions": 76
+            "impressions": 80
+          },
+          {
+            "topic": "firma",
+            "query": "firmabil bompenger",
+            "impressions": 74
           },
           {
             "topic": "enk",
             "query": "fradrag hjemmekontor enkeltmannsforetak",
-            "impressions": 73
+            "impressions": 72
           }
         ]
       },
-      "totalQueries": 1328,
-      "totalClicks": 487,
-      "totalImpressions": 34517
+      "totalQueries": 1352,
+      "totalClicks": 472,
+      "totalImpressions": 36548
     }
   },
   "seoGaps": [
     {
-      "keyword": "kvittering",
-      "impressions": 1996,
-      "currentPosition": 4.154272123963737,
-      "suggestedTitle": "Kvittering i Norge: 12 vanlige situasjoner der du må ha den (og hva som kan erstatte den)",
-      "opportunity": "Høy visning, lav CTR. Posisjon ~4 betyr små title/meta-endringer + mer presis søkeintensjon kan gi stor klikkgevinst."
+      "keyword": "kvitteringer",
+      "impressions": 522,
+      "currentPosition": 7,
+      "suggestedTitle": "Kvitteringer: komplett guide til lagring, retur, garanti og reklamasjon",
+      "opportunity": "Vi har trafikk men svak posisjon; en «pillar page» kan løfte rank og internlenke til butikk-sider."
     },
     {
-      "keyword": "elkjøp min side",
-      "impressions": 2316,
-      "currentPosition": 5.154055456701897,
-      "suggestedTitle": "Elkjøp Min Side: Hvorfor du ikke finner kvitteringen (5 årsaker som ikke handler om passord)",
-      "opportunity": "Høy visning, posisjon ~5. Må være tydelig annerledes enn eksisterende «fungerer ikke / finner ikke» ved å fokusere på datakilder/ordretyper (butikkkjøp, gave, firmakjøp)."
+      "keyword": "kvittering",
+      "impressions": 2116,
+      "currentPosition": 3,
+      "suggestedTitle": "Kvittering: alt du trenger å vite (digitalt, papir, garanti og hva som gjelder i Norge)",
+      "opportunity": "Høy visning + lav CTR; forbedre tittel/metabeskrivelse og få featured snippet."
+    },
+    {
+      "keyword": "kvitering",
+      "impressions": 332,
+      "currentPosition": 2,
+      "suggestedTitle": "Kvitering = kvittering: slik finner du igjen kjøpsbeviset",
+      "opportunity": "Stavefeil gir egne SERP-er; enkel side kan hente gratis trafikk."
     },
     {
       "keyword": "e-kvittering",
-      "impressions": 231,
-      "currentPosition": 1.5169126427751405,
-      "suggestedTitle": "E-kvittering: Slik lagrer du den riktig (PDF, skjermbilde, videresending) så den tåler garanti og forsikring",
-      "opportunity": "Selv med god posisjon er CTR lav; mer «how-to»-vinkel kan øke klikk og tid på side."
+      "impressions": 236,
+      "currentPosition": 1,
+      "suggestedTitle": "E‑kvittering: hva det er, hvor du finner den og hvordan du lagrer den trygt",
+      "opportunity": "God posisjon men lav CTR; bedre svar på intent + FAQ-skjema kan øke klikk."
     },
     {
       "keyword": "fysisk butikk digital kvittering",
-      "impressions": 213,
-      "currentPosition": 1.5456420488883058,
-      "suggestedTitle": "Digital kvittering i fysisk butikk: Hva du sier i kassen og hvilke valg du må unngå på terminalen",
-      "opportunity": "0 klikk men topp 2-posisjon: sannsynlig snippet/intent-mismatch. Lag en mer handlingsrettet artikkel."
+      "impressions": 217,
+      "currentPosition": 1,
+      "suggestedTitle": "Digital kvittering i butikk: rettigheter, praksis og smarte formuleringer i kassa",
+      "opportunity": "0 klikk selv med topp-posisjon; trolig feil match mot intent—lag mer konkret innhold."
+    },
+    {
+      "keyword": "kvitteringer lagret på ett sted",
+      "impressions": 220,
+      "currentPosition": 1,
+      "suggestedTitle": "Kvitteringer lagret på ett sted: oppskrift på et enkelt system (privat og ENK)",
+      "opportunity": "0 klikk; tydelig behov for bedre «how-to» + sterk produktkobling."
     },
     {
       "keyword": "zalando reklamasjon",
-      "impressions": 362,
-      "currentPosition": 2.602884193852798,
-      "suggestedTitle": "Zalando reklamasjon: Slik bygger du bevis når plagget er brukt (slitasje vs feil)",
-      "opportunity": "Posisjon ~2.6: en mer spesifikk artikkel kan ta #1 på long-tail og sende internlenker til hovedguide."
+      "impressions": 435,
+      "currentPosition": 2,
+      "suggestedTitle": "Zalando reklamasjon: frister, dokumentasjon og steg-for-steg",
+      "opportunity": "Høy visning; styrk E-E-A-T (kilder, frister, sjekklister) for å dominere SERP."
+    },
+    {
+      "keyword": "zalando faktura",
+      "impressions": 349,
+      "currentPosition": 1,
+      "suggestedTitle": "Zalando faktura: finn, last ned og bruk som kjøpsbevis",
+      "opportunity": "Sterk navigasjonsintent; optimaliser for «hvor finner jeg» og legg til bilder/FAQ."
+    },
+    {
+      "keyword": "garanti iphone",
+      "impressions": 350,
+      "currentPosition": 1,
+      "suggestedTitle": "Garanti på iPhone i Norge: kvittering, IMEI og hva du faktisk har krav på",
+      "opportunity": "Kjøpsbevis er kritisk; kan gi høy konvertering til kvitteringslagring."
+    },
+    {
+      "keyword": "elkjøp mine ordre",
+      "impressions": 392,
+      "currentPosition": 1,
+      "suggestedTitle": "Elkjøp «Mine ordre»: slik finner du kvittering og ordrehistorikk",
+      "opportunity": "Høy opportunity-score; legg til «feilinnlogging», «mangler ordre» og «gave uten kvittering» for long-tail."
     }
   ],
   "dataInsights": {
     "topPerformingThemes": [
-      "Butikkspesifikke guider (Clas Ohlson/Elkjøp-lignende mønster)",
-      "Garanti/reklamasjon på elektronikk (mobil/iphone)",
-      "Finn kvittering-problemer (mistet, ikke på e-post, ikke i portal)"
+      "Butikk-guider som svarer på «finn kvittering» (eksempel: Clas Ohlson)",
+      "Elektronikk + garanti (iPhone/mobil)",
+      "Reklamasjon/retur-problemer som krever dokumentasjon"
     ],
     "emergingTopics": [
-      "E-kvittering og praktisk lagring (lav CTR tross god posisjon)",
-      "Zalando-relaterte problemstillinger (faktura/reklamasjon)",
-      "Butikk-portal-problemer («Min side», «mine ordre»)"
+      "Digital kvittering i fysisk butikk (mange visninger, 0 klikk – tydelig uutnyttet)",
+      "Stavefeil-trafikk («kvitering») som kan eies med egne landingssider",
+      "Banktransaksjon som sekundær dokumentasjon (kobling til DNB-trend)"
     ],
     "recommendations": [
-      "Angrip «kvittering» med flere svært konkrete underspørsmål (kontoutskrift, gave, utlandet, personvern) for å øke CTR",
-      "Lag smale, scenario-baserte artikler rundt Zalando/Elkjøp som kan ranke på long-tail og internlenke til hovedsider",
-      "Utvid butikkdekning til nye vertikaler (hage, apotek, optikk) for å skape ny organisk trafikk uten å duplisere eksisterende guider"
+      "Lag én «pillar»-side for «kvittering/kvitteringer» med sterke FAQ-seksjoner for å øke CTR på høye visninger",
+      "Publiser flere konkrete steg-for-steg-guider som matcher navigasjonsintensjon (f.eks. «Mine ordre», «finn faktura»)",
+      "Bygg internlenker fra generelle artikler (kvittering/e-kvittering) til store/garanti/reklamasjon for å løfte hele klyngen"
     ]
   },
   "aiCreativeIdeas": [
     {
-      "title": "Når kvitteringen blekner: Slik «redder» du termokvitteringer før teksten forsvinner",
-      "primaryKeyword": "termokvittering blekner",
-      "angle": "Praktisk redningsguide (skanning, lys/kontrast, oppbevaring, PDF-arkiv) før det er for sent",
-      "whyThisWorks": "Høy nytteverdi og svært delbart; mange opplever dette uten å vite at termopapir degraderer."
+      "title": "Kvitterings-beredskap: 10 dokumenter du bør ha klare før uhellet skjer",
+      "primaryKeyword": "kvitteringsberedskap",
+      "angle": "Tenk «beredskapsliste», men for garanti, forsikring og økonomi",
+      "whyThisWorks": "Gir delbart, nyttig evergreen-innhold som bygger behovet for én lagringsplass."
     },
     {
-      "title": "Kvittering ved kjøp av planter og hageutstyr: Hva du trenger for å klage på «døde planter»",
-      "primaryKeyword": "hagebutikk reklamasjon plante",
-      "angle": "Butikktyper som Hageland/Plantasjen-lignende: vanning, jordtype, temperatur, bilde-logg + kvittering",
-      "whyThisWorks": "Nisje med lite konkurranse og tydelig kvitterings-/dokumentasjonsbehov."
+      "title": "Den skjulte kostnaden ved å miste kvitteringer: tid, penger og stress (med regneeksempel)",
+      "primaryKeyword": "miste kvittering kostnad",
+      "angle": "Kvantifiserer smertepunktene i stedet for bare tips",
+      "whyThisWorks": "Skaper emosjonell hook og naturlig overgang til løsning."
     },
     {
-      "title": "Dyrt sexleketøy? (uten å nevne sexleketøy): Slik navngir du kvitteringer nøytralt i arkivet ditt",
-      "primaryKeyword": "navngi kvitteringer privat",
-      "angle": "Personvern og diskresjon: kategorier/aliaser som fortsatt gjør reklamasjon mulig",
-      "whyThisWorks": "Reell smerte (pinlige kjøp) + løsninger som passer produktet (kvitteringslagring) uten å være identisk med tidligere diskre-artikkel."
-    },
-    {
-      "title": "Reklamasjon på sexleketøy/helseprodukt når butikken krever «hygiene»-bevis: Hva er rimelig dokumentasjon?",
-      "primaryKeyword": "reklamasjon hygieneprodukt dokumentasjon",
-      "angle": "Forbrukerrett + praktisk dokumentasjon (batch/lot, bilde av feil, ordrenr) uten å returnere brukt vare",
-      "whyThisWorks": "Tydelig konfliktområde i praksis, lite godt innhold på norsk."
-    },
-    {
-      "title": "Kvitteringer i dødsbo: Slik finner du kjøpsbevis for hvitevarer, møbler og abonnement når du rydder bolig",
+      "title": "Slik lager du et «kvitterings-testament» for familie: hva som trengs ved dødsbo",
       "primaryKeyword": "kvitteringer dødsbo",
-      "angle": "Livshendelse: arvinger trenger kvitteringer for garanti, salg og oppgjør",
-      "whyThisWorks": "Sterkt behov, lav konkurranse, høy relevans for digitalt arkiv."
+      "angle": "Arv/dødsbo er et område få skriver om, men dokumentasjon er viktig",
+      "whyThisWorks": "Nisje + høy alvorlighet = høy tillit og lenkebarhet."
+    },
+    {
+      "title": "Falske kvitteringer og svindel: Slik sjekker du om en kvittering er ekte",
+      "primaryKeyword": "falsk kvittering",
+      "angle": "Forbrukersikkerhet, bruktmarked og garanti",
+      "whyThisWorks": "Aktuelt for Finn.no/ bruktmarked; gir praktiske sjekklister."
+    },
+    {
+      "title": "Kvitteringer og personvern: hva bør du aldri lagre i skyen?",
+      "primaryKeyword": "kvittering personvern",
+      "angle": "Personvern-first guide med konkrete risikofelt (kort, medlemsnummer, etc.)",
+      "whyThisWorks": "Bygger tillit til tjenesten og adresserer barriere for digital lagring."
+    },
+    {
+      "title": "AI som leser kvitteringer: hva er mulig i 2026 – og hva bør du være skeptisk til?",
+      "primaryKeyword": "ai kvittering",
+      "angle": "Fremtidsrettet, men kritisk: hallusinasjon, feil OCR, personvern",
+      "whyThisWorks": "Treffer trend («chatgpt») og posisjonerer dere som trygg aktør."
+    },
+    {
+      "title": "Slik lager du en kvitteringsrutine som varer: psykologi og vaner (2 minutter per uke)",
+      "primaryKeyword": "kvitteringsrutine",
+      "angle": "Vaneforskning + superkonkret rutine",
+      "whyThisWorks": "Skiller seg fra vanlige «tips»-artikler; høy retention."
+    },
+    {
+      "title": "Hvor lenge bør du ta vare på kvitteringer? En enkel «behold til»-tabell",
+      "primaryKeyword": "hvor lenge spare kvitteringer",
+      "angle": "Tabell per kategori: elektronikk, klær, møbler, forsikring, regnskap",
+      "whyThisWorks": "Høy søkeintensjon, enkel å skumme, god for featured snippet."
     }
   ],
   "cachedTrends": {
-    "date": "2026-02-08",
+    "date": "2026-02-12",
     "data": [
       {
-        "title": "sander eitrem",
+        "title": "james van der beek",
         "traffic": "10k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "liverpool mot man. city",
-        "traffic": "10k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "lindsey vonn",
-        "traffic": "20k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "anna odine strøm",
-        "traffic": "10k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mona juul",
+        "title": "2026 winter olympics women's snowboarding halfpipe",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "super bowl",
+        "title": "pam bondi",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "liverpool vs man city",
+        "title": "sofie marhaug",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "ol program i dag",
+        "title": "jesse van rootselaar",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "kajsa vickhoff lie",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "sunderland mot liverpool",
         "traffic": "5k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "klæbo",
-        "traffic": "5k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "brad arnold",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "atlético madrid mot real betis",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ted jan bloemen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "maren hjelmeset kirkeeide",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "sven kramer",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "aksel lund svindal",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "bart swings",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "norge milano cortina",
-        "traffic": "2k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "anterselva",
+        "title": "wuthering heights",
         "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "dorothea wierer",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ain country",
-        "traffic": "1k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nyenget",
-        "traffic": "1k+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nrk",
+        "title": "dawson creek",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "vetle sjåstad christiansen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ørland",
+        "title": "crystal palace mot burnley",
         "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "mattis stenshagen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ain",
+        "title": "milla ruud reitan",
         "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "morsdagen",
-        "traffic": "500+",
+        "title": "nottingham forest mot wolves",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "val di fiemme",
-        "traffic": "500+",
+        "title": "liverpool",
+        "traffic": "2k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "eric perrot",
+        "title": "igor medved",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "aston villa mot brighton",
+        "traffic": "1k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "skeleton",
         "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "bjørn magnussen",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
         "title": "julia simon",
-        "traffic": "200+",
+        "traffic": "1k+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "expressen",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mathis desloges",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "skiathlon",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "harald østberg amundsen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "emil iversen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "gullfisken",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "edvin anger",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "lindsey vonn boyfriend",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "aamodt kilde",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "curling norge",
-        "traffic": "500+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "breezy johnson",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "mikaela shiffrin",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "marit bjørgen",
+        "title": "eileen gu",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "therese johaug",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "østlendingen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "snoop dogg",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "klassekampen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "julie zelingrova",
+        "title": "ol i dag på tv",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "niskanen",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "petter northug",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "skiathlon ol",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "tynset",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ilia malinin",
-        "traffic": "200+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "nika prevc",
+        "title": "man city vs fulham",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "mesternes mester",
+        "title": "crystal palace",
         "traffic": "500+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "adressa",
+        "title": "harpefoss",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "kjetil andre aamodt",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "tv",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "jordan stolz",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "nrk tv",
+        "traffic": "2k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "tv2.no",
+        "traffic": "1k+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "oddvar brå",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "fifa",
+        "title": "eric heiden",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "svt",
-        "traffic": "100+",
-        "source": "google-trends-scrape"
-      },
-      {
-        "title": "ola lunde",
+        "title": "oftebro",
         "traffic": "200+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "altaposten",
+        "title": "tv2 nyheter",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "fritz aanes",
+        "traffic": "500+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "bayern mot rb leipzig",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "vikinglotto trekning",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "laurence fournier beaudry",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "rbnett",
+        "title": "guillaume cizeron",
         "traffic": "100+",
         "source": "google-trends-scrape"
       },
       {
-        "title": "newcastle vs brentford",
+        "title": "translate",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "dorothea wierer",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "ingrid landmark tandrevold",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "1000 m skøyter ol 2026 menn",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "jens oftebro",
+        "traffic": "200+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "chatgpt",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "oscar bobb",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "pl",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "iga świątek",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "dnb",
+        "traffic": "100+",
+        "source": "google-trends-scrape"
+      },
+      {
+        "title": "sporty",
         "traffic": "100+",
         "source": "google-trends-scrape"
       }
@@ -2225,10 +2350,98 @@
   },
   "rssNews": [
     {
+      "title": "Apples nye Siri kan bli utsatt igjen",
+      "link": "https://www.tek.no/i/RjrOz5",
+      "pubDate": "Thu, 12 Feb 2026 09:18:43 GMT",
+      "description": "Oppgraderingen ble først lovet i 2024.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Russland prøver å blokkere WhatsApp",
+      "link": "https://www.tek.no/i/8pQEEx",
+      "pubDate": "Thu, 12 Feb 2026 07:54:05 GMT",
+      "description": "WhatsApp advarer.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "– Pokémons svar på «Minecraft»?",
+      "link": "https://www.tek.no/i/9pK3v5",
+      "pubDate": "Wed, 11 Feb 2026 15:22:39 GMT",
+      "description": "Kan et Animal Crossing-inspirert Pokémonspill bli vårens snakkis?",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Dette sier lekkasjene om de nye Samsung-telefonene",
+      "link": "https://www.tek.no/i/Rjr58W",
+      "pubDate": "Wed, 11 Feb 2026 13:25:39 GMT",
+      "description": "Ultra-modellen skal få innebygd innsynsfilter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Bekreftet av Power og Elkjøp: Teknologi blir dyrere i år",
+      "link": "https://www.tek.no/i/7pd723",
+      "pubDate": "Wed, 11 Feb 2026 10:58:44 GMT",
+      "description": "«RAMageddon» rammer Norge.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Google gjør det enklere å fjerne seksuelle bilder av deg fra søk",
+      "link": "https://www.tek.no/i/ExalX3",
+      "pubDate": "Wed, 11 Feb 2026 08:21:09 GMT",
+      "description": "Google lanserer en rekke nye verktøy som gjør det enklere å fjerne eksplisitte bilder av deg uten samtykke fra søkeresultater.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "OpenAI starter med reklame i ChatGPT",
+      "link": "https://www.tek.no/i/zO7E21",
+      "pubDate": "Tue, 10 Feb 2026 12:56:31 GMT",
+      "description": "Blir gjort narr av i Anthropic-reklame.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Discord krever ansiktsskanning eller ID",
+      "link": "https://www.tek.no/i/K8zz0G",
+      "pubDate": "Tue, 10 Feb 2026 07:48:01 GMT",
+      "description": "Nå må du bevise alderen din.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Slipp kalde tær i vinter",
+      "link": "https://www.tek.no/i/y6WE8K",
+      "pubDate": "Mon, 09 Feb 2026 15:06:11 GMT",
+      "description": "Vi har testet varmesåler.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "iPhone 17e kan være rett rundt hjørnet",
+      "link": "https://www.tek.no/i/bOG53e",
+      "pubDate": "Mon, 09 Feb 2026 11:42:34 GMT",
+      "description": "Prisen blir den samme til tross for dyrere komponenter.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
+      "title": "Familie-SUV med firehjulstrekk til 400.000? Ja takk!",
+      "link": "https://www.tek.no/i/zOrPWb",
+      "pubDate": "Mon, 09 Feb 2026 04:00:00 GMT",
+      "description": "Changan Deepal S05 nærmer seg prisbombe-landskapet.",
+      "categories": [],
+      "source": "Tek.no"
+    },
+    {
       "title": "Er det mulig å unngå USA og Kina når du kjøper nytt?",
       "link": "https://www.tek.no/i/ArlVBz",
       "pubDate": "Sun, 08 Feb 2026 04:00:00 GMT",
-      "description": "Dette er de «Trump og Xi-sikre» testvinnerne og anbefalingene våre.",
+      "description": "Dette er de «Trump- og Xi-sikre» testvinnerne og anbefalingene våre.",
       "categories": [],
       "source": "Tek.no"
     },
@@ -2269,14 +2482,6 @@
       "link": "https://www.tek.no/i/gk0g6A",
       "pubDate": "Fri, 06 Feb 2026 14:30:00 GMT",
       "description": "Snart kan flere dele filer med iPhone.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Slipp kalde tær i vinter",
-      "link": "https://www.tek.no/i/y6WE8K",
-      "pubDate": "Fri, 06 Feb 2026 13:54:21 GMT",
-      "description": "Vi har testet varmesåler.",
       "categories": [],
       "source": "Tek.no"
     },
@@ -2945,184 +3150,206 @@
       "source": "Tek.no"
     },
     {
-      "title": "Den beste trådløse gamingmusen",
-      "link": "https://www.tek.no/i/0VWp7E",
-      "pubDate": "Mon, 12 Jan 2026 15:04:51 GMT",
-      "description": "Vi har testet seks allsidige spillmus. Flere er gode kjøp.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Gamingheadset: De beste trådløse modellene",
-      "link": "https://www.tek.no/i/dOyRXO",
-      "pubDate": "Mon, 12 Jan 2026 15:02:36 GMT",
-      "description": "Og prisen? Godt under 2000 kroner!",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Fikk du Instagram-e-post om passordbytte?",
-      "link": "https://www.tek.no/i/V6qggl",
-      "pubDate": "Mon, 12 Jan 2026 13:54:31 GMT",
-      "description": "17,5 millioner brukere rammet, sier sikkerhetsselskap.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Her er Kias EV2 - vil den koste under 300.000?",
-      "link": "https://www.tek.no/i/4313lg",
-      "pubDate": "Mon, 12 Jan 2026 08:59:10 GMT",
-      "description": "Kia lanserer sin foreløpig minste elbil i form av EV2. Den måler 4,06 meter på strømpelesten, og vil konkurrere med biler som Volkswagen ID. Polo/ID.Cross, Skoda Epiq, Hyundai Inster, Firefly og Renault 4/5, for å nevne noen.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Gmail lanserer ny AI-innboks",
-      "link": "https://www.tek.no/i/XM8M97",
-      "pubDate": "Mon, 12 Jan 2026 08:13:40 GMT",
-      "description": "Google lanserer flere AI-funksjoner i Gmail.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Brukte 0 GB data i 5 år. Ble oppgradert til dyrere abonnement med 8 GB",
-      "link": "https://www.tek.no/i/xrPLnn",
-      "pubDate": "Sun, 11 Jan 2026 04:00:00 GMT",
-      "description": "Fra 79 kr til 219 kr.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Intel og AMD i åpen krig om håndholdte gaming-PC-er",
-      "link": "https://www.tek.no/i/QJmon8",
-      "pubDate": "Fri, 09 Jan 2026 14:52:20 GMT",
-      "description": "– De selger eldgammel silisium, sier Intel, og «teaser» ny spesialprosessor.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Alt-i-ett gassbrennere: den beste står støtt i vind",
-      "link": "https://www.tek.no/i/ab7Aod",
-      "pubDate": "Fri, 09 Jan 2026 14:49:14 GMT",
-      "description": "Det finnes en rekke finurlige varianter av gassbrennere på markedet, alle med sine unike kvaliteter. Noen er små, enkle og toppmonterte, andre har bredere brennflate og kommer med slange, mens noen kommer som en «alt i ett»-løsning.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Dette er de beste, og kraftigste, hodelyktene",
-      "link": "https://www.tek.no/i/EQjOMG",
-      "pubDate": "Fri, 09 Jan 2026 14:47:44 GMT",
-      "description": "De sterkeste lyser opp halve skauen, men koster også deretter.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Vi har funnet den beste hodelykten i midtsjiktet",
-      "link": "https://www.tek.no/i/Kzkwpe",
-      "pubDate": "Fri, 09 Jan 2026 13:24:50 GMT",
-      "description": "I prisklassen (ca.) 1000 – 2500 kroner.",
-      "categories": [],
-      "source": "Tek.no"
-    },
-    {
-      "title": "Går av som ambassadør etter Epstein-kontakt: – Alvorlig svikt",
-      "link": "https://e24.no/naeringsliv/i/437dJa/ud-mona-juul-gaar-av-som-ambassadoer",
-      "pubDate": "Sun, 08 Feb 2026 16:55:46 GMT",
-      "description": "Mona Juul (66) går av som ambassadør etter det ble kjent at hun har hatt kontakt med seksualforbryter Jeffrey Epstein.",
-      "categories": [
-        "Næringsliv"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Mona Juul går av som ambassadør",
-      "link": "https://e24.no/naeringsliv/i/RjyJEx/mona-juul-gaar-av-som-ambassadoer",
-      "pubDate": "Sun, 08 Feb 2026 16:47:54 GMT",
-      "description": "– Dette er en riktig og nødvendig beslutning. Den skjer etter samtalene med Utenriksdepartementet denne uken. Juuls kontakt med overgrepsdømte Epstein har vist en alvorlig svikt i dømmekraften. Saken gjør det vanskelig å gjenreise den tilliten som rollen krever, sier utenriksminister Espen Barth Eide i en pressemelding.",
-      "categories": [
-        "Næringsliv"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Bedre og mer effektiv bistand",
-      "link": "https://e24.no/internasjonal-oekonomi/i/PdykXz/bedre-og-mer-effektiv-bistand",
-      "pubDate": "Sun, 08 Feb 2026 14:08:06 GMT",
-      "description": "Norges utviklingsminister Åsmund Aukrust kunngjorde nylig en kursendring ut fra behovet om bedre og mer effektiv bistand. Dette er et kjærkomment skritt i riktig retning som også kan inspirere mange andre land.",
-      "categories": [
-        "Internasjonal økonomi"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Feiret 150 år i fjor – nå er hjørnesteins­bedriften konkurs",
-      "link": "https://e24.no/naeringsliv/i/Rjydqx/feiret-150-aar-i-fjor-naa-er-hjoernesteinsbedriften-konkurs",
-      "pubDate": "Sun, 08 Feb 2026 13:40:13 GMT",
-      "description": "Siden 1875 har bedriften som i dag heter Otta Skifer utvunnet stein fra Pillarguri Skiferbrudd i Gudbrandsdalen.",
-      "categories": [
-        "Næringsliv"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Helle (46) fikk tre styreverv etter ny lov",
-      "link": "https://e24.no/karriere-og-ledelse/i/0pKw66/helle-46-fikk-tre-styreverv-etter-ny-lov",
-      "pubDate": "Sun, 08 Feb 2026 12:33:27 GMT",
-      "description": "Kjønnsbalanse-loven ga flere tusen kvinner plass i norske styrer. Forskere har sett på hva som kjennetegner de nye styremedlemmene.",
-      "categories": [
-        "Karriere og ledelse"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Utbetalte 40 milliarder dollar i bitcoin ved en feil",
-      "link": "https://e24.no/boers-og-finans/i/16OPLQ/utbetalte-40-milliarder-dollar-i-bitcoin-ved-en-feil",
-      "pubDate": "Sun, 08 Feb 2026 12:32:11 GMT",
-      "description": "Won ble til bitcoin da kryptobørsen Bithumb skulle belønne kunder som deltok i en kampanje.",
-      "categories": [
-        "Børs og finans"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Omkampene om Melkøya: Ber regjeringen ta grep",
-      "link": "https://e24.no/energi-og-klima/i/e7P2zO/omkampene-om-melkoeya-ber-regjeringen-ta-grep",
-      "pubDate": "Sun, 08 Feb 2026 10:02:28 GMT",
-      "description": "Finnmarks fylkesordfører Hans-Jacob Bønå (H) er bekymret for et hardt debattklima rundt kraft og Melkøya, og ber regjeringen ta grep for å berolige befolkningen. – Gjort en altfor dårlig jobb.",
-      "categories": [
-        "Energi og klima"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Vil KI rasere tek-bransjen?",
-      "link": "https://e24.no/boers-og-finans/i/zOrmv5/vil-ki-rasere-tek-bransjen",
-      "pubDate": "Sun, 08 Feb 2026 08:57:42 GMT",
-      "description": "Investorene ble skremt av kunstig intelligens denne uken. Er frykten starten på en større sprekk?",
-      "categories": [
-        "Børs og finans"
-      ],
-      "source": "E24"
-    },
-    {
-      "title": "Tor Bomann-Larsen: Kongehusets største krise?",
-      "link": "https://e24.no/norsk-oekonomi/i/zO755b/tor-bomann-larsen-kongehusets-stoerste-krise",
-      "pubDate": "Sun, 08 Feb 2026 07:14:19 GMT",
-      "description": "Tor Bomann-Larsen skrev åtte hyllede bind om Kong Haakon VII og Dronning Maud og er en kjenner av kongehusets historie. I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om monarkiets vanskelige tid, men med bakgrunn i de lange historiske linjene fra folkeavstemningen i 1905 og frem til i dag. \n\nNoen hevder dette er kongehusets største krise, men er det virkelig det?",
+      "title": "Norges Bank-indeks: Sterkeste norske krone på tre år",
+      "link": "https://e24.no/norsk-oekonomi/i/oEW7aW/norges-bank-indeks-sterkeste-norske-krone-paa-tre-aar",
+      "pubDate": "Thu, 12 Feb 2026 10:48:52 GMT",
+      "description": "Kronen har styrket seg kraftig etter «sjokk» for prisveksten.",
       "categories": [
         "Norsk økonomi"
       ],
       "source": "E24"
     },
     {
-      "title": "Dette innrømmer Stein Lier-Hansen",
-      "link": "https://e24.no/naeringsliv/i/wr87b1/dette-innroemmer-stein-lier-hansen",
-      "pubDate": "Sun, 08 Feb 2026 06:18:00 GMT",
-      "description": "Familietur med sightseeing, sjøflypenger i egen lomme og romjulstur med ektefellen. Alt på jobbens regning. Dette er forholdene Stein Lier-Hansen selv mener er grov økonomisk utroskap.",
+      "title": "Økokrim ransaker hos Thorbjørn Jagland",
+      "link": "https://e24.no/internasjonal-oekonomi/i/0pGo2o/oekokrim-ransaker-hos-thorbjoern-jagland",
+      "pubDate": "Thu, 12 Feb 2026 09:49:16 GMT",
+      "description": "VG har observert seks personer gå inn i Oslo-leiligheten til den tidligere statsministeren.",
       "categories": [
-        "Næringsliv"
+        "Internasjonal økonomi"
       ],
       "source": "E24"
+    },
+    {
+      "title": "Hva skjer i president Trumps siste 1072 dager?",
+      "link": "https://e24.no/internasjonal-oekonomi/i/Okrjek/hva-skjer-i-president-trumps-siste-1072-dager",
+      "pubDate": "Thu, 12 Feb 2026 08:54:25 GMT",
+      "description": "E24-podden kikker inn i krystallkula",
+      "categories": [
+        "Internasjonal økonomi"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Vil ha Vy, Posten og Statkraft på børs",
+      "link": "https://e24.no/boers-og-finans/i/M71M1J/vil-ha-vy-posten-og-statkraft-paa-boers",
+      "pubDate": "Thu, 12 Feb 2026 08:50:45 GMT",
+      "description": "På helgens Høyre-landsmøte foreslår flere fylkeslag å børsnotere statseide selskaper som Vy og vurdere nedsalg i Equinor, Telenor, DNB og Yara.",
+      "categories": [
+        "Børs og finans"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "Oppgang på Oslo Børs – Autostore stiger kraftig",
+      "link": "https://e24.no/boers-og-finans/i/oEW73V/orkla-hopper-naer-tre-prosent-paa-oslo-boers-etter-tallslipp",
+      "pubDate": "Thu, 12 Feb 2026 08:01:16 GMT",
+      "description": "Børsåpningen preges av tallslipp fra en rekke selskaper.",
+      "categories": [
+        "Børs og finans"
+      ],
+      "source": "E24"
+    },
+    {
+      "title": "[Ekstra] Første kontrakt signert i statens gigant-skyavtale",
+      "link": "https://www.digi.no/artikler/forste-kontrakt-signert-pa-statens-gigant-skyavtale/568186",
+      "pubDate": "Thu, 12 Feb 2026 09:05:17 +0100",
+      "description": "Google trakk det lengste strået i første avrop på statens milliardavtale for sky.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Advarer mot skreddersydd KI-svindel: – Jo mer informasjon som ligger ute om deg på nettet, desto større muligheter",
+      "link": "https://www.digi.no/artikler/advarer-mot-skreddersydd-personlig-og-troverdig-svindel/568183",
+      "pubDate": "Thu, 12 Feb 2026 07:28:06 +0100",
+      "description": "KI-drevet svindel, skreddersydde angrep og manipulasjon gjennom sosiale medier blir vanlig i året som kommer, sier Telenors sikkerhetsekspert.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Palantir gjør Norge utrygt",
+      "link": "https://www.digi.no/artikler/debatt-palantir-gjor-norge-utrygt/567919",
+      "pubDate": "Thu, 12 Feb 2026 05:00:00 +0100",
+      "description": "KPMG var Palantirs hjelper i England. Forsøker de å være det samme i Norge?",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] På jobbjakt? Nå kan du bli nasjonal KI-sjef",
+      "link": "https://www.digi.no/artikler/lyser-ut-jobben-som-nasjonal-ki-sjef/568177",
+      "pubDate": "Wed, 11 Feb 2026 16:34:57 +0100",
+      "description": "Direktøren for KI Norge loves en nøkkelrolle i utviklingen av kunstig intelligens i Norge – og millionlønn.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Vil ha omkamp om statlig eid nasjonal sky",
+      "link": "https://www.digi.no/artikler/sv-forslag-om-fortgang-i-statlig-eid-nasjonal-sky/568174",
+      "pubDate": "Wed, 11 Feb 2026 15:20:47 +0100",
+      "description": "Regjeringen takket nei til forslaget om en statlig eid og driftet sky. Nå vil Fagforbundet, NTL og SV ha omkamp.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "KI spiser ikke konsulenter",
+      "link": "https://www.digi.no/artikler/debatt-ki-spiser-ikke-konsulenter/568051",
+      "pubDate": "Wed, 11 Feb 2026 13:59:18 +0100",
+      "description": "Men KI kommer til å fjerne tålmodigheten med å betale for timer uten at noen kan vise til effekt.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Slik tøyler eksperten KI-agenten",
+      "link": "https://www.digi.no/artikler/intervju-blekksprut-i-maskinen-slik-toyler-eksperten-ki-agenten/568126",
+      "pubDate": "Wed, 11 Feb 2026 10:20:52 +0100",
+      "description": "Marius Sandbu mener OpenClaw fungerer som en blekksprut med tentakler inn i alt du eier. Selv tester han teknologien i isolerte miljøer.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Telenor vil ha ny Nødnett-vurdering",
+      "link": "https://www.digi.no/artikler/telenor-vil-ha-ny-vurdering-av-nodnett-konseptet/568087",
+      "pubDate": "Wed, 11 Feb 2026 07:23:37 +0100",
+      "description": "OPPDATERT: Nkom: Ingen utsettelse av nytt Nødnett på grunn av Telia-Lyse-samarbeidet.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] KI-agent med full kontroll over PC-en: – Mindblowing",
+      "link": "https://www.digi.no/artikler/ki-agent-med-full-kontroll-over-pc-en-mindblowing/568024",
+      "pubDate": "Tue, 10 Feb 2026 21:00:27 +0100",
+      "description": "Viral KI-løsning utfører oppgaver mens du sover, men eksperter advarer mot sikkerhetshull.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Norskutviklet KI-modell gjør det mulig å kartlegge «alt» i et satellittbilde",
+      "link": "https://www.digi.no/artikler/norsk-utviklet-ki-modell-gjor-det-mulig-a-kartlegge-alt-i-et-satellittbilde/567643",
+      "pubDate": "Tue, 10 Feb 2026 16:37:01 +0100",
+      "description": "THOR-modellen setter en ny standard for satellittovervåking, mener forskerne som har utviklet den.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Microsoft: Denne skadevaretypen øker kraftig på Mac-plattformen",
+      "link": "https://www.digi.no/artikler/microsoft-denne-skadevaretypen-oker-kraftig-pa-mac-plattformen/567997",
+      "pubDate": "Tue, 10 Feb 2026 12:00:26 +0100",
+      "description": "Advarer mot stadig flere «stealer»-programmer på plattformen.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "2G redder liv – men fases ut før ny teknologi er klar",
+      "link": "https://www.digi.no/artikler/debatt-det-norske-2g-nettet-redder-fortsatt-liv/567907",
+      "pubDate": "Tue, 10 Feb 2026 09:53:19 +0100",
+      "description": "Utfasingen av 2G-nettet medfører at inntil 700.000 biler på norske veier ikke lenger vil ha automatisk varsling til nærmeste nødsentral.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Nettgigantene i retten i USA",
+      "link": "https://www.digi.no/artikler/nettgigantene-i-retten-i-usa/568063",
+      "pubDate": "Tue, 10 Feb 2026 08:00:22 +0100",
+      "description": "I to rettssaker i USA må nettgiganter svare på anklager om at de skaper avhengighet av sosiale medier og villeder om sikkerhet og risiko for overgrep mot barn.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Dystre jobbtall for IT-bransjen: − Noe som har skjedd i markedet",
+      "link": "https://www.digi.no/artikler/it-torke-flere-arbeidsledige-faerre-jobber/568009",
+      "pubDate": "Tue, 10 Feb 2026 05:00:00 +0100",
+      "description": "Vi må mange år tilbake for å finne så få utlyste IT-stillinger og så mange ledige IT-folk som i januar 2026.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Håner Chat GPT",
+      "link": "https://www.digi.no/artikler/anthropic-haner-chat-gpt-i-super-bowl-reklame-sam-altman-slar-tilbake/567991",
+      "pubDate": "Mon, 09 Feb 2026 14:58:52 +0100",
+      "description": "Open AI-sjefen var ikke begeistret for Anthropics reklamekampanje.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Kampen mellom roboter og ufaglærte i fabrikkene raser",
+      "link": "https://www.digi.no/artikler/kampen-mellom-roboter-og-ufaglaerte-i-fabrikkene-raser/567709",
+      "pubDate": "Mon, 09 Feb 2026 12:58:08 +0100",
+      "description": "Hos Amazon taper den ene parten.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "Når allierte spionerer på hverandre",
+      "link": "https://www.digi.no/artikler/debatt-nar-allierte-spionerer-pa-hverandre/567928",
+      "pubDate": "Mon, 09 Feb 2026 12:56:10 +0100",
+      "description": "E-tjenester demonstrerer en vilje til å gå veldig langt for å hente ut informasjon, inkludert å trenge gjennom tekniske beskyttelsesmekanismer.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] – Telenor-kundene har betalt for Ice- og Telia-nettene",
+      "link": "https://www.digi.no/artikler/telenor-kundene-har-betalt-for-ice-og-telia-nettene/567979",
+      "pubDate": "Mon, 09 Feb 2026 10:06:26 +0100",
+      "description": "Telenor mener Ice-Telia-samarbeidet betyr at det er på tide å oppheve reguleringen av Telenor.",
+      "categories": [],
+      "source": "Digi.no"
+    },
+    {
+      "title": "[Ekstra] Krabbebåtreder har fått kloa i datasenterplaner",
+      "link": "https://www.digi.no/artikler/slik-fikk-et-fiskebatrederi-plass-i-datasenterko/567880",
+      "pubDate": "Mon, 09 Feb 2026 05:00:00 +0100",
+      "description": "Krabbebåtreder John Olav Økland ser store muligheter i datasenterplanene han har fått kloa i.",
+      "categories": [],
+      "source": "Digi.no"
     },
     {
       "title": "For mange nye «AI-eksperter» mangler grunnlag",
@@ -3213,156 +3440,242 @@
       "source": "Digi.no"
     },
     {
-      "title": "[Ekstra] Datasenter og ny industri: Her går mesteparten av overskuddsvarmen tapt",
-      "link": "https://www.digi.no/artikler/datasenter-og-industri-her-gar-mesteparten-av-overskuddsvarmen-tapt/567829",
-      "pubDate": "Fri, 06 Feb 2026 05:00:00 +0100",
-      "description": "Tung trekker fram prosjektet som en «perfekt symbiose» mellom datasenter og ny industri – men kun en brøkdel av overskuddsvarmen gjenbrukes.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Derfor kan iOS-lanseringen skuffe",
+      "link": "https://itavisen.no/2026/02/11/ios-26-4-gemini-siri-utsatt-ios-27/",
+      "pubDate": "Wed, 11 Feb 2026 20:35:16 +0000",
+      "description": "iOS 26.4 blir ikke så AI-oppgradert som vi håpet på. Dette vet vi nå.",
+      "categories": [
+        "Nyheter",
+        "AI",
+        "Apple",
+        "iphone",
+        "Mobil"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Advarer mot en «militarisering av offentlig sektor»",
-      "link": "https://www.digi.no/artikler/krever-full-stans-i-tolletatens-bruk-av-palantir/567883",
-      "pubDate": "Thu, 05 Feb 2026 15:48:06 +0100",
-      "description": "Tolletaten: – Palantir er ikke et overvåkingsselskap, de leverer en programvare.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Se hva de har gjort med spillet",
+      "link": "https://itavisen.no/2026/02/11/no-mans-sky-remnant-6-2-oppdatering/",
+      "pubDate": "Wed, 11 Feb 2026 19:58:43 +0000",
+      "description": "No Man's Sky ble dødsdømt, se hvordan de har snudd det.",
+      "categories": [
+        "Nyheter",
+        "Spill"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Ville tilby SpaceX-alternativ: Nå går det mot konkurs",
-      "link": "https://www.digi.no/artikler/ville-vaere-europeisk-alternativ-til-spacex-na-styrer-rakettfabrikken-mot-konkurs/567781",
-      "pubDate": "Thu, 05 Feb 2026 14:21:13 +0100",
-      "description": "I Danmark skulle de bygge rakettmotorer for å sende satellitter ut i rommet fra Skottland. Nå har den danske avdelingen av Orbex begjært oppbud.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Slik blir din Android bedre i år",
+      "link": "https://itavisen.no/2026/02/11/android-17-beta-1-pixel-ytelse-storskjerm-2026/",
+      "pubDate": "Wed, 11 Feb 2026 18:31:37 +0000",
+      "description": "Android 17 beta 1 er her.",
+      "categories": [
+        "Nyheter",
+        "android",
+        "Mobil"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Gigantinnkjøp gir 20.000 ansatte skyverktøy – nå ryker papiret",
-      "link": "https://www.digi.no/artikler/44-kommuner-har-valgt-journal-na-ryker-skanneren-og-papiret/567613",
-      "pubDate": "Thu, 05 Feb 2026 10:55:25 +0100",
-      "description": "Gigantinnkjøp gir 20.000 ansatte skybasert verktøy. Flere store leverandører gikk tapende ut av konkurransen.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Nå er denne i Norge",
+      "link": "https://itavisen.no/2026/02/11/na-er-denne-i-norge/",
+      "pubDate": "Wed, 11 Feb 2026 14:08:33 +0000",
+      "description": "Dyson har lansert tre nye produkter i Norge.",
+      "categories": [
+        "Nyheter",
+        "dyson",
+        "Maskinvare",
+        "norge"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Norsk sjøfiberkjempe går i land",
-      "link": "https://www.digi.no/artikler/norsk-sjofiberkjempe-gar-i-land/567841",
-      "pubDate": "Thu, 05 Feb 2026 07:34:06 +0100",
-      "description": "Tampnet skal bygge ut bredbånd til raffinerier, lagre og havneanlegg.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Alle advarte Microsoft mot å gjøre det, men de hørte ikke",
+      "link": "https://itavisen.no/2026/02/11/notepad-sikkerhetshull-copilot-8-8/",
+      "pubDate": "Wed, 11 Feb 2026 12:48:43 +0000",
+      "description": "Og derfor er Notepad nå en angrepsvektor som må lappes.",
+      "categories": [
+        "Nyheter",
+        "Microsoft",
+        "sikkerhet",
+        "windows"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Telia kuttet 2G: Flere hundre trygghets­alarmer sluttet å virke",
-      "link": "https://www.digi.no/artikler/telia-kuttet-2g-nettet-i-finnmark-flere-hundre-trygghetsalarmer-sluttet-a-virke/567538",
-      "pubDate": "Thu, 05 Feb 2026 05:00:00 +0100",
-      "description": "Telia måtte skru på 2G-nettet igjen etter ni timer for å sikre liv og helse.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Lanserer AI-trener på iPhone",
+      "link": "https://itavisen.no/2026/02/11/fitbit-ai-helsecoach-iphone/",
+      "pubDate": "Wed, 11 Feb 2026 12:28:26 +0000",
+      "description": "Apple bremser egne planer.",
+      "categories": [
+        "Nyheter",
+        "AI",
+        "Google",
+        "iphone"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Microsoft: Utleverer krypteringsnøkler til FBI: – Svært bekymringsfullt",
-      "link": "https://www.digi.no/artikler/microsoft-utleverer-krypteringsnokler-til-fbi/567826",
-      "pubDate": "Wed, 04 Feb 2026 15:02:01 +0100",
-      "description": "Nå kommer professor med advarsel til danske kunder.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Dette må du vite om den store Windows-endringen",
+      "link": "https://itavisen.no/2026/02/10/windows-secure-boot-oppdatering-sertifikater-2026/",
+      "pubDate": "Tue, 10 Feb 2026 20:36:50 +0000",
+      "description": "Endrer hvordan grunnleggende sikkerhet oppdateres.",
+      "categories": [
+        "Nyheter",
+        "sikkerhet",
+        "windows"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "Nets var nede over hele landet: Betalingsproblemer fikset",
-      "link": "https://www.digi.no/artikler/nets-nede-i-norge-betalingsproblemer-over-hele-landet/567862",
-      "pubDate": "Wed, 04 Feb 2026 14:11:06 +0100",
-      "description": "Kortbetalingsløsningen Nets hadde onsdag trøbbel, noe som førte til betalingsproblemer over hele landet. Nå er feilen rettet.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Denne musa koster 15 000 kroner",
+      "link": "https://itavisen.no/2026/02/10/razer-boomslang-20th-anniversary-edition-pris-specs-limited/",
+      "pubDate": "Tue, 10 Feb 2026 19:42:36 +0000",
+      "description": "Razer Boomslang 20th Anniversary Edition tar helt av på alle måter.",
+      "categories": [
+        "Nyheter",
+        "Maskinvare",
+        "razer"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Lei av KI? Firefox går mot strømmen og gir deg mulighet til å slå KI helt av",
-      "link": "https://www.digi.no/artikler/lei-av-ki-firefox-gar-mot-strommen-og-gir-deg-mulighet-til-a-sla-ki-helt-av/567739",
-      "pubDate": "Wed, 04 Feb 2026 13:15:55 +0100",
-      "description": "Mozilla kunngjorde nye funksjoner til nettleseren.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Overraskende gode iPhone 18-nyheter",
+      "link": "https://itavisen.no/2026/02/10/iphone-18-pro-pris-ingen-prisokning/",
+      "pubDate": "Tue, 10 Feb 2026 18:42:23 +0000",
+      "description": "Det blir trolig ingen prisøkning.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "iphone",
+        "Mobil"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Ansetter mange: Nå skal Forsvaret bruke KI for alvor",
-      "link": "https://www.digi.no/artikler/skal-ansette-mange-for-a-fa-fart-pa-forsvarets-bruk-av-ki/567715",
-      "pubDate": "Wed, 04 Feb 2026 05:00:00 +0100",
-      "description": "Forsvarets nye data- og KI-senter skal bringe kunstig intelligens fra forskning til felt, fra prototyper til ferdig driftede løsninger. Nå skal det vokse.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Spotify nærmer seg 1 milliard",
+      "link": "https://itavisen.no/2026/02/10/spotify-naermer-seg-1-milliard/",
+      "pubDate": "Tue, 10 Feb 2026 18:28:37 +0000",
+      "description": "Ingen klarer å tukte strømme-svenskene.",
+      "categories": [
+        "Nyheter",
+        "spotify"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Nkom: : Ber Telia og Ice om flere opplysninger om mobil-sammenslåing",
-      "link": "https://www.digi.no/artikler/nkom-ber-telia-og-ice-gi-dem-flere-opplysninger-om-mobil-sammenslaing/567787",
-      "pubDate": "Tue, 03 Feb 2026 16:31:20 +0100",
-      "description": "Nkom-sjefen sier at tre nett har vært sentralt i arbeidet med å bedre mobilkonkurransen, og vil følge med på hvordan sammenslåingen kan påvirke den.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "En seriøs Model Y-konkurrent som er perfekt for Norge",
+      "link": "https://itavisen.no/2026/02/10/rivian-r2-forste-tester-rekkevidde-pris/",
+      "pubDate": "Tue, 10 Feb 2026 18:08:15 +0000",
+      "description": "Rivian R2 lanseres i år, og Europa er på menyen.",
+      "categories": [
+        "Nyheter",
+        "Bil",
+        "rivian"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Ekstreme planer:  Musk vil sende ut én million satellitter",
-      "link": "https://www.digi.no/artikler/derfor-vil-elon-musk-sende-en-million-satellitter-ut-i-verdensrommet/567694",
-      "pubDate": "Tue, 03 Feb 2026 16:00:00 +0100",
-      "description": "Vil bygge et nettverk av datasentre i bane rundt jorden.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Slik gikk den iskalde testen – gir håp om utrolig rekkevidde",
+      "link": "https://itavisen.no/2026/02/10/kia-ev2-rekkevidde-vintertest-el-prix/",
+      "pubDate": "Tue, 10 Feb 2026 16:05:45 +0000",
+      "description": "KIA-prototype imponerer.",
+      "categories": [
+        "Nyheter",
+        "Bil",
+        "kia",
+        "norge"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Notepad++ kapret av statssponsede hackere",
-      "link": "https://www.digi.no/artikler/notepad-kapret-av-statssponsede-hackere/567763",
-      "pubDate": "Tue, 03 Feb 2026 14:45:51 +0100",
-      "description": "Brukere ble selektivt omdirigert til skadevare i nesten et halvt år. Sikkerhetseksperter har avdekket en avansert bakdør, som knyttes til Kina.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Du er ikke alene – men altfor få gjør dette etter svindel",
+      "link": "https://itavisen.no/2026/02/10/rapportere-svindel-nkom-norge/",
+      "pubDate": "Tue, 10 Feb 2026 15:45:45 +0000",
+      "description": "For få rapporterer svindel avslører ferske Nkom-tall.",
+      "categories": [
+        "Nyheter",
+        "norge",
+        "personvern",
+        "sikkerhet"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Chat GPT vil ha pasientjournalen din – leger er skeptiske",
-      "link": "https://www.digi.no/artikler/chat-gpt-vil-ha-pasientjournalen-din-leger-er-skeptiske/567492",
-      "pubDate": "Tue, 03 Feb 2026 13:02:30 +0100",
-      "description": "Flere forhold gjør leger skeptiske til den nye satsingen på KI-assistent.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Nå blir Windows-laptoper kjappere enn MacBook",
+      "link": "https://itavisen.no/2026/02/10/snapdragon-x2-elite-slar-apple-m5-windows-arm-tester/",
+      "pubDate": "Tue, 10 Feb 2026 15:19:42 +0000",
+      "description": "Qualcomms nye Snapdragon X2 imponerer.",
+      "categories": [
+        "Nyheter",
+        "arm",
+        "Maskinvare",
+        "windows"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "Exit-strategi: «Apokalypse» for Europa",
-      "link": "https://www.digi.no/artikler/svensk-professor-apokalypse-for-europa-hvis-usa-kobler-ut-teknologien/567772",
-      "pubDate": "Tue, 03 Feb 2026 11:25:34 +0100",
-      "description": "Deler av Europa gjør seg klar til en mulig framtid uten amerikansk teknologi – men full frakobling i dagens situasjon er helt umulig, ifølge professor.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Alle mener Apple bør gjøre det samme",
+      "link": "https://itavisen.no/2026/02/09/xiaomi-magnetisk-powerbank-5000mah-15w-ultratynn/",
+      "pubDate": "Mon, 09 Feb 2026 20:14:11 +0000",
+      "description": "Xiaomi gjør det i stedet med en batteripakke med 5000 mAh.",
+      "categories": [
+        "Nyheter",
+        "Maskinvare",
+        "Mobil",
+        "xiaomi"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Må punge ut med millioner etter hackerangrep",
-      "link": "https://www.digi.no/artikler/ma-punge-ut-med-millioner-etter-hackerangrep/567706",
-      "pubDate": "Tue, 03 Feb 2026 10:41:42 +0100",
-      "description": "Den hackede appen hadde ikke god nok sikkerhet, mener det svenske datatilsynet, og skriver ut en bot på seks millioner.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Snart må du bevise du er gammel nok",
+      "link": "https://itavisen.no/2026/02/09/discord-aldersverifisering-for-alle-strengere-regler/",
+      "pubDate": "Mon, 09 Feb 2026 19:48:09 +0000",
+      "description": "Discord låser ned alt i mars.",
+      "categories": [
+        "Nyheter",
+        "discord",
+        "nettsamfunn",
+        "personvern"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Ice-Telia-samarbeidet: Styrkes eller svekkes robustheten?",
-      "link": "https://www.digi.no/artikler/analyse-ice-telia-samarbeidet-styrkes-eller-svekkes-robustheten/567754",
-      "pubDate": "Tue, 03 Feb 2026 08:00:02 +0100",
-      "description": "Ice-Telia-samarbeidet er ikke uten utfordringer, selv om partene lover både bedre konkurranse og bedre robusthet.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Videoene og bildene dine er lagret på CD-plater som ikke tåler det",
+      "link": "https://itavisen.no/2026/02/09/cd-dvd-holdbarhet-data-feil-disc-rot-backup/",
+      "pubDate": "Mon, 09 Feb 2026 18:25:57 +0000",
+      "description": "Har du fremdeles ikke tatt backup av de gamle CD-platene?",
+      "categories": [
+        "Nyheter",
+        "backup",
+        "cd"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "[Ekstra] Ice og Telia slår sammen mobilnettene",
-      "link": "https://www.digi.no/artikler/ice-og-telia-slar-sammen-mobilnettene/567748",
-      "pubDate": "Tue, 03 Feb 2026 07:19:13 +0100",
-      "description": "Skal dele på basestasjoner, men ha egne kjernenett. Hevder det vil styrke, ikke svekke konkurransen.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Om Apple hadde lagd elbil",
+      "link": "https://itavisen.no/2026/02/09/ferrari-luce-elbil-jony-ive-design/",
+      "pubDate": "Mon, 09 Feb 2026 15:28:37 +0000",
+      "description": "Dette er Ferraris første elbil, og den er designet av Jony Ive.",
+      "categories": [
+        "Nyheter",
+        "Apple",
+        "Bil",
+        "ferrari"
+      ],
+      "source": "ITavisen"
     },
     {
-      "title": "Elon Musk slår sammen SpaceX og xAI før børsnotering",
-      "link": "https://www.digi.no/artikler/elon-musk-slar-sammen-spacex-og-xai-for-borsnotering/567745",
-      "pubDate": "Tue, 03 Feb 2026 07:11:32 +0100",
-      "description": "Romfartsselskap SpaceX har kjøpt opp KI-selskapet xAI. Formålet med sammenslåingen er å opprette rombaserte datasentre.",
-      "categories": [],
-      "source": "Digi.no"
+      "title": "Ikke går glipp av denne Playstation-datoen",
+      "link": "https://itavisen.no/2026/02/09/state-of-play-februar-2026-ps5-spill-sony-event/",
+      "pubDate": "Mon, 09 Feb 2026 14:16:31 +0000",
+      "description": "Dette er spillene vi tror Sony viser frem.",
+      "categories": [
+        "Nyheter",
+        "playstation",
+        "Spill"
+      ],
+      "source": "ITavisen"
     },
     {
       "title": "Nye Xbox blir ulikt alt annet",
@@ -3370,7 +3683,9 @@
       "pubDate": "Sun, 08 Feb 2026 17:17:40 +0000",
       "description": "Microsoft tar Windows-spranget til stua.",
       "categories": [
-        "Nyheter"
+        "Nyheter",
+        "Maskinvare",
+        "xbox"
       ],
       "source": "ITavisen"
     },
@@ -3389,236 +3704,31 @@
       "source": "ITavisen"
     },
     {
-      "title": "Disney+ har fjernet det, også i Norge",
-      "link": "https://itavisen.no/2026/02/07/disney-plus-dolby-vision-norge-fjernet-rettssak/",
-      "pubDate": "Sat, 07 Feb 2026 15:06:16 +0000",
-      "description": "Ingen vet når Dolby Vision kommer tilbake.",
+      "title": "Rapport: Sterk sam­menheng mellom voldtekt og selv­skading blant unge jenter",
+      "link": "https://www.nrk.no/trondelag/rapport_-sterk-sammenheng-mellom-voldtekt-og-selvskading-blant-unge-jenter-1.17764297",
+      "pubDate": "Wed, 11 Feb 2026 13:57:15 GMT",
+      "description": "­",
       "categories": [
-        "Nyheter",
-        "disney",
-        "norge",
-        "strømming"
+        "Voldtekt",
+        "Selvmord",
+        "Helse og livsstil"
       ],
-      "source": "ITavisen"
+      "source": "NRK Teknologi"
     },
     {
-      "title": "Mange vil ønske å gjøre dette med printeren",
-      "link": "https://itavisen.no/2026/02/07/windows-11-fjerner-gamle-skriverdrivere-2026/",
-      "pubDate": "Fri, 06 Feb 2026 23:17:42 +0000",
-      "description": "Årsaken er at Microsoft går bort fra de gamle V3 og V4-driverne.",
+      "title": "Maten vi spiser kan bli mindre sunn i framtida",
+      "link": "https://www.nrk.no/trondelag/klimaendringene-kan-endre-matvanene-vare-_-planter-kan-bli-mindre-naeringsrike-i-framtiden-1.17690220",
+      "pubDate": "Sat, 07 Feb 2026 20:27:38 GMT",
+      "description": "Plantene endrer seg i takt med klimaendringene. Dette kan føre til mer innhold av sukker og mindre protein.",
       "categories": [
-        "Nyheter",
-        "Maskinvare",
-        "printer",
-        "windows"
+        "Mat og kosthold",
+        "Helse",
+        "Forskning og vitenskap",
+        "Matsikkerhet",
+        "Klima og miljø",
+        "Helse og livsstil"
       ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Superhelt-action møter brutal soulslike",
-      "link": "https://itavisen.no/2026/02/06/my-hero-academia-alls-justice-code-vein-2-testet-anime-spill/",
-      "pubDate": "Fri, 06 Feb 2026 22:50:40 +0000",
-      "description": "My Hero Academia: All’s Justice og Code Vein II er begge anime, men helt ulike spill.",
-      "categories": [
-        "Nyheter",
-        "itavisengaming",
-        "Spill"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Apple åpner opp for alle i CarPlay",
-      "link": "https://itavisen.no/2026/02/06/apple-carplay-ai-chatgpt-gemini-eksterne-assistenter/",
-      "pubDate": "Fri, 06 Feb 2026 21:47:06 +0000",
-      "description": "Apple CarPlay får støtte for ChatGPT, Gemini og flere.",
-      "categories": [
-        "Nyheter",
-        "Apple",
-        "Bil"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "YouTube har gjort endringen ingen liker",
-      "link": "https://itavisen.no/2026/02/06/youtube-fjerner-sortere-etter-dato-nyeste-forst-sok/",
-      "pubDate": "Fri, 06 Feb 2026 19:49:10 +0000",
-      "description": "Nå kan du ikke lenger sortere videoer etter opplastingsdato.",
-      "categories": [
-        "Nyheter",
-        "youtube"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "«De stjal VPN-serveren vår»",
-      "link": "https://itavisen.no/2026/02/06/vpn-sikkerhet-windscribe-politi-beslag-server/",
-      "pubDate": "Fri, 06 Feb 2026 17:30:45 +0000",
-      "description": "Windscribe sier politiet ikke finner noe.",
-      "categories": [
-        "Nyheter",
-        "personvern",
-        "sikkerhet",
-        "vpn"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Tjener milliarder på PC og Xbox",
-      "link": "https://itavisen.no/2026/02/06/sony-playstation-pc-xbox-spill-salg-25-milliarder/",
-      "pubDate": "Fri, 06 Feb 2026 15:47:48 +0000",
-      "description": "Sonys inntog hos konkurrentene lønner seg.",
-      "categories": [
-        "Nyheter",
-        "playstation",
-        "sony",
-        "Spill"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "iPhone 18 Pro Max kan få ekstrem batteritid",
-      "link": "https://itavisen.no/2026/02/06/iphone-18-pro-max-batteritid-storre-batteri-2nm/",
-      "pubDate": "Fri, 06 Feb 2026 14:24:07 +0000",
-      "description": "Større batteri og ny 2 nm-brikke.",
-      "categories": [
-        "Nyheter",
-        "iphone",
-        "Mobil"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Derfor virker GTA 6-lanseringen spikret",
-      "link": "https://itavisen.no/2026/02/06/gta-6-lansering-markedsforing-take-two/",
-      "pubDate": "Fri, 06 Feb 2026 13:17:10 +0000",
-      "description": "Take-Two-sjefen bekrefter at markedsføringen starter i sommer.",
-      "categories": [
-        "Nyheter",
-        "gta",
-        "Spill"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Forskjellen er natt og dag",
-      "link": "https://itavisen.no/2026/02/06/windows-hdr-spill-renodx-mitt-valg-bedre-hdr/",
-      "pubDate": "Fri, 06 Feb 2026 12:48:20 +0000",
-      "description": "Få spillene til å skinne i Windows 11.",
-      "categories": [
-        "Nyheter",
-        "hdr",
-        "Spill",
-        "Tips",
-        "windows"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Rekker han det?",
-      "link": "https://itavisen.no/2026/02/06/intel-gpu-satsing-utfordrer-nvidia-ai/",
-      "pubDate": "Fri, 06 Feb 2026 05:01:46 +0000",
-      "description": "Intel endrer kurs: skal lage GPU-brikker.",
-      "categories": [
-        "Nyheter",
-        "intel"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Den nye Windows 11-funksjonen er avslørt",
-      "link": "https://itavisen.no/2026/02/06/windows-11-shared-audio-del-lyd-to-hodetelefoner/",
-      "pubDate": "Fri, 06 Feb 2026 04:40:23 +0000",
-      "description": "Windows 11 lar deg dele lyd med to hodetelefoner samtidig.",
-      "categories": [
-        "Nyheter",
-        "windows"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Microsoft ansetter kvalitetssjef",
-      "link": "https://itavisen.no/2026/02/06/microsoft-ny-kvalitetssjef-charlie-bell/",
-      "pubDate": "Fri, 06 Feb 2026 04:24:37 +0000",
-      "description": "Dette er mannen som skal redde Windows.",
-      "categories": [
-        "Nyheter",
-        "Microsoft",
-        "windows"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Kan bli årets råeste SUV",
-      "link": "https://itavisen.no/2026/02/06/xpeng-gx-arets-raeste-suv/",
-      "pubDate": "Fri, 06 Feb 2026 04:05:01 +0000",
-      "description": "Styring som \"Cybertruck\" - opptil 1000 km rekkevidde.",
-      "categories": [
-        "Nyheter",
-        "Bil",
-        "xpeng"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Tør du slette karakteren? Da får du belønninger",
-      "link": "https://itavisen.no/2026/02/05/arc-raiders-wipe-sletter-karakter-expedition/",
-      "pubDate": "Thu, 05 Feb 2026 19:59:39 +0000",
-      "description": "Blir du med på omstart, får du fetere belønninger i \"Arc Raiders.\"",
-      "categories": [
-        "Nyheter",
-        "Spill"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "«Apple prøvde å stoppe meg»",
-      "link": "https://itavisen.no/2026/02/05/airtag-2-teardown-ifixit-hoyttaler-deaktiveres/",
-      "pubDate": "Thu, 05 Feb 2026 19:19:47 +0000",
-      "description": "Apple sin oppdaterte AirTag er bare litt er tuklesikker.",
-      "categories": [
-        "Nyheter",
-        "Apple",
-        "iFixit"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Apple var allerede overlegne, nå slår de alle igjen",
-      "link": "https://itavisen.no/2026/02/05/ipad-salg-2025-vekst/",
-      "pubDate": "Thu, 05 Feb 2026 18:59:14 +0000",
-      "description": "iPad øker, resten fallr fra nettbrettmarkedet.",
-      "categories": [
-        "Nyheter",
-        "Apple",
-        "ipad",
-        "Maskinvare"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Alle vil elske det, Apple vil hate det",
-      "link": "https://itavisen.no/2026/02/05/android-airdrop-stotte-quick-share-alle-mobiler/",
-      "pubDate": "Thu, 05 Feb 2026 18:21:30 +0000",
-      "description": "Android utvider Quick Share iPhone-støtte til \"alle Androids.\"",
-      "categories": [
-        "Nyheter",
-        "android",
-        "iphone",
-        "Mobil"
-      ],
-      "source": "ITavisen"
-    },
-    {
-      "title": "Det er ingen tvil: iPhone 17 Pro Max er best",
-      "link": "https://itavisen.no/2026/02/05/iphone-17-pro-max-best-batteritid-test/",
-      "pubDate": "Thu, 05 Feb 2026 15:17:31 +0000",
-      "description": "Slår alle i stor batteritest.",
-      "categories": [
-        "Nyheter",
-        "iphone",
-        "Mobil"
-      ],
-      "source": "ITavisen"
+      "source": "NRK Teknologi"
     },
     {
       "title": "Fann bane­brytande metode for å avdekke aggressiv kreftform",
@@ -3876,26 +3986,6 @@
         "Skole og utdanning",
         "Barn/unge",
         "Fysikk, kjemi og matematikk"
-      ],
-      "source": "NRK Teknologi"
-    },
-    {
-      "title": "Vennskap før første blikk",
-      "link": "https://www.nrk.no/trondelag/xl/fremmede-med-lik-hjerne_frekvens-er-skjebne_bestemt-til-a-bli-venner-1.17652211",
-      "pubDate": "Thu, 11 Dec 2025 08:36:25 GMT",
-      "description": "Hjernen kan avsløre hvem du kommer til å bli venn med – lenge før du blir kjent med dem!",
-      "categories": [],
-      "source": "NRK Teknologi"
-    },
-    {
-      "title": "Derfor gjer vaksenkjeft så vondt",
-      "link": "https://www.nrk.no/trondelag/kvifor-toler-vi-vaksenkjeft-sa-darleg_-1.17669831",
-      "pubDate": "Wed, 10 Dec 2025 19:05:04 GMT",
-      "description": "­",
-      "categories": [
-        "Konstruktiv",
-        "Norge",
-        "Samfunn"
       ],
       "source": "NRK Teknologi"
     },

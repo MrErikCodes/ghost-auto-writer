@@ -31,13 +31,18 @@ program
   .option('-c, --count <number>', 'Number of articles to generate', '1')
   .option('-d, --dryrun', 'Generate without posting to Ghost')
   .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--bypass-duplicates', 'Skip duplicate checking (allow regenerating same topics)')
   .action(async (options) => {
     const count = parseInt(options.count);
     const dryRun = !!options.dryrun;
     const autoPost = !!options.autopost;
+    const bypassDuplicates = !!options.bypassDuplicates;
 
     console.log(`\n🚀 Starting blog generator for ${config.siteName}`);
     console.log(`📝 Generating ${count} article(s)...`);
+    if (bypassDuplicates) {
+      console.log(`⚠ BYPASS DUPLICATES - duplicate checking disabled\n`);
+    }
     if (dryRun) {
       console.log(`🔸 DRY RUN MODE - will not post to Ghost\n`);
     } else if (autoPost) {
@@ -67,7 +72,7 @@ program
         console.log(`📂 Category: ${category}`);
 
         // Get topic for this category
-        const topicInfo = await getNextTopic(category);
+        const topicInfo = await getNextTopic(category, { bypassDuplicates });
         console.log(`💡 Topic: ${topicInfo.topic || topicInfo.title || topicInfo.query || 'Auto-generated'}`);
 
         // Generate article
@@ -261,10 +266,12 @@ program
   .option('-c, --count <number>', 'Number of articles to generate', '5')
   .option('-a, --autopost', 'Publish immediately instead of draft')
   .option('--no-batch', 'Force real-time generation even for 10+ articles')
+  .option('--bypass-duplicates', 'Skip duplicate checking (allow regenerating same topics)')
   .action(async (options) => {
     const count = parseInt(options.count);
     const autoPost = !!options.autopost;
     const useBatch = options.batch !== false && count >= 10;
+    const bypassDuplicates = !!options.bypassDuplicates;
 
     console.log('\n🚀 SMART GENERATE MODE');
     console.log('='.repeat(40));
@@ -273,11 +280,16 @@ program
     } else {
       console.log(`⚡ REAL-TIME MODE - ${count} articles`);
     }
+    if (bypassDuplicates) {
+      console.log(`⚠ BYPASS DUPLICATES - duplicate checking disabled`);
+    }
     console.log('');
 
     // Step 1: Load previously generated topics to avoid duplicates
-    let previousTopics = await loadGeneratedTopics();
-    console.log(`📚 Found ${previousTopics.length} previously generated articles\n`);
+    let previousTopics = bypassDuplicates ? [] : await loadGeneratedTopics();
+    if (!bypassDuplicates) {
+      console.log(`📚 Found ${previousTopics.length} previously generated articles\n`);
+    }
 
     // Step 2: Collect unique ideas - keep generating until we have enough
     let uniqueIdeas = [];
@@ -289,15 +301,15 @@ program
       attempts++;
       const neededCount = count - uniqueIdeas.length;
 
-      console.log(`\n🔄 Research round ${attempts}: Looking for ${neededCount} unique ideas...\n`);
+      console.log(`\n🔄 Research round ${attempts}: Looking for ${neededCount}${bypassDuplicates ? '' : ' unique'} ideas...\n`);
 
       // Request extra ideas to account for potential duplicates
       // On later rounds, ask for even more ideas since we know there are many duplicates
-      const multiplier = attempts === 1 ? 2 : 3;
-      const requestCount = Math.max(neededCount * multiplier, 15);
+      const multiplier = bypassDuplicates ? 1 : (attempts === 1 ? 2 : 3);
+      const requestCount = bypassDuplicates ? neededCount : Math.max(neededCount * multiplier, 15);
 
       // Combine previousTopics + rejectedIdeas so the AI knows what to avoid
-      const allToAvoid = [
+      const allToAvoid = bypassDuplicates ? [] : [
         ...previousTopics,
         ...rejectedIdeas.map(title => ({ title, topic: title }))
       ];
@@ -313,21 +325,27 @@ program
         printResearchResults(research);
       }
 
-      // Filter out duplicates (against both previous topics AND ideas we already collected)
-      const allExisting = [...previousTopics, ...uniqueIdeas.map(i => ({ title: i.title, query: i.primaryKeyword, topic: i.title }))];
-      const { unique: newUniqueIdeas, rejected } = filterUniqueIdeas(research.articleIdeas, allExisting);
+      if (bypassDuplicates) {
+        // Skip duplicate filtering entirely
+        uniqueIdeas = [...uniqueIdeas, ...research.articleIdeas];
+        console.log(`✅ Got ${research.articleIdeas.length} ideas this round (duplicate check bypassed)`);
+      } else {
+        // Filter out duplicates (against both previous topics AND ideas we already collected)
+        const allExisting = [...previousTopics, ...uniqueIdeas.map(i => ({ title: i.title, query: i.primaryKeyword, topic: i.title }))];
+        const { unique: newUniqueIdeas, rejected } = filterUniqueIdeas(research.articleIdeas, allExisting);
 
-      // Track rejected ideas so AI won't suggest them again
-      rejectedIdeas = [...rejectedIdeas, ...rejected.map(r => r.title)];
+        // Track rejected ideas so AI won't suggest them again
+        rejectedIdeas = [...rejectedIdeas, ...rejected.map(r => r.title)];
 
-      console.log(`✅ Found ${newUniqueIdeas.length} new unique ideas this round`);
+        console.log(`✅ Found ${newUniqueIdeas.length} new unique ideas this round`);
 
-      // Add new unique ideas to our collection
-      uniqueIdeas = [...uniqueIdeas, ...newUniqueIdeas];
+        // Add new unique ideas to our collection
+        uniqueIdeas = [...uniqueIdeas, ...newUniqueIdeas];
+      }
 
       // If we got some ideas but not enough, we'll loop again
       if (uniqueIdeas.length < count && attempts < maxAttempts) {
-        console.log(`📊 Total unique ideas so far: ${uniqueIdeas.length}/${count} - generating more...`);
+        console.log(`📊 Total ideas so far: ${uniqueIdeas.length}/${count} - generating more...`);
       }
     }
 

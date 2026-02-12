@@ -1,0 +1,12 @@
+{
+  "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+  "fileId": "file-FSdhyrdGBac4wFWai66rP6",
+  "createdAt": "2026-02-12T11:04:48.573Z",
+  "status": "validating",
+  "metadata": {
+    "timestamp": "1770894286403",
+    "articleCount": "164",
+    "autoPost": "false",
+    "mappingFile": "data\\batches\\batch-1770894286403-mapping.json"
+  }
+}

@@ -6,8 +6,8 @@ import { getNextStore, getNextTopicIndex } from './category-rotator.js';
 import { loadGeneratedTopics } from './generated-topics.js';
 
 // Get the next topic based on category
-export async function getNextTopic(category) {
-  const generatedTopics = await loadGeneratedTopics();
+export async function getNextTopic(category, options = {}) {
+  const generatedTopics = options.bypassDuplicates ? [] : await loadGeneratedTopics();
 
   switch (category) {
     case 'trending':
