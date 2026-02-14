@@ -17,6 +17,7 @@ import {
   loadTopicMapping,
   cancelBatch
 } from './batch-writer.js';
+import { parseIdeasFile, ideasToTopics } from './ideas-parser.js';
 
 const program = new Command();
 
@@ -538,6 +539,131 @@ program
   .argument('<batchId>', 'Batch ID to cancel')
   .action(async (batchId) => {
     await cancelBatch(batchId);
+  });
+
+// ============================================
+// FROM-FILE COMMAND (custom ideas)
+// ============================================
+
+program
+  .command('from-file')
+  .description('Generate articles from a custom ideas file (skips research agent)')
+  .argument('<file>', 'Path to ideas file (e.g. ideas.txt)')
+  .option('-c, --count <number>', 'Number of ideas to generate (default: all)')
+  .option('--start <number>', 'Start from idea N (1-based)', '1')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('-d, --dryrun', 'Generate without posting to Ghost')
+  .option('--no-batch', 'Force real-time generation even for 10+ articles')
+  .action(async (file, options) => {
+    const start = parseInt(options.start) - 1; // Convert to 0-based
+    const autoPost = !!options.autopost;
+    const dryRun = !!options.dryrun;
+
+    console.log('\n📄 FROM-FILE MODE');
+    console.log('='.repeat(40));
+    console.log(`File: ${file}\n`);
+
+    // Parse ideas file
+    let ideas;
+    try {
+      ideas = parseIdeasFile(file);
+    } catch (error) {
+      console.error(`❌ ${error.message}`);
+      process.exit(1);
+    }
+
+    console.log(`📋 Parsed ${ideas.length} ideas from file`);
+
+    // Apply start offset
+    if (start > 0) {
+      ideas = ideas.slice(start);
+      console.log(`⏩ Starting from idea ${start + 1}`);
+    }
+
+    // Apply count limit
+    if (options.count) {
+      const count = parseInt(options.count);
+      ideas = ideas.slice(0, count);
+    }
+
+    if (ideas.length === 0) {
+      console.log('❌ No ideas to generate after applying filters.\n');
+      return;
+    }
+
+    // Show what will be generated
+    console.log(`\n🎯 Generating ${ideas.length} article(s):\n`);
+    ideas.forEach((idea, i) => {
+      console.log(`  ${i + 1}. [${idea.category}] ${idea.title}`);
+      console.log(`     Keyword: ${idea.keyword}`);
+    });
+    console.log('');
+
+    // Convert to topics
+    const topics = ideasToTopics(ideas);
+
+    const useBatch = options.batch !== false && topics.length >= 10;
+
+    if (dryRun) {
+      console.log('🔸 DRY RUN - would generate these articles but not posting.\n');
+      return;
+    }
+
+    // ========================================
+    // BATCH MODE (10+ articles, 50% discount)
+    // ========================================
+    if (useBatch) {
+      console.log('📦 Using OpenAI Batch API (50% discount, results within 24h)...\n');
+      await startBatchGeneration(topics, autoPost);
+      return;
+    }
+
+    // ========================================
+    // REAL-TIME MODE (< 10 articles)
+    // ========================================
+    console.log(`⚡ Real-time generation for ${topics.length} article(s)...\n`);
+
+    // Test Ghost connection
+    const connected = await testConnection();
+    if (!connected) {
+      console.error('❌ Could not connect to Ghost.');
+      return;
+    }
+
+    let successCount = 0;
+
+    for (let i = 0; i < topics.length; i++) {
+      const topicInfo = topics[i];
+      console.log(`\n--- Article ${i + 1}/${topics.length} ---`);
+      console.log(`Topic: ${topicInfo.topic}`);
+      console.log(`Keyword: ${topicInfo.query}`);
+
+      try {
+        const article = await generateArticle(topicInfo.category, topicInfo);
+
+        const post = await createPost(article, autoPost);
+        const status = autoPost ? '🌐 Published' : '📋 Draft saved';
+        console.log(`${status}: ${post.title}`);
+
+        await saveGeneratedTopic({
+          ...topicInfo,
+          title: article.title,
+          ghostPostId: post.id
+        });
+
+        successCount++;
+
+        if (i < topics.length - 1) {
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+      } catch (error) {
+        console.error(`❌ Failed: ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`✅ From-File Complete: ${successCount}/${topics.length} articles`);
+    console.log('='.repeat(40) + '\n');
   });
 
 // Filter out ideas that are similar to already-generated content
