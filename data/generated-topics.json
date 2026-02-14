@@ -1914,5 +1914,2626 @@
     "ghostPostId": "698db0a275721e04d720ec2c",
     "batchId": "batch_6988c93fd3988190a89c624d22c7e078",
     "generatedAt": "2026-02-12T10:51:15.041Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Hva er en kvittering – og hva må den inneholde i Norge?",
+    "query": "kvittering",
+    "keywords": [
+      "kvittering krav",
+      "hva er kvittering",
+      "kvittering innhold",
+      "dokumentasjon kjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Svært høye visninger på «kvittering» (2116) men nesten ingen klikk – stor CTR-forbedring mulig med bedre tittel/featured snippet-struktur.",
+    "title": "Kvittering i Norge: Hva er en kvittering – og hva må den inneholde?",
+    "ghostPostId": "6990720675721e04d720ec32",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:55.126Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "E-kvittering: Slik fungerer det, og slik finner du dem igjen",
+    "query": "e-kvittering",
+    "keywords": [
+      "e kvittering",
+      "digital kvittering",
+      "elektronisk kvittering",
+      "hvor finner jeg e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«e-kvittering» har lav CTR (236 visninger / 1 klikk) til tross for posisjon ~1 – trolig mismatch i innholdsvinkel/metabeskrivelse.",
+    "title": "E-kvittering: Slik fungerer det – og slik finner du dem igjen (uten å lete i 10 systemer)",
+    "ghostPostId": "6990720775721e04d720ec38",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:55.437Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitering eller kvittering? Vanlige stavefeil – og hvordan du fortsatt finner riktig info",
+    "query": "kvitering",
+    "keywords": [
+      "kvitering",
+      "kvittering",
+      "kvittering stavefeil",
+      "kvittering søk"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«kvitering» har 332 visninger og 0 klikk – enkel artikkel kan fange opp stavefeil-traffic og sende videre til hovedguider.",
+    "title": "Kvitering eller kvittering? Vanlige stavefeil – og slik finner du riktig kvittering uansett",
+    "ghostPostId": "6990720775721e04d720ec3e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:55.772Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Slik samler du kvitteringer lagret på ett sted (og hvorfor det gjør reklamasjon enklere)",
+    "query": "kvitteringer lagret på ett sted",
+    "keywords": [
+      "samle kvitteringer",
+      "kvitteringer ett sted",
+      "digital kvitteringsmappe",
+      "kvitteringsarkiv privat"
+    ],
+    "dataSource": "search-console",
+    "rationale": "0 klikk på 220 visninger indikerer at brukerne ikke finner en god landing – dette matcher tjenestebudskapet direkte.",
+    "title": "Slik får du kvitteringer lagret på ett sted (og gjør reklamasjon mye enklere)",
+    "ghostPostId": "6990720775721e04d720ec44",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:56.012Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Digital kvittering i fysisk butikk: Hva kan du kreve – og hva bør du gjøre i kassen?",
+    "query": "fysisk butikk digital kvittering",
+    "keywords": [
+      "digital kvittering butikk",
+      "e kvittering i butikk",
+      "kvittering på epost",
+      "kvittering sms"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Søket har 217 visninger og 0 klikk med posisjon ~1.1 – stor mulighet ved å svare presist på «hva gjør jeg i butikk»-intent.",
+    "title": "Digital kvittering i fysisk butikk: Hva kan du kreve – og hva bør du gjøre i kassen?",
+    "ghostPostId": "6990720875721e04d720ec4a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:56.255Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti iPhone: Slik dokumenterer du kjøp og får service (også om kvitteringen mangler)",
+    "query": "garanti iphone",
+    "keywords": [
+      "iphone garanti",
+      "apple garanti kvittering",
+      "service iphone uten kvittering",
+      "dokumentasjon apple kjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«garanti iphone» (350 visninger) og relaterte iPhone-garanti-søk er tydelig tema i dataene; høy kjøpsverdi og sterk intent.",
+    "title": "Garanti iPhone: Slik dokumenterer du kjøp og får service – også uten kvittering",
+    "ghostPostId": "6990720875721e04d720ec50",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:56.507Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando faktura: Hvor finner du den – og hva bruker du den til ved retur og reklamasjon?",
+    "query": "zalando faktura",
+    "keywords": [
+      "zalando invoice",
+      "zalando ordre",
+      "zalando kvittering",
+      "faktura ved retur"
+    ],
+    "dataSource": "search-console",
+    "rationale": "349 visninger og høy posisjon ~1.45 – optimaliser med bedre struktur (FAQ/HowTo) for å øke klikk og vinne utdrag.",
+    "title": "Zalando faktura: Hvor finner du den – og hva bruker du den til ved retur og reklamasjon?",
+    "ghostPostId": "6990720875721e04d720ec56",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:56.793Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando reklamasjon: Dine rettigheter, frister og hvilken dokumentasjon du trenger",
+    "query": "zalando reklamasjon",
+    "keywords": [
+      "reklamasjon zalando",
+      "zalando klage",
+      "defekt vare zalando",
+      "dokumentasjon reklamasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "435 visninger – stor etterspørsel. Kombiner rettigheter + praktisk «slik gjør du»-steg for bedre CTR.",
+    "title": "Zalando reklamasjon: Dine rettigheter, frister og dokumentasjon du trenger (2026)",
+    "ghostPostId": "6990720875721e04d720ec5c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:57.052Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp Mine ordre: Slik finner du kvittering, ordrehistorikk og garantibevis",
+    "query": "elkjøp mine ordre",
+    "keywords": [
+      "elkjøp kvittering",
+      "elkjøp ordrehistorikk",
+      "elkjøp garanti",
+      "elkjøp min side"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Ekstremt sterk kommersiell intent. Data viser høy interesse for Elkjøp-relaterte søk (inkl. «elkjøp min side» i temaliste).",
+    "title": "Elkjøp Mine ordre: Slik finner du kvittering, ordrehistorikk og garantibevis",
+    "ghostPostId": "6990720975721e04d720ec62",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:57.343Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Hva betyr «største plattform for digitale kvitteringer» – og hva bør du sjekke før du velger løsning?",
+    "query": "største plattform for digitale kvitteringer",
+    "keywords": [
+      "plattform digitale kvitteringer",
+      "kvitteringsapp",
+      "digital kvitteringsløsning",
+      "beste kvitteringsapp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "216 visninger og lav CTR – informasjonsintensjon som kan besvares med sammenligningskriterier og tydelig definisjon.",
+    "title": "Hva betyr «største plattform for digitale kvitteringer» – og hva bør du sjekke før du velger løsning?",
+    "ghostPostId": "6990720975721e04d720ec68",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:57.602Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitteringer: Hvor lenge bør du ta vare på dem (privat og ved garanti)?",
+    "query": "kvitteringer",
+    "keywords": [
+      "hvor lenge spare kvittering",
+      "kvittering oppbevaring",
+      "garanti dokumentasjon",
+      "reklamasjon kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«kvitteringer» har mange visninger (522) men posisjon ~7.2. Ny, spisset artikkel kan løfte rangering (posisjon 5–20-mulighet).",
+    "title": "Kvitteringer: Hvor lenge bør du ta vare på dem (privat og ved garanti)?",
+    "ghostPostId": "6990720975721e04d720ec6e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:57.863Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp kvittering: Slik finner du kjøpsbevis for retur, reklamasjon og forsikring",
+    "query": "elkjøp kvittering",
+    "keywords": [
+      "elkjøp min side",
+      "elkjøp mine ordre",
+      "finne kvittering elkjøp",
+      "garanti elkjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«elkjøp kvittering» er blant best-performende og kan utvides til komplett guide for å dominere temaet.",
+    "title": "Elkjøp kvittering: Slik finner du kjøpsbevis for retur, reklamasjon og forsikring",
+    "ghostPostId": "6990720975721e04d720ec74",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:58.095Z"
+  },
+  {
+    "category": "business",
+    "topic": "Mistet kvittering til regnskap: Hva kan du bruke i stedet (bankutskrift, ordrebekreftelse, epost)?",
+    "query": "mistet kvittering regnskap",
+    "keywords": [
+      "manglende kvittering regnskap",
+      "dokumentasjon uten kvittering",
+      "bilag uten kvittering",
+      "bokføring alternativ dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Temaet finnes i data (18 visninger) og matcher tjenestens verdi. Potensial for long-tail og internlenking til kvitteringslagring.",
+    "title": "Mistet kvittering til regnskapet? Dette kan du bruke i stedet (og hva som faktisk gjelder i 2026)",
+    "ghostPostId": "6990720a75721e04d720ec7a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:58.344Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "POWER kvittering: Slik finner du MyPower-kjøp og dokumentasjon for garanti",
+    "query": "mypower kvittering",
+    "keywords": [
+      "power kvittering",
+      "mypower ordre",
+      "power garanti",
+      "finne kvittering power"
+    ],
+    "dataSource": "search-console",
+    "rationale": "POWER er en tydelig butikk-klynge i temadata; vi kan bygge flere butikksider (fungerer allerede svært bra for Clas Ohlson).",
+    "title": "POWER kvittering: Slik finner du MyPower-kjøp og dokumentasjon for garanti",
+    "ghostPostId": "6990720a75721e04d720ec80",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:58.632Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Komplett kvittering: Hvor finner du ordrehistorikk og faktura for elektronikk?",
+    "query": "komplett kvittering",
+    "keywords": [
+      "komplett faktura",
+      "komplett ordrehistorikk",
+      "kvittering komplett no",
+      "garanti komplett"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Butikk-klynge med etterspørsel (61 visninger) og høy relevans for garanti/retur-intent.",
+    "title": "Komplett kvittering: Hvor finner du ordrehistorikk og faktura for elektronikk?",
+    "ghostPostId": "6990720a75721e04d720ec86",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:58.869Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "XXL kvittering: Slik finner du kjøp ved bytte, retur og reklamasjon",
+    "query": "kvittering xxl",
+    "keywords": [
+      "xxl ordrehistorikk",
+      "xxl retur uten kvittering",
+      "xxl bytte",
+      "xxl reklamasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lavere volum (71), men god long-tail og lett å produsere i samme mal som butikkguidene som fungerer.",
+    "title": "XXL kvittering: Slik finner du kjøp ved bytte, retur og reklamasjon",
+    "ghostPostId": "6990720a75721e04d720ec8c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:59.156Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "JYSK kvittering: Tips for å finne kjøpsbevis hvis du skal bytte eller reklamere",
+    "query": "jysk kvittering",
+    "keywords": [
+      "jysk retur",
+      "jysk reklamasjon",
+      "miste kvittering jysk",
+      "digital kvittering jysk"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Butikk-klynge eksisterer (23 visninger). Kan gi bred dekning og fange voksende long-tail.",
+    "title": "JYSK kvittering: Slik finner du kjøpsbevis ved retur eller reklamasjon",
+    "ghostPostId": "6990720b75721e04d720ec92",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:59.452Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Bohus reklamasjon: Hva trenger du av dokumentasjon – og hva gjør du hvis kvitteringen er borte?",
+    "query": "bohus reklamasjon",
+    "keywords": [
+      "reklamasjon bohus",
+      "garanti bohus",
+      "møbler reklamasjon",
+      "kjøpsbevis bohus"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Problem-klynge «reklamasjon» og butikk-klynge «bohus» finnes; høy relevans for kvitteringslagring.",
+    "title": "Bohus reklamasjon: Hva trenger du av dokumentasjon – og hva gjør du hvis kvitteringen er borte?",
+    "ghostPostId": "6990720b75721e04d720ec98",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:59.689Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Skeidar reklamasjon: Frister, fremgangsmåte og dokumentasjon",
+    "query": "skeidar reklamasjon",
+    "keywords": [
+      "reklamasjon skeidar",
+      "garanti skeidar",
+      "kjøpsbevis skeidar",
+      "møbel reklamasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lavt volum (17), men enkel å dekke for komplett «møbel»-klynge og internlenking.",
+    "title": "Skeidar reklamasjon: Frister, fremgangsmåte og dokumentasjon (2026-guide)",
+    "ghostPostId": "6990720b75721e04d720ec9e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:00:59.947Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på mobiltelefon: Hva gjelder i Norge, og hva trenger du av kvittering?",
+    "query": "garanti mobiltelefon",
+    "keywords": [
+      "garanti på mobiltelefon",
+      "reklamasjon mobil",
+      "service uten kvittering",
+      "kjøpsbevis mobil"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Mobil/garanti er en sterk produktklynge i dataene. Kan fange flere varianter (garanti mobiltelefon, garanti på mobiltelefon).",
+    "title": "Garanti på mobiltelefon i Norge: Hva gjelder, og hvilken kvittering trenger du?",
+    "ghostPostId": "6990720c75721e04d720eca4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:00.171Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti hvitevarer: Dokumentasjon, frister og hva du gjør om kvitteringen har falmet",
+    "query": "garanti hvitevarer",
+    "keywords": [
+      "reklamasjon hvitevarer",
+      "service hvitevarer",
+      "kvittering falmet",
+      "kjøpsbevis hvitevarer"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tema finnes i garanti-klyngen (233 visninger). Høy verdi og typisk «kvittering forsvunnet»-case.",
+    "title": "Garanti på hvitevarer: Dokumentasjon, frister og hva du gjør når kvitteringen har falmet",
+    "ghostPostId": "6990720c75721e04d720ecaa",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:00.403Z"
+  },
+  {
+    "category": "business",
+    "topic": "Kvittering fra privatperson til firma: Hva må stå på bilaget?",
+    "query": "kvittering fra privatperson til firma",
+    "keywords": [
+      "bilag privatperson firma",
+      "dokumentasjon kjøp privatperson",
+      "regnskap bilag",
+      "mva privatperson"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Klar business-intent og relevant for «kvitteringsarkiv»-posisjonering.",
+    "title": "Kvittering fra privatperson til firma: Hva må stå på bilaget (og hvordan du dokumenterer kjøpet riktig)",
+    "ghostPostId": "6990720c75721e04d720ecb0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:00.638Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Translate og kvitteringer: Slik oversetter du utenlandske kvitteringer til reklamasjon og forsikring",
+    "query": "oversette kvittering",
+    "keywords": [
+      "translate kvittering",
+      "utenlandsk kvittering",
+      "engelsk kvittering",
+      "dokumentasjon reise"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«translate» trender i dag. Kobling: folk trenger oversettelse av kvitteringer ved refusjon/garanti/forsikring.",
+    "title": "Translate og kvitteringer: Slik kan du oversette utenlandske kvitteringer til reklamasjon og forsikring",
+    "ghostPostId": "6990720c75721e04d720ecb6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:00.859Z"
+  },
+  {
+    "category": "trending",
+    "topic": "DNB og kvitteringer: Slik matcher du banktransaksjon mot kvittering når du mangler bilag",
+    "query": "banktransaksjon som dokumentasjon",
+    "keywords": [
+      "dnb transaksjon kvittering",
+      "bankutskrift kvittering",
+      "mangler kvittering",
+      "dokumentasjon kjøp"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«dnb» trender. Bruk dette som krok inn til «alternativ dokumentasjon» og hvordan lagre kvitteringer.",
+    "title": "DNB og kvitteringer: Slik matcher du banktransaksjon mot kvittering når du mangler bilag",
+    "ghostPostId": "6990720c75721e04d720ecbc",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:01.105Z"
+  },
+  {
+    "category": "trending",
+    "topic": "ChatGPT for kvitteringer: Slik kan du kategorisere kjøp og finne garantiinfo raskere",
+    "query": "chatgpt kvitteringer",
+    "keywords": [
+      "ai kvittering",
+      "kategorisere kvitteringer",
+      "finne garanti med ai",
+      "kvitteringsarkiv ai"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«chatgpt» trender. Relevans: AI for tolkning/organisering av kvitteringsdata.",
+    "title": "ChatGPT for kvitteringer: Slik kan du kategorisere kjøp og finne garantiinfo raskere",
+    "ghostPostId": "6990720d75721e04d720ecc2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:01.350Z"
+  },
+  {
+    "category": "trending",
+    "topic": "OL på TV og kjøpsbevis: Slik dokumenterer du kjøp av TV/strømmetjenester ved feil og angrerett",
+    "query": "kvittering tv",
+    "keywords": [
+      "tv kvittering",
+      "angrerett tv kjøp",
+      "garanti tv",
+      "kvittering strømmetjeneste"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«nrk tv», «tv2.no», «tv» og «ol i dag på tv» trender. Knytt til kjøp av TV/abonnement og dokumentasjon ved tvist.",
+    "title": "OL på TV og kjøpsbevis: Slik sikrer du kvittering på TV og strømmetjenester ved feil, angrerett og tvist",
+    "ghostPostId": "6990720d75721e04d720ecc8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:01.562Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Slik bruker du ordrebekreftelse som kjøpsbevis når kvitteringen mangler",
+    "query": "ordrebekreftelse som kvittering",
+    "keywords": [
+      "manglende kvittering",
+      "kjøpsbevis",
+      "ordrebekreftelse",
+      "retur uten kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Direkte relevant for flere «uten kvittering»-søk i problem-klyngen (Clas Ohlson). Overførbar til andre butikker.",
+    "title": "Slik bruker du ordrebekreftelse som kvittering når kvitteringen mangler",
+    "ghostPostId": "6990720d75721e04d720ecce",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:01.783Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Hvordan skanne papir-kvitteringer riktig (så teksten ikke forsvinner)",
+    "query": "skanne kvittering",
+    "keywords": [
+      "digitalisere kvittering",
+      "papirkvittering blekner",
+      "ta bilde av kvittering",
+      "arkivere kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Praktisk pain point som henger tett sammen med garanti/reklamasjon; gir naturlig inngang til digital lagring.",
+    "title": "Hvordan skanne papir-kvitteringer riktig (så teksten ikke forsvinner)",
+    "ghostPostId": "6990720d75721e04d720ecd4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:02.034Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringens «død»: Hva skjer hvis butikker slutter med papir i 2026?",
+    "query": "papirkvittering forsvinner",
+    "keywords": [
+      "papirkvittering forsvinner"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Engasjerer bredt, gir naturlig plass til å forklare hvorfor digital lagring er viktig og hvilke fallgruver som finnes.",
+    "title": "Kvitteringens «død»: Hva skjer hvis butikker slutter med papir i 2026?",
+    "ghostPostId": "6990720e75721e04d720ecda",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:02.266Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "De 12 vanligste kvitteringsfeilene som gjør reklamasjon vanskelig (og hvordan du unngår dem)",
+    "query": "kvittering reklamasjon feil",
+    "keywords": [
+      "kvittering reklamasjon feil"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Løser et reelt problem og treffer søkeintensjon rundt reklamasjon uten å være bundet til én butikk.",
+    "title": "De 12 vanligste kvitteringsfeilene som gjør reklamasjon vanskelig (og hvordan du unngår dem)",
+    "ghostPostId": "6990720e75721e04d720ece0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:02.508Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringer og samlivsbrudd: Slik deler dere dokumentasjon på felleskjøp",
+    "query": "dele kvitteringer",
+    "keywords": [
+      "dele kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk, menneskelig vinkel som gir delbarhet og organisk trafikk.",
+    "title": "Kvitteringer og samlivsbrudd: Slik deler dere dokumentasjon på felleskjøp (uten mer krangling)",
+    "ghostPostId": "6990720e75721e04d720ece6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:02.720Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når forsikringsselskapet spør: «Har du kjøpsbevis?» – slik forbereder du deg",
+    "query": "kjøpsbevis forsikring",
+    "keywords": [
+      "kjøpsbevis forsikring"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy relevans og høy «pain»-faktor; bygger tillit og behov for kvitteringsarkiv.",
+    "title": "Når forsikringsselskapet spør: «Har du kjøpsbevis?» – slik forbereder du deg",
+    "ghostPostId": "6990720e75721e04d720ecec",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:02.932Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringsminimalisme: Hvordan beholde det du trenger – og slette resten trygt",
+    "query": "slette kvitteringer",
+    "keywords": [
+      "slette kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Trekker inn nye lesere som ellers ikke søker aktivt etter kvitteringslagring.",
+    "title": "Kvitteringsminimalisme i 2026: Slik beholder du det du trenger – og sletter resten trygt",
+    "ghostPostId": "6990720f75721e04d720ecf2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:03.164Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kvittering: Slik finner du igjen, lagrer og bruker kvitteringer i Norge (2026-guide)",
+    "query": "kvittering",
+    "keywords": [
+      "kvitteringer",
+      "e-kvittering",
+      "digital kvittering",
+      "mistet kvittering",
+      "kvittering garanti"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høyeste impressions på 'kvittering' (2116) med svært lav CTR. En bred, oppdatert guide kan ta mer av klikkene på posisjon ~3.",
+    "title": "Kvittering i 2026: Slik finner du igjen, lagrer og bruker kvitteringer i Norge",
+    "ghostPostId": "6990720f75721e04d720ecf8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:03.405Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "E-kvittering: Hva det er, hvor du finner den, og hvordan du lagrer den trygt",
+    "query": "e-kvittering",
+    "keywords": [
+      "digital kvittering",
+      "kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "search-console",
+    "rationale": "‘e-kvittering’ har lav CTR og høy mulighet. Landingsside + forklaringsartikkel kan øke CTR i toppen.",
+    "title": "E-kvittering: Hva det er, hvor du finner den – og hvordan du lagrer den trygt",
+    "ghostPostId": "6990720f75721e04d720ecfe",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:03.635Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitering vs kvittering: Vanlige stavefeil – og hvordan du likevel finner riktig kvittering",
+    "query": "kvitering",
+    "keywords": [
+      "kvittering",
+      "kvitteringer",
+      "mistet kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "‘kvitering’ har 332 impressions og 0 klikk. Egen side for stavefeil kan fange trafikk og omdirigere til riktig innhold.",
+    "title": "Kvitering vs kvittering: Vanlige stavefeil – og hvordan du likevel finner riktig kvittering",
+    "ghostPostId": "6990720f75721e04d720ed04",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:03.856Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Kvitteringer lagret på ett sted: Den praktiske guiden for privatpersoner",
+    "query": "kvitteringer lagret på ett sted",
+    "keywords": [
+      "kvittering",
+      "digital kvittering",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Eksakt søkefrase med 0 klikk men høy impressions. En konkret ‘how-to’ kan løfte CTR.",
+    "title": "Kvitteringer lagret på ett sted: Den praktiske guiden for privatpersoner",
+    "ghostPostId": "6990720f75721e04d720ed0a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:04.056Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Fysisk butikk + digital kvittering: Slik fungerer det (og hva du kan kreve i kassa)",
+    "query": "fysisk butikk digital kvittering",
+    "keywords": [
+      "e-kvittering",
+      "kvittering",
+      "digital kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "217 impressions og 0 klikk på en svært kjøpsnær problemstilling; bra for top-of-funnel + intern lenking.",
+    "title": "Fysisk butikk + digital kvittering: Slik fungerer det (og hva du kan kreve i kassa)",
+    "ghostPostId": "6990721075721e04d720ed10",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:04.268Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp Mine ordre: Slik finner du kvittering, ordrenummer og kjøpsbevis",
+    "query": "elkjøp mine ordre",
+    "keywords": [
+      "elkjøp kvittering",
+      "elkjøp min side",
+      "kvittering",
+      "reklamasjon elkjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Sterk intensjon og høy mulighet. Selv med god posisjon kan bedre tittel/utdrag gi flere klikk.",
+    "title": "Elkjøp Mine ordre: Slik finner du kvittering, ordrenummer og kjøpsbevis",
+    "ghostPostId": "6990721075721e04d720ed16",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:04.500Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp Min side: Finn kvittering når du har mistet den (og når du betalte med Vipps/kort)",
+    "query": "elkjøp min side",
+    "keywords": [
+      "elkjøp mine ordre",
+      "elkjøp kvittering",
+      "mistet kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "‘elkjøp min side’ er nevnt som stort tema i data. En ny, mer spesifikk artikkel kan øke CTR.",
+    "title": "Elkjøp Min side: Finn kvittering når du har mistet den (Vipps/kort) – og en enklere løsning",
+    "ghostPostId": "6990721075721e04d720ed1c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:04.723Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti iPhone i Norge: Hva gjelder, hva trenger du av kvittering, og hva hvis du mangler den?",
+    "query": "garanti iphone",
+    "keywords": [
+      "iphone garanti",
+      "kvittering",
+      "reklamasjon iphone",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy impressions (350) og mulighet. Konverterer godt til kvitteringslagring fordi kvittering er nøkkelen ved garanti.",
+    "title": "Garanti iPhone i Norge: Hva gjelder, hvilken kvittering trenger du – og hva gjør du hvis du mangler den?",
+    "ghostPostId": "6990721075721e04d720ed22",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:04.909Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando faktura: Hvor finner du den, og hva gjør du hvis du trenger kvittering til retur?",
+    "query": "zalando faktura",
+    "keywords": [
+      "zalando reklamasjon",
+      "retur zalando",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Zalando-relaterte søk er blant de høyeste for oss. Utvidelse med ‘faktura + kvittering’ øker relevans.",
+    "title": "Zalando faktura: Hvor finner du den, og hva gjør du hvis du trenger kvittering til retur?",
+    "ghostPostId": "6990721175721e04d720ed28",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:05.135Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Zalando reklamasjon: Dokumentasjonen du trenger (kvittering, ordre, bilder) – steg for steg",
+    "query": "zalando reklamasjon",
+    "keywords": [
+      "reklamasjon zalando",
+      "zalando faktura",
+      "kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy impressions (435) og lav CTR. En tydelig, stegvis guide kan ta flere klikk.",
+    "title": "Zalando reklamasjon: Dokumentasjonen du trenger (kvittering, ordre, bilder) – steg for steg",
+    "ghostPostId": "6990721175721e04d720ed2e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:05.346Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Hva er en digital kvittering – og hvorfor er den ofte bedre enn papirkvittering?",
+    "query": "digital kvittering",
+    "keywords": [
+      "e-kvittering",
+      "kvittering",
+      "kvitteringer"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Bygger på våre kjerneord (kvittering/e-kvittering) og støtter intern lenking mot butikk-guider.",
+    "title": "Hva er en digital kvittering – og hvorfor er den ofte bedre enn papirkvittering?",
+    "ghostPostId": "6990721175721e04d720ed34",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:05.561Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kjøpsbevis uten kvittering: Hva kan brukes i stedet i Norge?",
+    "query": "kjøpsbevis uten kvittering",
+    "keywords": [
+      "mistet kvittering",
+      "kontoutskrift",
+      "kortutskrift",
+      "reklamasjon uten kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk forbrukerintensjon og passer produktet; utvider utover konkrete butikker.",
+    "title": "Kjøpsbevis uten kvittering: Hva kan brukes i stedet i Norge?",
+    "ghostPostId": "6990721175721e04d720ed3a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:05.807Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Power kvittering: Slik finner du kjøpsbevis i MyPower (nett og butikk)",
+    "query": "mypower kvittering",
+    "keywords": [
+      "power kvittering",
+      "digital kvittering power",
+      "reklamasjon power"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Power er allerede i temalista med 397 impressions. Stor, nærliggende mulighet for en dedikert guide.",
+    "title": "Power kvittering: Slik finner du kjøpsbevis i MyPower (nett og butikk)",
+    "ghostPostId": "6990721175721e04d720ed40",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:06.034Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Komplett kvittering: Finn ordrehistorikk og kvittering for garanti/reklamasjon",
+    "query": "komplett kvittering",
+    "keywords": [
+      "komplett ordre",
+      "kvittering",
+      "reklamasjon komplett"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Komplett har allerede søk. Egen guide gir bedre match og kan rangere raskt.",
+    "title": "Komplett kvittering: Slik finner du ordrehistorikk, kvittering og dokumentasjon til garanti/reklamasjon",
+    "ghostPostId": "6990721275721e04d720ed46",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:06.264Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "XXL kvittering: Slik finner du kjøpsbevis ved bytte og reklamasjon",
+    "query": "kvittering xxl",
+    "keywords": [
+      "xxl retur",
+      "xxl reklamasjon",
+      "kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Butikkspesifikk guide med tydelig behov, passer vår vinneroppskrift fra Clas Ohlson.",
+    "title": "XXL kvittering: Slik finner du kjøpsbevis ved bytte, retur og reklamasjon",
+    "ghostPostId": "6990721275721e04d720ed4c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:06.488Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Jysk kvittering: Hva gjør du hvis kvitteringen er borte og du må reklamere?",
+    "query": "jysk kvittering",
+    "keywords": [
+      "jysk reklamasjon",
+      "mistet kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Jysk er nevnt i temalista (lavere volum), men ofte lite konkurranse og høy konverteringsintensjon.",
+    "title": "Jysk kvittering borte? Slik reklamerer du når du har mistet kvitteringen",
+    "ghostPostId": "6990721275721e04d720ed52",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:06.684Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Bohus reklamasjon: Hvilke dokumenter bør du ha (og hva hvis du mangler kvittering)?",
+    "query": "bohus reklamasjon",
+    "keywords": [
+      "reklamasjon bohus",
+      "garanti møbler",
+      "kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Bohus ligger i data. Møbler er egen kategori med lange reklamasjonsløp – kvittering er kritisk.",
+    "title": "Bohus reklamasjon: Hvilke dokumenter bør du ha (og hva hvis du mangler kvittering)?",
+    "ghostPostId": "6990721275721e04d720ed58",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:06.930Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Skeidar reklamasjon: Slik dokumenterer du feil på møbler og interiør",
+    "query": "skeidar reklamasjon",
+    "keywords": [
+      "kvittering",
+      "reklamasjon",
+      "garanti møbler"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lavere volum, men tydelig behov og fin long-tail.",
+    "title": "Skeidar reklamasjon: Slik dokumenterer du feil på møbler og interiør (og finner kvitteringen raskt)",
+    "ghostPostId": "6990721375721e04d720ed5e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:07.176Z"
+  },
+  {
+    "category": "business",
+    "topic": "Mistet kvittering til regnskap: Hva kan du gjøre – og hva bør du gjøre neste gang?",
+    "query": "mistet kvittering regnskap",
+    "keywords": [
+      "bilag",
+      "dokumentasjon",
+      "regnskap",
+      "kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Eksakt søk finnes i data. Gir B2B/ENK-trafikk og kan lede til produktbruk for orden i bilag.",
+    "title": "Mistet kvittering til regnskap: Hva kan du gjøre – og hva bør du gjøre neste gang?",
+    "ghostPostId": "6990721375721e04d720ed64",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:07.385Z"
+  },
+  {
+    "category": "business",
+    "topic": "Kvittering fra privatperson til firma: Krav til dokumentasjon og enkleste løsning",
+    "query": "kvittering fra privatperson til firma",
+    "keywords": [
+      "bilag",
+      "regnskap",
+      "dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Reell søkeintensjon i data; kan bli en autoritetsartikkel og gi lenker.",
+    "title": "Kvittering fra privatperson til firma: Krav til dokumentasjon og enkleste løsning i 2026",
+    "ghostPostId": "6990721375721e04d720ed6a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:07.606Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på hvitevarer: Hvor lenge gjelder den – og hva trenger du av kvittering?",
+    "query": "garanti hvitevarer",
+    "keywords": [
+      "reklamasjon hvitevarer",
+      "kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tema finnes i data (warranties). Hvitevarer er høyverdi og kvitteringskritisk.",
+    "title": "Garanti på hvitevarer: Hvor lenge gjelder den – og hva trenger du av kvittering?",
+    "ghostPostId": "6990721375721e04d720ed70",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:07.865Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti elektronikk: Slik dokumenterer du kjøpet når du skal reklamere",
+    "query": "garanti elektronikk",
+    "keywords": [
+      "reklamasjon",
+      "kvittering",
+      "kjøpsbevis",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Fanger bredt segment og støtter butikk-guider (Elkjøp/Power/Komplett).",
+    "title": "Garanti elektronikk: Slik dokumenterer du kjøpet når du skal reklamere",
+    "ghostPostId": "6990721375721e04d720ed76",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:08.065Z"
+  },
+  {
+    "category": "trending",
+    "topic": "NRK TV/TV2-trender og ‘ol i dag på tv’: Slik dokumenterer du kjøp av TV/streaming-utstyr ved feil",
+    "query": "kvittering tv",
+    "keywords": [
+      "tv",
+      "nrk tv",
+      "tv2.no",
+      "garanti elektronikk"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "TV-relaterte søk trender i dag. Kobles til behov for kvittering ved kjøp av TV, lydplanke, Chromecast, osv.",
+    "title": "NRK TV, TV2 og «OL i dag på TV»: Slik sikrer du kvittering på TV-utstyr når noe går galt",
+    "ghostPostId": "6990721475721e04d720ed7c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:08.304Z"
+  },
+  {
+    "category": "trending",
+    "topic": "OL-trender (2026): Slik tar du vare på kvitteringer for sportsutstyr, ski og smøring",
+    "query": "kvittering sportsutstyr",
+    "keywords": [
+      "ol i dag på tv",
+      "garanti",
+      "reklamasjon",
+      "kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Mye OL- og vintersport i trendlista. Kan brukes som aktuell inngang til garanti/kvittering på utstyr.",
+    "title": "OL-trender 2026: Slik tar du vare på kvittering for sportsutstyr, ski og smøring",
+    "ghostPostId": "6990721475721e04d720ed82",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:08.501Z"
+  },
+  {
+    "category": "trending",
+    "topic": "DNB i trend: Slik bruker du kontoutskrift som kjøpsbevis når kvitteringen mangler",
+    "query": "kontoutskrift som kvittering",
+    "keywords": [
+      "dnb",
+      "mistet kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "‘dnb’ trender i dag; gir anledning til å forklare dokumentasjon via banktransaksjoner.",
+    "title": "DNB i trend: Slik bruker du kontoutskrift som kjøpsbevis når kvitteringen mangler",
+    "ghostPostId": "6990721475721e04d720ed88",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:08.714Z"
+  },
+  {
+    "category": "trending",
+    "topic": "ChatGPT trender: Kan AI hjelpe deg å sortere kvitteringer og finne garantidatoer?",
+    "query": "ai sortere kvitteringer",
+    "keywords": [
+      "chatgpt",
+      "digital kvittering",
+      "kvitteringer"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "ChatGPT i trend; aktuell ‘future of receipts’-artikkel som kan gi delinger.",
+    "title": "ChatGPT-trenden i 2026: Kan AI sortere kvitteringer og finne garantidatoer for deg?",
+    "ghostPostId": "6990721475721e04d720ed8e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:08.931Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Translate trender: Slik oversetter du utenlandsk kvittering til norsk ved reklamasjon",
+    "query": "oversette kvittering",
+    "keywords": [
+      "translate",
+      "kvittering",
+      "reklamasjon",
+      "kjøp i utlandet"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "‘translate’ trender. Fin nisje: utenlandske kvitteringer, toll/garanti/reklamasjon.",
+    "title": "Translate-trenden i 2026: Slik kan du oversette kvittering fra utlandet til norsk ved reklamasjon",
+    "ghostPostId": "6990721575721e04d720ed94",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:09.122Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Største plattform for digitale kvitteringer: Hva betyr det – og hva bør du se etter?",
+    "query": "største plattform for digitale kvitteringer",
+    "keywords": [
+      "digital kvittering",
+      "e-kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Eksakt søk finnes (216 impressions). God for ‘category page’ og produktposisjonering.",
+    "title": "Største plattform for digitale kvitteringer: Hva betyr det – og hva bør du se etter?",
+    "ghostPostId": "6990721575721e04d720ed9a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:09.356Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Kvitteringer: derfor klikker folk ikke – og slik gjør du kvitteringen søkbar i ditt eget arkiv",
+    "query": "kvitteringer",
+    "keywords": [
+      "kvittering",
+      "digital kvittering",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Vi rangerer rundt posisjon 7 på ‘kvitteringer’. Ny, bedre artikkel kan flytte oss mot topp 3.",
+    "title": "Kvitteringer: derfor klikker folk ikke – og slik gjør du kvitteringen søkbar i ditt eget arkiv",
+    "ghostPostId": "6990721575721e04d720eda0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:09.546Z"
+  },
+  {
+    "category": "business",
+    "topic": "Bilagsarkiv: Slik bygger du et enkelt bilagsarkiv for privatøkonomi (uten regnskapssystem)",
+    "query": "bilagsarkiv",
+    "keywords": [
+      "kvitteringer",
+      "dokumentasjon",
+      "arkivering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lav volum i data, men veldig relevant for produktet og kan gi autoritet på ‘arkiv’-tema.",
+    "title": "Bilagsarkiv i 2026: Slik bygger du et enkelt bilagsarkiv for privatøkonomi (uten regnskapssystem)",
+    "ghostPostId": "6990721575721e04d720eda6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:09.739Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "AI-CREATIVE PLACEHOLDER (1/94): Kvitteringskrise på reise – slik får du erstatningskvittering på e-post",
+    "query": "erstatningskvittering",
+    "keywords": [
+      "mistet kvittering",
+      "kvittering på e-post",
+      "kundeservice"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Uvanlig, men svært realistisk situasjon som gjør kvitteringslagring ‘smertedrevet’.",
+    "title": "Kvitteringskrise på reise: Slik får du erstatningskvittering på e-post (og slipper panikk neste gang)",
+    "ghostPostId": "6990721575721e04d720edac",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:09.939Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringer i skyen: hva skjer når e-posten din blir hacket?",
+    "query": "sikker lagring av kvitteringer",
+    "keywords": [
+      "sikker lagring av kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Folk undervurderer sensitiv info i kvitteringer (adresse, delvis kortinfo, ordrenr). Skaper behov for trygg løsning.",
+    "title": "Kvitteringer i skyen: hva skjer når e-posten din blir hacket?",
+    "ghostPostId": "6990721675721e04d720edb2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:10.201Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Når forsikringen spør: kvitteringen som avgjør erstatningen",
+    "query": "kvittering til forsikring",
+    "keywords": [
+      "kvittering til forsikring"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy smerte/konsekvens. Sterk motivasjon for å lagre kvitteringer systematisk.",
+    "title": "Når forsikringen spør: Kvitteringen som avgjør erstatningen",
+    "ghostPostId": "6990721675721e04d720edb8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:10.418Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Arv og dødsbo: slik finner du kvitteringer og dokumentasjon på verdigjenstander",
+    "query": "kvitteringer ved dødsbo",
+    "keywords": [
+      "kvitteringer ved dødsbo"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje som få skriver om, men med stort behov for orden og dokumentasjon.",
+    "title": "Arv og dødsbo: slik finner du kvitteringer og dokumentasjon på verdigjenstander",
+    "ghostPostId": "6990721675721e04d720edbe",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:10.645Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvittering på sexleketøy/apotek: diskret lagring uten at du mister garantien",
+    "query": "diskret kvitteringslagring",
+    "keywords": [
+      "diskret kvitteringslagring"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy relevans til ‘digital lagring’, lav konkurranse, stor delingsfaktor.",
+    "title": "Kvittering på sexleketøy eller apotek: Diskret kvitteringslagring uten å miste garanti (2026-guide)",
+    "ghostPostId": "6990721675721e04d720edc4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:10.827Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Den skjulte kostnaden: falmende termokvitteringer og hvordan du redder dem",
+    "query": "termokvittering falmer",
+    "keywords": [
+      "termokvittering falmer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Løser et konkret problem alle kjenner, svært ‘kvitteringsnært’ og evergreen.",
+    "title": "Den skjulte kostnaden: Når termokvittering falmer – og hvordan du redder den før det er for sent",
+    "ghostPostId": "6990721675721e04d720edca",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:11.051Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Studentbudsjett: kvitteringsrutinen som gjør skattefradrag og utgifter enklere",
+    "query": "kvitteringer for budsjett",
+    "keywords": [
+      "kvitteringer for budsjett"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Bygger fremtidige brukere og skaper vaner tidlig.",
+    "title": "Studentbudsjett 2026: Kvitteringsrutinen som gjør skattefradrag og utgifter enklere",
+    "ghostPostId": "6990721775721e04d720edd0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:11.228Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Hva er en kvittering – og hvorfor du bør lagre den digitalt (også ved reklamasjon)",
+    "query": "kvittering",
+    "keywords": [
+      "kvitteringer",
+      "e-kvittering",
+      "digital kvittering",
+      "kvittering garanti"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høyest visninger (2116) og svært lav CTR; posisjon ~3 tyder på at bedre tittel/snippet og mer presis innhold kan øke klikk.",
+    "title": "Kvittering: Hva det er, hvorfor du trenger den – og hvordan du lagrer den digitalt i 2026",
+    "ghostPostId": "6990721775721e04d720edd6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:11.469Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "«Kvitering» eller «kvittering»? Slik finner du kvitteringen uansett hva du søker",
+    "query": "kvitering",
+    "keywords": [
+      "kvittering",
+      "kvitteringer",
+      "kvitering stavemåte"
+    ],
+    "dataSource": "search-console",
+    "rationale": "0 klikk på 332 visninger; fange opp feilstaving og sende trafikk inn på riktig hovedside/guide.",
+    "title": "«Kvitering» eller «kvittering»? Slik finner du kvitteringen uansett hva du søker",
+    "ghostPostId": "6990721775721e04d720eddc",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:11.674Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "E‑kvittering: Slik fungerer det – og dette må stå på kvitteringen for garanti og retur",
+    "query": "e-kvittering",
+    "keywords": [
+      "digital kvittering",
+      "kvittering",
+      "retur uten kvittering",
+      "reklamasjon dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lav CTR, posisjon ~1; mer «how-to» kan hente klikk fra SERP-funksjoner (FAQ) og øke konvertering.",
+    "title": "E‑kvittering: Slik fungerer det – og dette må stå på kvitteringen for garanti og retur",
+    "ghostPostId": "6990721775721e04d720ede2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:11.869Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp: «Mine ordre» og kvittering – slik finner du kjøpsbeviset for garanti og reklamasjon",
+    "query": "elkjøp mine ordre",
+    "keywords": [
+      "elkjøp kvittering",
+      "elkjøp min side",
+      "elkjøp ordrestatus",
+      "kvittering elektronikk"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Sterk opportunity-score; butikkguide matcher brukerintensjon og gir interne lenker til generelle garantiartikler.",
+    "title": "Elkjøp «Mine ordre» og kvittering: Slik finner du kjøpsbeviset for garanti og reklamasjon",
+    "ghostPostId": "6990721775721e04d720ede8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:12.065Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando faktura: Slik finner du den – og når du trenger den i stedet for kvittering",
+    "query": "zalando faktura",
+    "keywords": [
+      "zalando kvittering",
+      "zalando ordre",
+      "betaling zalando",
+      "retur zalando"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy visningsmengde og god posisjon; optimaliser for «faktura vs kvittering» for å kapre flere long-tail.",
+    "title": "Zalando faktura: Slik finner du den – og når du trenger den i stedet for kvittering",
+    "ghostPostId": "6990721875721e04d720edee",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:12.272Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Zalando reklamasjon: Dokumentasjon, frister og hva du gjør hvis du mangler kvittering",
+    "query": "zalando reklamasjon",
+    "keywords": [
+      "reklamasjon zalando",
+      "zalando retur",
+      "mangler kvittering",
+      "forbrukerkjøpsloven klær"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy visning (435) og lav CTR; folk søker praktisk sjekkliste og eksempler på dokumentasjon.",
+    "title": "Zalando reklamasjon: Dokumentasjon, frister og hva du gjør hvis du mangler kvittering",
+    "ghostPostId": "6990721875721e04d720edf4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:12.528Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på iPhone i Norge: hva gjelder, hvor lenge, og hvilken kvittering du må ha",
+    "query": "garanti iphone",
+    "keywords": [
+      "iphone garanti",
+      "apple garanti norge",
+      "reklamasjon iphone",
+      "kvittering iphone"
+    ],
+    "dataSource": "search-console",
+    "rationale": "350 visninger og lav CTR; høy kjøpsverdi og stor motivasjon → godt potensial for både trafikk og konvertering.",
+    "title": "Garanti på iPhone i Norge: hva gjelder, hvor lenge, og hvilken kvittering du må ha",
+    "ghostPostId": "6990721875721e04d720edfa",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:12.766Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Kvitteringer lagret på ett sted: slik bygger du et «kvitteringsarkiv» for privatøkonomi",
+    "query": "kvitteringer lagret på ett sted",
+    "keywords": [
+      "kvitteringer",
+      "digital lagring",
+      "kvitteringsarkiv",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "0 klikk på 220 visninger; tydelig informasjonsintensjon og passer produktets kjerne.",
+    "title": "Kvitteringer lagret på ett sted: slik bygger du et kvitteringsarkiv for privatøkonomi",
+    "ghostPostId": "6990721875721e04d720ee00",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:12.982Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Digital kvittering i fysisk butikk: slik ber du om det – og hva du gjør hvis du ikke får den",
+    "query": "fysisk butikk digital kvittering",
+    "keywords": [
+      "digital kvittering",
+      "e-kvittering",
+      "kvittering",
+      "kvittering på epost"
+    ],
+    "dataSource": "search-console",
+    "rationale": "217 visninger, 0 klikk; kan rangeres med FAQ og eksempler fra flere kjeder.",
+    "title": "Digital kvittering i fysisk butikk: slik ber du om det – og hva du gjør hvis du ikke får den",
+    "ghostPostId": "6990721975721e04d720ee06",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:13.227Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitteringer: komplett guide til lagring, garanti, reklamasjon og retur (Norge)",
+    "query": "kvitteringer",
+    "keywords": [
+      "kvittering",
+      "e-kvittering",
+      "reklamasjon",
+      "garanti"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«kvitteringer» har posisjon ~7 med mange visninger; en sterk pillar-side kan flytte oss til topp 3.",
+    "title": "Kvitteringer: komplett guide til lagring, garanti, reklamasjon og retur i Norge",
+    "ghostPostId": "6990721975721e04d720ee0c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:13.463Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Power: Slik finner du «mypower kvittering» og kjøpshistorikk når du skal reklamere",
+    "query": "mypower kvittering",
+    "keywords": [
+      "power kvittering",
+      "power reklamasjon",
+      "power min side",
+      "kjøpsbevis"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tema-analysen viser Power-søk; butikkspesifikke guider har fungert svært godt (Clas Ohlson).",
+    "title": "Power: Slik finner du «mypower kvittering» og kjøpshistorikk når du skal reklamere",
+    "ghostPostId": "6990721975721e04d720ee12",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:13.686Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "XXL kvittering: Slik finner du kvitteringen digitalt og hva som gjelder ved bytte",
+    "query": "kvittering xxl",
+    "keywords": [
+      "xxl retur",
+      "xxl reklamasjon",
+      "mangler kvittering",
+      "bytte uten kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lavere volum, men høy kjøpsfrekvens i sport/utstyr og typisk kvitteringsbehov.",
+    "title": "XXL kvittering: Slik finner du kvitteringen digitalt – og hva som gjelder ved bytte og retur",
+    "ghostPostId": "6990721975721e04d720ee18",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:13.871Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Komplett kvittering: Slik finner du ordrebekreftelse/faktura som kjøpsbevis",
+    "query": "komplett kvittering",
+    "keywords": [
+      "komplett ordre",
+      "komplett faktura",
+      "komplett reklamasjon",
+      "kvittering elektronikk"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Butikkguide-strategien viser tydelig traction; utvider fra Clas Ohlson/Elkjøp til Komplett.",
+    "title": "Komplett kvittering: Slik finner du ordrebekreftelse og faktura som kjøpsbevis",
+    "ghostPostId": "6990721975721e04d720ee1e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:14.088Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Jysk kvittering: Retur og reklamasjon – hva gjør du om du har mistet kvitteringen?",
+    "query": "jysk kvittering",
+    "keywords": [
+      "jysk retur",
+      "jysk reklamasjon",
+      "mangler kvittering",
+      "garanti på møbler"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Nisjevolum i data, men passer «møbler/garanti»-klyngen og kan gi enkel topprangering.",
+    "title": "Jysk kvittering: Retur og reklamasjon – hva gjør du om du har mistet kvitteringen?",
+    "ghostPostId": "6990721a75721e04d720ee24",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:14.323Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Bohus reklamasjon: Slik dokumenterer du feil på møbler (bilder, kvittering og frister)",
+    "query": "bohus reklamasjon",
+    "keywords": [
+      "reklamasjon bohus",
+      "garanti på møbler",
+      "kvittering møbler",
+      "forbrukerkjøpsloven møbler"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Møbelreklamasjon har egen etterspørsel i data; sjekkliste-format kan ta featured snippets.",
+    "title": "Bohus reklamasjon: Slik dokumenterer du feil på møbler (bilder, kvittering og frister)",
+    "ghostPostId": "6990721a75721e04d720ee2a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:14.570Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Skeidar reklamasjon: Hva du trenger av kvittering og dokumentasjon (og alternativer)",
+    "query": "skeidar reklamasjon",
+    "keywords": [
+      "kvittering skeidar",
+      "mangler kvittering",
+      "reklamasjon møbler",
+      "garanti møbler"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lavt volum, men kan gi svært høy posisjon og styrker møbel-klyngen.",
+    "title": "Skeidar reklamasjon: Hva du trenger av kvittering og dokumentasjon (og hva du gjør hvis du mangler kvittering)",
+    "ghostPostId": "6990721a75721e04d720ee30",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:14.780Z"
+  },
+  {
+    "category": "business",
+    "topic": "Mistet kvittering til regnskap: Hva kan du gjøre – og hva må du dokumentere?",
+    "query": "mistet kvittering regnskap",
+    "keywords": [
+      "regnskap kvitteringer",
+      "bilag",
+      "dokumentasjon kjøp",
+      "kontoutskrift som bilag"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Sterk «pain»-intensjon; kan bli inngang til bedriftsbruk/kvitteringsarkiv.",
+    "title": "Mistet kvittering til regnskap: Hva kan du gjøre – og hva må du dokumentere?",
+    "ghostPostId": "6990721a75721e04d720ee36",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:14.962Z"
+  },
+  {
+    "category": "business",
+    "topic": "Kvittering fra privatperson til firma: Slik lager du et gyldig bilag i praksis",
+    "query": "kvittering fra privatperson til firma",
+    "keywords": [
+      "bilag privatperson",
+      "regnskap bilag",
+      "kjøp brukt",
+      "kvittering mal"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Nisje, men høy verdi; ofte uklart og gir mange long-tail-varianter.",
+    "title": "Kvittering fra privatperson til firma: Slik lager du et gyldig bilag i praksis",
+    "ghostPostId": "6990721b75721e04d720ee3c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:15.165Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på hvitevarer: Hvor lenge gjelder den – og hvilken dokumentasjon må du ha?",
+    "query": "garanti hvitevarer",
+    "keywords": [
+      "reklamasjon hvitevarer",
+      "kvittering hvitevarer",
+      "serviceordre",
+      "forbrukerkjøpsloven"
+    ],
+    "dataSource": "search-console",
+    "rationale": "I tema-analysen finnes garanti hvitevarer med høyere visninger; passer sesong (vinter -> mye hjem/innendørs).",
+    "title": "Garanti på hvitevarer: Hvor lenge gjelder den – og hvilken dokumentasjon må du ha?",
+    "ghostPostId": "6990721b75721e04d720ee42",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:15.382Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på elektronikk: Kvittering, serienummer og hva du faktisk må ta vare på",
+    "query": "garanti elektronikk",
+    "keywords": [
+      "reklamasjon elektronikk",
+      "kvittering",
+      "serienummer",
+      "ordrebekreftelse"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy relevans for produktet; god støtteartikkel for alle butikkguider (Elkjøp/Power/Komplett).",
+    "title": "Garanti på elektronikk: Kvittering, serienummer og hva du faktisk må ta vare på",
+    "ghostPostId": "6990721b75721e04d720ee48",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:15.574Z"
+  },
+  {
+    "category": "trending",
+    "topic": "OL på TV: Slik holder du oversikt over kjøpene dine (utstyr, billetter, reiser) med kvitteringer",
+    "query": "ol i dag på tv",
+    "keywords": [
+      "kvittering reise",
+      "kvittering sportsutstyr",
+      "refusjon",
+      "digitale kvitteringer"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trendtoppen er sport/TV; koble til utstyrs- og reiseutgifter, refusjon og forsikring.",
+    "title": "OL på TV: Slik holder du oversikt over kjøpene dine når du følger «ol i dag på tv»",
+    "ghostPostId": "6990721b75721e04d720ee4e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:15.790Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "DNB: Slik bruker du kontoutskrift som støtte når kvitteringen mangler (og hva som ikke holder)",
+    "query": "dnb",
+    "keywords": [
+      "kontoutskrift kvittering",
+      "manglende kvittering",
+      "banktransaksjon bevis",
+      "reklamasjon uten kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "DNB trender; folk søker ofte etter «kan bankutskrift brukes som kvittering?»",
+    "title": "DNB: Slik bruker du kontoutskrift som støtte når kvitteringen mangler (og hva som ikke holder)",
+    "ghostPostId": "6990721b75721e04d720ee54",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:16.009Z"
+  },
+  {
+    "category": "trending",
+    "topic": "ChatGPT + kvitteringer: Slik kan AI hjelpe deg å rydde i kvitteringskaoset (trygt og smart)",
+    "query": "chatgpt",
+    "keywords": [
+      "AI kvitteringer",
+      "kvittering sortering",
+      "personvern kvittering",
+      "digital arkivering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "ChatGPT trender; god «top-of-funnel»-artikkel som kan lede til produktets verdi (automatisk orden/struktur).",
+    "title": "ChatGPT + kvitteringer: Slik kan AI hjelpe deg å rydde i kvitteringskaoset (trygt og smart)",
+    "ghostPostId": "6990721c75721e04d720ee5a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:16.219Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitterings-beredskap hjemme: 15 kjøp du bør ha dokumentasjon på før noe går galt",
+    "query": "hvilke kvitteringer bør jeg ta vare på",
+    "keywords": [
+      "hvilke kvitteringer bør jeg ta vare på"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy nytte, delbart innhold og knytter kvittering til forsikring.",
+    "title": "Kvitterings-beredskap hjemme: 15 kjøp du bør ha dokumentasjon på før noe går galt",
+    "ghostPostId": "6990721c75721e04d720ee60",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:16.411Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik dokumenterer du eierskap uten kvittering: bilder, serienummer og kontoutskrift",
+    "query": "dokumentere kjøp uten kvittering",
+    "keywords": [
+      "dokumentere kjøp uten kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Treffer «pain»-intensjon og bygger tillit.",
+    "title": "Slik dokumenterer du eierskap uten kvittering: bilder, serienummer og kontoutskrift",
+    "ghostPostId": "6990721c75721e04d720ee66",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:16.628Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringspsykologi: Hvorfor vi mister kvitteringer (og hvordan du slutter)",
+    "query": "mister kvitteringer",
+    "keywords": [
+      "mister kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Skiller seg fra vanlige «how-to» og kan få presse/lenker.",
+    "title": "Kvitteringspsykologi: Derfor mister vi kvitteringer (og slik slutter du i 2026)",
+    "ghostPostId": "6990721c75721e04d720ee6c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:16.852Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Guide: kvitteringer ved kjøp brukt (Finn.no) – trygg handel og enkel reklamasjon",
+    "query": "kvittering ved bruktkjøp",
+    "keywords": [
+      "kvittering ved bruktkjøp"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Stor målgruppe og tydelig relevans for «kvittering fra privatperson».",
+    "title": "Kvittering ved bruktkjøp (Finn.no): trygg handel, garanti og enkel reklamasjon",
+    "ghostPostId": "6990721c75721e04d720ee72",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:17.068Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik lager du en «kvitteringsmappe» for barn og ungdom: sykkel, mobil, ski og klær",
+    "query": "kvitteringer for barn",
+    "keywords": [
+      "kvitteringer for barn"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisjevinkel, høy delbarhet og praktisk.",
+    "title": "Slik lager du en «kvitteringsmappe» for barn og ungdom (sykkel, mobil, ski og klær)",
+    "ghostPostId": "6990721d75721e04d720ee78",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:17.264Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringer og personvern: hva kan stå på en kvittering – og hva bør ikke lagres i klartekst?",
+    "query": "personvern kvittering",
+    "keywords": [
+      "personvern kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Tillitsskapende og relevant for digital lagring.",
+    "title": "Kvitteringer og personvern: hva kan stå på en kvittering – og hva bør ikke lagres i klartekst?",
+    "ghostPostId": "6990721d75721e04d720ee7e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:17.447Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Retur uten kvittering: når kan butikken si nei – og hva kan du bruke i stedet?",
+    "query": "retur uten kvittering",
+    "keywords": [
+      "retur uten kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy søkeintensjon generelt og bygger bro til digital lagring.",
+    "title": "Retur uten kvittering: Når kan butikken si nei – og hva kan du bruke i stedet?",
+    "ghostPostId": "6990721d75721e04d720ee84",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:17.675Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringer for reiseutgifter: slik får du igjen penger ved forsinkelse, avbestilling og reklamasjon",
+    "query": "kvittering reise refusjon",
+    "keywords": [
+      "kvittering reise refusjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Mange opplever problemer og trenger dokumentasjon.",
+    "title": "Kvitteringer for reiseutgifter: Slik får du refusjon ved forsinkelse, avbestilling og reklamasjon",
+    "ghostPostId": "6990721d75721e04d720ee8a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:17.865Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik bruker du AI til å navngi kvitteringer riktig (uten å dele sensitiv info)",
+    "query": "AI sortere kvitteringer",
+    "keywords": [
+      "AI sortere kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Rider på AI-trend og er relevant uten å bli «tech for tech».",
+    "title": "Slik bruker du AI til å navngi kvitteringer riktig (uten å dele sensitiv info)",
+    "ghostPostId": "6990721d75721e04d720ee90",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:18.093Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvittering ved gave: slik bevarer du bytterett uten å avsløre pris",
+    "query": "kvittering gave bytte",
+    "keywords": [
+      "kvittering gave bytte"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sesongrelevant rundt bursdager/høytider; evergreen.",
+    "title": "Kvittering ved gave: Slik bevarer du bytterett uten å avsløre pris",
+    "ghostPostId": "6990721e75721e04d720ee96",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:18.297Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvittering: hva er en kvittering, og hvorfor er den viktig ved garanti og reklamasjon?",
+    "query": "kvittering",
+    "keywords": [
+      "kvitteringer",
+      "e-kvittering",
+      "digital kvittering",
+      "reklamasjon",
+      "garanti"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Svært høy impressions for «kvittering» (2116) med lav CTR; kan forbedres med bedre tittel/metabeskrivelse + mer komplett guide.",
+    "title": "Kvittering: Hva er en kvittering – og hvorfor er den avgjørende ved garanti og reklamasjon?",
+    "ghostPostId": "6990721e75721e04d720ee9c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:18.488Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "E-kvittering i Norge: slik fungerer det, og slik finner du kvitteringen når du trenger den",
+    "query": "e-kvittering",
+    "keywords": [
+      "kvittering",
+      "digital kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«e-kvittering» har lav CTR og høy opportunity; tydelig informasjonsbehov som matcher tjenesten.",
+    "title": "E-kvittering i Norge: slik fungerer det – og slik finner du kvitteringen når du trenger den",
+    "ghostPostId": "6990721e75721e04d720eea2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:18.690Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitering eller kvittering? (Stavemåter) Slik finner du riktig dokumentasjon uansett",
+    "query": "kvitering",
+    "keywords": [
+      "kvittering",
+      "kvitteringer",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Feilstaving «kvitering» har impressions og null klikk; lett å vinne med målrettet side.",
+    "title": "Kvitering eller kvittering? Slik finner du riktig dokumentasjon uansett",
+    "ghostPostId": "6990721e75721e04d720eea8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:18.872Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Kvitteringer lagret på ett sted: en praktisk guide for privatpersoner",
+    "query": "kvitteringer lagret på ett sted",
+    "keywords": [
+      "kvitteringer",
+      "digital kvittering",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Direkte match med tjenesteløftet; søkeordet har null klikk og høy opportunity.",
+    "title": "Kvitteringer lagret på ett sted: en praktisk guide for privatpersoner i 2026",
+    "ghostPostId": "6990721e75721e04d720eeae",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:19.078Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Fysisk butikk + digital kvittering: slik ber du om e-kvittering i kassen",
+    "query": "fysisk butikk digital kvittering",
+    "keywords": [
+      "digital kvittering",
+      "e-kvittering",
+      "kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Null klikk men høy impressions/position ~1; sannsynlig snippet/CTR-problem som kan løses med bedre format (FAQ).",
+    "title": "Fysisk butikk + digital kvittering: slik ber du om e-kvittering i kassen (uten stress)",
+    "ghostPostId": "6990721f75721e04d720eeb4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:19.279Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti iPhone: hva gjelder i Norge, og hva trenger du av kvittering?",
+    "query": "garanti iphone",
+    "keywords": [
+      "iphone garanti",
+      "reklamasjon iphone",
+      "kvittering iphone"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«garanti iphone» har høy opportunity; kvitteringsbehov er sentralt ved garanti/reklamasjon.",
+    "title": "Garanti iPhone i Norge: Hva gjelder – og hva trenger du av kvittering?",
+    "ghostPostId": "6990721f75721e04d720eeba",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:19.516Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando faktura: hvor finner du faktura/ordrebekreftelse, og hva gjelder som kvittering?",
+    "query": "zalando faktura",
+    "keywords": [
+      "zalando kvittering",
+      "zalando ordre",
+      "reklamasjon zalando"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Søkeordet har høye visninger; butikkspesifikke guider fungerer allerede (Clas Ohlson).",
+    "title": "Zalando faktura: Hvor finner du faktura/ordrebekreftelse – og hva gjelder som kvittering?",
+    "ghostPostId": "6990721f75721e04d720eec0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:19.728Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando reklamasjon: dokumentasjon du bør lagre (kvittering, bilder, dialog)",
+    "query": "zalando reklamasjon",
+    "keywords": [
+      "reklamasjon zalando",
+      "zalando retur",
+      "kvittering zalando"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy impressions og lav CTR; kan vinne featured snippet med sjekkliste.",
+    "title": "Zalando reklamasjon: dokumentasjon du bør lagre (kvittering, bilder og dialog)",
+    "ghostPostId": "6990721f75721e04d720eec6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:19.966Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp Mine ordre: slik finner du kvittering, ordrehistorikk og garantibevis",
+    "query": "elkjøp mine ordre",
+    "keywords": [
+      "elkjøp kvittering",
+      "elkjøp min side",
+      "elkjøp ordre"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy opportunity og posisjon ~1; optimaliser for CTR og gi konkret steg-for-steg.",
+    "title": "Elkjøp Mine ordre: slik finner du kvittering, ordrehistorikk og garantibevis (2026-guide)",
+    "ghostPostId": "6990722075721e04d720eecc",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:20.186Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "IKEA kvittering: slik finner du kjøpsbevis for reklamasjon, retur og garanti",
+    "query": "ikea kvittering",
+    "keywords": [
+      "ikea retur",
+      "ikea reklamasjon",
+      "mistet kvittering ikea"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nytt butikkspor (ikke i dataene) med stort volum i Norge; passer kvitteringslagring og reklamasjon.",
+    "title": "IKEA kvittering: slik finner du kjøpsbevis for reklamasjon, retur og garanti",
+    "ghostPostId": "6990722075721e04d720eed2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:20.379Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Obs Bygg kvittering: hva gjør du når du mister kvitteringen på byggevarer?",
+    "query": "obs bygg kvittering",
+    "keywords": [
+      "retur uten kvittering",
+      "reklamasjon byggevarer",
+      "e-kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Byggevare er typisk «høy verdi + reklamasjon»; få gode norske guider.",
+    "title": "Obs Bygg kvittering: hva gjør du når du mister kvitteringen på byggevarer?",
+    "ghostPostId": "6990722075721e04d720eed8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:20.597Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Montér kvittering og reklamasjon: dokumentasjon for trelast, maling og verktøy",
+    "query": "montér kvittering",
+    "keywords": [
+      "montér reklamasjon",
+      "kvittering byggevarer",
+      "garanti verktøy"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Byggevarehandel har komplekse kjøp (partier, levering, faktura) der kvittering ofte etterspørres.",
+    "title": "Montér kvittering og reklamasjon: Slik sikrer du dokumentasjon for trelast, maling og verktøy",
+    "ghostPostId": "6990722075721e04d720eede",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:20.832Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Megaflis kvittering: slik lagrer du dokumentasjon på bad og flis (viktig ved skjulte feil)",
+    "query": "megaflis kvittering",
+    "keywords": [
+      "flis reklamasjon",
+      "baderom garanti",
+      "dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje med høy risiko: baderomsprosjekter krever dokumentasjon over tid.",
+    "title": "Megaflis kvittering: slik lagrer du dokumentasjon på bad og flis (viktig ved skjulte feil)",
+    "ghostPostId": "6990722075721e04d720eee4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:21.049Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Kid Interiør: kvittering ved bytte/retur og hvorfor du bør lagre den digitalt",
+    "query": "kid kvittering",
+    "keywords": [
+      "kid retur",
+      "kid reklamasjon",
+      "digital kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Interiørkjøp er typisk gave/bytte-sesong; digital lagring øker konvertering.",
+    "title": "Kid Interiør: kvittering ved bytte/retur – derfor bør du lagre kid kvittering digitalt",
+    "ghostPostId": "6990722175721e04d720eeea",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:21.258Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "H&M kvittering: retur, bytte og reklamasjon – dette gjelder i praksis",
+    "query": "h&m kvittering",
+    "keywords": [
+      "hm retur",
+      "bytte uten kvittering",
+      "kjøpsbevis"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Klær/retur har høy frekvens; mange mister papirkvitteringer.",
+    "title": "H&M kvittering: retur, bytte og reklamasjon – dette gjelder i praksis (2026)",
+    "ghostPostId": "6990722175721e04d720eef0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:21.448Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Mistede kvitteringer: hva kan brukes som kjøpsbevis i Norge (kontoutskrift, ordrebekreftelse, e-post)?",
+    "query": "kjøpsbevis",
+    "keywords": [
+      "mistet kvittering",
+      "kontoutskrift som kvittering",
+      "ordrebekreftelse"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Matcher gjentakende «uten kvittering»-problemer i temaene; generell guide kan fange mye long-tail.",
+    "title": "Mistede kvitteringer: Hva kan brukes som kjøpsbevis i Norge (og hva bør du gjøre nå)?",
+    "ghostPostId": "6990722175721e04d720eef6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:21.702Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kontoutskrift som kvittering: når holder det – og når gjør det ikke det?",
+    "query": "kontoutskrift som kvittering",
+    "keywords": [
+      "kjøpsbevis",
+      "reklamasjon uten kvittering",
+      "garanti uten kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Praktisk spørsmål mange googler; naturlig inngang til digital kvitteringslagring.",
+    "title": "Kontoutskrift som kvittering: når holder det – og når gjør det ikke det?",
+    "ghostPostId": "6990722175721e04d720eefc",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:21.876Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Gave uten kvittering: slik ordner du bytte/retur uten å ødelegge overraskelsen",
+    "query": "bytte gave uten kvittering",
+    "keywords": [
+      "gavekvittering",
+      "retur uten kvittering",
+      "digital kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Sterk «life situation»-trafikk (vinter-/bursdager), godt delingspotensial.",
+    "title": "Gave uten kvittering? Slik får du til bytte/retur uten å ødelegge overraskelsen",
+    "ghostPostId": "6990722175721e04d720ef02",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:22.110Z"
+  },
+  {
+    "category": "trending",
+    "topic": "NRK TV og TV2-trenden: Slik dokumenterer du TV/strømmekjøp ved angrerett og klage",
+    "query": "kvittering strømmetjeneste",
+    "keywords": [
+      "angrerett digitalt kjøp",
+      "kvittering abonnement",
+      "dokumentasjon kjøp"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Google Trends viser «nrk tv», «tv2.no», «tv»; kan kobles til dokumentasjon av digitale kjøp.",
+    "title": "NRK TV og TV2-trenden: Slik sikrer du kvittering på strømmetjeneste ved angrerett og klage",
+    "ghostPostId": "6990722275721e04d720ef08",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:22.308Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Slik øker du CTR på «kvittering»-søket: bedre snippet, FAQ og korte svar",
+    "query": "kvittering",
+    "keywords": [
+      "kvitteringer",
+      "e-kvittering",
+      "digital kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Impressions høye men få klikk; artikkel kan fungere som hub med FAQ som tar snippet.",
+    "title": "Slik øker du CTR på «kvittering»-søket: bedre snippet, FAQ og korte svar",
+    "ghostPostId": "6990722275721e04d720ef0e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:22.544Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Hva er «største plattform for digitale kvitteringer» – og hvordan velger du riktig løsning?",
+    "query": "største plattform for digitale kvitteringer",
+    "keywords": [
+      "digital kvittering",
+      "e-kvittering",
+      "kvitteringsapp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Søkeordet finnes i muligheter; kan brukes til sammenligning og posisjonering.",
+    "title": "Hva er «største plattform for digitale kvitteringer» – og hvordan velger du riktig løsning?",
+    "ghostPostId": "6990722275721e04d720ef14",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:22.766Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kvitteringer: hvorfor du bør lagre dem i minst 5 år (og hvilke som bør lagres lenger)",
+    "query": "lagre kvitteringer",
+    "keywords": [
+      "kvittering",
+      "garanti",
+      "reklamasjon",
+      "dokumentasjon"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Evergreen; støtter garanti/reklamasjon og skaper behov for tjenesten.",
+    "title": "Kvitteringer: hvorfor du bør lagre dem i minst 5 år (og hvilke som bør lagres lenger)",
+    "ghostPostId": "6990722275721e04d720ef1a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:22.983Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Skjermbilde av kvittering: er det gyldig dokumentasjon ved retur og reklamasjon?",
+    "query": "skjermbilde av kvittering",
+    "keywords": [
+      "digital kvittering",
+      "kjøpsbevis",
+      "e-post kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Konverteringsnær problemstilling; lite dekket i norske guider.",
+    "title": "Skjermbilde av kvittering: Er det gyldig dokumentasjon ved retur og reklamasjon?",
+    "ghostPostId": "6990722375721e04d720ef20",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:23.208Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Slik lager du en kvitteringsrutine hjemme: 5 minutter i uka som sparer deg for tusenlapper",
+    "query": "kvitteringsrutine",
+    "keywords": [
+      "kvitteringer",
+      "digital kvittering",
+      "organisering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Engasjerende «habit»-innhold med høy relevans for produktet.",
+    "title": "Slik lager du en kvitteringsrutine hjemme: 5 minutter i uka som sparer deg for tusenlapper",
+    "ghostPostId": "6990722375721e04d720ef26",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:23.412Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "«Den ene kvitteringen som reddet ferien»: 12 vanlige reisesituasjoner der dokumentasjon er gull",
+    "query": "mistet kvittering reise",
+    "keywords": [
+      "mistet kvittering reise"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy delbarhet + tydelig behov for å samle kvitteringer på ett sted.",
+    "title": "«Den ene kvitteringen som reddet ferien»: 12 reisesituasjoner der dokumentasjon er gull (og hva du gjør når du har mistet kvittering på reise)",
+    "ghostPostId": "6990722375721e04d720ef2c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:23.631Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitterings-detox: slik rydder du opp i 500 e-poster og finner alle kjøpene dine igjen",
+    "query": "finne kvittering i e-post",
+    "keywords": [
+      "finne kvittering i e-post"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Lav konkurranse på norske guider; treffer «pain point».",
+    "title": "Kvitterings-detox: slik rydder du opp i 500 e-poster og finner alle kjøpene dine igjen",
+    "ghostPostId": "6990722375721e04d720ef32",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:23.794Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik beviser du kjøp når du har betalt med Vipps (uten papirkvittering)",
+    "query": "vipps som kvittering",
+    "keywords": [
+      "vipps som kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Svært norsk problemstilling, tett koblet til dokumentasjon.",
+    "title": "Slik beviser du kjøp når du har betalt med Vipps (uten papirkvittering)",
+    "ghostPostId": "6990722375721e04d720ef38",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:23.993Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Hvordan lagre kvitteringer for brukt-kjøp (Finn.no): kontrakt, overføring og serienummer",
+    "query": "kvittering finn.no",
+    "keywords": [
+      "kvittering finn.no"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Mange konflikter ved bruktmarked; få gode sjekklister.",
+    "title": "Kvittering på Finn.no: Slik lagrer du bevis for brukt-kjøp (kontrakt, overføring og serienummer)",
+    "ghostPostId": "6990722475721e04d720ef3e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:24.226Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "AI som kvitteringsassistent: få varsler før reklamasjonsfristen går ut",
+    "query": "reklamasjonsfrist varsel",
+    "keywords": [
+      "reklamasjonsfrist varsel"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Knytter ChatGPT/AI-trenden til produktnytte.",
+    "title": "AI som kvitteringsassistent: Få reklamasjonsfrist-varsel før det er for sent",
+    "ghostPostId": "6990722475721e04d720ef44",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:24.400Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Hva er en kvittering – og hvorfor trenger du den i 2026?",
+    "query": "kvittering",
+    "keywords": [
+      "kvitteringer",
+      "e-kvittering",
+      "digital kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høyeste visninger på «kvittering» (2116) med lav CTR; informasjonsartikkel kan øke klikk og eie definisjons-intent.",
+    "title": "Hva er en kvittering – og hvorfor trenger du den i 2026?",
+    "ghostPostId": "6990722475721e04d720ef4a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:24.598Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kvitering eller kvittering? Slik finner du igjen dokumentasjon uansett stavemåte",
+    "query": "kvitering",
+    "keywords": [
+      "kvittering",
+      "kvitteringer",
+      "mistet kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Null klikk på «kvitering» med 332 visninger; egen side fanger stavefeil-intent og sender til riktig innhold.",
+    "title": "Kvitering eller kvittering? Slik finner du igjen dokumentasjon uansett stavemåte",
+    "ghostPostId": "6990722475721e04d720ef50",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:24.817Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "E-kvittering: Fordeler, ulemper og hva som faktisk gjelder i norske butikker",
+    "query": "e-kvittering",
+    "keywords": [
+      "digital kvittering",
+      "fysisk butikk digital kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Lav CTR på «e-kvittering» + «fysisk butikk digital kvittering» (0 klikk) – tydelig informasjonsbehov.",
+    "title": "E-kvittering i 2026: Fordeler, ulemper – og hva som faktisk gjelder i norske butikker",
+    "ghostPostId": "6990722475721e04d720ef56",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:25.050Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Digital kvittering i fysisk butikk: Slik ber du om det (og hva du gjør hvis de sier nei)",
+    "query": "fysisk butikk digital kvittering",
+    "keywords": [
+      "e-kvittering",
+      "kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "search-console",
+    "rationale": "217 visninger, 0 klikk og posisjon ~1.1 tyder på snippet/tittel-mismatch; konkret guide kan løfte CTR.",
+    "title": "Digital kvittering i fysisk butikk: Slik ber du om det (og hva du gjør hvis de sier nei)",
+    "ghostPostId": "6990722575721e04d720ef5c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:25.274Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Kvitteringer lagret på ett sted: Slik lager du et system som faktisk fungerer",
+    "query": "kvitteringer lagret på ett sted",
+    "keywords": [
+      "mine kvitteringer",
+      "kvitteringer",
+      "e-kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "0 klikk på 220 visninger og god posisjon; tydelig behov for bedre innhold/CTA.",
+    "title": "Kvitteringer lagret på ett sted: Slik lager du et system som faktisk fungerer",
+    "ghostPostId": "6990722575721e04d720ef62",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:25.508Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti på iPhone i Norge: Dette må du kunne (og hvilken dokumentasjon som kreves)",
+    "query": "garanti iphone",
+    "keywords": [
+      "iphone garanti",
+      "kvittering iphone",
+      "reklamasjon iphone"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«garanti iphone» er en topp-mulighet (350 visninger) og passer perfekt til kvitteringslagring.",
+    "title": "Garanti på iPhone i Norge: Dette må du kunne (og hvilken dokumentasjon som kreves)",
+    "ghostPostId": "6990722575721e04d720ef68",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:25.695Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando faktura: Hvor finner du den, og hva hvis du mangler dokumentasjon ved retur?",
+    "query": "zalando faktura",
+    "keywords": [
+      "zalando kvittering",
+      "zalando retur",
+      "dokumentasjon kjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Høy interesse (349 visninger) og sterk kjøps-/returintensjon; lett å konvertere til lagring av kvittering.",
+    "title": "Zalando faktura: Hvor finner du den, og hva hvis du mangler dokumentasjon ved retur?",
+    "ghostPostId": "6990722575721e04d720ef6e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:25.913Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Zalando reklamasjon i 2026: Steg-for-steg + hvilke bevis du bør samle",
+    "query": "zalando reklamasjon",
+    "keywords": [
+      "reklamasjon zalando",
+      "zalando retur",
+      "kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "435 visninger på «zalando reklamasjon»; tydelig problem-intent, viktig å eie med guide og sjekkliste.",
+    "title": "Zalando reklamasjon i 2026: Steg-for-steg + hvilke bevis du bør samle",
+    "ghostPostId": "6990722675721e04d720ef74",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:26.127Z"
+  },
+  {
+    "category": "store-guide",
+    "topic": "Elkjøp: Finn «Mine ordre» og hent kvittering – komplett guide",
+    "query": "elkjøp mine ordre",
+    "keywords": [
+      "elkjøp kvittering",
+      "elkjøp min side",
+      "mistet kvittering elkjøp"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Sterk opportunity-score og tydelig navigasjonsintensjon; kan gi høy trafikk og signups.",
+    "title": "Elkjøp: Finn «Mine ordre» og hent kvittering – komplett guide",
+    "ghostPostId": "6990722675721e04d720ef7a",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:26.362Z"
+  },
+  {
+    "category": "seo-gap",
+    "topic": "Kvitteringer: Hvorfor CTR er lav selv med god plassering – og hva du kan gjøre som forbruker",
+    "query": "kvitteringer",
+    "keywords": [
+      "kvittering",
+      "e-kvittering",
+      "digital kvittering"
+    ],
+    "dataSource": "search-console",
+    "rationale": "«kvitteringer» har mange visninger (522) men posisjon ~7; en mer spisset artikkel kan flytte oss opp.",
+    "title": "Kvitteringer: Hvorfor CTR er lav selv med god plassering – og hva du kan gjøre som forbruker",
+    "ghostPostId": "6990722675721e04d720ef80",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:26.579Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Kvittering uten kvittering? Slik dokumenterer du kjøpet med kontoutskrift og ordrebekreftelse",
+    "query": "mistet kvittering",
+    "keywords": [
+      "kontoutskrift som kvittering",
+      "ordrebekreftelse",
+      "reklamasjon uten kvittering"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Temaet «uten kvittering» fungerer allerede (Clas Ohlson), men vi lager en generell evergreen-guide (ikke butikkspesifikk).",
+    "title": "Mistet kvittering? Slik dokumenterer du kjøpet med kontoutskrift og ordrebekreftelse",
+    "ghostPostId": "6990722675721e04d720ef86",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:26.776Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "Garanti vs reklamasjon: Hva er forskjellen – og hvilken «kvittering» trenger du?",
+    "query": "garanti",
+    "keywords": [
+      "reklamasjon",
+      "kvittering",
+      "forbrukerkjøpsloven"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Data viser sterk interesse for både garanti og reklamasjon (iPhone/Zalando/mobil). En generell side kan samle autoritet.",
+    "title": "Garanti vs reklamasjon: Hva er forskjellen – og hvilken «kvittering» trenger du?",
+    "ghostPostId": "6990722675721e04d720ef8c",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:26.962Z"
+  },
+  {
+    "category": "feature-highlight",
+    "topic": "Hvordan lagre kvitteringer trygt: PDF, e-post, skjermbilde eller kvitteringsapp?",
+    "query": "lagre kvitteringer",
+    "keywords": [
+      "digital kvittering",
+      "e-kvittering",
+      "kvitteringer lagret på ett sted"
+    ],
+    "dataSource": "seo-gap",
+    "rationale": "Sterk produkt-fit for minekvitteringer.no og tett på eksisterende queries om digital kvittering.",
+    "title": "Hvordan lagre kvitteringer trygt i 2026: PDF, e-post, skjermbilde eller kvitteringsapp?",
+    "ghostPostId": "6990722775721e04d720ef92",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:27.149Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Når trenger du kvittering? 27 vanlige situasjoner nordmenn faktisk møter",
+    "query": "når trenger man kvittering",
+    "keywords": [
+      "kvittering",
+      "reklamasjon",
+      "garanti"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Bred top-of-funnel som bygger interne lenker til store guider (Elkjøp/Zalando/iPhone) uten å duplisere dem.",
+    "title": "Når trenger du kvittering? 27 vanlige situasjoner nordmenn faktisk møter",
+    "ghostPostId": "6990722775721e04d720ef98",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:27.350Z"
+  },
+  {
+    "category": "trending",
+    "topic": "OL på TV og store kjøp: Slik sikrer du kvittering på ny TV (retur, reklamasjon, garanti)",
+    "query": "tv garanti",
+    "keywords": [
+      "nrk tv",
+      "tv2.no",
+      "tv",
+      "kvittering tv"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "Trender på «tv», «nrk tv» og «tv2.no»; naturlig kobling til TV-kjøp, dokumentasjon og garanti.",
+    "title": "OL på TV og store kjøp: Slik sikrer du kvittering på ny TV (retur, reklamasjon og garanti)",
+    "ghostPostId": "6990722775721e04d720ef9e",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:27.538Z"
+  },
+  {
+    "category": "problem-solving",
+    "topic": "DNB-kjøp og kvittering: Slik finner du transaksjonsdetaljer som kan støtte en reklamasjon",
+    "query": "dnb kvittering",
+    "keywords": [
+      "dnb",
+      "kontoutskrift",
+      "kortkjøp dokumentasjon"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«dnb» trender; vi kan fange behovet for betalingsdokumentasjon når kvittering mangler.",
+    "title": "DNB-kjøp og kvittering: Slik finner du transaksjonsdetaljer som kan støtte en reklamasjon",
+    "ghostPostId": "6990722775721e04d720efa4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:27.755Z"
+  },
+  {
+    "category": "trending",
+    "topic": "ChatGPT for kvitteringskaos: Slik kan AI hjelpe deg å organisere kjøpsbevis (uten å dele sensitive data)",
+    "query": "ai kvitteringer",
+    "keywords": [
+      "chatgpt",
+      "kvitteringer",
+      "personvern"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«chatgpt» trender; gir ny vinkel på organisering og personvern som passer produktet.",
+    "title": "ChatGPT for kvitteringskaos: Slik kan AI hjelpe deg å organisere kjøpsbevis (uten å dele sensitive data)",
+    "ghostPostId": "6990722775721e04d720efaa",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:27.932Z"
+  },
+  {
+    "category": "trending",
+    "topic": "Translate og utenlandske kvitteringer: Slik tolker du garantivilkår på engelsk (og lagrer beviset)",
+    "query": "utenlandsk kvittering",
+    "keywords": [
+      "translate",
+      "garanti",
+      "kvittering"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«translate» trender; kan kobles til reiser/utenlandske kjøp og behovet for å forstå vilkår.",
+    "title": "Translate og utenlandske kvitteringer: Slik tolker du garantivilkår på engelsk (og lagrer beviset)",
+    "ghostPostId": "6990722875721e04d720efb0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:28.224Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "VikingLotto og store gevinster: Hvilke kvitteringer bør du faktisk ta vare på ved premie og skatt?",
+    "query": "gevinst kvittering",
+    "keywords": [
+      "vikinglotto trekning",
+      "dokumentasjon",
+      "skatt"
+    ],
+    "dataSource": "google-trends",
+    "rationale": "«vikinglotto trekning» trender; uvanlig men relevant dokumentasjons-case.",
+    "title": "VikingLotto og store gevinster: Hvilke kvitteringer bør du faktisk ta vare på ved premie og skatt?",
+    "ghostPostId": "6990722875721e04d720efb6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:28.444Z"
+  },
+  {
+    "category": "life-situation",
+    "topic": "Kvittering som bevis i forsikring: Slik dokumenterer du verdi etter tyveri eller skade",
+    "query": "kvittering forsikring",
+    "keywords": [
+      "dokumentasjon",
+      "innboforsikring",
+      "verdivurdering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy praktisk verdi og direkte relevans for kvitteringslagring, uten å overlappe butikk-guider.",
+    "title": "Kvittering som bevis i forsikring: Slik dokumenterer du verdi etter tyveri eller skade",
+    "ghostPostId": "6990722875721e04d720efbc",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:28.642Z"
+  },
+  {
+    "category": "business",
+    "topic": "Slik bygger du et «bilagsarkiv» privat: En enkel struktur som tåler 5 år",
+    "query": "bilagsarkiv",
+    "keywords": [
+      "arkivering kvitteringer",
+      "kvitteringer",
+      "dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Tema-analysen viser «bilagsarkiv» (ARK) – lavt volum i dag, men kan bli autoritetsinnhold og fange long-tail.",
+    "title": "Slik bygger du et bilagsarkiv privat: En enkel struktur som tåler 5 år",
+    "ghostPostId": "6990722875721e04d720efc2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:28.841Z"
+  },
+  {
+    "category": "business",
+    "topic": "Mistet kvittering til regnskap: Hva gjør du – og hva kan brukes som erstatning?",
+    "query": "mistet kvittering regnskap",
+    "keywords": [
+      "regnskap",
+      "bilag",
+      "kontoutskrift"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Finnes i problem-listen (18 visninger); liten, men svært kvalifisert målgruppe med høy produkt-fit.",
+    "title": "Mistet kvittering til regnskap: Hva gjør du – og hva kan brukes som erstatning?",
+    "ghostPostId": "6990722875721e04d720efc8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:29.041Z"
+  },
+  {
+    "category": "business",
+    "topic": "Kvittering fra privatperson til firma: Slik skriver du et gyldig bilag",
+    "query": "kvittering fra privatperson til firma",
+    "keywords": [
+      "bilag",
+      "regnskap",
+      "dokumentasjon"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Nisje (21 visninger) men tydelig behov; bra for E-E-A-T og kan ranke lett.",
+    "title": "Kvittering fra privatperson til firma: Slik skriver du et gyldig bilag (2026)",
+    "ghostPostId": "6990722975721e04d720efce",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:29.241Z"
+  },
+  {
+    "category": "business",
+    "topic": "Firmabil og bompenger: Hvilke kvitteringer må du ta vare på?",
+    "query": "firmabil bompenger",
+    "keywords": [
+      "enk",
+      "regnskap",
+      "bilag"
+    ],
+    "dataSource": "search-console",
+    "rationale": "Business-tema finnes i data; gir flere innganger til kvitteringsarkiv for småbedrifter.",
+    "title": "Firmabil og bompenger: Hvilke kvitteringer må du ta vare på i 2026?",
+    "ghostPostId": "6990722975721e04d720efd4",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:29.458Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitterings-beredskap: 10 dokumenter du bør ha klare før uhellet skjer",
+    "query": "kvitteringsberedskap",
+    "keywords": [
+      "kvitteringsberedskap"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Gir delbart, nyttig evergreen-innhold som bygger behovet for én lagringsplass.",
+    "title": "Kvitterings-beredskap: 10 dokumenter du bør ha klare før uhellet skjer",
+    "ghostPostId": "6990722975721e04d720efda",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:29.680Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Den skjulte kostnaden ved å miste kvitteringer: tid, penger og stress (med regneeksempel)",
+    "query": "miste kvittering kostnad",
+    "keywords": [
+      "miste kvittering kostnad"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Skaper emosjonell hook og naturlig overgang til løsning.",
+    "title": "Den skjulte kostnaden ved å miste kvitteringer: tid, penger og stress (med regneeksempel)",
+    "ghostPostId": "6990722975721e04d720efe0",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:29.896Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik lager du et «kvitterings-testament» for familie: hva som trengs ved dødsbo",
+    "query": "kvitteringer dødsbo",
+    "keywords": [
+      "kvitteringer dødsbo"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Nisje + høy alvorlighet = høy tillit og lenkebarhet.",
+    "title": "Slik lager du et «kvitterings-testament» for familien: kvitteringer i dødsbo uten kaos",
+    "ghostPostId": "6990722975721e04d720efe6",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:30.108Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Falske kvitteringer og svindel: Slik sjekker du om en kvittering er ekte",
+    "query": "falsk kvittering",
+    "keywords": [
+      "falsk kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Aktuelt for Finn.no/ bruktmarked; gir praktiske sjekklister.",
+    "title": "Falske kvitteringer og svindel: Slik avslører du en falsk kvittering på bruktmarkedet",
+    "ghostPostId": "6990722a75721e04d720efec",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:30.330Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Kvitteringer og personvern: hva bør du aldri lagre i skyen?",
+    "query": "kvittering personvern",
+    "keywords": [
+      "kvittering personvern"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Bygger tillit til tjenesten og adresserer barriere for digital lagring.",
+    "title": "Kvitteringer og personvern: hva bør du aldri lagre i skyen? (Og hva som faktisk er trygt)",
+    "ghostPostId": "6990722a75721e04d720eff2",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:30.532Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "AI som leser kvitteringer: hva er mulig i 2026 – og hva bør du være skeptisk til?",
+    "query": "ai kvittering",
+    "keywords": [
+      "ai kvittering"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Treffer trend («chatgpt») og posisjonerer dere som trygg aktør.",
+    "title": "AI som leser kvitteringer i 2026: Dette kan en «ai kvittering» gjøre – og dette bør du være skeptisk til",
+    "ghostPostId": "6990722a75721e04d720eff8",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:30.759Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Slik lager du en kvitteringsrutine som varer: psykologi og vaner (2 minutter per uke)",
+    "query": "kvitteringsrutine",
+    "keywords": [
+      "kvitteringsrutine"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Skiller seg fra vanlige «tips»-artikler; høy retention.",
+    "title": "Slik lager du en kvitteringsrutine som varer: psykologi og vaner (2 minutter per uke)",
+    "ghostPostId": "6990722a75721e04d720effe",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:30.966Z"
+  },
+  {
+    "category": "ai-creative",
+    "topic": "Hvor lenge bør du ta vare på kvitteringer? En enkel «behold til»-tabell",
+    "query": "hvor lenge spare kvitteringer",
+    "keywords": [
+      "hvor lenge spare kvitteringer"
+    ],
+    "dataSource": "ai-creative",
+    "rationale": "Høy søkeintensjon, enkel å skumme, god for featured snippet.",
+    "title": "Hvor lenge bør du ta vare på kvitteringer? En enkel «behold til»-tabell (2026)",
+    "ghostPostId": "6990722b75721e04d720f004",
+    "batchId": "batch_698db3d015f08190bfea079ff27c03ad",
+    "generatedAt": "2026-02-14T13:01:31.201Z"
   }
 ]
