@@ -61,6 +61,39 @@ export async function createPost(article, autoPublish = false) {
   }
 }
 
+// Get all posts with full content for analysis
+export async function getAllPostsWithContent() {
+  const token = generateGhostToken();
+  let allPosts = [];
+  let page = 1;
+
+  try {
+    while (true) {
+      const url = `${config.ghostApiUrl}posts/?limit=100&page=${page}&fields=id,title,slug,url,html,plaintext,published_at,meta_title,meta_description,custom_excerpt&filter=status:published`;
+      const response = await fetch(url, {
+        headers: { 'Authorization': `Ghost ${token}` }
+      });
+
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(`Ghost API error: ${JSON.stringify(error)}`);
+      }
+
+      const result = await response.json();
+      allPosts = allPosts.concat(result.posts);
+
+      if (!result.meta?.pagination?.next) break;
+      page++;
+    }
+
+    console.log(`  Fetched ${allPosts.length} published posts from Ghost`);
+    return allPosts;
+  } catch (error) {
+    console.error('Failed to fetch posts with content:', error.message);
+    return [];
+  }
+}
+
 // Get existing posts to check for duplicates
 export async function getExistingPosts() {
   const token = generateGhostToken();

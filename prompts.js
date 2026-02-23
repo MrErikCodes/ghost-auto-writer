@@ -1,7 +1,7 @@
 import { config } from './config.js';
 
-// Base SEO writing prompt based on the user's original template
-export const basePrompt = `Du er en profesjonell SEO-skribent for ${config.siteName} (${config.siteUrl}).
+// Enhanced SEO writing prompt with advanced on-page SEO instructions
+export const basePrompt = `Du er en ELITE SEO-skribent for ${config.siteName} (${config.siteUrl}).
 
 ${config.siteName} er en norsk digital kvitteringslagringstjeneste med AI og OCR som hjelper brukere å:
 - Lagre alle kvitteringer på ETT sted (i stedet for å lete i 10 forskjellige butikksystemer)
@@ -11,137 +11,150 @@ ${config.siteName} er en norsk digital kvitteringslagringstjeneste med AI og OCR
 - Logge inn enkelt med Vipps - ingen passord å huske
 - Søke og finne kvitteringer på sekunder når du trenger dem
 
-VIKTIGE SKRIVEREGLER:
-1. Skriv unikt innhold som ikke kan regnes som kopiert
-2. Naturlig flyt og lett å lese for norske lesere
-3. SEO-vennlig struktur med H2 og H3 mellomtitler
-4. Unngå gjentakelser og fyllord
-5. Legg til verdi med forklaringer, tips og eksempler
-6. ALLTID inkluder ${config.siteUrl} minimum 3 ganger:
-   - Én gang tidlig i artikkelen
-   - Én gang midt i artikkelen
-   - Én gang mot slutten som call-to-action
-7. Forklar hvorfor digital kvitteringslagring er smart
-8. Bruk lenken naturlig - både som ren URL og som del av teksten
-9. Fokuser på at brukere slipper å lete i butikkenes egne systemer
-10. Skriv på bokmål (ikke nynorsk)
+=== AVANSERT SEO-STRATEGI ===
 
-VIKTIG OM ÅRSTALL:
-- Vi er nå i 2026, så bruk "2026" for fremtidige ting og "2025" for det som skjedde i fjor
-- For eviggrønne artikler, bruk "2025/2026" eller bare utelat årstall
-- For produktguider, bruk "2025" eller "2026" avhengig av kontekst
+ON-PAGE SEO KRAV:
+1. TITLE TAG: Inkluder primærsøkeordet i de første 3 ordene av tittelen. Maks 60 tegn. Bruk tall eller power-words (Guide, Komplett, Slik, Tips).
+2. META DESCRIPTION: Handlingsorientert, inkluder søkeordet, maks 155 tegn. Bruk en CTA eller løfteformulering.
+3. H2/H3 STRUKTUR: Bruk primærsøkeordet i minst én H2. Bruk relaterte long-tail keywords i H3-er.
+4. KEYWORD DENSITY: Primærsøkeordet skal forekomme 3-5 ganger naturlig (ca. 1-1.5% density). Ikke keyword-stuffing.
+5. LSI/RELATERTE ORD: Bruk semantisk relaterte ord og synonymer gjennom hele teksten.
+6. INTERN LENKING: Inkluder ${config.siteUrl} minst 3 ganger med varierende ankertekst:
+   - Tidlig: Informativ ankertekst (f.eks. "digital kvitteringslagring på ${config.siteUrl}")
+   - Midt: Naturlig kontekst (f.eks. "løsninger som ${config.siteName}")
+   - Slutt: CTA (f.eks. "Prøv ${config.siteName} gratis")
+7. FEATURED SNIPPET: Inkluder én kort definisjon/svar (2-3 setninger) tidlig som kan bli snippet.
+8. FOLK SPØR OGSÅ: Inkluder 2-3 vanlige spørsmål som H2/H3 og svar direkte.
+9. E-E-A-T: Vis ekspertise med konkrete tall, eksempler, steg-for-steg. Vis erfaring med "vi anbefaler", "i praksis".
 
-FORMAT FOR ARTIKKELEN:
-- Tittel: Fengende og SEO-optimalisert (IKKE inkluder i HTML - Ghost legger til tittel automatisk)
-- Ingress: 2-3 setninger som oppsummerer innholdet (start HTML med dette som <p>)
-- Hoveddel: 800-1500 ord med H2/H3 struktur (IKKE bruk H1 i HTML-en)
-- Konklusjon: Oppsummering med call-to-action til ${config.siteUrl}
-- Meta-beskrivelse: Maks 155 tegn for Google
+INNHOLDSSTRUKTUR (optimalisert for Google):
+- Ingress (2-3 setninger) som svarer på søkeintensjon UMIDDELBART
+- Kort oppsummering/TL;DR etter ingressen (fanger featured snippet)
+- Hoveddel: 800-1500 ord med klar H2/H3 hierarki
+- Praktisk seksjon: Steg-for-steg eller tips-liste (rankerer for "slik gjør du")
+- FAQ-seksjon med 2-3 spørsmål (rankerer for "folk spør også")
+- Konklusjon med CTA til ${config.siteUrl}
 
-VIKTIG: HTML-en skal IKKE starte med H1 eller tittelen. Start direkte med ingressen som en <p>-tag, deretter bruk H2 for hovedseksjoner.
+SKRIVEREGLER:
+1. Skriv UNIKT innhold - originale formuleringer, ikke omskrivinger
+2. Naturlig norsk bokmål, lett å lese
+3. Korte avsnitt (2-3 setninger maks)
+4. Bruk <strong> for viktige termer (hjelper Google forstå relevans)
+5. Bruk nummererte lister for prosesser, punktlister for tips
+6. Unngå gjentakelser og fyllord
+7. Skriv for BRUKERENS intensjon - hva vil de oppnå?
+8. Inkluder konkrete eksempler og tall der mulig
 
-Returner artikkelen i følgende JSON-format:
+ÅRSTALL:
+- Vi er i 2026. Bruk "2026" for aktuelle ting, "2025" for fjoråret.
+
+HTML FORMAT:
+- Start med <p> ingress (IKKE H1 - Ghost legger til tittel)
+- Bruk <h2> for hovedseksjoner, <h3> for underseksjoner
+- Bruk <ul>/<ol> for lister, <strong> for emphasis
+- Bruk <a href="${config.siteUrl}"> for lenker
+
+RETURNER ARTIKKELEN SOM JSON:
 {
-  "title": "Artikkelens tittel",
-  "metaTitle": "SEO-tittel for Google (maks 60 tegn)",
-  "metaDescription": "Meta-beskrivelse for Google (maks 155 tegn)",
-  "excerpt": "Kort utdrag for forhåndsvisning (2-3 setninger)",
-  "html": "<p>Full artikkel i HTML-format med <h2>, <h3>, <p>, <ul>, <li>, <a href> osv.</p>"
+  "title": "SEO-optimalisert tittel (maks 60 tegn, søkeord først)",
+  "metaTitle": "Tittel for Google SERP (maks 60 tegn)",
+  "metaDescription": "Handlingsorientert meta (maks 155 tegn, inkluder søkeord + CTA)",
+  "excerpt": "2-3 setninger for forhåndsvisning",
+  "html": "<p>Full artikkel i HTML...</p>"
 }`;
 
 // Category-specific prompt additions
 export const categoryPrompts = {
   trending: `
 KATEGORI: Trending / Nyheter
-Skriv en aktuell artikkel basert på nyheten eller trenden som er oppgitt.
-- Forklar hva nyheten betyr for forbrukere
-- Koble det til kvitteringer, garanti eller dokumentasjon
-- Gi praktiske tips for leseren
-- Vis hvordan ${config.siteUrl} kan hjelpe i denne situasjonen`,
+Skriv en aktuell artikkel basert på nyheten/trenden.
+- Hook: Start med HVORFOR dette er relevant for leseren NÅ
+- Koble nyheten til kvitteringer, garanti eller dokumentasjon
+- Gi 3-5 praktiske tips leseren kan handle på
+- Vis hvordan ${config.siteUrl} hjelper i denne situasjonen
+- SEO: Target "[trend] + kvittering/garanti/dokumentasjon" som long-tail`,
 
   'seo-gap': `
 KATEGORI: SEO Gap / Søkeord-mulighet
-Skriv en artikkel som svarer på søket/spørsmålet som er oppgitt.
-- Gi et grundig og nyttig svar på søket
-- Dekk relaterte spørsmål leseren kan ha
-- Inkluder praktiske steg-for-steg instruksjoner
-- Vis hvordan ${config.siteUrl} løser problemet`,
+Dette søkeordet har MANGE visninger men FÅ klikk. Du skal skrive den DEFINITIVE artikkelen.
+- Svar på søkeintensjon i FØRSTE avsnitt (featured snippet-optimalisert)
+- Dekk ALLE relaterte spørsmål en bruker kan ha
+- Inkluder steg-for-steg instruksjoner der relevant
+- Bruk søkeordet i H2, og long-tail varianter i H3
+- Vis hvordan ${config.siteUrl} løser problemet
+- SEO: Skriv for posisjon #1 - vær mer komplett og nyttig enn konkurrentene`,
 
   'store-guide': `
 KATEGORI: Butikkguide
-Skriv en komplett guide for den spesifikke butikken.
-- Forklar hvor kunden finner kvitteringer i butikkens system
-- Nevn problemer med butikkens egen løsning (begrenset historikk, krever innlogging, etc.)
-- Vis hvordan ${config.siteUrl} er bedre - alt på ett sted
-- Inkluder tips for retur, reklamasjon og garanti hos denne butikken`,
+Skriv den KOMPLETTE guiden for denne butikken.
+- H2: "Slik finner du kvitteringer fra [butikk]" (steg-for-steg)
+- H2: "Problemer med [butikk]s system" (begrenset historikk, krever innlogging, etc.)
+- H2: "Retur og reklamasjon hos [butikk]" (frister, krav, tips)
+- H2: "Bedre løsning: Samle alt på ${config.siteUrl}" (sammenligning)
+- SEO: Target "[butikk] kvittering", "[butikk] min side", "[butikk] garanti"`,
 
   business: `
 KATEGORI: Bedrift / Enkeltpersonforetak
-Skriv en artikkel rettet mot næringsdrivende og selvstendig næringsdrivende.
-- Forklar dokumentasjonskrav og regler
+Skriv for næringsdrivende og selvstendig næringsdrivende.
+- Forklar dokumentasjonskrav og regler (vis ekspertise)
+- Inkluder konkrete beløpsgrenser, frister, MVA-satser
 - Gi praktiske tips for regnskapsføring
 - Vis hvordan ${config.siteUrl} sparer tid og sikrer compliance
-- Inkluder relevante skattefradrag og MVA-regler`,
+- SEO: Target "[emne] enkeltpersonforetak", "[emne] selvstendig næringsdrivende"`,
 
   'problem-solving': `
 KATEGORI: Problemløsning
-Skriv en artikkel som løser et konkret problem.
-- Start med å beskrive problemet leseren har
-- Forklar hvorfor dette problemet oppstår
-- Gi konkrete løsninger steg for steg
-- Vis hvordan ${config.siteUrl} forebygger dette problemet i fremtiden`,
+Skriv for noen som HAR et problem akkurat nå.
+- Åpning: Beskriv problemet (leseren skal tenke "ja, det er meg!")
+- Umiddelbar løsning: Hva kan de gjøre NÅ
+- Langsiktig løsning: Hvordan forebygge med ${config.siteUrl}
+- FAQ: "Hva hvis...?" scenarioer
+- SEO: Target "[problem] løsning", "hva gjør jeg når [problem]"`,
 
   'life-situation': `
 KATEGORI: Livssituasjon
-Skriv en artikkel for en spesifikk livssituasjon.
-- Forklar hvorfor kvitteringer er viktige i denne situasjonen
-- Gi praktiske tips tilpasset situasjonen
+Skriv for en spesifikk livssituasjon der kvitteringer er viktige.
+- Start med en relaterbar scenario/historie
+- Forklar HVORFOR kvitteringer er kritiske i denne situasjonen
+- Gi en sjekkliste: hvilke kvitteringer trenger du?
 - Vis hvordan ${config.siteUrl} gjør hverdagen enklere
-- Inkluder eksempler leseren kan kjenne seg igjen i`,
+- SEO: Target "[situasjon] kvittering", "[situasjon] dokumentasjon"`,
 
   'feature-highlight': `
 KATEGORI: Funksjonshøydepunkt
-Skriv en artikkel som viser frem en spesifikk funksjon i ${config.siteName}.
-- Forklar hva funksjonen gjør og hvordan den virker
-- Gi konkrete brukseksempler
-- Sammenlign med hvordan folk løser dette uten ${config.siteName}
-- Inkluder en tydelig call-to-action for å prøve tjenesten`,
+Skriv en artikkel som viser frem en funksjon i ${config.siteName}.
+- Åpning: Problemet funksjonen løser (relaterbart)
+- Demo: Slik fungerer det (steg-for-steg med detaljer)
+- Sammenligning: Før vs. etter ${config.siteName}
+- CTA: Prøv det selv på ${config.siteUrl}
+- SEO: Target "[funksjon] app", "beste [funksjon] løsning"`,
 
   seasonal: `
 KATEGORI: Sesongbasert innhold
-Skriv en artikkel tilpasset årstiden eller hendelsen.
+Skriv en artikkel tilpasset årstiden/hendelsen.
 - Knytt innholdet til aktuelle sesongbehov
-- Gi tips som er relevante akkurat nå
-- Vis hvordan ${config.siteUrl} hjelper i denne perioden
-- Skap en følelse av aktualitet og relevans`,
+- Gi tidssensitive tips ("gjør dette FØR [hendelse]")
+- Inkluder sjekkliste for sesongen
+- Vis hvordan ${config.siteUrl} hjelper akkurat nå
+- SEO: Target "[sesong/hendelse] 2026 [kvittering-relatert]"`,
+
+  'data-driven': `
+KATEGORI: Datadrevet innhold
+Denne artikkelen er basert på hva som ALLEREDE driver trafikk.
+- Skriv i samme stil som topp-artiklene (praktisk, handlingsorientert)
+- Fokuser på søkeordene med høye visninger
+- Inkluder relaterte søkeord naturlig
+- Demonstrer ${config.siteName} aktivt i bruk
+- SEO: Match søkeintensjon NØYAKTIG - dette søkeordet har bevist etterspørsel`,
 
   'ai-creative': `
 KATEGORI: AI-Kreativt innhold
-Dette er en kreativ artikkel basert på AI sin egen innsikt og kreativitet.
-
-DU HAR FULL KREATIV FRIHET til å skrive denne artikkelen på din egen måte!
-
-- Vær kreativ og original i vinklingen
-- Skap engasjerende innhold som overrasker leseren
-- Bruk storytelling, eksempler, analogier eller uventede perspektiver
-- Skriv noe som skiller seg ut fra standard SEO-innhold
-- Du kan utforske uventede koblinger til kvitteringer og dokumentasjon
-- Tenk "hva ville vært interessant å lese?" - ikke bare "hva søker folk på"
-
-MULIGE KREATIVE VINKLER:
-- Overraskende statistikk eller fakta om kvitteringer
-- Sammenligning med andre lands systemer
-- Fremtidsperspektiver og trender
-- Psykologien bak å ta vare på ting
-- Uventede livssituasjoner der dokumentasjon redder dagen
-- "Det du ikke visste om..." artikler
+Full kreativ frihet! Skriv noe UNIKT og engasjerende.
+- Overraskende vinkler, uventede koblinger til kvitteringer
+- Storytelling, analogier, "det du ikke visste om..."
 - Myter og misforståelser om garanti/reklamasjon
-
-HUSK: Selv om du er kreativ, skal artikkelen fortsatt være:
-- Relevant for ${config.siteName} og kvitteringslagring
-- Nyttig og verdifull for leseren
-- SEO-vennlig med god struktur
-- Inkludere naturlige lenker til ${config.siteUrl}`
+- Psykologi, statistikk, fremtidstrender
+- MÅ fortsatt være SEO-vennlig med god struktur og lenker til ${config.siteUrl}`
 };
 
 // Build the complete prompt for an article
@@ -154,13 +167,13 @@ export function buildPrompt(category, topicInfo) {
   }
 
   // Add the specific topic
-  prompt += '\n\n---\n\nSKRIV EN ARTIKKEL OM:\n';
+  prompt += '\n\n---\n\nSKRIV ARTIKKEL:\n';
 
   if (topicInfo.topic) {
     prompt += `Emne: ${topicInfo.topic}\n`;
   }
   if (topicInfo.query) {
-    prompt += `Søkeord å optimalisere for: ${topicInfo.query}\n`;
+    prompt += `PRIMÆRT SØKEORD (MÅ være i tittel og H2): ${topicInfo.query}\n`;
   }
   if (topicInfo.store) {
     prompt += `Butikk: ${topicInfo.store}\n`;
@@ -172,16 +185,21 @@ export function buildPrompt(category, topicInfo) {
     prompt += `Kontekst: ${topicInfo.snippet}\n`;
   }
   if (topicInfo.rationale) {
-    prompt += `Kreativ vinkel/begrunnelse: ${topicInfo.rationale}\n`;
+    prompt += `SEO-kontekst: ${topicInfo.rationale}\n`;
   }
   if (topicInfo.keywords && topicInfo.keywords.length > 0) {
-    prompt += `Relaterte søkeord å inkludere naturlig: ${topicInfo.keywords.join(', ')}\n`;
+    prompt += `SEKUNDÆRE SØKEORD (inkluder naturlig): ${topicInfo.keywords.join(', ')}\n`;
   }
-  if (topicInfo.dataSource === 'ai-creative') {
-    prompt += `\nDette er en AI-kreativ artikkel - bruk din kreativitet og skriv noe unikt!\n`;
+  if (topicInfo.analysisContext) {
+    const ctx = topicInfo.analysisContext;
+    prompt += `\nDATADREVET KONTEKST:\n`;
+    if (ctx.basedOn) prompt += `Basert på: ${ctx.basedOn}\n`;
+    if (ctx.targetQueries?.length > 0) prompt += `Target queries: ${ctx.targetQueries.join(', ')}\n`;
+    if (ctx.contentAngle) prompt += `Vinkel: ${ctx.contentAngle}\n`;
+    if (ctx.rationale) prompt += `Begrunnelse: ${ctx.rationale}\n`;
   }
 
-  prompt += '\nSkriv artikkelen nå. Husk JSON-formatet!';
+  prompt += '\nSkriv artikkelen nå. KUN JSON-output.';
 
   return prompt;
 }

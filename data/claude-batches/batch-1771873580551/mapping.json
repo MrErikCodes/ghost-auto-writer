@@ -1,0 +1,60 @@
+{
+  "timestamp": 1771873580551,
+  "createdAt": "2026-02-23T19:06:20.552Z",
+  "topics": [
+    {
+      "index": 0,
+      "promptFile": "prompt-0.txt",
+      "topic": {
+        "category": "problem-solving",
+        "topic": "Kvittering på e-post: slik finner du igjen kjøpet (og bruker den til garanti/reklamasjon)",
+        "query": "kvittering på e-post",
+        "keywords": [
+          "e-kvittering",
+          "kvittering",
+          "kvittering på mail",
+          "digital kvittering",
+          "finne kvittering"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Search Console viser høy visning og 0 klikk for «kvittering på e-post» (222 imp, posisjon ~1.21) og samtidig lav CTR på «kvittering» (2259 imp, posisjon ~2.78). En praktisk guide kan løfte CTR via bedre tittel/metadata og gi intern lenking til lagringstjenesten."
+      }
+    },
+    {
+      "index": 1,
+      "promptFile": "prompt-1.txt",
+      "topic": {
+        "category": "feature-highlight",
+        "topic": "Kvitteringshåndtering: den enkle metoden for å samle alle kvitteringer på ett sted (privat og familie)",
+        "query": "kvitteringshåndtering",
+        "keywords": [
+          "kvitteringer lagret på ett sted",
+          "kvittering",
+          "e-kvittering",
+          "digital kvittering",
+          "kvitering"
+        ],
+        "dataSource": "search-console",
+        "rationale": "Flere svært relevante queries har 0 klikk men topp-posisjoner: «kvitteringshåndtering» (274 imp, pos ~1.42), «kvitteringer lagret på ett sted» (224 imp, pos ~1.22) og «kvitering» (353 imp, pos ~1.69). Dette indikerer snippet/tittel-mismatch: en dedikert artikkel som matcher intensjonen kan øke klikk uten å måtte klatre i rangering."
+      }
+    },
+    {
+      "index": 2,
+      "promptFile": "prompt-2.txt",
+      "topic": {
+        "category": "store-guide",
+        "topic": "Fysisk butikk + digital kvittering: hva har du krav på, og hvordan ber du om e‑kvittering i kassa?",
+        "query": "fysisk butikk digital kvittering",
+        "keywords": [
+          "e-kvittering",
+          "kvittering",
+          "kvittering på e-post",
+          "digital kvittering butikk",
+          "kvitteringer lagret på ett sted"
+        ],
+        "dataSource": "search-console",
+        "rationale": "«fysisk butikk digital kvittering» har 221 visninger, 0 klikk og posisjon ~1.19—klassisk mulighet for å kapre klikken med en svært konkret artikkel (spørsmål/svar-format, steg i kassa, hva man gjør hvis man bare får papir). Dette er også tett koblet til tjenestens kjerneverdi."
+      }
+    }
+  ]
+}

@@ -18,6 +18,15 @@ import {
   cancelBatch
 } from './batch-writer.js';
 import { parseIdeasFile, ideasToTopics } from './ideas-parser.js';
+import { SiteAnalyzer } from './site-analyzer.js';
+import {
+  prepareBatch as claudePrepareBatch,
+  runBatch as claudeRunBatch,
+  getBatchStatus as claudeGetBatchStatus,
+  loadBatchResults as claudeLoadBatchResults,
+  loadBatchMapping as claudeLoadBatchMapping,
+  generateFastTopics
+} from './claude-writer.js';
 
 const program = new Command();
 
@@ -666,6 +675,163 @@ program
     console.log('='.repeat(40) + '\n');
   });
 
+// ============================================
+// DATA-DRIVEN COMMANDS
+// ============================================
+
+program
+  .command('analyze')
+  .description('Analyze blog performance: cross-reference Ghost posts with Search Console data')
+  .action(async () => {
+    console.log('\n  SITE ANALYSIS');
+    console.log('='.repeat(40));
+
+    const analyzer = new SiteAnalyzer();
+    await analyzer.analyze();
+    analyzer.printReport();
+  });
+
+program
+  .command('data-generate')
+  .description('Generate articles based on data analysis of what performs best')
+  .option('-c, --count <number>', 'Number of articles to generate', '5')
+  .option('-d, --dryrun', 'Generate without posting to Ghost')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--no-batch', 'Force real-time generation even for 10+ articles')
+  .action(async (options) => {
+    const count = parseInt(options.count);
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const useBatch = options.batch !== false && count >= 10;
+
+    console.log('\n  DATA-DRIVEN GENERATE');
+    console.log('='.repeat(40));
+    console.log(`  Generating ${count} article(s) based on performance data\n`);
+    if (dryRun) console.log('  DRY RUN MODE - will not post to Ghost\n');
+
+    // Step 1: Analyze the site
+    console.log('Step 1: Analyzing site performance...');
+    const analyzer = new SiteAnalyzer();
+    await analyzer.analyze();
+
+    if (analyzer.topPerformers.length === 0) {
+      console.log('\n  No performance data found. Run "analyze" first to check data.\n');
+      return;
+    }
+
+    // Print brief summary
+    console.log(`\n  Top themes: ${analyzer.doubleDownOpportunities.slice(0, 3).map(t => t.theme).join(', ')}`);
+    console.log(`  Top performer: "${analyzer.topPerformers[0]?.title}" (${analyzer.topPerformers[0]?.clicks} clicks)\n`);
+
+    // Step 2: Generate topic suggestions
+    console.log('Step 2: AI generating topic suggestions from analysis...\n');
+    const suggestions = await analyzer.generateTopicSuggestions(count * 2); // Request extra to account for filtering
+
+    if (suggestions.length === 0) {
+      console.log('  Could not generate topic suggestions.\n');
+      return;
+    }
+
+    console.log(`  Got ${suggestions.length} suggestions from AI`);
+    suggestions.forEach((s, i) => {
+      console.log(`  ${i + 1}. "${s.title}" [${s.priority}] - ${s.basedOn}`);
+    });
+
+    // Step 3: Filter duplicates
+    console.log('\nStep 3: Filtering duplicates...');
+    const previousTopics = await loadGeneratedTopics();
+    const { unique: uniqueSuggestions } = filterUniqueIdeas(
+      suggestions.map(s => ({ title: s.title, primaryKeyword: s.primaryKeyword })),
+      previousTopics
+    );
+
+    const finalSuggestions = suggestions
+      .filter(s => uniqueSuggestions.some(u => u.title === s.title))
+      .slice(0, count);
+
+    console.log(`  ${finalSuggestions.length} unique ideas ready to generate\n`);
+
+    if (finalSuggestions.length === 0) {
+      console.log('  No unique ideas after filtering. All suggestions match existing content.\n');
+      return;
+    }
+
+    // Convert to topics
+    const topics = finalSuggestions.map(s => ({
+      category: 'data-driven',
+      topic: s.title,
+      query: s.primaryKeyword,
+      keywords: s.targetQueries || [],
+      dataSource: 'data-driven',
+      rationale: s.rationale,
+      analysisContext: {
+        basedOn: s.basedOn,
+        targetQueries: s.targetQueries,
+        contentAngle: s.contentAngle,
+        topPerformerExample: s.topPerformerExample,
+        rationale: s.rationale
+      }
+    }));
+
+    // Step 4: Generate articles
+    if (useBatch) {
+      console.log('Step 4: Using Batch API (50% discount)...\n');
+      await startBatchGeneration(topics, autoPost);
+      return;
+    }
+
+    console.log(`Step 4: Generating ${topics.length} article(s) in real-time...\n`);
+
+    if (!dryRun) {
+      const connected = await testConnection();
+      if (!connected) {
+        console.error('  Could not connect to Ghost.');
+        return;
+      }
+    }
+
+    let successCount = 0;
+
+    for (let i = 0; i < topics.length; i++) {
+      const topicInfo = topics[i];
+      console.log(`\n--- Article ${i + 1}/${topics.length} ---`);
+      console.log(`Topic: ${topicInfo.topic}`);
+      console.log(`Keyword: ${topicInfo.query}`);
+      console.log(`Based on: ${topicInfo.analysisContext?.basedOn || 'N/A'}`);
+
+      try {
+        const article = await generateArticle(topicInfo.category, topicInfo);
+
+        if (dryRun) {
+          console.log(`  [DRY RUN] Would post: ${article.title}`);
+          console.log(`  Meta: ${article.metaDescription}`);
+        } else {
+          const post = await createPost(article, autoPost);
+          const status = autoPost ? '  Published' : '  Draft saved';
+          console.log(`${status}: ${post.title}`);
+        }
+
+        await saveGeneratedTopic({
+          ...topicInfo,
+          title: article.title,
+          ghostPostId: dryRun ? null : undefined
+        });
+
+        successCount++;
+
+        if (i < topics.length - 1) {
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+      } catch (error) {
+        console.error(`  Failed: ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`  Data-Driven Generate Complete: ${successCount}/${topics.length} articles`);
+    console.log('='.repeat(40) + '\n');
+  });
+
 // Filter out ideas that are similar to already-generated content
 // Returns { unique: [...], rejected: [...] } so caller can track rejected ideas
 function filterUniqueIdeas(ideas, previousTopics, verbose = false) {
@@ -713,8 +879,8 @@ function isSimilar(str1, str2) {
   // Exact match
   if (s1 === s2) return true;
 
-  // One contains the other
-  if (s1.includes(s2) || s2.includes(s1)) return true;
+  // Only block if one fully contains the other (and they're long enough to be meaningful)
+  if (s1.length > 15 && s2.length > 15 && (s1.includes(s2) || s2.includes(s1))) return true;
 
   // Extract key words (remove common words)
   const stopWords = ['slik', 'hvordan', 'hva', 'er', 'for', 'og', 'i', 'på', 'til', 'med', 'som', 'en', 'et', 'de', 'den', 'det', 'av', 'har', 'kan', 'din', 'dine', 'du', 'deg'];
@@ -731,9 +897,9 @@ function isSimilar(str1, str2) {
   // Count matching keywords
   const matches = keywords1.filter(k1 => keywords2.some(k2 => k1 === k2 || k1.includes(k2) || k2.includes(k1)));
 
-  // If more than 60% of keywords match, consider similar
+  // Only block near-exact matches (90%+ keyword overlap) - similar topics are fine for SEO
   const similarity = matches.length / Math.min(keywords1.length, keywords2.length);
-  return similarity >= 0.6;
+  return similarity >= 0.9;
 }
 
 function printResearchResults(result) {
@@ -825,5 +991,461 @@ function printResearchResults(result) {
 
   console.log('='.repeat(60) + '\n');
 }
+
+// ============================================
+// CLAUDE CLI COMMANDS
+// ============================================
+
+program
+  .command('claude-generate')
+  .description('Generate articles using Claude CLI (uses your Claude subscription, no API costs)')
+  .option('-c, --count <number>', 'Number of articles to generate', '5')
+  .option('-d, --dryrun', 'Prepare prompts only, do not run Claude')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--parallel <number>', 'Number of parallel Claude processes', '3')
+  .option('--model <model>', 'Claude model to use', 'sonnet')
+  .option('--bypass-duplicates', 'Skip duplicate checking')
+  .option('--view', 'Stream Claude subprocess output to terminal (see it thinking)')
+  .action(async (options) => {
+    const count = parseInt(options.count);
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const bypassDuplicates = !!options.bypassDuplicates;
+    const view = !!options.view;
+
+    console.log('\n🤖 CLAUDE CLI GENERATE');
+    console.log('='.repeat(40));
+    console.log(`Articles: ${count} | Model: ${model} | Parallel: ${parallel}${view ? ' | VIEW MODE' : ''}`);
+    if (dryRun) console.log('🔸 DRY RUN - will prepare prompts only');
+    if (bypassDuplicates) console.log('⚠ BYPASS DUPLICATES enabled');
+    console.log('');
+
+    // Step 1: Research
+    let previousTopics = bypassDuplicates ? [] : await loadGeneratedTopics();
+    if (!bypassDuplicates) {
+      console.log(`📚 Found ${previousTopics.length} previously generated articles\n`);
+    }
+
+    let uniqueIdeas = [];
+    let rejectedIdeas = [];
+    let attempts = 0;
+    const maxAttempts = 5;
+
+    while (uniqueIdeas.length < count && attempts < maxAttempts) {
+      attempts++;
+      const neededCount = count - uniqueIdeas.length;
+      console.log(`\n🔄 Research round ${attempts}: Looking for ${neededCount}${bypassDuplicates ? '' : ' unique'} ideas...\n`);
+
+      const multiplier = bypassDuplicates ? 1 : (attempts === 1 ? 2 : 3);
+      const requestCount = bypassDuplicates ? neededCount : Math.max(neededCount * multiplier, 15);
+
+      const allToAvoid = bypassDuplicates ? [] : [
+        ...previousTopics,
+        ...rejectedIdeas.map(title => ({ title, topic: title }))
+      ];
+
+      const research = await researchAgent.research(null, requestCount, allToAvoid, attempts);
+
+      if (!research || !research.articleIdeas?.length) {
+        console.log('⚠ Research returned no ideas this round');
+        continue;
+      }
+
+      if (attempts === 1) printResearchResults(research);
+
+      if (bypassDuplicates) {
+        uniqueIdeas = [...uniqueIdeas, ...research.articleIdeas];
+        console.log(`✅ Got ${research.articleIdeas.length} ideas (duplicate check bypassed)`);
+      } else {
+        const allExisting = [...previousTopics, ...uniqueIdeas.map(i => ({ title: i.title, query: i.primaryKeyword, topic: i.title }))];
+        const { unique: newUniqueIdeas, rejected } = filterUniqueIdeas(research.articleIdeas, allExisting);
+        rejectedIdeas = [...rejectedIdeas, ...rejected.map(r => r.title)];
+        console.log(`✅ Found ${newUniqueIdeas.length} new unique ideas this round`);
+        uniqueIdeas = [...uniqueIdeas, ...newUniqueIdeas];
+      }
+
+      if (uniqueIdeas.length < count && attempts < maxAttempts) {
+        console.log(`📊 Total: ${uniqueIdeas.length}/${count} - generating more...`);
+      }
+    }
+
+    uniqueIdeas = uniqueIdeas.slice(0, count);
+    console.log(`\n🎯 ${uniqueIdeas.length} ideas ready\n`);
+
+    if (uniqueIdeas.length === 0) {
+      console.log('❌ No unique ideas found.\n');
+      return;
+    }
+
+    const topics = uniqueIdeas.map(idea => ({
+      category: idea.category || 'seo-gap',
+      topic: idea.title,
+      query: idea.primaryKeyword,
+      keywords: idea.keywords,
+      dataSource: idea.dataSource,
+      rationale: idea.rationale
+    }));
+
+    // Step 2: Prepare batch (write prompts to files)
+    console.log('📁 Preparing Claude batch...');
+    const batchDir = claudePrepareBatch(topics);
+
+    if (dryRun) {
+      console.log(`\n🔸 DRY RUN complete. Prompts saved to: ${batchDir}`);
+      console.log(`\nTo run later:\n  node index.js claude-process ${batchDir}\n`);
+      return;
+    }
+
+    // Step 3: Run batch (spawn claude processes)
+    const { completed, failed } = await claudeRunBatch(batchDir, { parallel, model, view });
+
+    if (completed === 0) {
+      console.log('\n❌ No articles were generated.\n');
+      return;
+    }
+
+    // Step 4: Post results to Ghost
+    if (!autoPost && !dryRun) {
+      console.log('\n📋 Posting articles to Ghost as drafts...\n');
+    }
+
+    const connected = await testConnection();
+    if (!connected) {
+      console.log('❌ Could not connect to Ghost. Results saved in batch dir.');
+      console.log(`  Run later: node index.js claude-process ${batchDir} -a\n`);
+      return;
+    }
+
+    const articles = claudeLoadBatchResults(batchDir);
+    let postSuccess = 0;
+
+    for (const article of articles) {
+      try {
+        const post = await createPost(article, autoPost);
+        const status = autoPost ? '🌐 Published' : '📋 Draft saved';
+        console.log(`  ${status}: ${post.title}`);
+
+        await saveGeneratedTopic({
+          ...article._topicInfo,
+          title: article.title,
+          ghostPostId: post.id
+        });
+
+        postSuccess++;
+      } catch (error) {
+        console.error(`  ❌ Failed to post "${article.title}": ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`✅ Claude Generate Complete`);
+    console.log(`   Generated: ${completed} articles`);
+    console.log(`   Posted: ${postSuccess} articles`);
+    console.log(`   Failed: ${failed} generation(s)`);
+    console.log('='.repeat(40) + '\n');
+  });
+
+program
+  .command('claude-data-generate')
+  .description('Data-driven article generation using Claude CLI (based on site performance analysis)')
+  .option('-c, --count <number>', 'Number of articles to generate', '5')
+  .option('-d, --dryrun', 'Prepare prompts only, do not run Claude')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--parallel <number>', 'Number of parallel Claude processes', '3')
+  .option('--model <model>', 'Claude model to use', 'sonnet')
+  .option('--view', 'Stream Claude subprocess output to terminal (see it thinking)')
+  .action(async (options) => {
+    const count = parseInt(options.count);
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const view = !!options.view;
+
+    console.log('\n🤖 CLAUDE CLI DATA-DRIVEN GENERATE');
+    console.log('='.repeat(40));
+    console.log(`Articles: ${count} | Model: ${model} | Parallel: ${parallel}`);
+    if (dryRun) console.log('🔸 DRY RUN - will prepare prompts only');
+    console.log('');
+
+    // Step 1: Analyze site
+    console.log('Step 1: Analyzing site performance...');
+    const analyzer = new SiteAnalyzer();
+    await analyzer.analyze();
+
+    if (analyzer.topPerformers.length === 0) {
+      console.log('\n❌ No performance data found. Run "analyze" first.\n');
+      return;
+    }
+
+    console.log(`\n📈 Top themes: ${analyzer.doubleDownOpportunities.slice(0, 3).map(t => t.theme).join(', ')}`);
+    console.log(`📈 Top performer: "${analyzer.topPerformers[0]?.title}" (${analyzer.topPerformers[0]?.clicks} clicks)\n`);
+
+    // Step 2: Generate topic suggestions
+    console.log('Step 2: AI generating topic suggestions...\n');
+    const suggestions = await analyzer.generateTopicSuggestions(count * 2);
+
+    if (suggestions.length === 0) {
+      console.log('❌ Could not generate topic suggestions.\n');
+      return;
+    }
+
+    console.log(`📝 Got ${suggestions.length} suggestions`);
+    suggestions.forEach((s, i) => {
+      console.log(`  ${i + 1}. "${s.title}" [${s.priority}] - ${s.basedOn}`);
+    });
+
+    // Step 3: Filter duplicates
+    console.log('\nStep 3: Filtering duplicates...');
+    const previousTopics = await loadGeneratedTopics();
+    const { unique: uniqueSuggestions } = filterUniqueIdeas(
+      suggestions.map(s => ({ title: s.title, primaryKeyword: s.primaryKeyword })),
+      previousTopics
+    );
+
+    const finalSuggestions = suggestions
+      .filter(s => uniqueSuggestions.some(u => u.title === s.title))
+      .slice(0, count);
+
+    console.log(`  ${finalSuggestions.length} unique ideas ready\n`);
+
+    if (finalSuggestions.length === 0) {
+      console.log('❌ No unique ideas after filtering.\n');
+      return;
+    }
+
+    const topics = finalSuggestions.map(s => ({
+      category: 'data-driven',
+      topic: s.title,
+      query: s.primaryKeyword,
+      keywords: s.targetQueries || [],
+      dataSource: 'data-driven',
+      rationale: s.rationale,
+      analysisContext: {
+        basedOn: s.basedOn,
+        targetQueries: s.targetQueries,
+        contentAngle: s.contentAngle,
+        topPerformerExample: s.topPerformerExample,
+        rationale: s.rationale
+      }
+    }));
+
+    // Step 4: Prepare and run Claude batch
+    console.log('Step 4: Preparing Claude batch...');
+    const batchDir = claudePrepareBatch(topics);
+
+    if (dryRun) {
+      console.log(`\n🔸 DRY RUN complete. Prompts saved to: ${batchDir}`);
+      console.log(`\nTo run later:\n  node index.js claude-process ${batchDir}\n`);
+      return;
+    }
+
+    const { completed, failed } = await claudeRunBatch(batchDir, { parallel, model, view });
+
+    if (completed === 0) {
+      console.log('\n❌ No articles were generated.\n');
+      return;
+    }
+
+    // Post to Ghost
+    const connected = await testConnection();
+    if (!connected) {
+      console.log('❌ Could not connect to Ghost. Results saved in batch dir.');
+      console.log(`  Run later: node index.js claude-process ${batchDir} -a\n`);
+      return;
+    }
+
+    const articles = claudeLoadBatchResults(batchDir);
+    let postSuccess = 0;
+
+    for (const article of articles) {
+      try {
+        const post = await createPost(article, autoPost);
+        const status = autoPost ? '🌐 Published' : '📋 Draft saved';
+        console.log(`  ${status}: ${post.title}`);
+
+        await saveGeneratedTopic({
+          ...article._topicInfo,
+          title: article.title,
+          ghostPostId: post.id
+        });
+
+        postSuccess++;
+      } catch (error) {
+        console.error(`  ❌ Failed to post "${article.title}": ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`✅ Claude Data-Driven Generate Complete`);
+    console.log(`   Generated: ${completed} | Posted: ${postSuccess} | Failed: ${failed}`);
+    console.log('='.repeat(40) + '\n');
+  });
+
+program
+  .command('claude-process')
+  .description('Process a Claude batch: run un-processed prompts and/or post results to Ghost')
+  .argument('<batchDir>', 'Path to batch directory (e.g. data/claude-batches/batch-12345)')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--parallel <number>', 'Number of parallel Claude processes', '3')
+  .option('--model <model>', 'Claude model to use', 'sonnet')
+  .option('--post-only', 'Only post existing results to Ghost (skip running prompts)')
+  .option('--view', 'Stream Claude subprocess output to terminal (see it thinking)')
+  .action(async (batchDir, options) => {
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const postOnly = !!options.postOnly;
+    const view = !!options.view;
+
+    console.log('\n🤖 CLAUDE BATCH PROCESS');
+    console.log('='.repeat(40));
+    console.log(`Batch: ${batchDir}\n`);
+
+    // Check batch exists
+    const fs = await import('fs');
+    if (!fs.existsSync(batchDir)) {
+      console.error(`❌ Batch directory not found: ${batchDir}\n`);
+      return;
+    }
+
+    // Show current status
+    claudeGetBatchStatus(batchDir);
+
+    // Run un-processed prompts (unless --post-only)
+    if (!postOnly) {
+      console.log('\n🚀 Running un-processed prompts...');
+      await claudeRunBatch(batchDir, { parallel, model, view });
+    }
+
+    // Load and post results
+    const articles = claudeLoadBatchResults(batchDir);
+
+    if (articles.length === 0) {
+      console.log('\n❌ No results to post.\n');
+      return;
+    }
+
+    console.log(`\n📋 Posting ${articles.length} articles to Ghost...\n`);
+
+    const connected = await testConnection();
+    if (!connected) {
+      console.error('❌ Could not connect to Ghost.\n');
+      return;
+    }
+
+    let successCount = 0;
+    let failCount = 0;
+
+    for (const article of articles) {
+      try {
+        const post = await createPost(article, autoPost);
+        const status = autoPost ? '🌐 Published' : '📋 Draft saved';
+        console.log(`  ${status}: ${post.title}`);
+
+        await saveGeneratedTopic({
+          ...article._topicInfo,
+          title: article.title,
+          ghostPostId: post.id
+        });
+
+        successCount++;
+      } catch (error) {
+        console.error(`  ❌ Failed to post "${article.title}": ${error.message}`);
+        failCount++;
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`✅ Claude Process Complete`);
+    console.log(`   Posted: ${successCount} | Failed: ${failCount}`);
+    console.log('='.repeat(40) + '\n');
+  });
+
+program
+  .command('claude-batch-status')
+  .description('Show status of Claude CLI batches')
+  .argument('[batchDir]', 'Specific batch directory to check (omit to list all)')
+  .action(async (batchDir) => {
+    claudeGetBatchStatus(batchDir || null);
+    console.log('');
+  });
+
+program
+  .command('claude-fast')
+  .description('FAST: Skip research, use Search Console data directly, generate via Claude CLI')
+  .option('-c, --count <number>', 'Number of articles', '5')
+  .option('-d, --dryrun', 'Prepare prompts only')
+  .option('-a, --autopost', 'Publish immediately')
+  .option('--parallel <number>', 'Parallel Claude processes', '5')
+  .option('--model <model>', 'Claude model', 'sonnet')
+  .option('--view', 'Stream Claude output to terminal')
+  .action(async (options) => {
+    const count = parseInt(options.count);
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const view = !!options.view;
+
+    console.log('\n⚡ CLAUDE FAST GENERATE');
+    console.log('='.repeat(40));
+    console.log(`${count} articles | ${model} | ${parallel} parallel${view ? ' | VIEW' : ''}`);
+    if (dryRun) console.log('DRY RUN');
+    console.log('');
+
+    // Step 1: Fast topics from Search Console (no Puppeteer, no RSS, no AI analysis)
+    const topics = await generateFastTopics(count);
+
+    if (topics.length === 0) {
+      console.log('\n❌ No topics generated.\n');
+      return;
+    }
+
+    // Step 2: Write prompts
+    const batchDir = claudePrepareBatch(topics);
+
+    if (dryRun) {
+      console.log(`\n🔸 DRY RUN done. Prompts: ${batchDir}`);
+      console.log(`  Run: node index.js claude-process ${batchDir}\n`);
+      return;
+    }
+
+    // Step 3: Run Claude
+    const { completed, failed } = await claudeRunBatch(batchDir, { parallel, model, view });
+
+    if (completed === 0) {
+      console.log('\n❌ No articles generated.\n');
+      return;
+    }
+
+    // Step 4: Post to Ghost
+    const connected = await testConnection();
+    if (!connected) {
+      console.log(`❌ Ghost offline. Results saved: ${batchDir}`);
+      console.log(`  Post later: node index.js claude-process ${batchDir} --post-only -a\n`);
+      return;
+    }
+
+    const articles = claudeLoadBatchResults(batchDir);
+    let posted = 0;
+
+    for (const article of articles) {
+      try {
+        const post = await createPost(article, autoPost);
+        console.log(`  ${autoPost ? '🌐' : '📋'} ${post.title}`);
+        await saveGeneratedTopic({ ...article._topicInfo, title: article.title, ghostPostId: post.id });
+        posted++;
+      } catch (error) {
+        console.error(`  ❌ ${article.title}: ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`⚡ Fast Generate: ${completed} written, ${posted} posted, ${failed} failed`);
+    console.log('='.repeat(40) + '\n');
+  });
 
 program.parse();

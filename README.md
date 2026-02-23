@@ -87,6 +87,77 @@ node index.js smart-generate -c 15 --no-batch
 
 **Merk:** For 10+ artikler brukes automatisk OpenAI Batch API (50% rabatt). Se "Batch API" seksjonen under.
 
+### Claude CLI Generate (bruk ditt Claude-abonnement)
+
+Generer artikler via `claude` CLI istedenfor OpenAI API - bruker ditt eksisterende Claude-abonnement uten ekstra API-kostnader.
+
+```bash
+# Generer 5 artikler via Claude CLI (research + generate + post)
+node index.js claude-generate
+
+# Generer 10 artikler med 4 parallelle prosesser
+node index.js claude-generate -c 10 --parallel 4
+
+# Bruk en annen modell (default: sonnet)
+node index.js claude-generate -c 5 --model opus
+
+# Dry run: bare lag prompts, kjør claude senere
+node index.js claude-generate -c 20 -d
+# → Inspiser promptene i data/claude-batches/batch-<ts>/
+# → Kjør senere:
+node index.js claude-process data/claude-batches/batch-<ts>/
+
+# Data-drevet generering (basert på site-analyse)
+node index.js claude-data-generate -c 5
+node index.js claude-data-generate -c 10 --parallel 4
+
+# Sjekk status på Claude-batcher
+node index.js claude-batch-status
+
+# Prosesser en batch: kjør uferdige prompts + post til Ghost
+node index.js claude-process data/claude-batches/batch-12345/
+node index.js claude-process data/claude-batches/batch-12345/ -a  # autopost
+node index.js claude-process data/claude-batches/batch-12345/ --post-only  # bare post, ikke kjør
+```
+
+**Forutsetninger:**
+- `claude` CLI må vaere installert og innlogget (`claude --version`)
+- Kjorer `claude -p` subprocesser (pipe-modus) med prompt via stdin
+- Standardmodell er `sonnet` (raskest), bruk `--model opus` for hoeyere kvalitet
+- Concurrency default 3 parallelle prosesser (juster med `--parallel`)
+
+**Slik fungerer det:**
+1. Research-agenten finner topics (samme som `smart-generate`)
+2. Prompts skrives til filer i `data/claude-batches/batch-<timestamp>/`
+3. `claude -p` spawnes for hver prompt (parallelt med concurrency-limit)
+4. Resultater lagres som JSON per artikkel
+5. Artikler postes til Ghost
+
+#### Gi Claude internett-tilgang og Google-soek
+
+For at Claude skal kunne soeke paa nettet og hente fersk informasjon (akkurat som OpenAI gjor via research-agenten), maa du aktivere MCP-tools i Claude CLI:
+
+**1. Installer Brave Search MCP (anbefalt):**
+
+```bash
+# Legg til Brave Search som MCP-server i Claude
+claude mcp add brave-search npx -y @anthropic-ai/brave-search-mcp-server
+# Sett din Brave Search API-nokkel
+# Faa gratis nokkel paa: https://brave.com/search/api/
+```
+
+**2. Eller bruk fetch MCP for aa hente URLer direkte:**
+
+```bash
+claude mcp add fetch npx -y @anthropic-ai/fetch-mcp-server
+```
+
+**3. For Google Search Console-lignende data, bruk `--tools` flagget:**
+
+Systemet bruker allerede Search Console CSV-data for keyword-research (se "Search Console Data" lenger ned). Claude-kommandoene bruker **samme research-pipeline** som `smart-generate` - saa all keyword/SEO-gap/trend-data er tilgjengelig for prompt-genereringen automatisk.
+
+Forskjellen er bare at **artikkelskrivingen** gjores av Claude istedenfor OpenAI.
+
 ### Research Agent (AI-drevet research med ekte data)
 
 Research-agenten bruker:
@@ -255,6 +326,7 @@ blog-generator/
 ├── ghost-client.js       # Ghost Admin API integrasjon
 ├── article-writer.js     # AI SDK + OpenAI artikkelgenerering
 ├── batch-writer.js       # OpenAI Batch API for 10+ artikler
+├── claude-writer.js      # Claude CLI artikkelgenerering (spawner claude -p)
 ├── prompts.js            # SEO-skriveprompts per kategori
 ├── content-types.js      # Innholdskategorier og topics
 ├── category-rotator.js   # Smart rotasjon mellom kategorier
@@ -269,7 +341,8 @@ blog-generator/
     ├── generated-topics.json   # Historikk over genererte artikler
     ├── rotation-state.json     # Rotasjonstilstand
     ├── agent-brain.json        # Research agent hukommelse (inkl. cached trends)
-    └── batches/                # Batch-filer og resultater
+    ├── batches/                # OpenAI Batch API filer og resultater
+    └── claude-batches/         # Claude CLI batch-kataloger (prompts + resultater)
 ```
 
 ## Search Console Data

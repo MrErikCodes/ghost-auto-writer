@@ -315,9 +315,9 @@ export class ResearchAgent {
   async research(focus = null, articleCount = 5, previousTopics = [], researchRound = 1) {
     console.log('\n🧠 Research Agent aktivert...\n');
 
-    // Force fresh trends if we have very few cached (less than 50)
+    // Force fresh trends if we have very few cached (less than 30)
     const today = new Date().toISOString().split('T')[0];
-    if (this.brain.cachedTrends?.date === today && this.brain.cachedTrends?.data?.length < 50) {
+    if (this.brain.cachedTrends?.date === today && this.brain.cachedTrends?.data?.length < 30) {
       console.log(`  ⚠ Få cached trender (${this.brain.cachedTrends.data.length}), henter ferske data...`);
       this.clearTrendsCache();
     }

@@ -162,7 +162,19 @@ export const contentTypes = {
     ],
   },
 
-  // Category 9: AI Creative - Pure AI-driven ideas
+  // Category 9: Data-Driven - Based on analysis of what performs well
+  "data-driven": {
+    name: "Data-Driven",
+    description:
+      "Content based on analysis of top-performing blog posts and Search Console data. Doubles down on proven themes.",
+    examples: [
+      "More content in themes that already drive traffic",
+      "Articles targeting high-impression uncovered keywords",
+      "Variations on top-performing posts",
+    ],
+  },
+
+  // Category 10: AI Creative - Pure AI-driven ideas
   "ai-creative": {
     name: "AI Creative",
     description:

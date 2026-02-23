@@ -1,0 +1,246 @@
+{
+  "timestamp": 1771873895461,
+  "createdAt": "2026-02-23T19:11:35.467Z",
+  "topics": [
+    {
+      "index": 0,
+      "promptFile": "prompt-0.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side",
+        "query": "elkjøp min side",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "2920 visninger, 10 klikk, posisjon 4, CTR 0.2%"
+      }
+    },
+    {
+      "index": 1,
+      "promptFile": "prompt-1.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering",
+        "query": "kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "2259 visninger, 4 klikk, posisjon 3, CTR 0.1%"
+      }
+    },
+    {
+      "index": 2,
+      "promptFile": "prompt-2.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp kvittering",
+        "query": "elkjøp kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "936 visninger, 11 klikk, posisjon 2, CTR 0.6%"
+      }
+    },
+    {
+      "index": 3,
+      "promptFile": "prompt-3.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringer",
+        "query": "kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "525 visninger, 11 klikk, posisjon 7, CTR 1.0%"
+      }
+    },
+    {
+      "index": 4,
+      "promptFile": "prompt-4.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Zalando reklamasjon",
+        "query": "zalando reklamasjon",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "502 visninger, 4 klikk, posisjon 2, CTR 0.5%"
+      }
+    },
+    {
+      "index": 5,
+      "promptFile": "prompt-5.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Digital kvittering",
+        "query": "digital kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "472 visninger, 2 klikk, posisjon 8, CTR 0.2%"
+      }
+    },
+    {
+      "index": 6,
+      "promptFile": "prompt-6.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp mine ordre",
+        "query": "elkjøp mine ordre",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "445 visninger, 7 klikk, posisjon 1, CTR 0.9%"
+      }
+    },
+    {
+      "index": 7,
+      "promptFile": "prompt-7.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp kvittering på nett",
+        "query": "elkjøp kvittering på nett",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "439 visninger, 7 klikk, posisjon 1, CTR 0.8%"
+      }
+    },
+    {
+      "index": 8,
+      "promptFile": "prompt-8.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Mypower kvittering",
+        "query": "mypower kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "399 visninger, 10 klikk, posisjon 2, CTR 1.3%"
+      }
+    },
+    {
+      "index": 9,
+      "promptFile": "prompt-9.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vigo vitnemål",
+        "query": "vigo vitnemål",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "399 visninger, 2 klikk, posisjon 4, CTR 0.2%"
+      }
+    },
+    {
+      "index": 10,
+      "promptFile": "prompt-10.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side",
+        "query": "elkjøp min side",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 10 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 11,
+      "promptFile": "prompt-11.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringer",
+        "query": "kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 11 klikk, posisjon 7 (room to grow)"
+      }
+    },
+    {
+      "index": 12,
+      "promptFile": "prompt-12.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Digital kvittering",
+        "query": "digital kvittering",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 8 (room to grow)"
+      }
+    },
+    {
+      "index": 13,
+      "promptFile": "prompt-13.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vigo vitnemål",
+        "query": "vigo vitnemål",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 14,
+      "promptFile": "prompt-14.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power kvittering",
+        "query": "power kvittering",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 15,
+      "promptFile": "prompt-15.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti hvitevarer",
+        "query": "garanti hvitevarer",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 16,
+      "promptFile": "prompt-16.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "el mencho: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "el mencho",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: el mencho"
+      }
+    },
+    {
+      "index": 17,
+      "promptFile": "prompt-17.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "mexico: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "mexico",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: mexico"
+      }
+    },
+    {
+      "index": 18,
+      "promptFile": "prompt-18.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "peter mandelson: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "peter mandelson",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: peter mandelson"
+      }
+    },
+    {
+      "index": 19,
+      "promptFile": "prompt-19.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "beirut: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "beirut",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: beirut"
+      }
+    }
+  ]
+}
