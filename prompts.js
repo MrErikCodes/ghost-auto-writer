@@ -44,6 +44,7 @@ SKRIVEREGLER:
 6. Unngå gjentakelser og fyllord
 7. Skriv for BRUKERENS intensjon - hva vil de oppnå?
 8. Inkluder konkrete eksempler og tall der mulig
+9. ALDRI bruk bindestrek/tankestrek (– eller —) i teksten! Ingen em dash, en dash eller lignende. Omformuler setningen i stedet. Eneste unntak er datoer (f.eks. 2025-01-01) og sammensatte ord der bindestrek er grammatisk påkrevd (f.eks. "e-post"). Dette er KRITISK VIKTIG.
 
 ÅRSTALL:
 - Vi er i 2026. Bruk "2026" for aktuelle ting, "2025" for fjoråret.

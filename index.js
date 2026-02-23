@@ -22,6 +22,7 @@ import { SiteAnalyzer } from './site-analyzer.js';
 import {
   prepareBatch as claudePrepareBatch,
   runBatch as claudeRunBatch,
+  runTurbo as claudeRunTurbo,
   getBatchStatus as claudeGetBatchStatus,
   loadBatchResults as claudeLoadBatchResults,
   loadBatchMapping as claudeLoadBatchMapping,
@@ -1446,6 +1447,76 @@ program
     console.log(`\n${'='.repeat(40)}`);
     console.log(`⚡ Fast Generate: ${completed} written, ${posted} posted, ${failed} failed`);
     console.log('='.repeat(40) + '\n');
+  });
+
+program
+  .command('claude-turbo')
+  .description('TURBO: Maximum throughput pipeline — generate + post simultaneously with 15 parallel workers')
+  .option('-c, --count <number>', 'Number of articles', '10')
+  .option('-d, --dryrun', 'Prepare prompts only')
+  .option('-a, --autopost', 'Publish immediately')
+  .option('--parallel <number>', 'Concurrent Claude workers', '15')
+  .option('--model <model>', 'Claude model', 'sonnet')
+  .option('--view', 'Stream Claude output to terminal')
+  .action(async (options) => {
+    const count = parseInt(options.count);
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const view = !!options.view;
+
+    console.log('\n⚡ CLAUDE TURBO MODE');
+    console.log('='.repeat(50));
+    console.log(`${count} articles | ${model} | ${parallel} parallel workers`);
+    console.log(`Pipeline: generate → post immediately (no waiting)`);
+    if (dryRun) console.log('DRY RUN - prompts only');
+    if (!autoPost && !dryRun) console.log('Mode: drafts (use -a to publish)');
+    if (autoPost) console.log('Mode: auto-publish');
+    console.log('='.repeat(50) + '\n');
+
+    // Step 1: Fast topics from Search Console
+    const topics = await generateFastTopics(count);
+
+    if (topics.length === 0) {
+      console.log('\n❌ No topics generated.\n');
+      return;
+    }
+
+    // Step 2: Write prompts
+    const batchDir = claudePrepareBatch(topics);
+
+    if (dryRun) {
+      console.log(`\n🔸 DRY RUN done. Prompts: ${batchDir}`);
+      console.log(`  Run: node index.js claude-process ${batchDir}\n`);
+      return;
+    }
+
+    // Step 3: Test Ghost connection before starting pipeline
+    const connected = await testConnection();
+    if (!connected) {
+      console.log('❌ Ghost offline. Falling back to generate-only mode.');
+      console.log('   Articles will be saved to disk. Post later with claude-process.\n');
+    }
+
+    // Step 4: Run turbo pipeline — generate + post in one flow
+    const postFn = connected ? async (article, topicInfo) => {
+      const post = await createPost(article, autoPost);
+      console.log(`  ${autoPost ? '🌐 Published' : '📋 Draft'}: ${post.title}`);
+      await saveGeneratedTopic({
+        ...topicInfo,
+        title: article.title,
+        ghostPostId: post.id
+      });
+    } : null;
+
+    const result = await claudeRunTurbo(batchDir, { parallel, model, view, postFn });
+
+    // If Ghost was offline, remind about saved results
+    if (!connected && result.generated > 0) {
+      console.log(`\n📁 Results saved to: ${batchDir}`);
+      console.log(`  Post later: node index.js claude-process ${batchDir} --post-only -a\n`);
+    }
   });
 
 program.parse();

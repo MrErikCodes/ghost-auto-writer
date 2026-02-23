@@ -299,6 +299,98 @@ export async function runBatch(batchDir, options = {}) {
 }
 
 /**
+ * Turbo mode: pipeline architecture where each worker generates + posts immediately.
+ * No waiting for all articles — each one goes live as soon as it's ready.
+ */
+export async function runTurbo(batchDir, options = {}) {
+  const { parallel = 15, model = 'sonnet', view = false, postFn = null } = options;
+
+  const files = fs.readdirSync(batchDir);
+  const promptFiles = files
+    .filter(f => f.match(/^prompt-\d+\.txt$/))
+    .sort((a, b) => parseInt(a.match(/\d+/)[0]) - parseInt(b.match(/\d+/)[0]));
+
+  const alreadyDone = new Set();
+  for (const f of files) {
+    const match = f.match(/^result-(\d+)\.json$/);
+    if (match) alreadyDone.add(parseInt(match[1]));
+  }
+
+  const toProcess = promptFiles.filter(f => !alreadyDone.has(parseInt(f.match(/\d+/)[0])));
+
+  if (alreadyDone.size > 0) {
+    console.log(`⏩ ${alreadyDone.size} already done, ${toProcess.length} remaining`);
+  }
+
+  console.log(`\n🚀 TURBO: ${toProcess.length} articles | model: ${model} | parallel: ${parallel}\n`);
+
+  const mapping = loadBatchMapping(batchDir);
+  let generated = 0;
+  let posted = 0;
+  let failed = 0;
+  const total = toProcess.length;
+  const startTime = Date.now();
+  const queue = [...toProcess];
+
+  function printProgress() {
+    const elapsed = ((Date.now() - startTime) / 1000).toFixed(0);
+    const rate = generated > 0 ? (elapsed / generated).toFixed(0) : '?';
+    process.stdout.write(`\r  ⚡ [gen: ${generated}/${total}] [posted: ${posted}/${generated}] [failed: ${failed}] [${elapsed}s, ~${rate}s/article]  `);
+  }
+
+  async function worker() {
+    while (queue.length > 0) {
+      const promptFile = queue.shift();
+      if (!promptFile) break;
+
+      const num = promptFile.match(/\d+/)[0];
+      const fullPromptPath = path.join(batchDir, promptFile);
+      const resultPath = path.join(batchDir, `result-${num}.json`);
+
+      try {
+        const article = await runSingle(fullPromptPath, resultPath, model, { view });
+        generated++;
+        if (!view) printProgress();
+        console.log(`\n  ✅ #${num}: ${article.title.substring(0, 70)}`);
+
+        // Immediate posting via callback
+        if (postFn) {
+          try {
+            const topicInfo = mapping?.topics?.find(t => t.index === parseInt(num))?.topic || {};
+            await postFn(article, topicInfo);
+            posted++;
+            if (!view) printProgress();
+          } catch (postErr) {
+            console.error(`\n  ⚠ Post failed #${num}: ${postErr.message}`);
+          }
+        }
+      } catch (err) {
+        failed++;
+        console.error(`\n  ❌ #${num}: ${err.message}`);
+        if (!view) printProgress();
+      }
+    }
+  }
+
+  const workers = [];
+  for (let i = 0; i < Math.min(parallel, toProcess.length); i++) {
+    workers.push(worker());
+  }
+  await Promise.all(workers);
+
+  const totalTime = ((Date.now() - startTime) / 1000).toFixed(0);
+  console.log(`\n\n${'='.repeat(50)}`);
+  console.log(`⚡ TURBO DONE in ${totalTime}s`);
+  console.log(`   Generated: ${generated} | Posted: ${posted} | Failed: ${failed}`);
+  if (generated > 0) {
+    console.log(`   Avg: ${(totalTime / generated).toFixed(1)}s/article | Throughput: ${(generated / (totalTime / 60)).toFixed(1)} articles/min`);
+  }
+  console.log('='.repeat(50));
+
+  return { generated, posted, failed, total };
+}
+
+/**
  * Get batch status.
  */
 export function getBatchStatus(batchDir) {
