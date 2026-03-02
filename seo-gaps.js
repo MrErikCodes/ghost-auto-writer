@@ -1,4 +1,3 @@
-import { parse } from 'csv-parse/sync';
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
@@ -11,53 +10,24 @@ function calculateRecencyWeight(dateStr, newestDateStr) {
   const newestDate = new Date(newestDateStr);
   const daysDiff = (newestDate - date) / (1000 * 60 * 60 * 24);
 
-  // Exponential decay: half-life of 14 days, minimum weight 0.1
   const halfLife = 14;
   const weight = Math.pow(0.5, daysDiff / halfLife);
   return Math.max(weight, 0.1);
 }
 
-// Load data from a specific folder (tries JSON first, falls back to CSV)
+// Load JSON data from a searchconsole date folder
 function loadFolderData(folderPath) {
   const data = { queries: [], pages: [] };
 
-  // Try JSON first (from API fetch)
-  const queriesJsonPath = path.join(folderPath, 'queries.json');
-  const pagesJsonPath = path.join(folderPath, 'pages.json');
+  const queriesPath = path.join(folderPath, 'queries.json');
+  const pagesPath = path.join(folderPath, 'pages.json');
 
-  if (fs.existsSync(queriesJsonPath)) {
-    data.queries = JSON.parse(fs.readFileSync(queriesJsonPath, 'utf-8'));
-  } else {
-    // Fall back to CSV (manual download)
-    const queriesCsvPath = path.join(folderPath, 'Forspørsler.csv');
-    if (fs.existsSync(queriesCsvPath)) {
-      const content = fs.readFileSync(queriesCsvPath, 'utf-8');
-      const records = parse(content, { columns: true, skip_empty_lines: true, delimiter: ',' });
-      data.queries = records.map(r => ({
-        query: r['Populære søk'],
-        clicks: parseInt(r['Klikk']) || 0,
-        impressions: parseInt(r['Visninger']) || 0,
-        ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
-        position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
-      }));
-    }
+  if (fs.existsSync(queriesPath)) {
+    data.queries = JSON.parse(fs.readFileSync(queriesPath, 'utf-8'));
   }
 
-  if (fs.existsSync(pagesJsonPath)) {
-    data.pages = JSON.parse(fs.readFileSync(pagesJsonPath, 'utf-8'));
-  } else {
-    const pagesCsvPath = path.join(folderPath, 'Sider.csv');
-    if (fs.existsSync(pagesCsvPath)) {
-      const content = fs.readFileSync(pagesCsvPath, 'utf-8');
-      const records = parse(content, { columns: true, skip_empty_lines: true, delimiter: ',' });
-      data.pages = records.map(r => ({
-        page: r['Mest populære sider'],
-        clicks: parseInt(r['Klikk']) || 0,
-        impressions: parseInt(r['Visninger']) || 0,
-        ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
-        position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
-      }));
-    }
+  if (fs.existsSync(pagesPath)) {
+    data.pages = JSON.parse(fs.readFileSync(pagesPath, 'utf-8'));
   }
 
   return data;
@@ -67,12 +37,9 @@ function loadFolderData(folderPath) {
 export async function loadSearchConsoleData() {
   const dateFolders = getSearchConsoleDateFolders();
 
-  // If no date folders, fall back to flat structure (backward compatibility)
   if (dateFolders.length === 0) {
-    console.log('  → Search Console: Bruker flat mappestruktur (ingen datoer)');
-    const data = loadFolderData(config.searchConsolePath);
-    console.log(`  ✓ Search Console: ${data.queries.length} søk, ${data.pages.length} sider`);
-    return data;
+    console.log('  → No Search Console data found. Run "node index.js fetch-gsc" first.');
+    return { queries: [], pages: [] };
   }
 
   const newestDate = dateFolders[0].name;

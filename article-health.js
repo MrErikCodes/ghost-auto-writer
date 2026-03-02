@@ -9,87 +9,70 @@ import { generateArticle } from './article-writer.js';
 const UNPUBLISHED_LOG = './data/unpublished-articles.json';
 const GRACE_PERIOD_DAYS = 60;
 const THRESHOLDS = { healthy: 50, underperforming: 10 };
+const PUBLIC_BLOG_URL = 'https://minekvitteringer.no/blog';
 
 // ── Helpers ────────────────────────────────────────────────────────────
 
 function daysSince(dateStr) {
-  const published = new Date(dateStr);
-  const now = new Date();
-  return Math.floor((now - published) / (1000 * 60 * 60 * 24));
+  return Math.floor((new Date() - new Date(dateStr)) / (1000 * 60 * 60 * 24));
 }
 
 function classifyArticle(impressions, ageDays, hasGscData) {
   if (ageDays < GRACE_PERIOD_DAYS) return 'too-new';
-  if (!hasGscData) return 'dead'; // No GSC data at all means zero traffic
+  if (!hasGscData) return 'dead';
   if (impressions >= THRESHOLDS.healthy) return 'healthy';
   if (impressions >= THRESHOLDS.underperforming) return 'underperforming';
   return 'dead';
 }
 
-// ── Local CSV fallback ─────────────────────────────────────────────────
-
-/**
- * Scan searchconsole/YYYY-MM-DD/ folders and load the most recent Sider.csv
- * as a fallback when the GSC API is unavailable.
- */
-function loadLocalPageData() {
-  const dateDirs = getSearchConsoleDateFolders();
-
-  if (!dateDirs.length) {
-    console.warn('  No searchconsole date folders found for fallback data');
-    return [];
-  }
-
-  for (const dir of dateDirs) {
-    // Try JSON first (from API fetch)
-    const jsonPath = path.join(dir.path, 'pages.json');
-    if (fs.existsSync(jsonPath)) {
-      console.log(`  Loading local GSC fallback from ${dir.name}/pages.json`);
-      return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
-    }
-    // Fall back to CSV
-    const csvPath = path.join(dir.path, 'Sider.csv');
-    if (fs.existsSync(csvPath)) {
-      console.log(`  Loading local GSC fallback from ${dir.name}/Sider.csv`);
-      return parseSiderCsv(fs.readFileSync(csvPath, 'utf-8'));
-    }
-  }
-
-  console.warn('  No Sider.csv found in any searchconsole date folder');
-  return [];
+function publicUrl(slug) {
+  return `${PUBLIC_BLOG_URL}/${slug}`;
 }
 
+// ── Cached GSC Data ──────────────────────────────────────────────────
+
 /**
- * Parse the Norwegian GSC CSV export (Sider.csv).
- * Headers: Mest populære sider, Klikk, Visninger, Klikkfrekvens, Plassering
+ * Load cached GSC page data from today's folder, or fetch from API if not cached.
+ * Only fetches once per day.
  */
-function parseSiderCsv(csvText) {
-  const lines = csvText.trim().split('\n');
-  if (lines.length < 2) return [];
+async function getGscPageDataCached() {
+  const today = formatDate(new Date());
+  const todayDir = path.join(config.searchConsolePath, today);
+  const cachedPath = path.join(todayDir, 'pages.json');
 
-  // Skip header row
-  return lines.slice(1).map(line => {
-    // CSV fields are comma-separated; URL never contains commas
-    const parts = line.split(',');
-    if (parts.length < 5) return null;
+  // Check if today's data already exists
+  if (fs.existsSync(cachedPath)) {
+    console.log(`  Using cached GSC data from ${today}/pages.json`);
+    return JSON.parse(fs.readFileSync(cachedPath, 'utf-8'));
+  }
 
-    const url = parts[0].trim();
-    const clicks = parseInt(parts[1], 10) || 0;
-    const impressions = parseInt(parts[2], 10) || 0;
-    const ctrStr = parts[3].replace('%', '').trim();
-    const ctr = parseFloat(ctrStr) || 0;
-    const position = parseFloat(parts[4]) || 0;
+  // Try loading from most recent cached folder
+  const dateFolders = getSearchConsoleDateFolders();
+  for (const folder of dateFolders) {
+    const jsonPath = path.join(folder.path, 'pages.json');
+    if (fs.existsSync(jsonPath)) {
+      console.log(`  Using cached GSC data from ${folder.name}/pages.json (run 'fetch-gsc' to update)`);
+      return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+    }
+  }
 
-    return { url, clicks, impressions, ctr, position };
-  }).filter(Boolean);
+  // No cache at all - fetch from API
+  console.log('  No cached GSC data found, fetching from API...');
+  const { startDate, endDate } = getGscDateRange();
+  const pages = await getPagePerformance(config.gscSiteUrl, startDate, endDate);
+
+  // Cache the result
+  if (!fs.existsSync(todayDir)) {
+    fs.mkdirSync(todayDir, { recursive: true });
+  }
+  fs.writeFileSync(cachedPath, JSON.stringify(pages, null, 2));
+  console.log(`  Cached ${pages.length} pages to ${today}/pages.json`);
+
+  return pages;
 }
 
 // ── Core: Article Health ───────────────────────────────────────────────
 
-/**
- * Fetch Ghost posts and GSC page data, cross-reference by URL, and classify.
- * Falls back to local CSV data if the GSC API call fails.
- */
 export async function getArticleHealth() {
   console.log('\n=== Article Health Check ===\n');
 
@@ -101,30 +84,21 @@ export async function getArticleHealth() {
     return [];
   }
 
-  // 2. Fetch GSC page data (last 28 days, end date offset by 3 days for processing delay)
+  // 2. Get GSC page data (cached, only fetches once per day)
+  console.log('Loading GSC page data...');
   let gscPages = [];
-  let usingFallback = false;
-
   try {
-    const { startDate, endDate } = getGscDateRange();
-    console.log(`Fetching GSC page data (${startDate} to ${endDate})...`);
-    gscPages = await getPagePerformance(config.gscSiteUrl, startDate, endDate);
-    console.log(`  Got ${gscPages.length} pages from GSC API`);
+    gscPages = await getGscPageDataCached();
+    console.log(`  Got ${gscPages.length} pages`);
   } catch (err) {
-    console.warn(`  GSC API failed: ${err.message}`);
-    console.warn('  Falling back to local CSV data...');
-    gscPages = loadLocalPageData();
-    usingFallback = true;
+    console.warn(`  GSC data unavailable: ${err.message}`);
+    console.warn('  Run "node index.js fetch-gsc" first to fetch data.');
   }
 
-  // 3. Build lookup maps from GSC data
-  //    Ghost returns URLs like https://ghost.mkapi.no/slug/
-  //    GSC has URLs like https://minekvitteringer.no/blog/slug/
-  //    So we match by slug (last path segment) as well as full URL
-  const gscByUrl = new Map();
+  // 3. Build lookup maps (match by slug since Ghost and GSC use different domains)
   const gscBySlug = new Map();
   for (const page of gscPages) {
-    const pageUrl = (page.page || page.url || '').replace(/\/$/, '');
+    const pageUrl = (page.page || '').replace(/\/$/, '');
     if (!pageUrl) continue;
 
     const metrics = {
@@ -135,14 +109,10 @@ export async function getArticleHealth() {
       gscUrl: pageUrl
     };
 
-    gscByUrl.set(pageUrl, metrics);
-
-    // Extract slug from URL path for cross-domain matching
     try {
       const urlPath = new URL(pageUrl).pathname.replace(/\/$/, '');
       const slug = urlPath.split('/').filter(Boolean).pop();
       if (slug) {
-        // If multiple GSC pages match same slug, keep the one with most impressions
         const existing = gscBySlug.get(slug);
         if (!existing || metrics.impressions > existing.impressions) {
           gscBySlug.set(slug, metrics);
@@ -153,10 +123,8 @@ export async function getArticleHealth() {
 
   // 4. Cross-reference each post
   const articles = posts.map(post => {
-    const url = (post.url || '').replace(/\/$/, '');
     const ageDays = daysSince(post.published_at);
-    // Try exact URL match first, then slug match
-    const gsc = gscByUrl.get(url) || gscBySlug.get(post.slug) || null;
+    const gsc = gscBySlug.get(post.slug) || null;
     const hasGscData = gsc !== null;
     const impressions = gsc?.impressions ?? 0;
     const clicks = gsc?.clicks ?? 0;
@@ -168,7 +136,7 @@ export async function getArticleHealth() {
       id: post.id,
       title: post.title,
       slug: post.slug,
-      url: post.url,
+      url: publicUrl(post.slug),
       published_at: post.published_at,
       ageDays,
       impressions,
@@ -180,22 +148,18 @@ export async function getArticleHealth() {
     };
   });
 
-  console.log(`\n  Analysed ${articles.length} articles (GSC source: ${usingFallback ? 'local CSV' : 'API'})\n`);
+  console.log(`\n  Analysed ${articles.length} articles\n`);
   return articles;
 }
 
 // ── Reporting ──────────────────────────────────────────────────────────
 
-/**
- * Print a formatted health report grouped by status.
- */
 export function printHealthReport(articles) {
   if (!articles.length) {
     console.log('No articles to report.');
     return;
   }
 
-  // Summary counts
   const counts = { 'too-new': 0, healthy: 0, underperforming: 0, dead: 0 };
   for (const a of articles) counts[a.status]++;
 
@@ -213,32 +177,29 @@ export function printHealthReport(articles) {
   const dead = articles.filter(a => a.status === 'dead');
   if (dead.length) {
     console.log(`\n--- DEAD ARTICLES (${dead.length}) ---`);
-    console.log('These articles have < 10 impressions in the last 28 days:\n');
+    console.log('< 10 impressions in the last 28 days:\n');
     for (const a of dead) {
-      console.log(`  Title:       ${a.title}`);
-      console.log(`  URL:         ${a.url}`);
-      console.log(`  Published:   ${a.published_at?.split('T')[0] || 'unknown'} (${a.ageDays} days ago)`);
-      console.log(`  Impressions: ${a.impressions}`);
-      console.log(`  Clicks:      ${a.clicks}`);
-      console.log(`  CTR:         ${a.ctr.toFixed(2)}%`);
-      console.log(`  Position:    ${a.position.toFixed(1)}`);
-      console.log(`  GSC Data:    ${a.hasGscData ? 'yes' : 'no'}`);
+      console.log(`  ${a.title}`);
+      console.log(`    ${a.url}`);
+      console.log(`    Published: ${a.published_at?.split('T')[0]} (${a.ageDays} days ago)`);
+      console.log(`    ${a.impressions} imp | ${a.clicks} clicks | CTR: ${a.ctr.toFixed(2)}% | Pos: ${a.position.toFixed(1)}`);
+      console.log(`    GSC data: ${a.hasGscData ? 'yes' : 'no (not indexed?)'}`);
       console.log('');
     }
   }
 
-  // Underperforming articles - brief
+  // Underperforming
   const underperforming = articles.filter(a => a.status === 'underperforming');
   if (underperforming.length) {
     console.log(`\n--- UNDERPERFORMING ARTICLES (${underperforming.length}) ---`);
-    console.log('These articles have 10-49 impressions:\n');
+    console.log('10-49 impressions:\n');
     for (const a of underperforming) {
       console.log(`  [${a.impressions} imp] ${a.title}`);
     }
     console.log('');
   }
 
-  // Top 5 healthy articles by impressions
+  // Top 5 healthy
   const healthy = articles
     .filter(a => a.status === 'healthy')
     .sort((a, b) => b.impressions - a.impressions);
@@ -251,26 +212,19 @@ export function printHealthReport(articles) {
     console.log('');
   }
 
-  // Too-new count
   if (counts['too-new'] > 0) {
-    console.log(`\n--- TOO NEW: ${counts['too-new']} articles younger than ${GRACE_PERIOD_DAYS} days (not evaluated) ---\n`);
+    console.log(`--- TOO NEW: ${counts['too-new']} articles < ${GRACE_PERIOD_DAYS} days old (skipped) ---\n`);
   }
 }
 
 // ── Accessors ──────────────────────────────────────────────────────────
 
-/**
- * Return only dead articles, optionally filtering by minimum age.
- */
 export function getDeadArticles(articles, minAge = GRACE_PERIOD_DAYS) {
   return articles.filter(a => a.status === 'dead' && a.ageDays >= minAge);
 }
 
 // ── Actions ────────────────────────────────────────────────────────────
 
-/**
- * Unpublish (draft) dead articles in Ghost and log them.
- */
 export async function unpublishDeadArticles({ dryRun = false, minAge = GRACE_PERIOD_DAYS } = {}) {
   const articles = await getArticleHealth();
   const dead = getDeadArticles(articles, minAge);
@@ -286,17 +240,14 @@ export async function unpublishDeadArticles({ dryRun = false, minAge = GRACE_PER
 
   for (const article of dead) {
     console.log(`  ${dryRun ? '[DRY RUN] Would unpublish' : 'Unpublishing'}: ${article.title}`);
-    console.log(`    URL: ${article.url}`);
+    console.log(`    ${article.url}`);
     console.log(`    Age: ${article.ageDays} days, Impressions: ${article.impressions}`);
 
     if (!dryRun) {
       try {
         await draftPost(article.id);
         console.log(`    -> Changed to draft`);
-        unpublished.push({
-          ...article,
-          unpublishedAt: new Date().toISOString()
-        });
+        unpublished.push({ ...article, unpublishedAt: new Date().toISOString() });
       } catch (err) {
         console.error(`    -> Failed: ${err.message}`);
       }
@@ -305,14 +256,12 @@ export async function unpublishDeadArticles({ dryRun = false, minAge = GRACE_PER
     }
   }
 
-  // Log unpublished articles to file
+  // Log unpublished articles
   if (!dryRun && unpublished.length) {
     const logPath = path.resolve(UNPUBLISHED_LOG);
     let existing = [];
     if (fs.existsSync(logPath)) {
-      try {
-        existing = JSON.parse(fs.readFileSync(logPath, 'utf-8'));
-      } catch { /* ignore parse errors */ }
+      try { existing = JSON.parse(fs.readFileSync(logPath, 'utf-8')); } catch { /* */ }
     }
     existing.push(...unpublished);
     fs.mkdirSync(path.dirname(logPath), { recursive: true });
@@ -324,10 +273,6 @@ export async function unpublishDeadArticles({ dryRun = false, minAge = GRACE_PER
   return unpublished;
 }
 
-/**
- * Rewrite dead articles with AI and update them in-place in Ghost,
- * keeping the same slug/URL for SEO continuity.
- */
 export async function rewriteDeadArticles({ autoPost = false, limit = 5, minAge = GRACE_PERIOD_DAYS } = {}) {
   const articles = await getArticleHealth();
   const dead = getDeadArticles(articles, minAge);
@@ -344,11 +289,10 @@ export async function rewriteDeadArticles({ autoPost = false, limit = 5, minAge 
 
   for (const article of toRewrite) {
     console.log(`\n--- Rewriting: ${article.title} ---`);
-    console.log(`  URL: ${article.url}`);
+    console.log(`  ${article.url}`);
     console.log(`  Age: ${article.ageDays} days, Impressions: ${article.impressions}`);
 
     try {
-      // Generate a new version of the article
       const topicInfo = {
         type: 'rewrite',
         topic: article.title,
@@ -364,7 +308,6 @@ export async function rewriteDeadArticles({ autoPost = false, limit = 5, minAge 
         continue;
       }
 
-      // Update the Ghost post in-place (keep slug/URL)
       const updateData = {
         title: newArticle.title,
         html: newArticle.html,
