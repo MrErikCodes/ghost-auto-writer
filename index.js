@@ -29,6 +29,12 @@ import {
   generateFastTopics
 } from './claude-writer.js';
 import { fetchAll as fetchGscData } from './search-console-client.js';
+import {
+  getArticleHealth,
+  printHealthReport,
+  unpublishDeadArticles,
+  rewriteDeadArticles
+} from './article-health.js';
 
 const program = new Command();
 
@@ -1546,6 +1552,61 @@ program
       console.log('\n✅ Search Console data fetched successfully!');
     } catch (error) {
       console.error(`\n❌ Failed to fetch GSC data: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+program
+  .command('article-health')
+  .description('Analyze health of published articles using Search Console data')
+  .action(async () => {
+    console.log('\n🏥 Analyzing article health...\n');
+
+    try {
+      const articles = await getArticleHealth();
+      printHealthReport(articles);
+    } catch (error) {
+      console.error(`\n❌ Failed: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+program
+  .command('unpublish-dead')
+  .description('Unpublish dead articles (set to draft)')
+  .option('--dry-run', 'Preview what would be unpublished without making changes')
+  .option('--min-age <days>', 'Minimum age in days before considering an article dead', '60')
+  .action(async (options) => {
+    console.log('\n🗑️  Finding dead articles to unpublish...\n');
+
+    try {
+      await unpublishDeadArticles({
+        dryRun: !!options.dryRun,
+        minAge: parseInt(options.minAge),
+      });
+    } catch (error) {
+      console.error(`\n❌ Failed: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+program
+  .command('rewrite-dead')
+  .description('Rewrite dead articles with fresh AI content')
+  .option('-a, --autopost', 'Publish rewritten articles immediately')
+  .option('-l, --limit <number>', 'Maximum articles to rewrite', '5')
+  .option('--min-age <days>', 'Minimum age in days', '60')
+  .action(async (options) => {
+    console.log('\n✍️  Rewriting dead articles...\n');
+
+    try {
+      await rewriteDeadArticles({
+        autoPost: !!options.autopost,
+        limit: parseInt(options.limit),
+        minAge: parseInt(options.minAge),
+      });
+    } catch (error) {
+      console.error(`\n❌ Failed: ${error.message}`);
       process.exit(1);
     }
   });

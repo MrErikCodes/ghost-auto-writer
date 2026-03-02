@@ -111,7 +111,7 @@ export async function getArticleHealth() {
 
     const fmt = d => d.toISOString().split('T')[0];
     console.log(`Fetching GSC page data (${fmt(startDate)} to ${fmt(endDate)})...`);
-    gscPages = await getPagePerformance(fmt(startDate), fmt(endDate));
+    gscPages = await getPagePerformance(config.gscSiteUrl, fmt(startDate), fmt(endDate));
     console.log(`  Got ${gscPages.length} pages from GSC API`);
   } catch (err) {
     console.warn(`  GSC API failed: ${err.message}`);
@@ -124,7 +124,7 @@ export async function getArticleHealth() {
   const gscMap = new Map();
   for (const page of gscPages) {
     // Normalise: strip trailing slash for matching
-    const normalised = page.url?.replace(/\/$/, '') || page.keys?.[0]?.replace(/\/$/, '');
+    const normalised = (page.page || page.url)?.replace(/\/$/, '');
     if (normalised) {
       gscMap.set(normalised, {
         clicks: page.clicks ?? 0,
@@ -203,7 +203,7 @@ export function printHealthReport(articles) {
       console.log(`  Published:   ${a.published_at?.split('T')[0] || 'unknown'} (${a.ageDays} days ago)`);
       console.log(`  Impressions: ${a.impressions}`);
       console.log(`  Clicks:      ${a.clicks}`);
-      console.log(`  CTR:         ${(a.ctr * 100).toFixed(2)}%`);
+      console.log(`  CTR:         ${a.ctr.toFixed(2)}%`);
       console.log(`  Position:    ${a.position.toFixed(1)}`);
       console.log(`  GSC Data:    ${a.hasGscData ? 'yes' : 'no'}`);
       console.log('');
