@@ -4,6 +4,7 @@ import { config } from './config.js';
 import { getGscDateRange, getSearchConsoleDateFolders, formatDate } from './utils.js';
 import { getAllPostsWithContent, updatePost, draftPost } from './ghost-client.js';
 import { getPagePerformance } from './search-console-client.js';
+import { getPageviewsCached } from './rybbit-client.js';
 import { generateArticle } from './article-writer.js';
 
 const UNPUBLISHED_LOG = './data/unpublished-articles.json';
@@ -95,6 +96,29 @@ export async function getArticleHealth() {
     console.warn('  Run "node index.js fetch-gsc" first to fetch data.');
   }
 
+  // 2b. Get Rybbit pageview data (cached, only fetches once per day)
+  console.log('Loading Rybbit pageview data...');
+  let rybbitData = {};
+  try {
+    const end = new Date();
+    const start = new Date(end);
+    start.setDate(start.getDate() - 28);
+    rybbitData = await getPageviewsCached(formatDate(start), formatDate(end));
+    const pageCount = Object.keys(rybbitData).length;
+    console.log(`  Got ${pageCount} pages with pageviews`);
+  } catch (err) {
+    console.warn(`  Rybbit data unavailable: ${err.message}`);
+  }
+
+  // 2c. Build Rybbit lookup by slug
+  const rybbitBySlug = new Map();
+  for (const [pathname, data] of Object.entries(rybbitData)) {
+    const slug = pathname.replace(/\/$/, '').split('/').filter(Boolean).pop();
+    if (slug) {
+      rybbitBySlug.set(slug, data);
+    }
+  }
+
   // 3. Build lookup maps (match by slug since Ghost and GSC use different domains)
   const gscBySlug = new Map();
   for (const page of gscPages) {
@@ -125,11 +149,14 @@ export async function getArticleHealth() {
   const articles = posts.map(post => {
     const ageDays = daysSince(post.published_at);
     const gsc = gscBySlug.get(post.slug) || null;
+    const rybbit = rybbitBySlug.get(post.slug) || null;
     const hasGscData = gsc !== null;
     const impressions = gsc?.impressions ?? 0;
     const clicks = gsc?.clicks ?? 0;
     const ctr = gsc?.ctr ?? 0;
     const position = gsc?.position ?? 0;
+    const pageviews = rybbit?.pageviews ?? 0;
+    const uniqueUsers = rybbit?.uniqueUsers ?? 0;
     const status = classifyArticle(impressions, ageDays, hasGscData);
 
     return {
@@ -144,6 +171,8 @@ export async function getArticleHealth() {
       ctr,
       position,
       hasGscData,
+      pageviews,
+      uniqueUsers,
       status
     };
   });
@@ -182,7 +211,8 @@ export function printHealthReport(articles) {
       console.log(`  ${a.title}`);
       console.log(`    ${a.url}`);
       console.log(`    Published: ${a.published_at?.split('T')[0]} (${a.ageDays} days ago)`);
-      console.log(`    ${a.impressions} imp | ${a.clicks} clicks | CTR: ${a.ctr.toFixed(2)}% | Pos: ${a.position.toFixed(1)}`);
+      console.log(`    GSC: ${a.impressions} imp | ${a.clicks} clicks | CTR: ${a.ctr.toFixed(2)}% | Pos: ${a.position.toFixed(1)}`);
+      console.log(`    Rybbit: ${a.pageviews} pageviews | ${a.uniqueUsers} unique users`);
       console.log(`    GSC data: ${a.hasGscData ? 'yes' : 'no (not indexed?)'}`);
       console.log('');
     }
@@ -194,7 +224,7 @@ export function printHealthReport(articles) {
     console.log(`\n--- UNDERPERFORMING ARTICLES (${underperforming.length}) ---`);
     console.log('10-49 impressions:\n');
     for (const a of underperforming) {
-      console.log(`  [${a.impressions} imp] ${a.title}`);
+      console.log(`  [${a.impressions} imp | ${a.pageviews} views] ${a.title}`);
     }
     console.log('');
   }
@@ -207,7 +237,7 @@ export function printHealthReport(articles) {
   if (healthy.length) {
     console.log(`\n--- TOP 5 HEALTHY ARTICLES (of ${healthy.length}) ---\n`);
     for (const a of healthy.slice(0, 5)) {
-      console.log(`  [${a.impressions} imp, ${a.clicks} clicks] ${a.title}`);
+      console.log(`  [${a.impressions} imp, ${a.clicks} clicks, ${a.pageviews} views] ${a.title}`);
     }
     console.log('');
   }

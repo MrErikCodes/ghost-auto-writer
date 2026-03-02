@@ -122,4 +122,9 @@ export const config = {
   // Google Search Console API
   gscServiceAccountPath: process.env.GOOGLE_SERVICE_ACCOUNT_PATH || './google-service-account.json',
   gscSiteUrl: process.env.GSC_SITE_URL || 'https://minekvitteringer.no',
+
+  // Rybbit Analytics
+  rybbitUrl: process.env.RYBBIT_URL || 'https://rybbit.mkapi.no',
+  rybbitApiKey: process.env.RYBBIT_API_KEY,
+  rybbitSiteId: process.env.RYBBIT_SITE_ID || '1',
 };
