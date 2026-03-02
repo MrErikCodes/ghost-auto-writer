@@ -36,6 +36,7 @@ import {
   unpublishDeadArticles,
   rewriteDeadArticles
 } from './article-health.js';
+import { indexSitemap, indexUrls, submitToGoogle } from './indexnow-client.js';
 
 const program = new Command();
 
@@ -1603,6 +1604,30 @@ program
         limit: parseInt(options.limit),
         minAge: parseInt(options.minAge),
       });
+    } catch (error) {
+      console.error(`\n❌ Failed: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+program
+  .command('index-now')
+  .description('Submit URLs to IndexNow (Bing, Yandex, etc.) and ping Google sitemap')
+  .option('-s, --sitemap <url>', 'Sitemap URL to submit', config.sitemapUrl)
+  .option('-u, --urls <urls...>', 'Specific URLs to submit (instead of full sitemap)')
+  .option('--google-only', 'Only ping Google with sitemap, skip IndexNow')
+  .action(async (options) => {
+    console.log('\n📡 Submitting URLs for indexing...\n');
+
+    try {
+      if (options.googleOnly) {
+        await submitToGoogle(options.sitemap);
+      } else if (options.urls) {
+        await indexUrls(options.urls);
+        await submitToGoogle(options.sitemap);
+      } else {
+        await indexSitemap(options.sitemap);
+      }
     } catch (error) {
       console.error(`\n❌ Failed: ${error.message}`);
       process.exit(1);

@@ -26,7 +26,7 @@ async function getAuthClient() {
 
   const auth = new google.auth.GoogleAuth({
     keyFile: keyPath,
-    scopes: ['https://www.googleapis.com/auth/webmasters.readonly'],
+    scopes: ['https://www.googleapis.com/auth/webmasters'],
   });
 
   return auth;
@@ -249,6 +249,19 @@ async function getPagePerformance(siteUrl, startDate, endDate) {
   return fetchPageData(siteUrl, startDate, endDate);
 }
 
+/**
+ * Submit a sitemap URL to Google Search Console for re-crawling.
+ */
+async function submitSitemap(siteUrl, sitemapUrl) {
+  const auth = await getAuthClient();
+  const searchconsole = google.searchconsole({ version: 'v1', auth });
+
+  await searchconsole.sitemaps.submit({
+    siteUrl,
+    feedpath: sitemapUrl,
+  });
+}
+
 export {
   getAuthClient,
   fetchQueryData,
@@ -258,4 +271,5 @@ export {
   fetchDailyData,
   fetchAll,
   getPagePerformance,
+  submitSitemap,
 };

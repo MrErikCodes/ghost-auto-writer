@@ -127,4 +127,8 @@ export const config = {
   rybbitUrl: process.env.RYBBIT_URL || 'https://rybbit.mkapi.no',
   rybbitApiKey: process.env.RYBBIT_API_KEY,
   rybbitSiteId: process.env.RYBBIT_SITE_ID || '1',
+
+  // IndexNow
+  indexNowKey: process.env.INDEXNOW_KEY,
+  sitemapUrl: 'https://minekvitteringer.no/sitemap.xml',
 };
