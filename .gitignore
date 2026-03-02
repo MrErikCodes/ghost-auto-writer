@@ -138,5 +138,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# Google service account key
+# Google service account keys
 google-service-account.json
+mine-kvitteringer-*.json

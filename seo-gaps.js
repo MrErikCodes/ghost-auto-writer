@@ -2,24 +2,7 @@ import { parse } from 'csv-parse/sync';
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
-
-// Get all date folders from searchconsole directory (yyyy-mm-dd format)
-function getDateFolders() {
-  const basePath = config.searchConsolePath;
-  if (!fs.existsSync(basePath)) return [];
-
-  const entries = fs.readdirSync(basePath, { withFileTypes: true });
-  const datePattern = /^\d{4}-\d{2}-\d{2}$/;
-
-  return entries
-    .filter(e => e.isDirectory() && datePattern.test(e.name))
-    .map(e => ({
-      name: e.name,
-      date: new Date(e.name),
-      path: path.join(basePath, e.name)
-    }))
-    .sort((a, b) => b.date - a.date); // Newest first
-}
+import { getSearchConsoleDateFolders } from './utils.js';
 
 // Calculate weight based on recency (exponential decay)
 // Newest data gets weight 1.0, older data decays but never goes below 0.1
@@ -82,7 +65,7 @@ function loadFolderData(folderPath) {
 
 // Parse the Search Console CSV files with date-based weighting
 export async function loadSearchConsoleData() {
-  const dateFolders = getDateFolders();
+  const dateFolders = getSearchConsoleDateFolders();
 
   // If no date folders, fall back to flat structure (backward compatibility)
   if (dateFolders.length === 0) {

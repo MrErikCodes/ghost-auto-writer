@@ -2,6 +2,7 @@ import { google } from 'googleapis';
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
+import { formatDate, getGscDateRange } from './utils.js';
 
 /**
  * Authenticate with Google using a service account JSON key.
@@ -31,28 +32,7 @@ async function getAuthClient() {
   return auth;
 }
 
-/**
- * Format a Date object as YYYY-MM-DD string.
- */
-function formatDate(date) {
-  return date.toISOString().split('T')[0];
-}
-
-/**
- * Get default date range: last 28 days, ending 3 days ago (GSC data delay).
- */
-function getDefaultDateRange() {
-  const end = new Date();
-  end.setDate(end.getDate() - 3); // GSC data has ~3 day delay
-
-  const start = new Date(end);
-  start.setDate(start.getDate() - 28);
-
-  return {
-    startDate: formatDate(start),
-    endDate: formatDate(end),
-  };
-}
+// formatDate and getGscDateRange are imported from utils.js
 
 /**
  * Fetch query-level data from Search Console.
@@ -198,7 +178,7 @@ async function fetchAll(options = {}) {
   const siteUrl = options.siteUrl || config.gscSiteUrl;
   const { startDate, endDate } = options.startDate && options.endDate
     ? { startDate: options.startDate, endDate: options.endDate }
-    : getDefaultDateRange();
+    : getGscDateRange();
 
   console.log(`  Site: ${siteUrl}`);
   console.log(`  Period: ${startDate} to ${endDate}\n`);
@@ -286,8 +266,6 @@ async function getPagePerformance(siteUrl, startDate, endDate) {
 
 export {
   getAuthClient,
-  formatDate,
-  getDefaultDateRange,
   fetchQueryData,
   fetchPageData,
   fetchDeviceData,

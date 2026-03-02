@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
+import { getGscDateRange, getSearchConsoleDateFolders, formatDate } from './utils.js';
 import { getAllPostsWithContent, updatePost, draftPost } from './ghost-client.js';
 import { getPagePerformance } from './search-console-client.js';
 import { generateArticle } from './article-writer.js';
@@ -32,23 +33,24 @@ function classifyArticle(impressions, ageDays, hasGscData) {
  * as a fallback when the GSC API is unavailable.
  */
 function loadLocalPageData() {
-  const scDir = path.resolve(config.searchConsolePath || './searchconsole');
+  const dateDirs = getSearchConsoleDateFolders();
 
-  if (!fs.existsSync(scDir)) {
-    console.warn('  No searchconsole directory found for fallback data');
+  if (!dateDirs.length) {
+    console.warn('  No searchconsole date folders found for fallback data');
     return [];
   }
 
-  // Find dated subdirectories sorted descending
-  const dateDirs = fs.readdirSync(scDir)
-    .filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d))
-    .sort()
-    .reverse();
-
   for (const dir of dateDirs) {
-    const csvPath = path.join(scDir, dir, 'Sider.csv');
+    // Try JSON first (from API fetch)
+    const jsonPath = path.join(dir.path, 'pages.json');
+    if (fs.existsSync(jsonPath)) {
+      console.log(`  Loading local GSC fallback from ${dir.name}/pages.json`);
+      return JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+    }
+    // Fall back to CSV
+    const csvPath = path.join(dir.path, 'Sider.csv');
     if (fs.existsSync(csvPath)) {
-      console.log(`  Loading local GSC fallback from ${dir}/Sider.csv`);
+      console.log(`  Loading local GSC fallback from ${dir.name}/Sider.csv`);
       return parseSiderCsv(fs.readFileSync(csvPath, 'utf-8'));
     }
   }
@@ -104,14 +106,9 @@ export async function getArticleHealth() {
   let usingFallback = false;
 
   try {
-    const endDate = new Date();
-    endDate.setDate(endDate.getDate() - 3); // GSC data has ~3 day delay
-    const startDate = new Date(endDate);
-    startDate.setDate(startDate.getDate() - 28);
-
-    const fmt = d => d.toISOString().split('T')[0];
-    console.log(`Fetching GSC page data (${fmt(startDate)} to ${fmt(endDate)})...`);
-    gscPages = await getPagePerformance(config.gscSiteUrl, fmt(startDate), fmt(endDate));
+    const { startDate, endDate } = getGscDateRange();
+    console.log(`Fetching GSC page data (${startDate} to ${endDate})...`);
+    gscPages = await getPagePerformance(config.gscSiteUrl, startDate, endDate);
     console.log(`  Got ${gscPages.length} pages from GSC API`);
   } catch (err) {
     console.warn(`  GSC API failed: ${err.message}`);
@@ -120,26 +117,46 @@ export async function getArticleHealth() {
     usingFallback = true;
   }
 
-  // 3. Build a lookup map from GSC data (URL -> metrics)
-  const gscMap = new Map();
+  // 3. Build lookup maps from GSC data
+  //    Ghost returns URLs like https://ghost.mkapi.no/slug/
+  //    GSC has URLs like https://minekvitteringer.no/blog/slug/
+  //    So we match by slug (last path segment) as well as full URL
+  const gscByUrl = new Map();
+  const gscBySlug = new Map();
   for (const page of gscPages) {
-    // Normalise: strip trailing slash for matching
-    const normalised = (page.page || page.url)?.replace(/\/$/, '');
-    if (normalised) {
-      gscMap.set(normalised, {
-        clicks: page.clicks ?? 0,
-        impressions: page.impressions ?? 0,
-        ctr: page.ctr ?? 0,
-        position: page.position ?? 0
-      });
-    }
+    const pageUrl = (page.page || page.url || '').replace(/\/$/, '');
+    if (!pageUrl) continue;
+
+    const metrics = {
+      clicks: page.clicks ?? 0,
+      impressions: page.impressions ?? 0,
+      ctr: page.ctr ?? 0,
+      position: page.position ?? 0,
+      gscUrl: pageUrl
+    };
+
+    gscByUrl.set(pageUrl, metrics);
+
+    // Extract slug from URL path for cross-domain matching
+    try {
+      const urlPath = new URL(pageUrl).pathname.replace(/\/$/, '');
+      const slug = urlPath.split('/').filter(Boolean).pop();
+      if (slug) {
+        // If multiple GSC pages match same slug, keep the one with most impressions
+        const existing = gscBySlug.get(slug);
+        if (!existing || metrics.impressions > existing.impressions) {
+          gscBySlug.set(slug, metrics);
+        }
+      }
+    } catch { /* ignore invalid URLs */ }
   }
 
   // 4. Cross-reference each post
   const articles = posts.map(post => {
     const url = (post.url || '').replace(/\/$/, '');
     const ageDays = daysSince(post.published_at);
-    const gsc = gscMap.get(url) || null;
+    // Try exact URL match first, then slug match
+    const gsc = gscByUrl.get(url) || gscBySlug.get(post.slug) || null;
     const hasGscData = gsc !== null;
     const impressions = gsc?.impressions ?? 0;
     const clicks = gsc?.clicks ?? 0;
