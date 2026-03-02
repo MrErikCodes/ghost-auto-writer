@@ -94,6 +94,56 @@ export async function getAllPostsWithContent() {
   }
 }
 
+// Update an existing post (for rewriting content)
+export async function updatePost(postId, data) {
+  const token = generateGhostToken();
+
+  // First, get the current post to get its updated_at (required by Ghost API)
+  const getUrl = `${config.ghostApiUrl}posts/${postId}/`;
+  const getResponse = await fetch(getUrl, {
+    headers: { 'Authorization': `Ghost ${token}` }
+  });
+
+  if (!getResponse.ok) {
+    const error = await getResponse.json();
+    throw new Error(`Ghost API error (get post): ${JSON.stringify(error)}`);
+  }
+
+  const current = await getResponse.json();
+  const updatedAt = current.posts[0].updated_at;
+
+  // Now update the post
+  const updateUrl = `${config.ghostApiUrl}posts/${postId}/?source=html`;
+  const postData = {
+    posts: [{
+      ...data,
+      updated_at: updatedAt
+    }]
+  };
+
+  const response = await fetch(updateUrl, {
+    method: 'PUT',
+    headers: {
+      'Authorization': `Ghost ${token}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(postData)
+  });
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(`Ghost API error (update): ${JSON.stringify(error)}`);
+  }
+
+  const result = await response.json();
+  return result.posts[0];
+}
+
+// Change a post to draft status (unpublish)
+export async function draftPost(postId) {
+  return updatePost(postId, { status: 'draft' });
+}
+
 // Get existing posts to check for duplicates
 export async function getExistingPosts() {
   const token = generateGhostToken();
