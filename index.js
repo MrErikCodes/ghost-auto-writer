@@ -28,6 +28,7 @@ import {
   loadBatchMapping as claudeLoadBatchMapping,
   generateFastTopics
 } from './claude-writer.js';
+import { fetchAll as fetchGscData } from './search-console-client.js';
 
 const program = new Command();
 
@@ -1516,6 +1517,36 @@ program
     if (!connected && result.generated > 0) {
       console.log(`\n📁 Results saved to: ${batchDir}`);
       console.log(`  Post later: node index.js claude-process ${batchDir} --post-only -a\n`);
+    }
+  });
+
+program
+  .command('fetch-gsc')
+  .description('Fetch data from Google Search Console API')
+  .option('--days <number>', 'Number of days to fetch (default: 28)', '28')
+  .option('--start <date>', 'Start date (YYYY-MM-DD)')
+  .option('--end <date>', 'End date (YYYY-MM-DD)')
+  .action(async (options) => {
+    console.log('\n📊 Fetching Google Search Console data...\n');
+    try {
+      const fetchOptions = {};
+      if (options.start && options.end) {
+        fetchOptions.startDate = options.start;
+        fetchOptions.endDate = options.end;
+      } else {
+        const days = parseInt(options.days);
+        const end = new Date();
+        end.setDate(end.getDate() - 3);
+        const start = new Date(end);
+        start.setDate(start.getDate() - days);
+        fetchOptions.startDate = start.toISOString().split('T')[0];
+        fetchOptions.endDate = end.toISOString().split('T')[0];
+      }
+      await fetchGscData(fetchOptions);
+      console.log('\n✅ Search Console data fetched successfully!');
+    } catch (error) {
+      console.error(`\n❌ Failed to fetch GSC data: ${error.message}`);
+      process.exit(1);
     }
   });
 
