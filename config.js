@@ -117,5 +117,9 @@ export const config = {
   defaultTag: 'Artikler',
 
   // Search Console data path
-  searchConsolePath: './searchconsole'
+  searchConsolePath: './searchconsole',
+
+  // Google Search Console API
+  gscServiceAccountPath: process.env.GOOGLE_SERVICE_ACCOUNT_PATH || './google-service-account.json',
+  gscSiteUrl: process.env.GSC_SITE_URL || 'https://minekvitteringer.no',
 };
