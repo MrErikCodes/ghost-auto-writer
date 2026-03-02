@@ -34,45 +34,47 @@ function calculateRecencyWeight(dateStr, newestDateStr) {
   return Math.max(weight, 0.1);
 }
 
-// Load CSV data from a specific folder
+// Load data from a specific folder (tries JSON first, falls back to CSV)
 function loadFolderData(folderPath) {
-  const queriesPath = path.join(folderPath, 'Forspørsler.csv');
-  const pagesPath = path.join(folderPath, 'Sider.csv');
-
   const data = { queries: [], pages: [] };
 
-  if (fs.existsSync(queriesPath)) {
-    const content = fs.readFileSync(queriesPath, 'utf-8');
-    const records = parse(content, {
-      columns: true,
-      skip_empty_lines: true,
-      delimiter: ','
-    });
+  // Try JSON first (from API fetch)
+  const queriesJsonPath = path.join(folderPath, 'queries.json');
+  const pagesJsonPath = path.join(folderPath, 'pages.json');
 
-    data.queries = records.map(r => ({
-      query: r['Populære søk'],
-      clicks: parseInt(r['Klikk']) || 0,
-      impressions: parseInt(r['Visninger']) || 0,
-      ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
-      position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
-    }));
+  if (fs.existsSync(queriesJsonPath)) {
+    data.queries = JSON.parse(fs.readFileSync(queriesJsonPath, 'utf-8'));
+  } else {
+    // Fall back to CSV (manual download)
+    const queriesCsvPath = path.join(folderPath, 'Forspørsler.csv');
+    if (fs.existsSync(queriesCsvPath)) {
+      const content = fs.readFileSync(queriesCsvPath, 'utf-8');
+      const records = parse(content, { columns: true, skip_empty_lines: true, delimiter: ',' });
+      data.queries = records.map(r => ({
+        query: r['Populære søk'],
+        clicks: parseInt(r['Klikk']) || 0,
+        impressions: parseInt(r['Visninger']) || 0,
+        ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
+        position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
+      }));
+    }
   }
 
-  if (fs.existsSync(pagesPath)) {
-    const content = fs.readFileSync(pagesPath, 'utf-8');
-    const records = parse(content, {
-      columns: true,
-      skip_empty_lines: true,
-      delimiter: ','
-    });
-
-    data.pages = records.map(r => ({
-      page: r['Mest populære sider'],
-      clicks: parseInt(r['Klikk']) || 0,
-      impressions: parseInt(r['Visninger']) || 0,
-      ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
-      position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
-    }));
+  if (fs.existsSync(pagesJsonPath)) {
+    data.pages = JSON.parse(fs.readFileSync(pagesJsonPath, 'utf-8'));
+  } else {
+    const pagesCsvPath = path.join(folderPath, 'Sider.csv');
+    if (fs.existsSync(pagesCsvPath)) {
+      const content = fs.readFileSync(pagesCsvPath, 'utf-8');
+      const records = parse(content, { columns: true, skip_empty_lines: true, delimiter: ',' });
+      data.pages = records.map(r => ({
+        page: r['Mest populære sider'],
+        clicks: parseInt(r['Klikk']) || 0,
+        impressions: parseInt(r['Visninger']) || 0,
+        ctr: parseFloat(r['Klikkfrekvens']?.replace('%', '').replace(',', '.')) || 0,
+        position: parseFloat(r['Plassering']?.replace(',', '.')) || 0
+      }));
+    }
   }
 
   return data;
