@@ -2,7 +2,7 @@ import { google } from 'googleapis';
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
-import { formatDate, getGscDateRange } from './utils.js';
+import { formatDate, getGscDateRange, normalizeGscMetrics } from './utils.js';
 
 /**
  * Authenticate with Google using a service account JSON key.
@@ -55,10 +55,7 @@ async function fetchQueryData(siteUrl, startDate, endDate, rowLimit = 5000) {
   const rows = response.data.rows || [];
   return rows.map(row => ({
     query: row.keys[0],
-    clicks: row.clicks,
-    impressions: row.impressions,
-    ctr: Math.round(row.ctr * 10000) / 100,
-    position: Math.round(row.position * 100) / 100,
+    ...normalizeGscMetrics(row),
   }));
 }
 
@@ -83,10 +80,7 @@ async function fetchPageData(siteUrl, startDate, endDate, rowLimit = 5000) {
   const rows = response.data.rows || [];
   return rows.map(row => ({
     page: row.keys[0],
-    clicks: row.clicks,
-    impressions: row.impressions,
-    ctr: Math.round(row.ctr * 10000) / 100,
-    position: Math.round(row.position * 100) / 100,
+    ...normalizeGscMetrics(row),
   }));
 }
 
@@ -110,10 +104,7 @@ async function fetchDeviceData(siteUrl, startDate, endDate) {
   const rows = response.data.rows || [];
   return rows.map(row => ({
     device: row.keys[0],
-    clicks: row.clicks,
-    impressions: row.impressions,
-    ctr: Math.round(row.ctr * 10000) / 100,
-    position: Math.round(row.position * 100) / 100,
+    ...normalizeGscMetrics(row),
   }));
 }
 
@@ -137,10 +128,7 @@ async function fetchCountryData(siteUrl, startDate, endDate) {
   const rows = response.data.rows || [];
   return rows.map(row => ({
     country: row.keys[0],
-    clicks: row.clicks,
-    impressions: row.impressions,
-    ctr: Math.round(row.ctr * 10000) / 100,
-    position: Math.round(row.position * 100) / 100,
+    ...normalizeGscMetrics(row),
   }));
 }
 
@@ -164,10 +152,7 @@ async function fetchDailyData(siteUrl, startDate, endDate) {
   const rows = response.data.rows || [];
   return rows.map(row => ({
     date: row.keys[0],
-    clicks: row.clicks,
-    impressions: row.impressions,
-    ctr: Math.round(row.ctr * 10000) / 100,
-    position: Math.round(row.position * 100) / 100,
+    ...normalizeGscMetrics(row),
   }));
 }
 

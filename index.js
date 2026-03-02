@@ -29,6 +29,7 @@ import {
   generateFastTopics
 } from './claude-writer.js';
 import { fetchAll as fetchGscData } from './search-console-client.js';
+import { formatDate, getGscDateRange } from './utils.js';
 import {
   getArticleHealth,
   printHealthReport,
@@ -1541,12 +1542,9 @@ program
         fetchOptions.endDate = options.end;
       } else {
         const days = parseInt(options.days);
-        const end = new Date();
-        end.setDate(end.getDate() - 3);
-        const start = new Date(end);
-        start.setDate(start.getDate() - days);
-        fetchOptions.startDate = start.toISOString().split('T')[0];
-        fetchOptions.endDate = end.toISOString().split('T')[0];
+        const { startDate, endDate } = getGscDateRange(days);
+        fetchOptions.startDate = startDate;
+        fetchOptions.endDate = endDate;
       }
       await fetchGscData(fetchOptions);
       console.log('\n✅ Search Console data fetched successfully!');

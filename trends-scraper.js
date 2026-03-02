@@ -2,6 +2,7 @@ import puppeteer from 'puppeteer';
 import RSSParser from 'rss-parser';
 import fs from 'fs';
 import { config } from './config.js';
+import { formatDate } from './utils.js';
 
 const TRENDS_FOLDER = './trends';
 
@@ -243,7 +244,7 @@ export async function fetchAllTrends(debug = false) {
     fetchAllRSSFeeds()
   ]);
 
-  const today = new Date().toISOString().split('T')[0];
+  const today = formatDate(new Date());
 
   // Create trends folder if needed
   if (!fs.existsSync(TRENDS_FOLDER)) {

@@ -1,0 +1,1086 @@
+{
+  "timestamp": 1772446426847,
+  "createdAt": "2026-03-02T10:13:46.918Z",
+  "topics": [
+    {
+      "index": 0,
+      "promptFile": "prompt-0.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side",
+        "query": "elkjøp min side",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "3171 visninger, 14 klikk, posisjon 3, CTR 0.2%"
+      }
+    },
+    {
+      "index": 1,
+      "promptFile": "prompt-1.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering",
+        "query": "kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "2341 visninger, 5 klikk, posisjon 2, CTR 0.1%"
+      }
+    },
+    {
+      "index": 2,
+      "promptFile": "prompt-2.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp kvittering",
+        "query": "elkjøp kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "935 visninger, 12 klikk, posisjon 2, CTR 0.5%"
+      }
+    },
+    {
+      "index": 3,
+      "promptFile": "prompt-3.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Zalando reklamasjon",
+        "query": "zalando reklamasjon",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "532 visninger, 7 klikk, posisjon 2, CTR 0.7%"
+      }
+    },
+    {
+      "index": 4,
+      "promptFile": "prompt-4.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringer",
+        "query": "kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "525 visninger, 12 klikk, posisjon 7, CTR 0.9%"
+      }
+    },
+    {
+      "index": 5,
+      "promptFile": "prompt-5.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp mine ordre",
+        "query": "elkjøp mine ordre",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "488 visninger, 10 klikk, posisjon 1, CTR 0.9%"
+      }
+    },
+    {
+      "index": 6,
+      "promptFile": "prompt-6.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Finne kvittering clas ohlson",
+        "query": "finne kvittering clas ohlson",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "475 visninger, 35 klikk, posisjon 0, CTR 3.0%"
+      }
+    },
+    {
+      "index": 7,
+      "promptFile": "prompt-7.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Digital kvittering",
+        "query": "digital kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "472 visninger, 2 klikk, posisjon 7, CTR 0.1%"
+      }
+    },
+    {
+      "index": 8,
+      "promptFile": "prompt-8.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vigo vitnemål",
+        "query": "vigo vitnemål",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "466 visninger, 2 klikk, posisjon 4, CTR 0.2%"
+      }
+    },
+    {
+      "index": 9,
+      "promptFile": "prompt-9.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp kvittering på nett",
+        "query": "elkjøp kvittering på nett",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "438 visninger, 8 klikk, posisjon 0, CTR 0.7%"
+      }
+    },
+    {
+      "index": 10,
+      "promptFile": "prompt-10.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Mypower kvittering",
+        "query": "mypower kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "395 visninger, 12 klikk, posisjon 1, CTR 1.4%"
+      }
+    },
+    {
+      "index": 11,
+      "promptFile": "prompt-11.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti hvitevarer",
+        "query": "garanti hvitevarer",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "384 visninger, 2 klikk, posisjon 2, CTR 0.3%"
+      }
+    },
+    {
+      "index": 12,
+      "promptFile": "prompt-12.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Formuesskatt grense",
+        "query": "formuesskatt grense",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "373 visninger, 0 klikk, posisjon 7, CTR 0.0%"
+      }
+    },
+    {
+      "index": 13,
+      "promptFile": "prompt-13.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Zalando faktura",
+        "query": "zalando faktura",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "372 visninger, 9 klikk, posisjon 2, CTR 1.1%"
+      }
+    },
+    {
+      "index": 14,
+      "promptFile": "prompt-14.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Digitale kvitteringer",
+        "query": "digitale kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "366 visninger, 7 klikk, posisjon 2, CTR 0.7%"
+      }
+    },
+    {
+      "index": 15,
+      "promptFile": "prompt-15.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitering",
+        "query": "kvitering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "365 visninger, 0 klikk, posisjon 1, CTR 0.0%"
+      }
+    },
+    {
+      "index": 16,
+      "promptFile": "prompt-16.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Ordrebekreftelse",
+        "query": "ordrebekreftelse",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "352 visninger, 0 klikk, posisjon 3, CTR 0.0%"
+      }
+    },
+    {
+      "index": 17,
+      "promptFile": "prompt-17.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti iphone",
+        "query": "garanti iphone",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "344 visninger, 3 klikk, posisjon 1, CTR 0.3%"
+      }
+    },
+    {
+      "index": 18,
+      "promptFile": "prompt-18.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Formueskatt grense",
+        "query": "formueskatt grense",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "342 visninger, 1 klikk, posisjon 5, CTR 0.1%"
+      }
+    },
+    {
+      "index": 19,
+      "promptFile": "prompt-19.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Xxl min side",
+        "query": "xxl min side",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "342 visninger, 0 klikk, posisjon 2, CTR 0.1%"
+      }
+    },
+    {
+      "index": 20,
+      "promptFile": "prompt-20.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power kvittering",
+        "query": "power kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "340 visninger, 2 klikk, posisjon 3, CTR 0.2%"
+      }
+    },
+    {
+      "index": 21,
+      "promptFile": "prompt-21.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Firmabil enkeltpersonforetak",
+        "query": "firmabil enkeltpersonforetak",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "338 visninger, 0 klikk, posisjon 4, CTR 0.0%"
+      }
+    },
+    {
+      "index": 22,
+      "promptFile": "prompt-22.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Clas ohlson kvittering",
+        "query": "clas ohlson kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "303 visninger, 13 klikk, posisjon 1, CTR 1.7%"
+      }
+    },
+    {
+      "index": 23,
+      "promptFile": "prompt-23.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering elkjøp",
+        "query": "kvittering elkjøp",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "302 visninger, 2 klikk, posisjon 3, CTR 0.2%"
+      }
+    },
+    {
+      "index": 24,
+      "promptFile": "prompt-24.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjon zalando",
+        "query": "reklamasjon zalando",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "298 visninger, 4 klikk, posisjon 1, CTR 0.6%"
+      }
+    },
+    {
+      "index": 25,
+      "promptFile": "prompt-25.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringshåndtering",
+        "query": "kvitteringshåndtering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "275 visninger, 0 klikk, posisjon 1, CTR 0.0%"
+      }
+    },
+    {
+      "index": 26,
+      "promptFile": "prompt-26.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp mine kjøp",
+        "query": "elkjøp mine kjøp",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "253 visninger, 1 klikk, posisjon 2, CTR 0.1%"
+      }
+    },
+    {
+      "index": 27,
+      "promptFile": "prompt-27.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "E-kvittering",
+        "query": "e-kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "246 visninger, 1 klikk, posisjon 1, CTR 0.1%"
+      }
+    },
+    {
+      "index": 28,
+      "promptFile": "prompt-28.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti mobiltelefon",
+        "query": "garanti mobiltelefon",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "236 visninger, 3 klikk, posisjon 3, CTR 0.4%"
+      }
+    },
+    {
+      "index": 29,
+      "promptFile": "prompt-29.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Iphone garanti",
+        "query": "iphone garanti",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "233 visninger, 5 klikk, posisjon 2, CTR 0.9%"
+      }
+    },
+    {
+      "index": 30,
+      "promptFile": "prompt-30.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Har deler av teksten blitt kontrollert av ai-verktøy?",
+        "query": "har deler av teksten blitt kontrollert av ai-verktøy?",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "232 visninger, 0 klikk, posisjon 3, CTR 0.0%"
+      }
+    },
+    {
+      "index": 31,
+      "promptFile": "prompt-31.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringer lagret på ett sted",
+        "query": "kvitteringer lagret på ett sted",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "227 visninger, 0 klikk, posisjon 1, CTR 0.0%"
+      }
+    },
+    {
+      "index": 32,
+      "promptFile": "prompt-32.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering på e-post",
+        "query": "kvittering på e-post",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "226 visninger, 0 klikk, posisjon 1, CTR 0.0%"
+      }
+    },
+    {
+      "index": 33,
+      "promptFile": "prompt-33.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Fysisk butikk digital kvittering",
+        "query": "fysisk butikk digital kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "224 visninger, 0 klikk, posisjon 1, CTR 0.0%"
+      }
+    },
+    {
+      "index": 34,
+      "promptFile": "prompt-34.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Største plattform for digitale kvitteringer",
+        "query": "største plattform for digitale kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "220 visninger, 1 klikk, posisjon 1, CTR 0.2%"
+      }
+    },
+    {
+      "index": 35,
+      "promptFile": "prompt-35.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power min side",
+        "query": "power min side",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "219 visninger, 2 klikk, posisjon 3, CTR 0.3%"
+      }
+    },
+    {
+      "index": 36,
+      "promptFile": "prompt-36.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Firmabil enkeltmannsforetak",
+        "query": "firmabil enkeltmannsforetak",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "216 visninger, 0 klikk, posisjon 5, CTR 0.0%"
+      }
+    },
+    {
+      "index": 37,
+      "promptFile": "prompt-37.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Min side elkjøp",
+        "query": "min side elkjøp",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "214 visninger, 0 klikk, posisjon 3, CTR 0.1%"
+      }
+    },
+    {
+      "index": 38,
+      "promptFile": "prompt-38.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering clas ohlson",
+        "query": "kvittering clas ohlson",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "204 visninger, 7 klikk, posisjon 2, CTR 1.7%"
+      }
+    },
+    {
+      "index": 39,
+      "promptFile": "prompt-39.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Xxl kvittering",
+        "query": "xxl kvittering",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "201 visninger, 4 klikk, posisjon 2, CTR 1.1%"
+      }
+    },
+    {
+      "index": 40,
+      "promptFile": "prompt-40.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti elektronikk",
+        "query": "garanti elektronikk",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "201 visninger, 1 klikk, posisjon 1, CTR 0.1%"
+      }
+    },
+    {
+      "index": 41,
+      "promptFile": "prompt-41.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjonsrett elektronikk",
+        "query": "reklamasjonsrett elektronikk",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "197 visninger, 0 klikk, posisjon 3, CTR 0.0%"
+      }
+    },
+    {
+      "index": 42,
+      "promptFile": "prompt-42.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Oppbevaring av faktura",
+        "query": "oppbevaring av faktura",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "195 visninger, 0 klikk, posisjon 4, CTR 0.0%"
+      }
+    },
+    {
+      "index": 43,
+      "promptFile": "prompt-43.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Bohus reklamasjon",
+        "query": "bohus reklamasjon",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "186 visninger, 1 klikk, posisjon 2, CTR 0.3%"
+      }
+    },
+    {
+      "index": 44,
+      "promptFile": "prompt-44.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Fradrag enkeltpersonforetak",
+        "query": "fradrag enkeltpersonforetak",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "185 visninger, 0 klikk, posisjon 13, CTR 0.0%"
+      }
+    },
+    {
+      "index": 45,
+      "promptFile": "prompt-45.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjon elektronikk",
+        "query": "reklamasjon elektronikk",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "180 visninger, 0 klikk, posisjon 4, CTR 0.0%"
+      }
+    },
+    {
+      "index": 46,
+      "promptFile": "prompt-46.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power min side logg inn",
+        "query": "power min side logg inn",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "179 visninger, 1 klikk, posisjon 3, CTR 0.2%"
+      }
+    },
+    {
+      "index": 47,
+      "promptFile": "prompt-47.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Gratis kvittering app",
+        "query": "gratis kvittering app",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "177 visninger, 2 klikk, posisjon 8, CTR 0.6%"
+      }
+    },
+    {
+      "index": 48,
+      "promptFile": "prompt-48.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Tesla garanti",
+        "query": "tesla garanti",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "175 visninger, 2 klikk, posisjon 3, CTR 0.3%"
+      }
+    },
+    {
+      "index": 49,
+      "promptFile": "prompt-49.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side logg inn",
+        "query": "elkjøp min side logg inn",
+        "keywords": [],
+        "dataSource": "search-console",
+        "rationale": "158 visninger, 2 klikk, posisjon 3, CTR 0.4%"
+      }
+    },
+    {
+      "index": 50,
+      "promptFile": "prompt-50.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side",
+        "query": "elkjøp min side",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 14 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 51,
+      "promptFile": "prompt-51.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvitteringer",
+        "query": "kvitteringer",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 12 klikk, posisjon 7 (room to grow)"
+      }
+    },
+    {
+      "index": 52,
+      "promptFile": "prompt-52.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Digital kvittering",
+        "query": "digital kvittering",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 7 (room to grow)"
+      }
+    },
+    {
+      "index": 53,
+      "promptFile": "prompt-53.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vigo vitnemål",
+        "query": "vigo vitnemål",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 54,
+      "promptFile": "prompt-54.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Formueskatt grense",
+        "query": "formueskatt grense",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 5 (room to grow)"
+      }
+    },
+    {
+      "index": 55,
+      "promptFile": "prompt-55.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering elkjøp",
+        "query": "kvittering elkjøp",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 56,
+      "promptFile": "prompt-56.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power min side",
+        "query": "power min side",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 57,
+      "promptFile": "prompt-57.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Power min side logg inn",
+        "query": "power min side logg inn",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 58,
+      "promptFile": "prompt-58.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Gratis kvittering app",
+        "query": "gratis kvittering app",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 8 (room to grow)"
+      }
+    },
+    {
+      "index": 59,
+      "promptFile": "prompt-59.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Tesla garanti",
+        "query": "tesla garanti",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 60,
+      "promptFile": "prompt-60.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Elkjøp min side logg inn",
+        "query": "elkjøp min side logg inn",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 61,
+      "promptFile": "prompt-61.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Forbrukerkjøpsloven garanti elektronikk",
+        "query": "forbrukerkjøpsloven garanti elektronikk",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 62,
+      "promptFile": "prompt-62.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Formuesskatt 2025",
+        "query": "formuesskatt 2025",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 63,
+      "promptFile": "prompt-63.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Beste billige mobil 2025",
+        "query": "beste billige mobil 2025",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 64,
+      "promptFile": "prompt-64.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti på mobiltelefon",
+        "query": "garanti på mobiltelefon",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 65,
+      "promptFile": "prompt-65.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Faktura zalando",
+        "query": "faktura zalando",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 66,
+      "promptFile": "prompt-66.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Beste kamera mobil 2025",
+        "query": "beste kamera mobil 2025",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 67,
+      "promptFile": "prompt-67.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Beste android telefon 2025",
+        "query": "beste android telefon 2025",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 68,
+      "promptFile": "prompt-68.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Skeidar reklamasjon",
+        "query": "skeidar reklamasjon",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 69,
+      "promptFile": "prompt-69.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Hvordan beregnes formuesskatt",
+        "query": "hvordan beregnes formuesskatt",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 8 (room to grow)"
+      }
+    },
+    {
+      "index": 70,
+      "promptFile": "prompt-70.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vigo.no vitnemål",
+        "query": "vigo.no vitnemål",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 71,
+      "promptFile": "prompt-71.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Kvittering app",
+        "query": "kvittering app",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 4 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 72,
+      "promptFile": "prompt-72.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Finn kvittering",
+        "query": "finn kvittering",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 73,
+      "promptFile": "prompt-73.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjon sofa",
+        "query": "reklamasjon sofa",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 10 (room to grow)"
+      }
+    },
+    {
+      "index": 74,
+      "promptFile": "prompt-74.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Beste kamera mobil 2025 budsjett",
+        "query": "beste kamera mobil 2025 budsjett",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 2 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 75,
+      "promptFile": "prompt-75.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Reklamasjon skeidar",
+        "query": "reklamasjon skeidar",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 76,
+      "promptFile": "prompt-76.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Vipps kvittering",
+        "query": "vipps kvittering",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 77,
+      "promptFile": "prompt-77.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Zalando klage",
+        "query": "zalando klage",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 4 (room to grow)"
+      }
+    },
+    {
+      "index": 78,
+      "promptFile": "prompt-78.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Garanti samsung tv",
+        "query": "garanti samsung tv",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 79,
+      "promptFile": "prompt-79.txt",
+      "topic": {
+        "category": "seo-gap",
+        "topic": "Beste kamera telefon 2025",
+        "query": "beste kamera telefon 2025",
+        "keywords": [],
+        "dataSource": "search-console-rising",
+        "rationale": "Rising: 1 klikk, posisjon 3 (room to grow)"
+      }
+    },
+    {
+      "index": 80,
+      "promptFile": "prompt-80.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "el mencho: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "el mencho",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: el mencho"
+      }
+    },
+    {
+      "index": 81,
+      "promptFile": "prompt-81.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "mexico: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "mexico",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: mexico"
+      }
+    },
+    {
+      "index": 82,
+      "promptFile": "prompt-82.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "peter mandelson: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "peter mandelson",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: peter mandelson"
+      }
+    },
+    {
+      "index": 83,
+      "promptFile": "prompt-83.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "beirut: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "beirut",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: beirut"
+      }
+    },
+    {
+      "index": 84,
+      "promptFile": "prompt-84.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "espen teigen: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "espen teigen",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: espen teigen"
+      }
+    },
+    {
+      "index": 85,
+      "promptFile": "prompt-85.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "per tore totland: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "per tore totland",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: per tore totland"
+      }
+    },
+    {
+      "index": 86,
+      "promptFile": "prompt-86.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "robert aramayo: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "robert aramayo",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: robert aramayo"
+      }
+    },
+    {
+      "index": 87,
+      "promptFile": "prompt-87.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "nemesio oseguera cervantes: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "nemesio oseguera cervantes",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: nemesio oseguera cervantes"
+      }
+    },
+    {
+      "index": 88,
+      "promptFile": "prompt-88.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "volvo ex: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "volvo ex",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: volvo ex"
+      }
+    },
+    {
+      "index": 89,
+      "promptFile": "prompt-89.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "bettina burud: Slik påvirker det kvitteringer og dokumentasjon",
+        "query": "bettina burud",
+        "keywords": [],
+        "dataSource": "google-trends",
+        "rationale": "Trending i Norge: bettina burud"
+      }
+    }
+  ]
+}

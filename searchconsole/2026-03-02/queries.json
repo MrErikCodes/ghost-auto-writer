@@ -1,0 +1,10320 @@
+[
+  {
+    "query": "mine kvitteringer",
+    "clicks": 27,
+    "impressions": 52,
+    "ctr": 51.92,
+    "position": 1.4
+  },
+  {
+    "query": "elkjøp min side",
+    "clicks": 12,
+    "impressions": 1105,
+    "ctr": 1.09,
+    "position": 7.42
+  },
+  {
+    "query": "elkjøp mine ordre",
+    "clicks": 10,
+    "impressions": 297,
+    "ctr": 3.37,
+    "position": 1.42
+  },
+  {
+    "query": "finne kvittering clas ohlson",
+    "clicks": 10,
+    "impressions": 86,
+    "ctr": 11.63,
+    "position": 1.01
+  },
+  {
+    "query": "zalando faktura",
+    "clicks": 9,
+    "impressions": 172,
+    "ctr": 5.23,
+    "position": 8.1
+  },
+  {
+    "query": "zalando reklamasjon",
+    "clicks": 9,
+    "impressions": 413,
+    "ctr": 2.18,
+    "position": 4.44
+  },
+  {
+    "query": "kvitteringer clas ohlson",
+    "clicks": 8,
+    "impressions": 45,
+    "ctr": 17.78,
+    "position": 3.47
+  },
+  {
+    "query": "elkjøp kvittering",
+    "clicks": 7,
+    "impressions": 281,
+    "ctr": 2.49,
+    "position": 3.17
+  },
+  {
+    "query": "mypower kvittering",
+    "clicks": 7,
+    "impressions": 129,
+    "ctr": 5.43,
+    "position": 3.89
+  },
+  {
+    "query": "clas ohlson kvittering",
+    "clicks": 6,
+    "impressions": 64,
+    "ctr": 9.38,
+    "position": 3.5
+  },
+  {
+    "query": "clas ohlson kvittering fra butikk",
+    "clicks": 6,
+    "impressions": 23,
+    "ctr": 26.09,
+    "position": 1.3
+  },
+  {
+    "query": "elkjøp kvittering på nett",
+    "clicks": 6,
+    "impressions": 127,
+    "ctr": 4.72,
+    "position": 1.04
+  },
+  {
+    "query": "kvittering app",
+    "clicks": 6,
+    "impressions": 34,
+    "ctr": 17.65,
+    "position": 12.71
+  },
+  {
+    "query": "kvittering clas ohlson",
+    "clicks": 6,
+    "impressions": 40,
+    "ctr": 15,
+    "position": 3.13
+  },
+  {
+    "query": "kvitteringer",
+    "clicks": 6,
+    "impressions": 133,
+    "ctr": 4.51,
+    "position": 13.52
+  },
+  {
+    "query": "clas ohlson kvitteringer",
+    "clicks": 4,
+    "impressions": 43,
+    "ctr": 9.3,
+    "position": 3.37
+  },
+  {
+    "query": "digital kvittering clas ohlson",
+    "clicks": 4,
+    "impressions": 28,
+    "ctr": 14.29,
+    "position": 1
+  },
+  {
+    "query": "kvitteringsapp",
+    "clicks": 4,
+    "impressions": 25,
+    "ctr": 16,
+    "position": 1.76
+  },
+  {
+    "query": "clas ohlson kvittering på nett",
+    "clicks": 3,
+    "impressions": 16,
+    "ctr": 18.75,
+    "position": 1.13
+  },
+  {
+    "query": "elkjøp kvitteringer",
+    "clicks": 3,
+    "impressions": 34,
+    "ctr": 8.82,
+    "position": 3.06
+  },
+  {
+    "query": "garanti hvitevarer",
+    "clicks": 3,
+    "impressions": 363,
+    "ctr": 0.83,
+    "position": 3.63
+  },
+  {
+    "query": "kvittering på kjøp fra privatperson mal",
+    "clicks": 3,
+    "impressions": 19,
+    "ctr": 15.79,
+    "position": 5.58
+  },
+  {
+    "query": "reklamasjon zalando",
+    "clicks": 3,
+    "impressions": 269,
+    "ctr": 1.12,
+    "position": 3.06
+  },
+  {
+    "query": "zalando betaling",
+    "clicks": 3,
+    "impressions": 53,
+    "ctr": 5.66,
+    "position": 5.06
+  },
+  {
+    "query": "app for kvitteringer",
+    "clicks": 2,
+    "impressions": 15,
+    "ctr": 13.33,
+    "position": 1
+  },
+  {
+    "query": "bohus reklamasjon",
+    "clicks": 2,
+    "impressions": 168,
+    "ctr": 1.19,
+    "position": 5.36
+  },
+  {
+    "query": "clas ohlson app",
+    "clicks": 2,
+    "impressions": 34,
+    "ctr": 5.88,
+    "position": 1.06
+  },
+  {
+    "query": "clas ohlson reklamasjon",
+    "clicks": 2,
+    "impressions": 50,
+    "ctr": 4,
+    "position": 5.72
+  },
+  {
+    "query": "elektronisk kvittering",
+    "clicks": 2,
+    "impressions": 7,
+    "ctr": 28.57,
+    "position": 15.14
+  },
+  {
+    "query": "elkjøp min side logg inn",
+    "clicks": 2,
+    "impressions": 85,
+    "ctr": 2.35,
+    "position": 7.38
+  },
+  {
+    "query": "garanti samsung tv",
+    "clicks": 2,
+    "impressions": 29,
+    "ctr": 6.9,
+    "position": 8.76
+  },
+  {
+    "query": "hvordan reklamere zalando",
+    "clicks": 2,
+    "impressions": 3,
+    "ctr": 66.67,
+    "position": 1
+  },
+  {
+    "query": "komplett kvittering",
+    "clicks": 2,
+    "impressions": 9,
+    "ctr": 22.22,
+    "position": 1.89
+  },
+  {
+    "query": "kvittering elkjøp",
+    "clicks": 2,
+    "impressions": 89,
+    "ctr": 2.25,
+    "position": 7.64
+  },
+  {
+    "query": "reklamasjon bohus",
+    "clicks": 2,
+    "impressions": 61,
+    "ctr": 3.28,
+    "position": 5.33
+  },
+  {
+    "query": "reklamasjon clas ohlson",
+    "clicks": 2,
+    "impressions": 21,
+    "ctr": 9.52,
+    "position": 4.48
+  },
+  {
+    "query": "vipps kvittering",
+    "clicks": 2,
+    "impressions": 31,
+    "ctr": 6.45,
+    "position": 9
+  },
+  {
+    "query": "xxl kvittering",
+    "clicks": 2,
+    "impressions": 50,
+    "ctr": 4,
+    "position": 4.34
+  },
+  {
+    "query": "a møbler reklamasjon",
+    "clicks": 1,
+    "impressions": 9,
+    "ctr": 11.11,
+    "position": 9.67
+  },
+  {
+    "query": "beste billige mobil 2025",
+    "clicks": 1,
+    "impressions": 10,
+    "ctr": 10,
+    "position": 8.9
+  },
+  {
+    "query": "betaling zalando",
+    "clicks": 1,
+    "impressions": 15,
+    "ctr": 6.67,
+    "position": 7.2
+  },
+  {
+    "query": "bytte uten kvittering",
+    "clicks": 1,
+    "impressions": 15,
+    "ctr": 6.67,
+    "position": 4.33
+  },
+  {
+    "query": "chatgpt kvittering",
+    "clicks": 1,
+    "impressions": 8,
+    "ctr": 12.5,
+    "position": 6
+  },
+  {
+    "query": "clas ohlson digital kvittering",
+    "clicks": 1,
+    "impressions": 8,
+    "ctr": 12.5,
+    "position": 2.13
+  },
+  {
+    "query": "clas ohlson retur uten kvittering",
+    "clicks": 1,
+    "impressions": 22,
+    "ctr": 4.55,
+    "position": 1.09
+  },
+  {
+    "query": "digitale kvitteringer",
+    "clicks": 1,
+    "impressions": 127,
+    "ctr": 0.79,
+    "position": 10.37
+  },
+  {
+    "query": "ebitda formel",
+    "clicks": 1,
+    "impressions": 7,
+    "ctr": 14.29,
+    "position": 6.86
+  },
+  {
+    "query": "elektroniske kvitteringer",
+    "clicks": 1,
+    "impressions": 5,
+    "ctr": 20,
+    "position": 1.2
+  },
+  {
+    "query": "elkjøp mine kjøp",
+    "clicks": 1,
+    "impressions": 55,
+    "ctr": 1.82,
+    "position": 5.87
+  },
+  {
+    "query": "elkjøp mine kvitteringer",
+    "clicks": 1,
+    "impressions": 24,
+    "ctr": 4.17,
+    "position": 2.83
+  },
+  {
+    "query": "faktura zalando",
+    "clicks": 1,
+    "impressions": 111,
+    "ctr": 0.9,
+    "position": 10.77
+  },
+  {
+    "query": "forbrukerkjøpsloven garanti elektronikk",
+    "clicks": 1,
+    "impressions": 52,
+    "ctr": 1.92,
+    "position": 6.13
+  },
+  {
+    "query": "garanti elektronikk",
+    "clicks": 1,
+    "impressions": 129,
+    "ctr": 0.78,
+    "position": 2.79
+  },
+  {
+    "query": "garanti iphone",
+    "clicks": 1,
+    "impressions": 98,
+    "ctr": 1.02,
+    "position": 4.69
+  },
+  {
+    "query": "garanti power",
+    "clicks": 1,
+    "impressions": 29,
+    "ctr": 3.45,
+    "position": 10.72
+  },
+  {
+    "query": "garanti på hvitevarer",
+    "clicks": 1,
+    "impressions": 51,
+    "ctr": 1.96,
+    "position": 2.24
+  },
+  {
+    "query": "garanti samsung",
+    "clicks": 1,
+    "impressions": 10,
+    "ctr": 10,
+    "position": 4.7
+  },
+  {
+    "query": "garanti samsung vaskemaskin",
+    "clicks": 1,
+    "impressions": 19,
+    "ctr": 5.26,
+    "position": 8.26
+  },
+  {
+    "query": "garanti telefon",
+    "clicks": 1,
+    "impressions": 24,
+    "ctr": 4.17,
+    "position": 2.79
+  },
+  {
+    "query": "garanti tesla",
+    "clicks": 1,
+    "impressions": 83,
+    "ctr": 1.2,
+    "position": 7.75
+  },
+  {
+    "query": "garanti tv samsung",
+    "clicks": 1,
+    "impressions": 12,
+    "ctr": 8.33,
+    "position": 6.17
+  },
+  {
+    "query": "gyldig kvittering",
+    "clicks": 1,
+    "impressions": 20,
+    "ctr": 5,
+    "position": 8.3
+  },
+  {
+    "query": "iphone garanti",
+    "clicks": 1,
+    "impressions": 72,
+    "ctr": 1.39,
+    "position": 8.42
+  },
+  {
+    "query": "kid reklamasjon",
+    "clicks": 1,
+    "impressions": 24,
+    "ctr": 4.17,
+    "position": 3.67
+  },
+  {
+    "query": "klage zalando",
+    "clicks": 1,
+    "impressions": 10,
+    "ctr": 10,
+    "position": 5.8
+  },
+  {
+    "query": "krav til kvittering",
+    "clicks": 1,
+    "impressions": 31,
+    "ctr": 3.23,
+    "position": 7.48
+  },
+  {
+    "query": "kvittering",
+    "clicks": 1,
+    "impressions": 754,
+    "ctr": 0.13,
+    "position": 6.01
+  },
+  {
+    "query": "kvittering fra vipps",
+    "clicks": 1,
+    "impressions": 6,
+    "ctr": 16.67,
+    "position": 8.67
+  },
+  {
+    "query": "kvittering mal",
+    "clicks": 1,
+    "impressions": 61,
+    "ctr": 1.64,
+    "position": 8.34
+  },
+  {
+    "query": "kvittering privat salg",
+    "clicks": 1,
+    "impressions": 10,
+    "ctr": 10,
+    "position": 13.3
+  },
+  {
+    "query": "kvittering vipps",
+    "clicks": 1,
+    "impressions": 25,
+    "ctr": 4,
+    "position": 9.48
+  },
+  {
+    "query": "kvittering xxl",
+    "clicks": 1,
+    "impressions": 14,
+    "ctr": 7.14,
+    "position": 3
+  },
+  {
+    "query": "kvitterings app",
+    "clicks": 1,
+    "impressions": 12,
+    "ctr": 8.33,
+    "position": 3.33
+  },
+  {
+    "query": "kvitteringsblokk clas ohlson",
+    "clicks": 1,
+    "impressions": 30,
+    "ctr": 3.33,
+    "position": 6.27
+  },
+  {
+    "query": "kvitteringsnummer",
+    "clicks": 1,
+    "impressions": 4,
+    "ctr": 25,
+    "position": 8
+  },
+  {
+    "query": "mal kvittering privat salg",
+    "clicks": 1,
+    "impressions": 20,
+    "ctr": 5,
+    "position": 4.2
+  },
+  {
+    "query": "mangler kvittering regnskap",
+    "clicks": 1,
+    "impressions": 19,
+    "ctr": 5.26,
+    "position": 7.79
+  },
+  {
+    "query": "min side elkjøp",
+    "clicks": 1,
+    "impressions": 101,
+    "ctr": 0.99,
+    "position": 7.72
+  },
+  {
+    "query": "mine kjøp elkjøp",
+    "clicks": 1,
+    "impressions": 22,
+    "ctr": 4.55,
+    "position": 4.82
+  },
+  {
+    "query": "mine kvitteringer clas ohlson",
+    "clicks": 1,
+    "impressions": 22,
+    "ctr": 4.55,
+    "position": 2.27
+  },
+  {
+    "query": "mine kvitteringer elkjøp",
+    "clicks": 1,
+    "impressions": 19,
+    "ctr": 5.26,
+    "position": 2.84
+  },
+  {
+    "query": "mobiltelefon garanti",
+    "clicks": 1,
+    "impressions": 4,
+    "ctr": 25,
+    "position": 10
+  },
+  {
+    "query": "my power.no",
+    "clicks": 1,
+    "impressions": 8,
+    "ctr": 12.5,
+    "position": 3
+  },
+  {
+    "query": "power kundeservice",
+    "clicks": 1,
+    "impressions": 4,
+    "ctr": 25,
+    "position": 4.5
+  },
+  {
+    "query": "power kvittering",
+    "clicks": 1,
+    "impressions": 110,
+    "ctr": 0.91,
+    "position": 9.37
+  },
+  {
+    "query": "power kvittering online",
+    "clicks": 1,
+    "impressions": 46,
+    "ctr": 2.17,
+    "position": 2.2
+  },
+  {
+    "query": "power min side",
+    "clicks": 1,
+    "impressions": 118,
+    "ctr": 0.85,
+    "position": 8.34
+  },
+  {
+    "query": "power.no",
+    "clicks": 1,
+    "impressions": 2,
+    "ctr": 50,
+    "position": 4
+  },
+  {
+    "query": "power.no min side",
+    "clicks": 1,
+    "impressions": 18,
+    "ctr": 5.56,
+    "position": 8.22
+  },
+  {
+    "query": "reiseregning 2026",
+    "clicks": 1,
+    "impressions": 1,
+    "ctr": 100,
+    "position": 12
+  },
+  {
+    "query": "reklamasjon skeidar",
+    "clicks": 1,
+    "impressions": 50,
+    "ctr": 2,
+    "position": 6.88
+  },
+  {
+    "query": "reklamasjon sofa",
+    "clicks": 1,
+    "impressions": 18,
+    "ctr": 5.56,
+    "position": 7.89
+  },
+  {
+    "query": "reklamasjon uten kvittering",
+    "clicks": 1,
+    "impressions": 53,
+    "ctr": 1.89,
+    "position": 12.81
+  },
+  {
+    "query": "reklamasjon vaskemaskin",
+    "clicks": 1,
+    "impressions": 25,
+    "ctr": 4,
+    "position": 22.56
+  },
+  {
+    "query": "reklamere zalando",
+    "clicks": 1,
+    "impressions": 24,
+    "ctr": 4.17,
+    "position": 3.79
+  },
+  {
+    "query": "samsung garanti",
+    "clicks": 1,
+    "impressions": 62,
+    "ctr": 1.61,
+    "position": 5.85
+  },
+  {
+    "query": "skeidar reklamasjon",
+    "clicks": 1,
+    "impressions": 132,
+    "ctr": 0.76,
+    "position": 8.33
+  },
+  {
+    "query": "tesla garanti",
+    "clicks": 1,
+    "impressions": 180,
+    "ctr": 0.56,
+    "position": 6.92
+  },
+  {
+    "query": "vigo vitnemål",
+    "clicks": 1,
+    "impressions": 384,
+    "ctr": 0.26,
+    "position": 9.05
+  },
+  {
+    "query": "vigo.no vitnemål",
+    "clicks": 1,
+    "impressions": 42,
+    "ctr": 2.38,
+    "position": 9.26
+  },
+  {
+    "query": "xxl min side",
+    "clicks": 1,
+    "impressions": 137,
+    "ctr": 0.73,
+    "position": 5.94
+  },
+  {
+    "query": "zalando delbetaling",
+    "clicks": 1,
+    "impressions": 5,
+    "ctr": 20,
+    "position": 4.6
+  },
+  {
+    "query": "zalando faktura betaling",
+    "clicks": 1,
+    "impressions": 14,
+    "ctr": 7.14,
+    "position": 3.14
+  },
+  {
+    "query": "10 års garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "2 års garanti",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 5.25
+  },
+  {
+    "query": "3310",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "5 års garanti",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 6.75
+  },
+  {
+    "query": "a møbler kundeservice",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.75
+  },
+  {
+    "query": "a3050",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "administrasjon av utgifter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "aeg garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "aktivere ladebrikke",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 70
+  },
+  {
+    "query": "alltid på nett garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 59
+  },
+  {
+    "query": "android telefoner 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "angrefrist netthandel",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "angrefrist power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 44
+  },
+  {
+    "query": "angrerett bohus",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "angrerett netthandel",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 10.43
+  },
+  {
+    "query": "angrerett nettkjøp",
+    "clicks": 0,
+    "impressions": 38,
+    "ctr": 0,
+    "position": 11.45
+  },
+  {
+    "query": "angrerett power",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.33
+  },
+  {
+    "query": "angrerett tv2 play",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 7.2
+  },
+  {
+    "query": "angrerettloven netthandel",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12.5
+  },
+  {
+    "query": "angrerettskjema nettbutikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "angrette",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "apotek kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "app kvitteringer",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "app til kvitteringer",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 65.14
+  },
+  {
+    "query": "apple iphone garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "apple kjøpshistorikk",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 10.57
+  },
+  {
+    "query": "apple kvittering",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 10.78
+  },
+  {
+    "query": "apple kvitteringer",
+    "clicks": 0,
+    "impressions": 45,
+    "ctr": 0,
+    "position": 8.84
+  },
+  {
+    "query": "apple pay kvitteringer",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.25
+  },
+  {
+    "query": "arbeidsgiverforsikring",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 33
+  },
+  {
+    "query": "arkivering av regnskapsbilag",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 12.42
+  },
+  {
+    "query": "avbestilling",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 12.53
+  },
+  {
+    "query": "avis no kvittering",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "avslutt abonnement tv2",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "batchnummer",
+    "clicks": 0,
+    "impressions": 23,
+    "ctr": 0,
+    "position": 11.26
+  },
+  {
+    "query": "batteri garanti tesla",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "batterigaranti tesla",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 11.2
+  },
+  {
+    "query": "bedste app til kvitteringer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 25
+  },
+  {
+    "query": "bedste mobil til prisen 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 96
+  },
+  {
+    "query": "beregn formuesskatt",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 22.6
+  },
+  {
+    "query": "beregne formueskatt",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 34.8
+  },
+  {
+    "query": "beregne formuesskatt",
+    "clicks": 0,
+    "impressions": 36,
+    "ctr": 0,
+    "position": 14.75
+  },
+  {
+    "query": "beregning av formuesskatt",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 86.5
+  },
+  {
+    "query": "best laptop 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "best pris på mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 65
+  },
+  {
+    "query": "best telefon 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "beste android telefon 2025",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 9.9
+  },
+  {
+    "query": "beste arbeidstelefon",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 83.33
+  },
+  {
+    "query": "beste billig mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 48
+  },
+  {
+    "query": "beste budsjett mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 37
+  },
+  {
+    "query": "beste budsjett telefon 2025",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 7.8
+  },
+  {
+    "query": "beste budsjettmobil 2025",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 6.75
+  },
+  {
+    "query": "beste gaming laptop",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 28
+  },
+  {
+    "query": "beste kamera mobil 2025 budsjett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "beste laptop 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "beste mobil 2025",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "beste mobilkamera 2025",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "beste mobiltelefon 2025",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "beste mobiltelefon 2025 norge",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 12.75
+  },
+  {
+    "query": "beste pc for studenter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 47
+  },
+  {
+    "query": "beste skjerm hjemmekontor 2024 norge under 3000 kr",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "beste telefon 2025",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "bestill byggherregaranti – hvilke dokumenter og informasjon trenger du?",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 5.45
+  },
+  {
+    "query": "betal spotify premium",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.33
+  },
+  {
+    "query": "betala faktura zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "bil garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 31
+  },
+  {
+    "query": "bil i enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "bilag eksempel",
+    "clicks": 0,
+    "impressions": 36,
+    "ctr": 0,
+    "position": 20.78
+  },
+  {
+    "query": "bilag mal",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 25.81
+  },
+  {
+    "query": "bilagsarkiv",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 66.75
+  },
+  {
+    "query": "biletter the voice",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "bilkostnader knyttet til kjøring i yrket",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 17.95
+  },
+  {
+    "query": "billetter the voice",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "billig laptops",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 58
+  },
+  {
+    "query": "billån enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 16.4
+  },
+  {
+    "query": "blandebatteri megaflis",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 22
+  },
+  {
+    "query": "bleknet",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "bohus angrerett",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 9.29
+  },
+  {
+    "query": "bohus chat",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "bohus garanti",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 7.08
+  },
+  {
+    "query": "bohus garanti sofa",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 6.56
+  },
+  {
+    "query": "bohus klage",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 6.6
+  },
+  {
+    "query": "bohus madrass",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "bohus mine kjøp",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 3.25
+  },
+  {
+    "query": "bohus mine sider",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 6.75
+  },
+  {
+    "query": "bohus nettbutikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 26
+  },
+  {
+    "query": "bohus reklamasjon sofa",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 5.18
+  },
+  {
+    "query": "bohus retur",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 8.52
+  },
+  {
+    "query": "bohus returrett",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "bohus seng garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "bokettersyn enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 48,
+    "ctr": 0,
+    "position": 11.88
+  },
+  {
+    "query": "bokettersyn enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 31,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "bokettersyn tips",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 41.57
+  },
+  {
+    "query": "bokføring for nettbutikk",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 80.14
+  },
+  {
+    "query": "bokføring nettbutikk",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 81.73
+  },
+  {
+    "query": "bompenger mva",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "boozt faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "boozt norge butikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 36
+  },
+  {
+    "query": "bosch reklamasjon",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "briller barn forsikring",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 30.5
+  },
+  {
+    "query": "bruk av privat bil i næring",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 27
+  },
+  {
+    "query": "bruk av privatbil i næring enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 11.71
+  },
+  {
+    "query": "bruke privatbil i jobb",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 71
+  },
+  {
+    "query": "brukt mobil garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 64.5
+  },
+  {
+    "query": "brukt nettbrett med garanti",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 40.5
+  },
+  {
+    "query": "bruttoformue",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 38.17
+  },
+  {
+    "query": "budsjett ark",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 82
+  },
+  {
+    "query": "bunnfradrag formuesskatt 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "bursdagsgave fra butikker",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "bussbillett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "butikkforsikring",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 65
+  },
+  {
+    "query": "butikknavn",
+    "clicks": 0,
+    "impressions": 67,
+    "ctr": 0,
+    "position": 57.9
+  },
+  {
+    "query": "butikknavn forslag",
+    "clicks": 0,
+    "impressions": 38,
+    "ctr": 0,
+    "position": 52.11
+  },
+  {
+    "query": "bytte gave uten kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "bytte h&m",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "bytte hm",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 9.57
+  },
+  {
+    "query": "bytte lego uten kvittering",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "bytte størrelse hm",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 3.8
+  },
+  {
+    "query": "bytte størrelse zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "bytte vare zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "bytte xxl",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.67
+  },
+  {
+    "query": "byttelapp clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "bytterett",
+    "clicks": 0,
+    "impressions": 65,
+    "ctr": 0,
+    "position": 10.89
+  },
+  {
+    "query": "bytterett elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "bytterett i butikk",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.33
+  },
+  {
+    "query": "bytterett power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "bytterett xxl",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 13.57
+  },
+  {
+    "query": "chat med power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "chilli retur",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "circle k kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "claes ohlson",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 3.5
+  },
+  {
+    "query": "claes ohlsson.no",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "clas ohlson app virker ikke",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "clas ohlson bytte uten kvittering",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "clas ohlson bytterett",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "clas ohlson faktura",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 2.75
+  },
+  {
+    "query": "clas ohlson garanti",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 3.2
+  },
+  {
+    "query": "clas ohlson gavekort sjekk saldo",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "clas ohlson medlem",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 10.5
+  },
+  {
+    "query": "clas ohlson medlem kvittering",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 3.87
+  },
+  {
+    "query": "clas ohlson medlemsfordeler",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "clas ohlson medlemskort",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.67
+  },
+  {
+    "query": "clas ohlson medlemstilbud",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "clas ohlson min side",
+    "clicks": 0,
+    "impressions": 32,
+    "ctr": 0,
+    "position": 9.69
+  },
+  {
+    "query": "clas ohlson mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 54
+  },
+  {
+    "query": "clas ohlson order tracking",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "clas ohlson ordernummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "clas ohlson rabattkode",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "clas ohlson retur",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 2.33
+  },
+  {
+    "query": "clas ohlson returrett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "clas ohlson åpent kjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "clas olson.no",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "clasohlson.no",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 16.6
+  },
+  {
+    "query": "clasohlson.no butikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "clasohlson.se online",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "clsas",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "club clas",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "contact samsung",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "defekt vare zalando",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "dekker forsikringen hvitevarer med utgått garanti.",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 5.47
+  },
+  {
+    "query": "diett enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.33
+  },
+  {
+    "query": "diett regnskap",
+    "clicks": 0,
+    "impressions": 58,
+    "ctr": 0,
+    "position": 17.81
+  },
+  {
+    "query": "diettregnskap",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 9.56
+  },
+  {
+    "query": "digital dokumentasjon regnskapsfører",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 12.17
+  },
+  {
+    "query": "digital dokumenthåndtering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "digital fakturahåndtering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 83
+  },
+  {
+    "query": "digital kvittering",
+    "clicks": 0,
+    "impressions": 131,
+    "ctr": 0,
+    "position": 13.18
+  },
+  {
+    "query": "digitalisering af bilagsarkivet",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "digitalt regnskap",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 26
+  },
+  {
+    "query": "dnb kontoutskrift",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "dnb reklamasjon",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "dokumentasjon håndverker",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 8.82
+  },
+  {
+    "query": "dokumentasjon innbruddsalarm",
+    "clicks": 0,
+    "impressions": 31,
+    "ctr": 0,
+    "position": 9.1
+  },
+  {
+    "query": "dokumentasjon på utført arbeid",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 18.5
+  },
+  {
+    "query": "dokumentskriver for bedrift",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 24
+  },
+  {
+    "query": "donasjon skattefradrag",
+    "clicks": 0,
+    "impressions": 46,
+    "ctr": 0,
+    "position": 11.85
+  },
+  {
+    "query": "donasjoner skatt",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.67
+  },
+  {
+    "query": "dustin faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "dødsrydding",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 35
+  },
+  {
+    "query": "e kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "e-kvittering",
+    "clicks": 0,
+    "impressions": 96,
+    "ctr": 0,
+    "position": 4.96
+  },
+  {
+    "query": "e-kvitteringer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 87
+  },
+  {
+    "query": "ebit",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "ebit betydning",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebit betyr",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "ebit norsk",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 1.69
+  },
+  {
+    "query": "ebita",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebita betydning",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 4.15
+  },
+  {
+    "query": "ebita betyr",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebitda",
+    "clicks": 0,
+    "impressions": 60,
+    "ctr": 0,
+    "position": 8.97
+  },
+  {
+    "query": "ebitda betyder",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "ebitda betydning",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebitda betyr",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 9.12
+  },
+  {
+    "query": "ebitda definisjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebitda forklaring",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "ebitda mening",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebitda norsk",
+    "clicks": 0,
+    "impressions": 184,
+    "ctr": 0,
+    "position": 2.71
+  },
+  {
+    "query": "ebitda på norsk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ebitdalce norsk",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "ebitdalce norsk betydning",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 7.88
+  },
+  {
+    "query": "ebitdea",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "ebitdr",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "efh system",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 13.4
+  },
+  {
+    "query": "ehf",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 70.33
+  },
+  {
+    "query": "ehf faktura",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 54.82
+  },
+  {
+    "query": "ehf faktura hva er det",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 78.4
+  },
+  {
+    "query": "ehf fakturering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 68.5
+  },
+  {
+    "query": "ehf format",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "ehf format faktura",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 76
+  },
+  {
+    "query": "ehf norge",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 37.24
+  },
+  {
+    "query": "ehf peppol",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 61.75
+  },
+  {
+    "query": "ehf-faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 62
+  },
+  {
+    "query": "ehf-format",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 66
+  },
+  {
+    "query": "ekvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "el",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "eldkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "elektronik garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "elektronikk garanti",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 2.84
+  },
+  {
+    "query": "elektronisk faktura ehf",
+    "clicks": 0,
+    "impressions": 25,
+    "ctr": 0,
+    "position": 79.8
+  },
+  {
+    "query": "elektronisk faktura offentlig",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 22
+  },
+  {
+    "query": "elektronisk fakturabehandling",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 87.05
+  },
+  {
+    "query": "elektronisk fakturahåndtering",
+    "clicks": 0,
+    "impressions": 44,
+    "ctr": 0,
+    "position": 49.2
+  },
+  {
+    "query": "elektronisk fakturering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 62.5
+  },
+  {
+    "query": "elektronisk handelsformat",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 26.78
+  },
+  {
+    "query": "elektronisk leveringsbevis",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 65.88
+  },
+  {
+    "query": "elektronisk reiseregning",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 35.83
+  },
+  {
+    "query": "elkjop klarna",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 18.6
+  },
+  {
+    "query": "elkjop min side",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 5.89
+  },
+  {
+    "query": "elkjop reklamasjon",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "elkjop retur",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "elkjop.no min side",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 7.25
+  },
+  {
+    "query": "elkjøp",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 4.25
+  },
+  {
+    "query": "elkjøp airpods",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 32.75
+  },
+  {
+    "query": "elkjøp app",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "elkjøp eid",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "elkjøp faktura",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "elkjøp fredrikstad",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "elkjøp gaming laptop",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 23
+  },
+  {
+    "query": "elkjøp garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "elkjøp garanti uten kvittering",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 1.4
+  },
+  {
+    "query": "elkjøp gjøvik",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "elkjøp gratis frakt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "elkjøp hamar",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "elkjøp innlogging",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.75
+  },
+  {
+    "query": "elkjøp klage epost",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "elkjøp klarna",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 17
+  },
+  {
+    "query": "elkjøp klarna faktura",
+    "clicks": 0,
+    "impressions": 55,
+    "ctr": 0,
+    "position": 13.36
+  },
+  {
+    "query": "elkjøp kongsvinger telefon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "elkjøp konto",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.67
+  },
+  {
+    "query": "elkjøp kundeklubb logg inn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "elkjøp kundeservice",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "elkjøp kundeservice mail",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "elkjøp log in",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "elkjøp logg inn",
+    "clicks": 0,
+    "impressions": 51,
+    "ctr": 0,
+    "position": 8.63
+  },
+  {
+    "query": "elkjøp logg inn telefonnummer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "elkjøp mine sider",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 7.41
+  },
+  {
+    "query": "elkjøp mo i rana",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "elkjøp no min side",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "elkjøp ordre",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 6.86
+  },
+  {
+    "query": "elkjøp ordrenummer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.67
+  },
+  {
+    "query": "elkjøp ordrestatus",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 4.27
+  },
+  {
+    "query": "elkjøp prismatch etter kjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 22
+  },
+  {
+    "query": "elkjøp reklamasjon",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 16.4
+  },
+  {
+    "query": "elkjøp reklamasjon epost",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 10.83
+  },
+  {
+    "query": "elkjøp retur",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 17.33
+  },
+  {
+    "query": "elkjøp retur hvitevarer",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 19.5
+  },
+  {
+    "query": "elkjøp retur nettbutikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "elkjøp sarpsborg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "elkjøp storo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "elkjøp støvsuger tilbud",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 43
+  },
+  {
+    "query": "elkjøp.no min side",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 6.55
+  },
+  {
+    "query": "en kvittering",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 4.33
+  },
+  {
+    "query": "enitda",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "enkel kjøpekontrakt",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 43.82
+  },
+  {
+    "query": "enkel kjøpskontrakt",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 74.06
+  },
+  {
+    "query": "enkel reiseregning",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 18.77
+  },
+  {
+    "query": "enkel reiseregning mal",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "enkel retur",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "enkel salgskontrakt",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 54.06
+  },
+  {
+    "query": "enkeltpersonforetak fradrag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 46
+  },
+  {
+    "query": "eplehuset stavanger",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "er clas ohlson åpen",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "er det korrekt?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "er det mva på parkering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "er det reklamasjonsrett ved kjøp fra privatperson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 17
+  },
+  {
+    "query": "er faktura det samme som kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 3.5
+  },
+  {
+    "query": "er faktura og kvittering det samme",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 3.83
+  },
+  {
+    "query": "er ordrebekreftelse kvittering",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 1.22
+  },
+  {
+    "query": "er snl en troverdig kilde",
+    "clicks": 0,
+    "impressions": 23,
+    "ctr": 0,
+    "position": 10.61
+  },
+  {
+    "query": "etiketter og kvitteringer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 48
+  },
+  {
+    "query": "eu kontroll bil alder 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "evitda",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "fa cup billetter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "fagforening fradrag",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 18.5
+  },
+  {
+    "query": "fagforeningsfradrag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "fagforeningskontingent",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 26.91
+  },
+  {
+    "query": "fagforeningskontingent skatt",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 24.83
+  },
+  {
+    "query": "fake kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "faktura jysk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "faktura kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "faktura mal",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "faktura på zalando",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 2.6
+  },
+  {
+    "query": "faktura spotify",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "fakturainfo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "fakturanummer på kvittering",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 10.6
+  },
+  {
+    "query": "fakturere diett",
+    "clicks": 0,
+    "impressions": 57,
+    "ctr": 0,
+    "position": 32.16
+  },
+  {
+    "query": "fakturering program",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 58
+  },
+  {
+    "query": "fakturering via mobil",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 32
+  },
+  {
+    "query": "feno as",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 5.64
+  },
+  {
+    "query": "finn kjøp og salg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "finn kvittering",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 16.5
+  },
+  {
+    "query": "firmabil bompenger",
+    "clicks": 0,
+    "impressions": 105,
+    "ctr": 0,
+    "position": 14.69
+  },
+  {
+    "query": "firmabil enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 85,
+    "ctr": 0,
+    "position": 13.25
+  },
+  {
+    "query": "firmabil enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 169,
+    "ctr": 0,
+    "position": 10.53
+  },
+  {
+    "query": "firmabil i enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 21
+  },
+  {
+    "query": "flere detaljer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "flytteesker jysk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 35
+  },
+  {
+    "query": "forbedre ebitda",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 11.77
+  },
+  {
+    "query": "forbrukerkjøpsloven elektronikk",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "forbrukerkjøpsloven garanti hvitevarer",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "forbrukerkjøpsloven reklamasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "forbrukerkjøpsloven reklamasjonsfrist 2 år 5 år varer ment å vare vesentlig lenger",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 11.33
+  },
+  {
+    "query": "forbrukerkjøpsloven reklamasjonsfrist 5 år varer ment å vare vesentlig lenger enn 2 år",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "formueskatt 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "formueskatt grense",
+    "clicks": 0,
+    "impressions": 174,
+    "ctr": 0,
+    "position": 11.36
+  },
+  {
+    "query": "formueskatt grense 2025",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "formuesskatt 2022",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 73.81
+  },
+  {
+    "query": "formuesskatt 2025",
+    "clicks": 0,
+    "impressions": 56,
+    "ctr": 0,
+    "position": 7.88
+  },
+  {
+    "query": "formuesskatt 2025 grense",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "formuesskatt 2025 prosent",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "formuesskatt 2025 sats",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "formuesskatt beregning",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 56.3
+  },
+  {
+    "query": "formuesskatt bunnfradrag 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "formuesskatt eksempel",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 32.92
+  },
+  {
+    "query": "formuesskatt fond",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "formuesskatt grense",
+    "clicks": 0,
+    "impressions": 168,
+    "ctr": 0,
+    "position": 17.08
+  },
+  {
+    "query": "formuesskatt grense 2025",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "formuesskatt norge 2025 sats",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "formuesskatt prosent 2025",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 3.5
+  },
+  {
+    "query": "formuesskatt sats 2025",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "formuesskatt sats norge 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "forsikring mistet mobil",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 40.75
+  },
+  {
+    "query": "forsikring tesla model 3",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "forsikringsdokumenter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "forskjell på ebit og ebitda",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "forskjell på garanti og reklamasjon",
+    "clicks": 0,
+    "impressions": 33,
+    "ctr": 0,
+    "position": 6.85
+  },
+  {
+    "query": "forskjell på reklamasjon og garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "fradrag enk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 42.5
+  },
+  {
+    "query": "fradrag enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 34.78
+  },
+  {
+    "query": "fradrag enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 67,
+    "ctr": 0,
+    "position": 33.97
+  },
+  {
+    "query": "fradrag fagforening",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "fradrag fagforeningskontingent",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "fradrag for hjemmekontor",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 53
+  },
+  {
+    "query": "fradrag for næringsdrivende",
+    "clicks": 0,
+    "impressions": 47,
+    "ctr": 0,
+    "position": 66.4
+  },
+  {
+    "query": "fradrag hjemmekontor",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 47
+  },
+  {
+    "query": "fradrag hjemmekontor enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 35.15
+  },
+  {
+    "query": "fradrag pc enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 29
+  },
+  {
+    "query": "fribeløp formuesskatt 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 15.5
+  },
+  {
+    "query": "fysisk butikk digital kvittering",
+    "clicks": 0,
+    "impressions": 77,
+    "ctr": 0,
+    "position": 6.22
+  },
+  {
+    "query": "få kvitteringer elektronisk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "få kvitteringer på mobilen",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "få orden på økonomien",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "gamle nokia modeller",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 44
+  },
+  {
+    "query": "gamle nokia telefoner verdi",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 12.29
+  },
+  {
+    "query": "garant bevis",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "garanti",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 53.38
+  },
+  {
+    "query": "garanti 2 år",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "garanti apple iphone",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "garanti batteri mobil",
+    "clicks": 0,
+    "impressions": 23,
+    "ctr": 0,
+    "position": 6.13
+  },
+  {
+    "query": "garanti batteri tesla",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 3.25
+  },
+  {
+    "query": "garanti bil",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 34.55
+  },
+  {
+    "query": "garanti briller",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "garanti clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "garanti elektronik",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti elektronikk norge",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 2.25
+  },
+  {
+    "query": "garanti elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "garanti elsykkel",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 44
+  },
+  {
+    "query": "garanti engelsk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 24
+  },
+  {
+    "query": "garanti huawei",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "garanti hvitevarer bedrift",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 20
+  },
+  {
+    "query": "garanti hvitevarer elkjøp",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 13.33
+  },
+  {
+    "query": "garanti hvitevarer ikea",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "garanti hvitevarer power",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 14.33
+  },
+  {
+    "query": "garanti ikea kjøkken",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "garanti iphone 13",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "garanti iphone 15",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti iphone 6",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "garanti iphone 7",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.75
+  },
+  {
+    "query": "garanti iphone batteri",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "garanti kjøleskap",
+    "clicks": 0,
+    "impressions": 37,
+    "ctr": 0,
+    "position": 3.49
+  },
+  {
+    "query": "garanti kjøpsloven",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "garanti komfyr",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 1.71
+  },
+  {
+    "query": "garanti komfyrvakt",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti laptop",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "garanti lg vaskemaskin",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "garanti macbook air",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 8.23
+  },
+  {
+    "query": "garanti mail",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "garanti miele",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "garanti mobil",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 3.2
+  },
+  {
+    "query": "garanti mobiltelefon",
+    "clicks": 0,
+    "impressions": 96,
+    "ctr": 0,
+    "position": 8.74
+  },
+  {
+    "query": "garanti møbler",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 3.08
+  },
+  {
+    "query": "garanti nettbrett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "garanti norge",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti norge elektronikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti og reklamasjon",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 16.06
+  },
+  {
+    "query": "garanti oppvaskmaskin",
+    "clicks": 0,
+    "impressions": 40,
+    "ctr": 0,
+    "position": 7.28
+  },
+  {
+    "query": "garanti playstation",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "garanti på bil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 29
+  },
+  {
+    "query": "garanti på bildeler",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "garanti på briller",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 14.42
+  },
+  {
+    "query": "garanti på elektronik",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti på elektronikk",
+    "clicks": 0,
+    "impressions": 59,
+    "ctr": 0,
+    "position": 1.73
+  },
+  {
+    "query": "garanti på elektronikk i norge",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 1.79
+  },
+  {
+    "query": "garanti på engelsk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 15.5
+  },
+  {
+    "query": "garanti på hvitevarer i norge",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 2.38
+  },
+  {
+    "query": "garanti på iphone",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 2.77
+  },
+  {
+    "query": "garanti på kjøleskap",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 3.78
+  },
+  {
+    "query": "garanti på klær",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "garanti på mobil",
+    "clicks": 0,
+    "impressions": 55,
+    "ctr": 0,
+    "position": 5.4
+  },
+  {
+    "query": "garanti på mobiltelefon",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 15.29
+  },
+  {
+    "query": "garanti på møbler",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 1.2
+  },
+  {
+    "query": "garanti på oppvaskmaskin",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 2.71
+  },
+  {
+    "query": "garanti på reparasjon av bil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 68
+  },
+  {
+    "query": "garanti på robotstøvsuger",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 12.2
+  },
+  {
+    "query": "garanti på samsung tv",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 5.2
+  },
+  {
+    "query": "garanti på sko",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 55
+  },
+  {
+    "query": "garanti på stekeovn",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 1.7
+  },
+  {
+    "query": "garanti på telefon",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 4.79
+  },
+  {
+    "query": "garanti på tesla",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "garanti på tv",
+    "clicks": 0,
+    "impressions": 75,
+    "ctr": 0,
+    "position": 4.61
+  },
+  {
+    "query": "garanti på tørketrommel",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti på varer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "garanti på vaskemaskin",
+    "clicks": 0,
+    "impressions": 42,
+    "ctr": 0,
+    "position": 2.74
+  },
+  {
+    "query": "garanti på årbok kvalitet",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "garanti reklamasjon",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "garanti robotstøvsuger",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 12.31
+  },
+  {
+    "query": "garanti samsung mobil",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 2.67
+  },
+  {
+    "query": "garanti samsung telefon",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 3.58
+  },
+  {
+    "query": "garanti service bil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 28
+  },
+  {
+    "query": "garanti service hvitevarer",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 11.15
+  },
+  {
+    "query": "garanti sko",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 67
+  },
+  {
+    "query": "garanti småelektronikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti sofa",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "garanti stekeovn",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 2.8
+  },
+  {
+    "query": "garanti støvsuger elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "garanti tesla batteri",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "garanti tid",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.67
+  },
+  {
+    "query": "garanti tlf",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 3.33
+  },
+  {
+    "query": "garanti tv",
+    "clicks": 0,
+    "impressions": 42,
+    "ctr": 0,
+    "position": 5.4
+  },
+  {
+    "query": "garanti tv power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garanti tørketrommel",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 1.25
+  },
+  {
+    "query": "garanti vaskemaskin",
+    "clicks": 0,
+    "impressions": 91,
+    "ctr": 0,
+    "position": 4.22
+  },
+  {
+    "query": "garanti vaskemaskin elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "garanti vaskemaskin power",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "garanti volvo ex30",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "garanti vs reklamasjon",
+    "clicks": 0,
+    "impressions": 43,
+    "ctr": 0,
+    "position": 8.07
+  },
+  {
+    "query": "garanti zalando",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8.2
+  },
+  {
+    "query": "garantibevis",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 3.2
+  },
+  {
+    "query": "garantier",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 87.5
+  },
+  {
+    "query": "garantier tesla",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "garantitid",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 7.86
+  },
+  {
+    "query": "garantitid elektronikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "garantitid hvitevarer",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 4.48
+  },
+  {
+    "query": "garantitid iphone",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 5.89
+  },
+  {
+    "query": "garantitid tv",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 4.57
+  },
+  {
+    "query": "gavekort konfirmasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 100
+  },
+  {
+    "query": "gjelder reklamasjonsretten når klærne er kjøpt på salg",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "god som ny mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 99
+  },
+  {
+    "query": "godkjent kvitteringsblokk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "google kvitteringer",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 8.56
+  },
+  {
+    "query": "google one faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "google pixel garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 2.67
+  },
+  {
+    "query": "gratis",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "gratis avbestilling",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 12.5
+  },
+  {
+    "query": "gratis kvittering app",
+    "clicks": 0,
+    "impressions": 80,
+    "ctr": 0,
+    "position": 16.74
+  },
+  {
+    "query": "grense for formueskatt",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "grense for formuesskatt",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 5.75
+  },
+  {
+    "query": "grense for formuesskatt 2025",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "grense formueskatt",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 2.73
+  },
+  {
+    "query": "grense formuesskatt",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 20.42
+  },
+  {
+    "query": "grense formuesskatt 2025",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "grensen for formueskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "grensen for formuesskatt",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 16.71
+  },
+  {
+    "query": "gulvteppe clas ohlson",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 15.5
+  },
+  {
+    "query": "h og m retur",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "h&m bytte uden kvittering",
+    "clicks": 0,
+    "impressions": 74,
+    "ctr": 0,
+    "position": 6.15
+  },
+  {
+    "query": "h&m bytte uden kvittering tilgodebevis",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 5.86
+  },
+  {
+    "query": "h&m bytteregler",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "h&m denmark return uden kvittering",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "h&m kvittering bytte uden kvittering",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 4.69
+  },
+  {
+    "query": "h&m retur",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "h&m retur uden kvittering",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 5.13
+  },
+  {
+    "query": "h&m return uden kvittering",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 5.2
+  },
+  {
+    "query": "hagemøbler 2026",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 88.5
+  },
+  {
+    "query": "hampetau clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "handle å få faktura med i pakken",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 70
+  },
+  {
+    "query": "hentefrist power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hjelp meg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "hjemme arkiv",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hjemmekontor selvstendig næringsdrivende",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 35
+  },
+  {
+    "query": "hjørnesofa skeidar",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 25
+  },
+  {
+    "query": "hm bytte",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hm bytte i butikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "hm bytte og retur",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "hm garanti",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "hm reklamasjon",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 8.29
+  },
+  {
+    "query": "hm retur badetøy",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "hm retur regler",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "hm retur tid",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "hp pc elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 63
+  },
+  {
+    "query": "huawei garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "hva betyr ebit",
+    "clicks": 0,
+    "impressions": 35,
+    "ctr": 0,
+    "position": 1.83
+  },
+  {
+    "query": "hva betyr ebita",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva betyr ebitda",
+    "clicks": 0,
+    "impressions": 28,
+    "ctr": 0,
+    "position": 4.18
+  },
+  {
+    "query": "hva betyr ebitda på norsk",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva betyr ebitdalce",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "hva betyr ehf",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 62
+  },
+  {
+    "query": "hva betyr netto formue",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva betyr reklamasjon",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 10.11
+  },
+  {
+    "query": "hva betyr troverdighet",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 64
+  },
+  {
+    "query": "hva dekker garanti på bil",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "hva dekker garanti på mobil",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 4.46
+  },
+  {
+    "query": "hva er angrerett",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hva er avbetaling",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 29.43
+  },
+  {
+    "query": "hva er batchnummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "hva er bruttoformue",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hva er bunnfradraget på formuesskatt",
+    "clicks": 0,
+    "impressions": 25,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva er ctr",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 60
+  },
+  {
+    "query": "hva er de mest populære mobiltelefonene i norge?",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 7.63
+  },
+  {
+    "query": "hva er ebit",
+    "clicks": 0,
+    "impressions": 49,
+    "ctr": 0,
+    "position": 1.55
+  },
+  {
+    "query": "hva er ebita",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 1.71
+  },
+  {
+    "query": "hva er ebitda",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 8.69
+  },
+  {
+    "query": "hva er ebitda på norsk",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva er ehf",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 48.79
+  },
+  {
+    "query": "hva er ehf faktura",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 79.2
+  },
+  {
+    "query": "hva er ehf-faktura",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 76
+  },
+  {
+    "query": "hva er en ordrebekreftelse",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 2.67
+  },
+  {
+    "query": "hva er et bilag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 96
+  },
+  {
+    "query": "hva er faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 77
+  },
+  {
+    "query": "hva er formueskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 82
+  },
+  {
+    "query": "hva er formuesskatten i norge i 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva er forskjell på garanti og reklamasjon",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 2.91
+  },
+  {
+    "query": "hva er forskjell på reklamasjon og garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "hva er forskjellen på garanti og reklamasjon",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 3.5
+  },
+  {
+    "query": "hva er forskjellen på reklamasjon og garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hva er garanti",
+    "clicks": 0,
+    "impressions": 30,
+    "ctr": 0,
+    "position": 32.03
+  },
+  {
+    "query": "hva er grensa for formueskatt",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva er grensen for formueskatt",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "hva er grensen for formuesskatt",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 12.65
+  },
+  {
+    "query": "hva er grensen på formueskatt",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva er imei nummer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 51
+  },
+  {
+    "query": "hva er klikkrate",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 69.64
+  },
+  {
+    "query": "hva er kvittering med oblat",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hva er kvittering på engelsk",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.67
+  },
+  {
+    "query": "hva er kvitteringsnummer",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.6
+  },
+  {
+    "query": "hva er lot kode",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "hva er lot nummer",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 6.93
+  },
+  {
+    "query": "hva er netto formue",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 62
+  },
+  {
+    "query": "hva er nettoformue",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 51.83
+  },
+  {
+    "query": "hva er ocr",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 66.67
+  },
+  {
+    "query": "hva er ordrenummer",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 8.17
+  },
+  {
+    "query": "hva er reklamasjon",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 66.5
+  },
+  {
+    "query": "hva er reklamasjon på engelsk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hva er reklamasjonsrett",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "hva er serienummer",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 2.27
+  },
+  {
+    "query": "hva er skylagring",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 24
+  },
+  {
+    "query": "hva er vikinglotto",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 24.5
+  },
+  {
+    "query": "hva kan man gi i morsdagsgave",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 100
+  },
+  {
+    "query": "hva kan man skrive av på enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 56.75
+  },
+  {
+    "query": "hva kan man trekke fra på skatten enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 38
+  },
+  {
+    "query": "hva koster iphone 16",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "hva skal jeg gjøre?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva skjer hvis man ikke henter kjøpte varer hos power",
+    "clicks": 0,
+    "impressions": 28,
+    "ctr": 0,
+    "position": 9.36
+  },
+  {
+    "query": "hva skjer hvis utsteder av produktet går konkurs",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hva slags telefon har jeg",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 4.33
+  },
+  {
+    "query": "hva står ebit for",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 3.9
+  },
+  {
+    "query": "hva står ebitda for",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 1.73
+  },
+  {
+    "query": "hvad betyder ebitda på dansk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvad er et serienummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 83
+  },
+  {
+    "query": "hvad skal en kvittering indeholde",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvem tilbyr utvidet garanti eller trygghetsavtale på mobiltelefoner?",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 4.29
+  },
+  {
+    "query": "hvilke dokumenter skal være i bilen",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 28
+  },
+  {
+    "query": "hvilken macbook har jeg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 27
+  },
+  {
+    "query": "hvilken samsung mobil skal jeg velge",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 62
+  },
+  {
+    "query": "hvilken skyløsning bør en velge",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 38
+  },
+  {
+    "query": "hvilken telefon har jeg samsung",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hvitevarer garanti",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 1.97
+  },
+  {
+    "query": "hvitevarer nettbutikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 97
+  },
+  {
+    "query": "hvitevarer partner",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvitevarer reparasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor finner jeg imei nummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 16
+  },
+  {
+    "query": "hvor høy er formuesskatten 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor kan man bygge økonomisystem steg for steg?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "hvor kan man samle alle økonomiprosesser?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvor lang angrerett tilbyr xxl",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 10.83
+  },
+  {
+    "query": "hvor lang garanti er det på hvitevarer",
+    "clicks": 0,
+    "impressions": 28,
+    "ctr": 0,
+    "position": 4.93
+  },
+  {
+    "query": "hvor lang garanti er det på tv",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "hvor lang garanti på airpods",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "hvor lang garanti på iphone",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 2.16
+  },
+  {
+    "query": "hvor lang garanti på mobil",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "hvor lang garanti på oppvaskmaskin",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 4.25
+  },
+  {
+    "query": "hvor lang garanti på pc",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor lang garanti på tv",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 6.44
+  },
+  {
+    "query": "hvor lang garanti på vaskemaskin",
+    "clicks": 0,
+    "impressions": 32,
+    "ctr": 0,
+    "position": 2.63
+  },
+  {
+    "query": "hvor lang reklamasjonsrett på elektronikk",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 1.65
+  },
+  {
+    "query": "hvor lang retur zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hvor lang tid",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "hvor lenge må man oppbevare regnskap",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 46
+  },
+  {
+    "query": "hvor lenge må man ta vare på kvitteringer",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 3.29
+  },
+  {
+    "query": "hvor lenge må man ta vare på regnskapsbilag",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvor lenge oppbevare regnskap",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 38
+  },
+  {
+    "query": "hvor lenge varer et kjøleskap",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "hvor mange dager varer ol 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "hvor mye betaler man i formueskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye er formueskatt",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 66.08
+  },
+  {
+    "query": "hvor mye er formueskatten i 2025",
+    "clicks": 0,
+    "impressions": 25,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye er formuesskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 58
+  },
+  {
+    "query": "hvor mye er formuesskatten 2025",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye formue før formueskatt",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye formue må man ha for å betale formuesskatt",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "hvor mye formuesskatt",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 58.75
+  },
+  {
+    "query": "hvor mye formuesskatt må jeg betale",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 41
+  },
+  {
+    "query": "hvor mye formuesskatt på 2 millioner",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye kan man ha i formue før man må betale formueskatt",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "hvor mye må man betale i formuesskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye må man ha for å betale formuesskatt",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor mye må man ha i formue for å betale formueskatt",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor stor formue må man ha for å betale formuesskatt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvor står batch nummer",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 12.4
+  },
+  {
+    "query": "hvor står kvitteringsnummer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "hvordan beregne formue",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "hvordan beregne formueskatt",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvordan beregne formuesskatt",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 38.71
+  },
+  {
+    "query": "hvordan beregnes ebitda",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "hvordan beregnes formuesskatt",
+    "clicks": 0,
+    "impressions": 35,
+    "ctr": 0,
+    "position": 21.71
+  },
+  {
+    "query": "hvordan beskytte og sikre dokumenter?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 20
+  },
+  {
+    "query": "hvordan betale på ferge uten autopass",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 45.86
+  },
+  {
+    "query": "hvordan bokføre bompenger",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 11.29
+  },
+  {
+    "query": "hvordan bruke mypower bonus",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvordan bruke privat bil i næring og få fradrag?",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "hvordan dokumentere yrkeskjøring med kjørebok for korrekt kjøregodtgjørelse?",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 4.33
+  },
+  {
+    "query": "hvordan finne imei nummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvordan finne produksjonsår på hvitevarer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "hvordan få kvittering på nettbank",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 36
+  },
+  {
+    "query": "hvordan få orden på økonomien",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvordan føre bilag",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 66.38
+  },
+  {
+    "query": "hvordan føre digital kjørebok i et enkeltpersonforetak?",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 9.92
+  },
+  {
+    "query": "hvordan føre reiseregning",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 15.25
+  },
+  {
+    "query": "hvordan gi vurdering på finn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 43
+  },
+  {
+    "query": "hvordan kontakter jeg zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvordan regne ut formuesskatt",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 42
+  },
+  {
+    "query": "hvordan regnes formueskatten ut",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "hvordan reklamere elkjøp",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvordan reklamerer man på zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "hvordan se kortnummer uten kort",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57
+  },
+  {
+    "query": "hvordan si opp tv2 abonnement",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "hvordan sjekke om en nettbutikk er trygg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 27
+  },
+  {
+    "query": "hvordan skrive reiseregning",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 53.43
+  },
+  {
+    "query": "hvordan være søkbar på nett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 94
+  },
+  {
+    "query": "hvorfor digitalisere",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 66.5
+  },
+  {
+    "query": "hvorfor ehf",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 12.08
+  },
+  {
+    "query": "hvorfor er datasikkerhet viktig",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 70.75
+  },
+  {
+    "query": "hvorfor er snl en troverdig kilde",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 7.59
+  },
+  {
+    "query": "håndskrevet kvittering",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "håndslokker i orden",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 89.5
+  },
+  {
+    "query": "ikea kvittering",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 14.29
+  },
+  {
+    "query": "ikea kvitteringer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "ikea min side logg inn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 34
+  },
+  {
+    "query": "ikea oppvaskmaskin garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "ikea reklamasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "ikea retur uten kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "ikke kvittering for kjøp",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 6.6
+  },
+  {
+    "query": "imei 12",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "imei nr samsung",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8.2
+  },
+  {
+    "query": "imei nummer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 26.67
+  },
+  {
+    "query": "imei nummer samsung",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 31.25
+  },
+  {
+    "query": "imei samsung",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 5.83
+  },
+  {
+    "query": "imei serienummer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 93
+  },
+  {
+    "query": "imei-nummer samsung",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "impregnering sofa bohus",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 11.85
+  },
+  {
+    "query": "innlevering vikinglotto",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 8.33
+  },
+  {
+    "query": "iphone 13 garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 15
+  },
+  {
+    "query": "iphone 15 garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 3.67
+  },
+  {
+    "query": "iphone 16 garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "iphone 17 garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "iphone 6 garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "iphone 6 garantie",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "iphone 6s batteri garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "iphone batteri garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "iphone eller samsung 2025",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "iphone garanti norge",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "iphone garantitid",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "iphone reklamasjon",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 10.4
+  },
+  {
+    "query": "iphone vannskade reparasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 52
+  },
+  {
+    "query": "iptv betala med kort",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "iptv har stoppet",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "ja",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "jernia kvittering",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 7.67
+  },
+  {
+    "query": "jysk angrerett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "jysk bytte uten kvittering",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 6.33
+  },
+  {
+    "query": "jysk e",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 26.4
+  },
+  {
+    "query": "jysk faktura",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "jysk garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10.5
+  },
+  {
+    "query": "jysk garanti sofa",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "jysk garanti stol",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "jysk klage",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "jysk konto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "jysk kvittering",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 2.67
+  },
+  {
+    "query": "jysk logg inn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "jysk ordrenummer",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 9.73
+  },
+  {
+    "query": "jysk reklamasjon",
+    "clicks": 0,
+    "impressions": 28,
+    "ctr": 0,
+    "position": 6.96
+  },
+  {
+    "query": "jysk retur",
+    "clicks": 0,
+    "impressions": 69,
+    "ctr": 0,
+    "position": 8.12
+  },
+  {
+    "query": "jysk retur uten kvittering",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 7.25
+  },
+  {
+    "query": "jysk returrett",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "jysk åpent kjøp",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "jysk åpent kjøp og retur",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "kampanje hvitevarer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kan du vise meg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "kan man bytte uten kvittering",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "kan man få skattefradrag for donationer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "kan man reklamere uten kvittering",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 4.17
+  },
+  {
+    "query": "karbonramme garanti norge",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 5.6
+  },
+  {
+    "query": "kid bytte",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "kid bytteregler",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "kid interiør kundeservice",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "kid ordrenummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "kid post",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kid retur",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 8.41
+  },
+  {
+    "query": "kid retur i butikk",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.8
+  },
+  {
+    "query": "kid retur uten kvittering",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 2.7
+  },
+  {
+    "query": "kid spore pakke",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "kilometer 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "kjell garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5.5
+  },
+  {
+    "query": "kjell och company garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "kjell og company kundeservice",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 35
+  },
+  {
+    "query": "kjell og company reklamasjon",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 1.63
+  },
+  {
+    "query": "kjøleskap garanti",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 2.11
+  },
+  {
+    "query": "kjøp autopass",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 55.67
+  },
+  {
+    "query": "kjøp fra privatperson til bedrift",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "kjøp mobil delbetaling",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 84
+  },
+  {
+    "query": "kjøp nå betal senere elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 29
+  },
+  {
+    "query": "kjøp nå betal senere klær",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 85
+  },
+  {
+    "query": "kjøpe",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "kjøpe bil på enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kjøpe firmabil enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 39,
+    "ctr": 0,
+    "position": 12.13
+  },
+  {
+    "query": "kjøpe ny mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 85
+  },
+  {
+    "query": "kjøpsavtale",
+    "clicks": 0,
+    "impressions": 69,
+    "ctr": 0,
+    "position": 10.86
+  },
+  {
+    "query": "kjøpsavtale mal",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 14.86
+  },
+  {
+    "query": "kjøpsbevis",
+    "clicks": 0,
+    "impressions": 23,
+    "ctr": 0,
+    "position": 2.74
+  },
+  {
+    "query": "kjøpsgaranti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kjøpshistorikk apple",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.75
+  },
+  {
+    "query": "kjøpskontrakt mal",
+    "clicks": 0,
+    "impressions": 30,
+    "ctr": 0,
+    "position": 46.27
+  },
+  {
+    "query": "kjøpskvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "kjørebok 2026",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 8.85
+  },
+  {
+    "query": "kjørebok firmabil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kjørebok på papir",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 43.5
+  },
+  {
+    "query": "kjøregodtgjørelse enk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 51
+  },
+  {
+    "query": "kjøregodtgjørelse selvstendig næringsdrivende",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "klarna elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 25
+  },
+  {
+    "query": "klikk og hent clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "klikkrate",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 85.82
+  },
+  {
+    "query": "klokker clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 46
+  },
+  {
+    "query": "klær på nett med faktura i pakken",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 86
+  },
+  {
+    "query": "knust skjerm iphone",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "knuste briller forsikring",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "komfyrvakt garanti",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kompakt mobil 2025",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "komplett business",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 73
+  },
+  {
+    "query": "komplett faktura",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.67
+  },
+  {
+    "query": "komplett garanti pc",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "komplett kundeservice",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "komplett laptop",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 43.5
+  },
+  {
+    "query": "komplett min side",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 9.08
+  },
+  {
+    "query": "konfirmasjon nettbutikk",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 61.25
+  },
+  {
+    "query": "konkurs butikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "kontingent fradragsberettiget",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "kontonummer zalando",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "kontonummer zalando payments",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "kontormøbler montering",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 74
+  },
+  {
+    "query": "kontrakt for kjøp av ting",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 39.33
+  },
+  {
+    "query": "kontrakt mellom privatpersoner",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 84.4
+  },
+  {
+    "query": "kortreklamasjon",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 37.2
+  },
+  {
+    "query": "krav til bilag",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 34
+  },
+  {
+    "query": "krav til gyldig kvittering",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 3.33
+  },
+  {
+    "query": "krav til kvittering utlegg",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 6.86
+  },
+  {
+    "query": "kredittkort konkurs",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 63
+  },
+  {
+    "query": "kurs reiseregninger",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 29.25
+  },
+  {
+    "query": "kvitering",
+    "clicks": 0,
+    "impressions": 116,
+    "ctr": 0,
+    "position": 4.43
+  },
+  {
+    "query": "kvitering engelsk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "kvitering på engelsk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "kviteringen",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kviteringer",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kviterring",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8.6
+  },
+  {
+    "query": "kvittering apple",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 9.63
+  },
+  {
+    "query": "kvittering circle k",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "kvittering eksempel",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kvittering engelsk",
+    "clicks": 0,
+    "impressions": 158,
+    "ctr": 0,
+    "position": 11.86
+  },
+  {
+    "query": "kvittering fra privatperson til firma",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kvittering ikea",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "kvittering mal gratis",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "kvittering mal pdf",
+    "clicks": 0,
+    "impressions": 25,
+    "ctr": 0,
+    "position": 8.96
+  },
+  {
+    "query": "kvittering maskin",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "kvittering online",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1.67
+  },
+  {
+    "query": "kvittering power",
+    "clicks": 0,
+    "impressions": 23,
+    "ctr": 0,
+    "position": 5.57
+  },
+  {
+    "query": "kvittering privat pasning",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kvittering på e-post",
+    "clicks": 0,
+    "impressions": 80,
+    "ctr": 0,
+    "position": 5.66
+  },
+  {
+    "query": "kvittering på engelsk",
+    "clicks": 0,
+    "impressions": 73,
+    "ctr": 0,
+    "position": 13.38
+  },
+  {
+    "query": "kvittering på kjøp fra privatperson",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 3.54
+  },
+  {
+    "query": "kvittering på mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kvittering på spansk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "kvittering regler",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "kvittering spansk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "kvittering tysk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "kvitteringen",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 6.8
+  },
+  {
+    "query": "kvitteringer app",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 2.22
+  },
+  {
+    "query": "kvitteringer elkjøp",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 3.35
+  },
+  {
+    "query": "kvitteringer eller fakturaer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "kvitteringer engelsk",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 18.71
+  },
+  {
+    "query": "kvitteringer lagret på ett sted",
+    "clicks": 0,
+    "impressions": 85,
+    "ctr": 0,
+    "position": 5.87
+  },
+  {
+    "query": "kvitteringer power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "kvitteringer på mobilen",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 55.83
+  },
+  {
+    "query": "kvitteringerne",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "kvitteringshåndtering",
+    "clicks": 0,
+    "impressions": 88,
+    "ctr": 0,
+    "position": 3.57
+  },
+  {
+    "query": "kvitteringsrull clas ohlson",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.33
+  },
+  {
+    "query": "kvitto clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 51
+  },
+  {
+    "query": "lag kvittering online",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 35
+  },
+  {
+    "query": "lage kvittering",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 2.33
+  },
+  {
+    "query": "lage kvittering privat",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "lagre bilder i skyen",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 76.38
+  },
+  {
+    "query": "lagre kort nettbutikk",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 23
+  },
+  {
+    "query": "lagre kvitteringer på iphone",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "lagring av dokumenter",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 40.57
+  },
+  {
+    "query": "lagring i skyen gratis",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 29.5
+  },
+  {
+    "query": "laptop garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "lav en kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "liste falske nettbutikker",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "logg inn clas ohlson",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "logg inn elkjøp",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.75
+  },
+  {
+    "query": "logg inn my power",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "logg inn zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "logik kjøleskap",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "lot kode",
+    "clicks": 0,
+    "impressions": 33,
+    "ctr": 0,
+    "position": 9.91
+  },
+  {
+    "query": "lot nr",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8.4
+  },
+  {
+    "query": "lot nummer",
+    "clicks": 0,
+    "impressions": 45,
+    "ctr": 0,
+    "position": 10.73
+  },
+  {
+    "query": "lot-nummer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "lotnummer",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 10.67
+  },
+  {
+    "query": "lounge by zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "macbook air garanti",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 8.73
+  },
+  {
+    "query": "mail zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "makita garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "mal kvittering",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 21.07
+  },
+  {
+    "query": "mangel på varer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "mangel ved vare",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "matkvitter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "mediekjøp",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 81.5
+  },
+  {
+    "query": "medlem clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "medlemsrabatt clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "megaflis baderomsplater",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 24.67
+  },
+  {
+    "query": "megaflis blandebatteri",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 29
+  },
+  {
+    "query": "megaflis fliser",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 36
+  },
+  {
+    "query": "megaflis garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "megaflis kvittering",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 4.25
+  },
+  {
+    "query": "megaflis logg inn",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 7.3
+  },
+  {
+    "query": "megaflis min side",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.25
+  },
+  {
+    "query": "megaflis reklamasjon",
+    "clicks": 0,
+    "impressions": 68,
+    "ctr": 0,
+    "position": 6.47
+  },
+  {
+    "query": "megaflis sluk",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "mellom private enkel kjøpekontrakt",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 44.75
+  },
+  {
+    "query": "merkelapper clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "metalldetektor clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "miele 5 års garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "miele garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "miele garanti 20 år",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "miele serienummer alder",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "mill ovn garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "mill varmeovn garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "min elkjøp",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 10.33
+  },
+  {
+    "query": "min power konto",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 3.21
+  },
+  {
+    "query": "min side clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "min side elkjøp.no",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "min side power",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 6.33
+  },
+  {
+    "query": "min side xxl",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "mine abonnementer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 13.67
+  },
+  {
+    "query": "mine egenandeler",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 27
+  },
+  {
+    "query": "mine kjøp",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "mine kjøp apple",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "mine sider lagring",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 73
+  },
+  {
+    "query": "minside elkjøp",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 6.67
+  },
+  {
+    "query": "misforståelser om smart repair",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 47
+  },
+  {
+    "query": "mistet iphone forsikring",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 18.2
+  },
+  {
+    "query": "mistet kvittering",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 3.1
+  },
+  {
+    "query": "mistet kvittering regnskap",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 6.8
+  },
+  {
+    "query": "mistet telefon forsikring",
+    "clicks": 0,
+    "impressions": 133,
+    "ctr": 0,
+    "position": 20.8
+  },
+  {
+    "query": "mobil garanti",
+    "clicks": 0,
+    "impressions": 41,
+    "ctr": 0,
+    "position": 5.22
+  },
+  {
+    "query": "mobile garanti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "mobilkamera best i test 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "mobilmerke",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "mobilmerker",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 7.56
+  },
+  {
+    "query": "moms kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "morsdagen 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "motorola garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "mva fradrag personbil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 48
+  },
+  {
+    "query": "mva håndverkertjenester",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 5.86
+  },
+  {
+    "query": "mva parkering",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 15.25
+  },
+  {
+    "query": "mva på reiseutgifter",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "mva ved kjøp fra privatperson",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 12.2
+  },
+  {
+    "query": "my power konto",
+    "clicks": 0,
+    "impressions": 120,
+    "ctr": 0,
+    "position": 7.88
+  },
+  {
+    "query": "my power konto logg inn",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 6.92
+  },
+  {
+    "query": "my power konto login",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "my powet",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "mypowe",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "mypower",
+    "clicks": 0,
+    "impressions": 123,
+    "ctr": 0,
+    "position": 7.83
+  },
+  {
+    "query": "mypower konto",
+    "clicks": 0,
+    "impressions": 28,
+    "ctr": 0,
+    "position": 6.93
+  },
+  {
+    "query": "mypower logg inn",
+    "clicks": 0,
+    "impressions": 25,
+    "ctr": 0,
+    "position": 6.76
+  },
+  {
+    "query": "mypower profil",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 3.85
+  },
+  {
+    "query": "mypower-konto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "myppwer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "må man ha kvittering for reklamasjon",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 9.29
+  },
+  {
+    "query": "må man ha kvittering for å reklamere",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 7.69
+  },
+  {
+    "query": "månedsavslutning regnskap",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 72
+  },
+  {
+    "query": "møbelringen reklamasjon",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12.5
+  },
+  {
+    "query": "nesten ny mobil samsung",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 70
+  },
+  {
+    "query": "netonnet min side",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 15
+  },
+  {
+    "query": "nettbutikk sexleketøy",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 57.5
+  },
+  {
+    "query": "netthandel angrerett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "nettkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "nettoformue",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 69
+  },
+  {
+    "query": "nokia gammel mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "norgesglass clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "norsk skylagring",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 89.7
+  },
+  {
+    "query": "nybilgaranti tesla",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 10.25
+  },
+  {
+    "query": "nybilsgaranti tesla",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "når beregnes formuesskatt",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12.67
+  },
+  {
+    "query": "når går garantien på bilen min ut",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 27
+  },
+  {
+    "query": "når kommer skattemeldingen 2026 privat",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "obs bygg reklamasjon",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 11.25
+  },
+  {
+    "query": "ocr",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ocr betydning",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ol i dag tv",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 45
+  },
+  {
+    "query": "olprogram idag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "oneplus garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1.5
+  },
+  {
+    "query": "online kvittering",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 6.17
+  },
+  {
+    "query": "oppbevare regnskap",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 90.5
+  },
+  {
+    "query": "oppbevaring av dokumenter",
+    "clicks": 0,
+    "impressions": 30,
+    "ctr": 0,
+    "position": 47.57
+  },
+  {
+    "query": "oppbevaring av faktura",
+    "clicks": 0,
+    "impressions": 60,
+    "ctr": 0,
+    "position": 12.73
+  },
+  {
+    "query": "oppbevaring av regnskap 10 år",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 35.5
+  },
+  {
+    "query": "oppbevaring av regnskapdata",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 16
+  },
+  {
+    "query": "oppbevaring av regnskapsmateriale",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 32
+  },
+  {
+    "query": "oppbevaring regnskap",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 55
+  },
+  {
+    "query": "oppbevaring regnskapsmateriale",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 38
+  },
+  {
+    "query": "oppsigelse tv2 play",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "oppsigelsestid tv2 play",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 10.25
+  },
+  {
+    "query": "oppvaskmaskin garanti",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 3.89
+  },
+  {
+    "query": "oppvaskmaskin reparasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ordre power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "ordrebekreftelse",
+    "clicks": 0,
+    "impressions": 164,
+    "ctr": 0,
+    "position": 6.4
+  },
+  {
+    "query": "ordrebekreftelse eksempel",
+    "clicks": 0,
+    "impressions": 37,
+    "ctr": 0,
+    "position": 10.97
+  },
+  {
+    "query": "ordrebekreftelse engelsk",
+    "clicks": 0,
+    "impressions": 33,
+    "ctr": 0,
+    "position": 8.3
+  },
+  {
+    "query": "ordrebekreftelse mal",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 22.8
+  },
+  {
+    "query": "ordrebekreftelse på engelsk",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.25
+  },
+  {
+    "query": "ordrebekreftelse som kvittering",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1.67
+  },
+  {
+    "query": "ordrebekræftelser",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ordredetaljer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "ordrenummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "ordrenummer engelsk",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.8
+  },
+  {
+    "query": "ordrenummer på engelsk",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 5.25
+  },
+  {
+    "query": "ordresystem",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 54.67
+  },
+  {
+    "query": "oversikt abonnement",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10.33
+  },
+  {
+    "query": "oversikt falske nettbutikker",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "oversikt over abonnement",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.4
+  },
+  {
+    "query": "oversikt over nettbutikker",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 92.5
+  },
+  {
+    "query": "oversiktlig økonomistyring",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "paint by numbers clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "pakkelapp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "parkering mva",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 11.83
+  },
+  {
+    "query": "partinummer",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.17
+  },
+  {
+    "query": "pc mappe clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "pendler fradrag 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "pendlerfradrag 2026",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 10.29
+  },
+  {
+    "query": "philips garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "phillips garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "playstation garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "plus",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "populære nettbutikker",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 92
+  },
+  {
+    "query": "posten reklamasjon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "posten returetikett",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 20
+  },
+  {
+    "query": "power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "power angrefrist",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "power angrerett",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 12.64
+  },
+  {
+    "query": "power bytterett",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "power faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "power fornøydgaranti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "power garanti",
+    "clicks": 0,
+    "impressions": 79,
+    "ctr": 0,
+    "position": 12.96
+  },
+  {
+    "query": "power garanti iphone",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "power garanti vaskemaskin",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "power kjøpsgaranti",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "power klage",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "power klage på produkt",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "power kvitteringer",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 6.1
+  },
+  {
+    "query": "power levere tilbake",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "power logg inn",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 7.14
+  },
+  {
+    "query": "power min side logg inn",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "power mine kjøp",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 5.3
+  },
+  {
+    "query": "power mine kvitteringer",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 3.83
+  },
+  {
+    "query": "power my power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "power mypower",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 7.5
+  },
+  {
+    "query": "power ordre",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 7.67
+  },
+  {
+    "query": "power ordrenummer",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 7.58
+  },
+  {
+    "query": "power pris garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "power reklamasjon",
+    "clicks": 0,
+    "impressions": 72,
+    "ctr": 0,
+    "position": 9.61
+  },
+  {
+    "query": "power reklamationsret",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 56
+  },
+  {
+    "query": "power retur",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 10.93
+  },
+  {
+    "query": "power retur elektronikk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "power retur mobil",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 10.25
+  },
+  {
+    "query": "power returnere vare",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "power returnering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 44.5
+  },
+  {
+    "query": "power returns",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "power returret",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 40
+  },
+  {
+    "query": "power returrett",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 10.82
+  },
+  {
+    "query": "printerblekk",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 78.5
+  },
+  {
+    "query": "pris retur zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "prisgaranti samsung",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "produkt garanti",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 54.22
+  },
+  {
+    "query": "programvarekvitteringer",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 2.25
+  },
+  {
+    "query": "proshop rma",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 6.17
+  },
+  {
+    "query": "prosjektfordeling",
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 59.63
+  },
+  {
+    "query": "proveniens kunst",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 66
+  },
+  {
+    "query": "ps4 garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "ps5 garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "på norsk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "refusjon netthandel",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "registrere bil på enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 22.5
+  },
+  {
+    "query": "registrere bil på firma",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 63.33
+  },
+  {
+    "query": "regler firmabil enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 11.25
+  },
+  {
+    "query": "regning zalando",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 3.2
+  },
+  {
+    "query": "regnskap uteliv",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 66
+  },
+  {
+    "query": "regnskapsbok papir",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "regnskapsprogram enk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 79
+  },
+  {
+    "query": "regnskapsprogram enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 90
+  },
+  {
+    "query": "regnskapsprogram for enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 74
+  },
+  {
+    "query": "reiseregning håndtering",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 11.6
+  },
+  {
+    "query": "reiseregninghåndtering",
+    "clicks": 0,
+    "impressions": 24,
+    "ctr": 0,
+    "position": 10.29
+  },
+  {
+    "query": "reiseregningssystem priser",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 25
+  },
+  {
+    "query": "reiseutgifter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 79
+  },
+  {
+    "query": "reiseutlegg",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 13.92
+  },
+  {
+    "query": "reklamasjon",
+    "clicks": 0,
+    "impressions": 32,
+    "ctr": 0,
+    "position": 83.19
+  },
+  {
+    "query": "reklamasjon 5 år",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "reklamasjon betydning",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "reklamasjon briller",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "reklamasjon dnb",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 15.5
+  },
+  {
+    "query": "reklamasjon elektronikk",
+    "clicks": 0,
+    "impressions": 74,
+    "ctr": 0,
+    "position": 5.89
+  },
+  {
+    "query": "reklamasjon elkjøp",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 19.6
+  },
+  {
+    "query": "reklamasjon engelsk",
+    "clicks": 0,
+    "impressions": 71,
+    "ctr": 0,
+    "position": 12.56
+  },
+  {
+    "query": "reklamasjon garanti",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 18.25
+  },
+  {
+    "query": "reklamasjon hm",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "reklamasjon hvitevarer",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 7.65
+  },
+  {
+    "query": "reklamasjon ikea",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "reklamasjon iphone",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 11.7
+  },
+  {
+    "query": "reklamasjon jysk",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 7.1
+  },
+  {
+    "query": "reklamasjon kid",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 4.33
+  },
+  {
+    "query": "reklamasjon klær",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "reklamasjon megaflis",
+    "clicks": 0,
+    "impressions": 30,
+    "ctr": 0,
+    "position": 6.93
+  },
+  {
+    "query": "reklamasjon mobil",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 3.56
+  },
+  {
+    "query": "reklamasjon mobiltelefon",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 2.44
+  },
+  {
+    "query": "reklamasjon møbelringen",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "reklamasjon møbler",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 1.77
+  },
+  {
+    "query": "reklamasjon oppvaskmaskin",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "reklamasjon pc",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "reklamasjon power",
+    "clicks": 0,
+    "impressions": 37,
+    "ctr": 0,
+    "position": 9.16
+  },
+  {
+    "query": "reklamasjon på elektronikk",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 2.67
+  },
+  {
+    "query": "reklamasjon på engelsk",
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 12.57
+  },
+  {
+    "query": "reklamasjon på klær",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 11.8
+  },
+  {
+    "query": "reklamasjon på sko",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "reklamasjon samsung",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 6.77
+  },
+  {
+    "query": "reklamasjon service hvitevarer",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 13
+  },
+  {
+    "query": "reklamasjon sko",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 19.4
+  },
+  {
+    "query": "reklamasjon sykkel",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "reklamasjon telefon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "reklamasjon tesla",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 11.33
+  },
+  {
+    "query": "reklamasjon tv",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "reklamasjon vs garanti",
+    "clicks": 0,
+    "impressions": 43,
+    "ctr": 0,
+    "position": 8.4
+  },
+  {
+    "query": "reklamasjon xxl",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 9.44
+  },
+  {
+    "query": "reklamasjonrett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "reklamasjonsrett",
+    "clicks": 0,
+    "impressions": 121,
+    "ctr": 0,
+    "position": 12.87
+  },
+  {
+    "query": "reklamasjonsrett briller",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "reklamasjonsrett elektronikk",
+    "clicks": 0,
+    "impressions": 83,
+    "ctr": 0,
+    "position": 9.59
+  },
+  {
+    "query": "reklamasjonsrett engelsk",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 10.33
+  },
+  {
+    "query": "reklamasjonsrett hvitevarer",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 6.1
+  },
+  {
+    "query": "reklamasjonsrett iphone",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "reklamasjonsrett klær",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 12.5
+  },
+  {
+    "query": "reklamasjonsrett mobil",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 5.25
+  },
+  {
+    "query": "reklamasjonsrett mobiltelefon",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 1.65
+  },
+  {
+    "query": "reklamasjonsrett power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "reklamasjonsrett telefon",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "reklamasjonsrett tv",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 3.45
+  },
+  {
+    "query": "reklamasjonsrett vaskemaskin",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "reklamation power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "reklamere på glidelås jakke",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "reklamere uten kvittering",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 7.92
+  },
+  {
+    "query": "reparasjon av hvitevarer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "reportaproblem apple",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 8.75
+  },
+  {
+    "query": "retur badetøy hm",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "retur bohus",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 8.43
+  },
+  {
+    "query": "retur clas ohlson",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "retur elkjøp",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 18.67
+  },
+  {
+    "query": "retur elkjøp nettbutikk",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "retur fra nettbutikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "retur hm nett",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 2.7
+  },
+  {
+    "query": "retur hos zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "retur ikea uten kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "retur jysk",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 7.77
+  },
+  {
+    "query": "retur kid",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 9.92
+  },
+  {
+    "query": "retur power",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 18.38
+  },
+  {
+    "query": "retur skeidar",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 11.13
+  },
+  {
+    "query": "retur xxl",
+    "clicks": 0,
+    "impressions": 49,
+    "ctr": 0,
+    "position": 8.45
+  },
+  {
+    "query": "retur xxl nettbutikk",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 7.22
+  },
+  {
+    "query": "retur xxl online",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "retur zalando",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "retur zalando pris",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "returetiket",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "returetikett",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "returetikett zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "returnering power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 46.5
+  },
+  {
+    "query": "returret power",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 46.5
+  },
+  {
+    "query": "returrett clas ohlson",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "returrett netthandel",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "riktig stavemåte",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 13.5
+  },
+  {
+    "query": "robotstøvsuger garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "rolex replica",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "rusta retur uten kvittering",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "rustgaranti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 96
+  },
+  {
+    "query": "salgsavtale mal",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 24.5
+  },
+  {
+    "query": "salgskontrakt mal",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 70.33
+  },
+  {
+    "query": "salgskvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "sammenlign telefoner",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 77
+  },
+  {
+    "query": "samsung care+ pris",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "samsung fold 4 pris",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 40
+  },
+  {
+    "query": "samsung forsikring",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "samsung garanti mobil",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "samsung garanti telefon",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "samsung garanti tv",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 7.6
+  },
+  {
+    "query": "samsung garanti vaskemaskin",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 6.63
+  },
+  {
+    "query": "samsung hvitevarer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 44
+  },
+  {
+    "query": "samsung kontakt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 83
+  },
+  {
+    "query": "samsung kundeservice mobil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "samsung kundeservice telefonnummer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "samsung mobil best",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 70
+  },
+  {
+    "query": "samsung mobil garanti",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 7.17
+  },
+  {
+    "query": "samsung nettbrett elkjøp",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 50
+  },
+  {
+    "query": "samsung oslo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "samsung prisgaranti",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7.33
+  },
+  {
+    "query": "samsung reklamasjon",
+    "clicks": 0,
+    "impressions": 58,
+    "ctr": 0,
+    "position": 6.97
+  },
+  {
+    "query": "samsung reparasjon oslo",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "samsung serienummer",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "samsung serienummer check",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10.5
+  },
+  {
+    "query": "samsung service center oslo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "samsung service norge",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "samsung servicesenter",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 1.27
+  },
+  {
+    "query": "samsung support garantie",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "samsung support norge tlf",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "samsung telefon garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "samsung tv garanti",
+    "clicks": 0,
+    "impressions": 31,
+    "ctr": 0,
+    "position": 7.81
+  },
+  {
+    "query": "samsung vaskemaskin garanti",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 8.35
+  },
+  {
+    "query": "sas kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 23
+  },
+  {
+    "query": "scan kvitteringer app",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "se spesifikasjoner på kontoutskrift",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "selg faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 68
+  },
+  {
+    "query": "selvbetjeningskasse",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 87.5
+  },
+  {
+    "query": "serie nummer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 49.5
+  },
+  {
+    "query": "serienummer",
+    "clicks": 0,
+    "impressions": 30,
+    "ctr": 0,
+    "position": 15.2
+  },
+  {
+    "query": "serienummer samsung",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "serienummer samsung telefon",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "serienummer vaskemaskin",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "serinr",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "service hvitevarer",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "service på oppvaskmaskin",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "service på tesla model y",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "service vaskemaskin",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "servicehistorikk på bil",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 82
+  },
+  {
+    "query": "si opp tv2",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "si opp tv2 abonnement",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "siemens innebygd stekeovn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "siemens oppvaskmaskin garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "signeringsbevis",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "skatt på donasjoner",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 31.5
+  },
+  {
+    "query": "skatteetaten formuesskatt satser 2025",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 5.14
+  },
+  {
+    "query": "skattefradrag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "skattefradrag donasjon",
+    "clicks": 0,
+    "impressions": 51,
+    "ctr": 0,
+    "position": 11.67
+  },
+  {
+    "query": "skattefradrag enkeltpersonforetak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 44
+  },
+  {
+    "query": "skattefradrag fagforening",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 41.86
+  },
+  {
+    "query": "skattefradrag fagforening 2026",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 11.29
+  },
+  {
+    "query": "skattefradrag medlemskontingent",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 69.44
+  },
+  {
+    "query": "skattemelding 2026",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 20.5
+  },
+  {
+    "query": "skattemelding fagforening",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "skattemelding frist 2026",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "skeidar angrerett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "skeidar avbetaling",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 30.33
+  },
+  {
+    "query": "skeidar delbetaling",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 30
+  },
+  {
+    "query": "skeidar faktura",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 14.71
+  },
+  {
+    "query": "skeidar finansiering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "skeidar garanti",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "skeidar klage",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.33
+  },
+  {
+    "query": "skeidar min side",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 9.56
+  },
+  {
+    "query": "skeidar ordrestatus",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "skeidar reklamasjonsskjema",
+    "clicks": 0,
+    "impressions": 34,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "skeidar retur",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 10.88
+  },
+  {
+    "query": "skeidar retur i butikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "skeidar seng garanti",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 6.75
+  },
+  {
+    "query": "skifte varmeelement stekeovn",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "skolisser clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "skriverblekk abonnement",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 23.67
+  },
+  {
+    "query": "små sikringsskap",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 82
+  },
+  {
+    "query": "sofa chilli",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "sofa knirker",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9.67
+  },
+  {
+    "query": "solbriller reparasjon",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 53.75
+  },
+  {
+    "query": "sony mobil 2026",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "sony mobiltelefoner 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "sportsreise",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "spotify betalingskort",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 9.77
+  },
+  {
+    "query": "spotify faktura",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 8.06
+  },
+  {
+    "query": "spotify fakturering",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "spotify kvittering",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 4.88
+  },
+  {
+    "query": "spotify oppdatere betalingskort",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "spør grok ai",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 9.13
+  },
+  {
+    "query": "størrelsesguide zalando",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "største plattform for digitale kvitteringer",
+    "clicks": 0,
+    "impressions": 71,
+    "ctr": 0,
+    "position": 4.13
+  },
+  {
+    "query": "sykkel garanti",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 14.17
+  },
+  {
+    "query": "sykkel garanti norge",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 5.6
+  },
+  {
+    "query": "sykkelgaranti karbonramme",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "systemair garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "søk om jysk konto",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "tak",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "taxi kvitto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "taxi mva fradrag",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "telefon garanti",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 3.88
+  },
+  {
+    "query": "telefon merker",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "telenor garanti mobil",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "telia garanti",
+    "clicks": 0,
+    "impressions": 53,
+    "ctr": 0,
+    "position": 14.49
+  },
+  {
+    "query": "tesla 3 garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "tesla batteri garanti",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 10.33
+  },
+  {
+    "query": "tesla batterigaranti",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "tesla garanti batteri",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 11.33
+  },
+  {
+    "query": "tesla garanti forlængelse",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "tesla garanti norge",
+    "clicks": 0,
+    "impressions": 56,
+    "ctr": 0,
+    "position": 5.77
+  },
+  {
+    "query": "tesla garanti på batteri",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "tesla garantie",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "tesla garantier",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 8.2
+  },
+  {
+    "query": "tesla model 3 garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 28
+  },
+  {
+    "query": "tesla model y garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14
+  },
+  {
+    "query": "tesla nybilgaranti",
+    "clicks": 0,
+    "impressions": 42,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "tesla reklamasjon",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 10.5
+  },
+  {
+    "query": "tesla utvidet garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 28.5
+  },
+  {
+    "query": "the voice biletter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "the voice billetter",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 12.19
+  },
+  {
+    "query": "tips om useriøs butikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "tips til trygg netthandel",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "toaletter megaflis",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "top 10 telefon 2025",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "transaksjonsdetaljer",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 13.27
+  },
+  {
+    "query": "trenger man kvittering for reklamasjon",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 6.4
+  },
+  {
+    "query": "trygg netthandel",
+    "clicks": 0,
+    "impressions": 13,
+    "ctr": 0,
+    "position": 11.77
+  },
+  {
+    "query": "tv 2 play abonnement oppsigelse",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 11.13
+  },
+  {
+    "query": "tv garanti",
+    "clicks": 0,
+    "impressions": 20,
+    "ctr": 0,
+    "position": 5.5
+  },
+  {
+    "query": "tv2 arkiv søk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 24
+  },
+  {
+    "query": "tv2 avslutt abonnement",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 8.57
+  },
+  {
+    "query": "tv2 play abonnement oppsigelse",
+    "clicks": 0,
+    "impressions": 37,
+    "ctr": 0,
+    "position": 11.38
+  },
+  {
+    "query": "tv2 play angrerett",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 7.6
+  },
+  {
+    "query": "tv2 play oppsigelse",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 10.6
+  },
+  {
+    "query": "tv2 play oppsigelsestid",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "tv2 si opp abonnement",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 9.75
+  },
+  {
+    "query": "tørketrommel garanti",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "unngå retur",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 11.55
+  },
+  {
+    "query": "unngå retur til din netthandel",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 14.75
+  },
+  {
+    "query": "uno x kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 71
+  },
+  {
+    "query": "unødvendig engelsk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 97
+  },
+  {
+    "query": "utendørsprodukter",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 75
+  },
+  {
+    "query": "utlegg",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "utvidet garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "utvidet garanti bil",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "utvidet garanti tesla",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 30.5
+  },
+  {
+    "query": "vad är en ehf faktura",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 38.33
+  },
+  {
+    "query": "valutaomva",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 19.2
+  },
+  {
+    "query": "varenummer på engelsk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "vaskemaskin garanti",
+    "clicks": 0,
+    "impressions": 12,
+    "ctr": 0,
+    "position": 3.67
+  },
+  {
+    "query": "vaskemaskin rister ved sentrifugering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "vater clas ohlson",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "veggbilder skeidar",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 20
+  },
+  {
+    "query": "videresender",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 47
+  },
+  {
+    "query": "vigo karakterer",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 25
+  },
+  {
+    "query": "vigo karakterutskrift",
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "vigo.no",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.8
+  },
+  {
+    "query": "vikinglotto gevinst",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 17
+  },
+  {
+    "query": "vikinglotto skatt",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.4
+  },
+  {
+    "query": "vipps bedrift kassesystem",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 72.67
+  },
+  {
+    "query": "vipps innlogging",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 18.17
+  },
+  {
+    "query": "vitnemål vgs vigo",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 15
+  },
+  {
+    "query": "vitnemål vigo",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "volvo batteri garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 4.5
+  },
+  {
+    "query": "volvo garanti batteri",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "vr netonnet",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 49
+  },
+  {
+    "query": "warranty norsk",
+    "clicks": 0,
+    "impressions": 27,
+    "ctr": 0,
+    "position": 11.85
+  },
+  {
+    "query": "whirlpool garanti",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "wilfa kaffetrakter garanti",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 2.5
+  },
+  {
+    "query": "www.miele/service",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "xbox garanti",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 9.2
+  },
+  {
+    "query": "xxl app",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "xxl bytte",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 11.67
+  },
+  {
+    "query": "xxl bytte og retur",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "xxl bytte uten kvittering",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "xxl bytteregler",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 13.67
+  },
+  {
+    "query": "xxl bytterett",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 9.6
+  },
+  {
+    "query": "xxl faktura",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 6
+  },
+  {
+    "query": "xxl garanti",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 17.18
+  },
+  {
+    "query": "xxl jessheim anmeldelser",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "xxl kvitteringer",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 3.89
+  },
+  {
+    "query": "xxl logg inn",
+    "clicks": 0,
+    "impressions": 22,
+    "ctr": 0,
+    "position": 8.73
+  },
+  {
+    "query": "xxl min konto",
+    "clicks": 0,
+    "impressions": 39,
+    "ctr": 0,
+    "position": 6.92
+  },
+  {
+    "query": "xxl reklamasjon",
+    "clicks": 0,
+    "impressions": 61,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "xxl reklamation",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+  },
+  {
+    "query": "xxl retur",
+    "clicks": 0,
+    "impressions": 128,
+    "ctr": 0,
+    "position": 8.29
+  },
+  {
+    "query": "xxl retur i butikk",
+    "clicks": 0,
+    "impressions": 38,
+    "ctr": 0,
+    "position": 7.87
+  },
+  {
+    "query": "xxl retur nettbutikk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "xxl return policy",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "xxl returnere vare",
+    "clicks": 0,
+    "impressions": 9,
+    "ctr": 0,
+    "position": 8.56
+  },
+  {
+    "query": "xxl returrett",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 14.91
+  },
+  {
+    "query": "yrkesbil enkeltmannsforetak",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 41.13
+  },
+  {
+    "query": "zalando angrerett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "zalando bankkonto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+  },
+  {
+    "query": "zalando betala faktura",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 19
+  },
+  {
+    "query": "zalando betalingsmetoder",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "zalando betalning",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "zalando bytte og retur",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "zalando bytte størrelse",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "zalando defekt vare",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "query": "zalando e post",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "zalando faktura kontakt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 73
+  },
+  {
+    "query": "zalando faktury",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 48
+  },
+  {
+    "query": "zalando faq",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8.67
+  },
+  {
+    "query": "zalando garanti",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 7.43
+  },
+  {
+    "query": "zalando klage",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 11.45
+  },
+  {
+    "query": "zalando klage på vare",
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 3.65
+  },
+  {
+    "query": "zalando konto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "zalando konto nummer",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 6.67
+  },
+  {
+    "query": "zalando kontonummer",
+    "clicks": 0,
+    "impressions": 29,
+    "ctr": 0,
+    "position": 7.07
+  },
+  {
+    "query": "zalando kundeservice",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10
+  },
+  {
+    "query": "zalando kvittering",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "zalando kvitto",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5
+  },
+  {
+    "query": "zalando logga in faktura",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "zalando lounge faktura",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "zalando lounge norway",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "zalando mail reklamation",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11
+  },
+  {
+    "query": "zalando min konto",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+  },
+  {
+    "query": "zalando min side",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 8.72
+  },
+  {
+    "query": "zalando min side logg inn",
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 8.2
+  },
+  {
+    "query": "zalando mina fakturor",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 26
+  },
+  {
+    "query": "zalando receipt",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57
+  },
+  {
+    "query": "zalando reklamasjon sko",
+    "clicks": 0,
+    "impressions": 26,
+    "ctr": 0,
+    "position": 5.88
+  },
+  {
+    "query": "zalando reklamation",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8
+  },
+  {
+    "query": "zalando retur",
+    "clicks": 0,
+    "impressions": 6,
+    "ctr": 0,
+    "position": 9.5
+  },
+  {
+    "query": "zalando retur pris",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "zalando retur tid",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 12
+  },
+  {
+    "query": "zalando returetikett",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "zalando returrett",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 18
+  },
+  {
+    "query": "zalando returskjema",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 11.5
+  },
+  {
+    "query": "ålesund moa",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
+  },
+  {
+    "query": "åpent kjøp jysk",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+  },
+  {
+    "query": "åpent kjøp power",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "åpent kjøp skeidar",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 15
+  },
+  {
+    "query": "årets mobil 2025",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 1
+  },
+  {
+    "query": "ødelagte solbriller forsikring",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 57.25
+  }
+]

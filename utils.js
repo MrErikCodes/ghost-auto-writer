@@ -38,3 +38,20 @@ export function getSearchConsoleDateFolders() {
 export function daysAgo(dateStr) {
   return Math.floor((new Date() - new Date(dateStr)) / (1000 * 60 * 60 * 24));
 }
+
+// Extract slug (last path segment) from a URL path or full URL
+export function extractSlug(urlOrPath) {
+  let pathname = urlOrPath;
+  try { pathname = new URL(urlOrPath).pathname; } catch { /* already a path */ }
+  return pathname.replace(/\/$/, '').split('/').filter(Boolean).pop() || '';
+}
+
+// Normalize GSC metric values (ctr decimal→percentage, position rounding)
+export function normalizeGscMetrics(row) {
+  return {
+    clicks: row.clicks,
+    impressions: row.impressions,
+    ctr: Math.round(row.ctr * 10000) / 100,
+    position: Math.round(row.position * 100) / 100,
+  };
+}

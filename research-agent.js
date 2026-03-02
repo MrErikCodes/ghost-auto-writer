@@ -3,6 +3,7 @@ import { generateText } from 'ai';
 import fs from 'fs';
 import RSSParser from 'rss-parser';
 import { config } from './config.js';
+import { formatDate } from './utils.js';
 import { loadSearchConsoleData, findSeoGaps } from './seo-gaps.js';
 import { scrapeGoogleTrendsNorway, fetchAllRSSFeeds } from './trends-scraper.js';
 
@@ -86,7 +87,7 @@ export class ResearchAgent {
       for (let i = 1; i <= 7; i++) {
         const date = new Date();
         date.setDate(date.getDate() - i);
-        const dateString = date.toISOString().split('T')[0];
+        const dateString = formatDate(date);
 
         const historicalTrends = this.loadTrendsFromDate(dateString);
         if (historicalTrends && historicalTrends.length >= 10) {
@@ -131,7 +132,7 @@ export class ResearchAgent {
   // Fetch trending topics by scraping Google Trends Norway page
   // Caches results for the day to avoid repeated scraping
   async fetchDailyTrends() {
-    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const today = formatDate(new Date());
 
     // Check if we already have today's trends cached
     if (this.brain.cachedTrends?.date === today && this.brain.cachedTrends?.data?.length > 0) {
@@ -316,7 +317,7 @@ export class ResearchAgent {
     console.log('\n🧠 Research Agent aktivert...\n');
 
     // Force fresh trends if we have very few cached (less than 30)
-    const today = new Date().toISOString().split('T')[0];
+    const today = formatDate(new Date());
     if (this.brain.cachedTrends?.date === today && this.brain.cachedTrends?.data?.length < 30) {
       console.log(`  ⚠ Få cached trender (${this.brain.cachedTrends.data.length}), henter ferske data...`);
       this.clearTrendsCache();

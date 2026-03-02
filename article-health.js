@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { config } from './config.js';
-import { getGscDateRange, getSearchConsoleDateFolders, formatDate } from './utils.js';
+import { getGscDateRange, getSearchConsoleDateFolders, formatDate, daysAgo, extractSlug } from './utils.js';
 import { getAllPostsWithContent, updatePost, draftPost } from './ghost-client.js';
 import { getPagePerformance } from './search-console-client.js';
 import { getPageviewsCached } from './rybbit-client.js';
@@ -13,10 +13,6 @@ const THRESHOLDS = { healthy: 50, underperforming: 10 };
 const PUBLIC_BLOG_URL = 'https://minekvitteringer.no/blog';
 
 // ── Helpers ────────────────────────────────────────────────────────────
-
-function daysSince(dateStr) {
-  return Math.floor((new Date() - new Date(dateStr)) / (1000 * 60 * 60 * 24));
-}
 
 function classifyArticle(impressions, ageDays, hasGscData) {
   if (ageDays < GRACE_PERIOD_DAYS) return 'too-new';
@@ -113,7 +109,7 @@ export async function getArticleHealth() {
   // 2c. Build Rybbit lookup by slug
   const rybbitBySlug = new Map();
   for (const [pathname, data] of Object.entries(rybbitData)) {
-    const slug = pathname.replace(/\/$/, '').split('/').filter(Boolean).pop();
+    const slug = extractSlug(pathname);
     if (slug) {
       rybbitBySlug.set(slug, data);
     }
@@ -134,8 +130,7 @@ export async function getArticleHealth() {
     };
 
     try {
-      const urlPath = new URL(pageUrl).pathname.replace(/\/$/, '');
-      const slug = urlPath.split('/').filter(Boolean).pop();
+      const slug = extractSlug(pageUrl);
       if (slug) {
         const existing = gscBySlug.get(slug);
         if (!existing || metrics.impressions > existing.impressions) {
@@ -147,7 +142,7 @@ export async function getArticleHealth() {
 
   // 4. Cross-reference each post
   const articles = posts.map(post => {
-    const ageDays = daysSince(post.published_at);
+    const ageDays = daysAgo(post.published_at);
     const gsc = gscBySlug.get(post.slug) || null;
     const rybbit = rybbitBySlug.get(post.slug) || null;
     const hasGscData = gsc !== null;
