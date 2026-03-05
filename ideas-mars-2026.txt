@@ -1,0 +1,621 @@
+  1. Krig og reise: Kvitteringer og dokumentasjon (15)
+
+  #: 1
+  Tittel: Strandet i Dubai? Slik dokumenterer du alle utgifter for forsikringskrav
+  Slug: strandet-dubai-dokumentere-utgifter-forsikringskrav
+  Fokus-nøkkelord: strandet Dubai forsikring kvittering
+  Kontekst: Iran-krigen mars 2026, tusenvis av nordmenn fast i Midtøsten, Norwegian kansellerer Dubai-ruter
+  ────────────────────────────────────────
+  #: 2
+  Tittel: Fly kansellert på grunn av krig: Dine rettigheter og hvilke kvitteringer du må ta vare på
+  Slug: fly-kansellert-krig-rettigheter-kvitteringer
+  Fokus-nøkkelord: fly kansellert krig rettigheter
+  Kontekst: Ekstraordinære omstendigheter gir ikke kompensasjon, men refusjon/ombooking. Forbrukertilsynet råder: ikke avbestill selv.
+  ────────────────────────────────────────
+  #: 3
+  Tittel: Reiseforsikring ved krig og krise: Hva dekkes – og hva må du dokumentere?
+  Slug: reiseforsikring-krig-krise-dokumentasjon
+  Fokus-nøkkelord: reiseforsikring krig dekning
+  Kontekst: Gjensidige utvider dekning for Midtøsten-strandede. Forsikringskrav krever kvitteringer for alle merutgifter.
+  ────────────────────────────────────────
+  #: 4
+  Tittel: Norwegian kansellerer alle Dubai-fly: Slik får du pengene tilbake
+  Slug: norwegian-kansellerer-dubai-fly-refusjon
+  Fokus-nøkkelord: Norwegian Dubai kansellert refusjon
+  Kontekst: Norwegian instiller alle flyginger til/fra Dubai til 10. mars. Passasjerer kan velge refusjon eller ombooking.
+  ────────────────────────────────────────
+  #: 5
+  Tittel: Hotellkvitteringer i krisesone: Dokumentasjon som sikrer refusjon
+  Slug: hotellkvitteringer-krisesone-refusjon
+  Fokus-nøkkelord: hotellkvittering krise refusjon
+  Kontekst: Strandede nordmenn betaler for ekstra hotellnetter. Forsikring krever dokumentasjon på alle utgifter.
+  ────────────────────────────────────────
+  #: 6
+  Tittel: UD fraråder reise: Hva betyr det for avbestillingsforsikringen din?
+  Slug: ud-fraraader-reise-avbestillingsforsikring
+  Fokus-nøkkelord: UD fraråder reise forsikring avbestilling
+  Kontekst: Utenriksdepartementet fraråder reise til områder i Midtøsten. Forsikring dekker ofte kun når UD har frarådet.
+  ────────────────────────────────────────
+  #: 7
+  Tittel: Pakkereiseloven og krig: Når har du krav på full refusjon?
+  Slug: pakkereiseloven-krig-refusjon
+  Fokus-nøkkelord: pakkereise refusjon krig
+  Kontekst: Pakkereiseloven gir sterkere beskyttelse enn enkeltbilletter ved ekstraordinære omstendigheter.
+  ────────────────────────────────────────
+  #: 8
+  Tittel: Slik bruker du Reiseklar-appen og registrerer deg hos UD
+  Slug: reiseklar-app-registrering-ud
+  Fokus-nøkkelord: Reiseklar app UD registrering
+  Kontekst: 2500 nordmenn registrert i konfliktområder. UD sender utrykningsteam til Dubai.
+  ────────────────────────────────────────
+  #: 9
+  Tittel: Ekstrautgifter når du er strandet: Mat, hotell og transport du kan kreve tilbake
+  Slug: ekstrautgifter-strandet-reise-krav
+  Fokus-nøkkelord: ekstrautgifter strandet reise refusjon
+  Kontekst: Flyselskapet har omsorgsplikt. Mat (ikke alkohol), hotell og transport kan dekkes mot kvittering.
+  ────────────────────────────────────────
+  #: 10
+  Tittel: Turoperatører og krig: TUI, Ving og Apollo – hva tilbyr de strandede nordmenn?
+  Slug: turoperatorer-krig-tui-ving-apollo-rettigheter
+  Fokus-nøkkelord: TUI Ving krig rettigheter
+  Kontekst: TUI starter hjemhenting fra Dubai. Turoperatører har pakkereiseloven-ansvar.
+  ────────────────────────────────────────
+  #: 11
+  Tittel: Stengt luftrom: Slik påvirker Iran-konflikten flyreiser fra Norge
+  Slug: stengt-luftrom-iran-konflikt-flyreiser-norge
+  Fokus-nøkkelord: stengt luftrom Iran flyreiser
+  Kontekst: Nødkorridorer åpnet, men tusenvis av flygninger kansellert. SAS, Norwegian, Widerøe påvirket.
+  ────────────────────────────────────────
+  #: 12
+  Tittel: Reise til kriseområde? Ikke avbestill selv – dette sier Forbrukertilsynet
+  Slug: reise-kriseomrade-ikke-avbestill-forbrukertilsynet
+  Fokus-nøkkelord: Forbrukertilsynet reise krise avbestilling
+  Kontekst: Forbrukertilsynet advarer: avbestiller du selv, mister du rettigheter. Vent på flyselskapet.
+  ────────────────────────────────────────
+  #: 13
+  Tittel: Kredittkort som reiseforsikring: Dekker det krig og krise?
+  Slug: kredittkort-reiseforsikring-krig-krise
+  Fokus-nøkkelord: kredittkort reiseforsikring krig
+  Kontekst: Mange nordmenn har reiseforsikring via kredittkort. Vilkårene varierer stort for krisedekning.
+  ────────────────────────────────────────
+  #: 14
+  Tittel: Nødpass fra ambassaden: Slik får du hjelp som strandet nordmann
+  Slug: nodpass-ambassade-strandet-nordmann-hjelp
+  Fokus-nøkkelord: nødpass ambassade strandet utlandet
+  Kontekst: UDs utrykningsteam i Dubai bistår med nødpass, ID-papirer og nødlån.
+  ────────────────────────────────────────
+  #: 15
+  Tittel: Lærdommer fra Dubai-krisen: 5 ting du alltid bør ha digitalt på reise
+  Slug: laerdommer-dubai-krisen-digitalt-reise
+  Fokus-nøkkelord: digital dokumentasjon reise krise
+  Kontekst: Ha kvitteringer, forsikringsbevis, boardingkort og bookingbekreftelser digitalt tilgjengelig.
+
+  2. Eurovision 2026 og reise (8)
+
+  #: 16
+  Tittel: Reise til Eurovision 2026 i Wien: Slik holder du orden på utgiftene
+  Slug: eurovision-2026-wien-reiseutgifter
+  Fokus-nøkkelord: Eurovision 2026 Wien reiseutgifter
+  Kontekst: ESC 2026 i Wiener Stadthalle 12–16. mai. Billetter, hotell, fly – mange kvitteringer å holde styr på.
+  ────────────────────────────────────────
+  #: 17
+  Tittel: Jonas Lovv til Eurovision: Slik planlegger nordmenn Wien-turen
+  Slug: jonas-lovv-eurovision-wien-tur-planlegging
+  Fokus-nøkkelord: Eurovision Wien tur planlegging
+  Kontekst: Jonas Lovv vant MGP 2026 med «Ya Ya Ya». Mange nordmenn reiser til Wien for å støtte.
+  ────────────────────────────────────────
+  #: 18
+  Tittel: Eurovision-billetter og videresalg: Slik beskytter du deg mot svindel
+  Slug: eurovision-billetter-videresalg-svindel
+  Fokus-nøkkelord: Eurovision billetter svindel beskyttelse
+  Kontekst: Billetter utsolgt 13. januar, ny sjanse 26. mars. Stor etterspørsel betyr svindelfare. Dokumenter alle kjøp.
+  ────────────────────────────────────────
+  #: 19
+  Tittel: Storbyreise i 2026: Wien, Paris, London – kvitteringstips for reisende
+  Slug: storbyreise-2026-kvitteringstips
+  Fokus-nøkkelord: storbyreise kvitteringer tips
+  Kontekst: Mange nordmenn reiser til Eurovision, fotball-VM, eller ren ferie. Dokumenter utgifter.
+  ────────────────────────────────────────
+  #: 20
+  Tittel: Utenlandsreise og valutakurs: Slik holder du oversikt over utgifter i euro
+  Slug: utenlandsreise-valutakurs-utgifter-euro
+  Fokus-nøkkelord: utenlandsreise valuta utgifter
+  Kontekst: Wien bruker euro. Vekslingskurs påvirker reelle kostnader. Lagre kvitteringer med både NOK og EUR.
+  ────────────────────────────────────────
+  #: 21
+  Tittel: Hotellbooking i utlandet: Avbestillingsvilkår og kvitteringer du må lagre
+  Slug: hotellbooking-utlandet-avbestilling-kvitteringer
+  Fokus-nøkkelord: hotellbooking avbestilling kvittering
+  Kontekst: Booking.com, Hotels.com, Airbnb – ulike avbestillingsregler. Ha dokumentasjon klar.
+  ────────────────────────────────────────
+  #: 22
+  Tittel: Konsertbilletter og eventer i 2026: Slik dokumenterer du kjøpene
+  Slug: konsertbilletter-eventer-2026-dokumentasjon
+  Fokus-nøkkelord: konsertbilletter kvittering dokumentasjon
+  Kontekst: Ticketmaster, Eventim – digitale billetter kan forsvinne. Lagre bekreftelsen.
+  ────────────────────────────────────────
+  #: 23
+  Tittel: Forbruker Europa: Slik får du hjelp med kjøp i EU/EØS-land
+  Slug: forbruker-europa-hjelp-kjop-eu-eos
+  Fokus-nøkkelord: Forbruker Europa kjøp EU rettigheter
+  Kontekst: Gratis rådgivning og mekling for nordmenn som handler i EU/EØS. Gjelder Wien-reise og netthandel.
+
+  3. Økonomi, strøm og bolig (12)
+
+  #: 24
+  Tittel: Norgespris på strøm: Er det lurt å bytte – og hva bør du dokumentere?
+  Slug: norgespris-strom-bytte-dokumentere
+  Fokus-nøkkelord: Norgespris strøm bytte
+  Kontekst: Norgespris gir 50 øre/kWh fast pris ut 2026. Mange lurer på om de bør bytte fra spotpris.
+  ────────────────────────────────────────
+  #: 25
+  Tittel: Strømregningen i 2026: Slik sjekker du at du betaler riktig
+  Slug: stromregning-2026-sjekk-betaler-riktig
+  Fokus-nøkkelord: strømregning sjekke 2026
+  Kontekst: Norgespris vs. strømstøtte – ulike ordninger. Sjekk fakturaen og lagre kvitteringer.
+  ────────────────────────────────────────
+  #: 26
+  Tittel: Oljepris på 100+ dollar: Slik påvirker Iran-krigen lommeboken din
+  Slug: oljepris-iran-krigen-pavirker-lommebok
+  Fokus-nøkkelord: oljepris Iran krig lommebok
+  Kontekst: Oljepris steget 10 %+, Hormuz-trusselen. Bensin, strøm og matvarer kan bli dyrere.
+  ────────────────────────────────────────
+  #: 27
+  Tittel: Boligrente 2026: Norges Bank kan kutte – slik påvirker det deg
+  Slug: boligrente-2026-norges-bank-kutt
+  Fokus-nøkkelord: boligrente 2026 Norges Bank
+  Kontekst: Styringsrente 4 %, signaler om 1–2 kutt. Boligpriser spådd opp 6 %. Dokumenter boligutgifter.
+  ────────────────────────────────────────
+  #: 28
+  Tittel: Boligkjøp våren 2026: Kvitteringer og dokumentasjon du må ha
+  Slug: boligkjop-vaar-2026-dokumentasjon
+  Fokus-nøkkelord: boligkjøp dokumentasjon 2026
+  Kontekst: Boligmarkedet stiger, spesielt Stavanger (+10 %) og Bergen (+8,5 %). Dokumenter alt ved kjøp.
+  ────────────────────────────────────────
+  #: 29
+  Tittel: Inflasjon og dyrere hverdag: 7 tips for å holde oversikt over utgiftene
+  Slug: inflasjon-dyrere-hverdag-oversikt-utgifter
+  Fokus-nøkkelord: inflasjon utgifter oversikt
+  Kontekst: Midtøsten-konflikten kan øke inflasjon via energipriser. Hold oversikt med kvitteringer.
+  ────────────────────────────────────────
+  #: 30
+  Tittel: Drivstoffpriser mars 2026: Slik dokumenterer du kjøring og bensinutgifter
+  Slug: drivstoffpriser-mars-2026-dokumentasjon-kjoring
+  Fokus-nøkkelord: drivstoffpriser dokumentasjon kjøring
+  Kontekst: Høyere oljepriser betyr dyrere bensin og diesel. Viktig for pendlerfradrag og kjøregodtgjørelse.
+  ────────────────────────────────────────
+  #: 31
+  Tittel: Strømstøtte vs. Norgespris: Regnestykket som avgjør strømregningen din
+  Slug: stromstotte-vs-norgespris-regnestykke
+  Fokus-nøkkelord: strømstøtte Norgespris sammenligning
+  Kontekst: 77 øre/kWh terskel for strømstøtte. Norgespris 50 øre/kWh fast. Sjekk hva som lønner seg.
+  ────────────────────────────────────────
+  #: 32
+  Tittel: Innboforsikring: Slik dokumenterer du verdiene i hjemmet ditt
+  Slug: innboforsikring-dokumentere-verdier-hjemmet
+  Fokus-nøkkelord: innboforsikring dokumentere verdier
+  Kontekst: Ved brann, innbrudd eller vannskade trenger du dokumentasjon. Kvitteringer er gull verdt.
+  ────────────────────────────────────────
+  #: 33
+  Tittel: Oppussing 2026: Byggevarer har blitt dyrere – dokumenter alt for skattefradrag
+  Slug: oppussing-2026-byggevarer-dyrere-skattefradrag
+  Fokus-nøkkelord: oppussing dokumentasjon skattefradrag
+  Kontekst: Høyere materialpriser på grunn av global uro. Håndverkerfradrag og dokumentasjon viktigere enn noensinne.
+  ────────────────────────────────────────
+  #: 34
+  Tittel: Bilutgifter i 2026: Bensin, forsikring, verksted – hold oversikt
+  Slug: bilutgifter-2026-bensin-forsikring-verksted
+  Fokus-nøkkelord: bilutgifter oversikt 2026
+  Kontekst: Bilutgifter øker med høyere drivstoffpriser. Dokumenter for fradrag og videresalg.
+  ────────────────────────────────────────
+  #: 35
+  Tittel: Dagligvarepriser øker: Slik sporer du matutgiftene dine
+  Slug: dagligvarepriser-oker-spore-matutgifter
+  Fokus-nøkkelord: matutgifter sporing dagligvare
+  Kontekst: Inflasjon og global uro påvirker matpriser. Coop, Rema, Kiwi tilbyr digitale kvitteringer.
+
+  4. Skattemelding 2026 (8)
+
+  #: 36
+  Tittel: Skattemeldingen 2026: Nye digitale systemer – Altinn 3 erstatter Altinn II
+  Slug: skattemelding-2026-altinn-3-nytt-system
+  Fokus-nøkkelord: skattemelding 2026 Altinn 3
+  Kontekst: Altinn II skrus av, Altinn 3 tar over. Skatteetaten flytter til skatteetaten.no.
+  ────────────────────────────────────────
+  #: 37
+  Tittel: Skattemelding for enkeltpersonforetak 2026: Åpner 12. mars – er du klar?
+  Slug: skattemelding-enk-2026-12-mars-forberedelse
+  Fokus-nøkkelord: skattemelding enkeltpersonforetak 2026
+  Kontekst: 12. mars 2026 åpner innlevering for ENK. Frist 1. juni. Ha kvitteringene klare.
+  ────────────────────────────────────────
+  #: 38
+  Tittel: Fradrag for hjemmekontor 2026: Nye satser og dokumentasjonskrav
+  Slug: fradrag-hjemmekontor-2026-satser-dokumentasjon
+  Fokus-nøkkelord: hjemmekontor fradrag 2026
+  Kontekst: Mange jobber fortsatt hjemmefra. Dokumenter strøm, internett og kontorutstyr med kvitteringer.
+  ────────────────────────────────────────
+  #: 39
+  Tittel: 10 fradrag nordmenn glemmer på skattemeldingen
+  Slug: 10-fradrag-nordmenn-glemmer-skattemelding
+  Fokus-nøkkelord: fradrag glemmer skattemelding
+  Kontekst: Fagforeningskontingent, reisekostnader, BSU, gaver. Krever dokumentasjon/kvitteringer.
+  ────────────────────────────────────────
+  #: 40
+  Tittel: Slik fører du reiseutgifter på skattemeldingen 2026
+  Slug: reiseutgifter-skattemelding-2026
+  Fokus-nøkkelord: reiseutgifter skattemelding
+  Kontekst: Pendlerfradrag, yrkesreiser, bom og ferge. Kvitteringer er nødvendig dokumentasjon.
+  ────────────────────────────────────────
+  #: 41
+  Tittel: Digital skattemelding: Slik laster du opp kvitteringer som vedlegg
+  Slug: digital-skattemelding-laste-opp-kvitteringer-vedlegg
+  Fokus-nøkkelord: skattemelding vedlegg kvitteringer
+  Kontekst: Skatteetaten aksepterer digitale vedlegg. Skann og last opp kvitteringer direkte.
+  ────────────────────────────────────────
+  #: 42
+  Tittel: Skatteoppgjøret 2026: Når kommer pengene – og hva kan forsinke det?
+  Slug: skatteoppgjor-2026-utbetaling-dato
+  Fokus-nøkkelord: skatteoppgjør 2026 utbetaling
+  Kontekst: Lønnsmottakere får oppgjør på sommeren, ENK på høsten. Manglende dokumentasjon forsinker.
+  ────────────────────────────────────────
+  #: 43
+  Tittel: MVA-fradrag 2026: Reglene for små bedrifter og hva du må dokumentere
+  Slug: mva-fradrag-2026-smaa-bedrifter-dokumentasjon
+  Fokus-nøkkelord: MVA-fradrag bedrift dokumentasjon
+  Kontekst: Korrekte kvitteringer med org.nr., MVA-beløp og dato er påkrevd for fradrag.
+
+  5. Nye lover og regler 2026 (8)
+
+  #: 44
+  Tittel: KI-loven (EU AI Act) i Norge 2026: Hva betyr det for deg som forbruker?
+  Slug: ki-loven-eu-ai-act-norge-2026-forbruker
+  Fokus-nøkkelord: KI-loven EU AI Act Norge
+  Kontekst: Full innføring av KI-loven i 2026. Nye krav til hvordan AI brukes og reguleres.
+  ────────────────────────────────────────
+  #: 45
+  Tittel: Digitalytelsesloven: Nye rettigheter for digitale kjøp og abonnementer
+  Slug: digitalytelsesloven-rettigheter-digitale-kjop
+  Fokus-nøkkelord: digitalytelsesloven digitale kjøp
+  Kontekst: Ny lov om digitale ytelser gir forbrukerrettigheter for apper, streaming og skylagring.
+  ────────────────────────────────────────
+  #: 46
+  Tittel: Nye skatteregler 2026: Plattformrapportering og hva det betyr for Finn.no-selgere
+  Slug: plattformrapportering-skatt-2026-finn-selgere
+  Fokus-nøkkelord: plattformrapportering skatt Finn.no
+  Kontekst: Digitale plattformer må rapportere til Skatteetaten. Påvirker de som selger på Finn, Tise osv.
+  ────────────────────────────────────────
+  #: 47
+  Tittel: Fastlegen digitalt: Nye krav til timebestilling og e-konsultasjon fra 2026
+  Slug: fastlege-digitalt-timebestilling-ekonsultasjon-2026
+  Fokus-nøkkelord: fastlege digital timebestilling 2026
+  Kontekst: Fra 1. januar 2026 må fastleger tilby digital timebestilling. E-konsultasjon fra 1. april.
+  ────────────────────────────────────────
+  #: 48
+  Tittel: Cyber Resilience Act: Tryggere digitale produkter for norske forbrukere
+  Slug: cyber-resilience-act-digitale-produkter-norge
+  Fokus-nøkkelord: cybersikkerhet digitale produkter
+  Kontekst: EU-regelverk for sikrere digitale produkter. Produsenter får nye krav fra 2026.
+  ────────────────────────────────────────
+  #: 49
+  Tittel: Nye regler for strømavtaler 2026: Sikker innlogging og samtykkekontroll
+  Slug: nye-regler-stromavtaler-2026-sikker-innlogging
+  Fokus-nøkkelord: strømavtale nye regler 2026
+  Kontekst: Nye lovkrav til autentisering av kunder hos strømleverandører. Beskytter mot uønsket bytte.
+  ────────────────────────────────────────
+  #: 50
+  Tittel: Endringer i bokføringsloven 2026: Hva betyr det for dokumentoppbevaring?
+  Slug: bokforingsloven-endringer-2026-dokumentoppbevaring
+  Fokus-nøkkelord: bokføringsloven 2026 endringer
+  Kontekst: Oppdaterte regler for digital oppbevaring av bilag og regnskapsdokumenter.
+  ────────────────────────────────────────
+  #: 51
+  Tittel: Byggevareforordningen: Nye krav til dokumentasjon ved oppussing
+  Slug: byggevareforordningen-dokumentasjon-oppussing
+  Fokus-nøkkelord: byggevareforordning dokumentasjon
+  Kontekst: EU-regelverk stiller strengere krav til sporbarhet og dokumentasjon av byggevarer.
+
+  6. AI og teknologi for forbrukere (8)
+
+  #: 52
+  Tittel: Slik bruker du AI til å holde orden på kvitteringer og utgifter i 2026
+  Slug: ai-orden-kvitteringer-utgifter-2026
+  Fokus-nøkkelord: AI kvitteringer utgifter
+  Kontekst: 54 % av nordmenn har brukt generativ KI. Flere AI-drevne apper for økonomi og dokumenthåndtering.
+  ────────────────────────────────────────
+  #: 53
+  Tittel: ChatGPT på norsk: 6 smarte måter å bruke AI i hverdagsøkonomien
+  Slug: chatgpt-norsk-ai-hverdagsokonomi
+  Fokus-nøkkelord: ChatGPT norsk økonomi
+  Kontekst: GPT-5 støtter bokmål, nynorsk og dialekter. Bruk AI til budsjett, klageforslag osv.
+  ────────────────────────────────────────
+  #: 54
+  Tittel: OCR i 2026: Slik leser AI-apper kvitteringene dine automatisk
+  Slug: ocr-2026-ai-leser-kvitteringer-automatisk
+  Fokus-nøkkelord: OCR AI kvittering 2026
+  Kontekst: Ny generasjon OCR med AI gjenkjenner norske kvitteringer bedre enn noensinne.
+  ────────────────────────────────────────
+  #: 55
+  Tittel: Digitale kvitteringer i butikk: Kiwi, Rema, Coop og Elkjøp – status 2026
+  Slug: digitale-kvitteringer-butikk-status-2026
+  Fokus-nøkkelord: digital kvittering butikk 2026
+  Kontekst: Stadig flere butikker tilbyr e-kvittering. Men systemene er spredt – du trenger en samleapp.
+  ────────────────────────────────────────
+  #: 56
+  Tittel: Receipts og Stø-samarbeidet: Akselererer digitale kvitteringer i Norge
+  Slug: receipts-sto-digitale-kvitteringer-norge
+  Fokus-nøkkelord: Receipts Stø digitale kvitteringer
+  Kontekst: Receipts og Stø får fart på digitale kvitteringer. Ny infrastruktur for norsk detaljhandel.
+  ────────────────────────────────────────
+  #: 57
+  Tittel: Smartklokker og mobil som lommebok: Kvitteringer for digitale betalinger
+  Slug: smartklokke-mobil-betaling-kvitteringer
+  Fokus-nøkkelord: mobil betaling kvittering
+  Kontekst: Vipps, Apple Pay, Google Pay – betalingskvitteringer forsvinner i mengden notifikasjoner.
+  ────────────────────────────────────────
+  #: 58
+  Tittel: Robotstøvsugere, varmepumper og smart hjem: Garanti på IoT-produkter
+  Slug: smarthjem-iot-garanti-kvittering
+  Fokus-nøkkelord: smarthjem IoT garanti
+  Kontekst: Smarte dingser har kortere levetid men lang reklamasjonsfrist. Dokumenter alle kjøp.
+  ────────────────────────────────────────
+  #: 59
+  Tittel: Humanoide roboter i 2026: Når teknologien koster – dokumenter investeringen
+  Slug: humanoid-roboter-2026-teknologi-dokumentasjon
+  Fokus-nøkkelord: robot teknologi kjøp dokumentasjon
+  Kontekst: 2026 kan bli året forbrukere får humanoide roboter hjem. Dyre kjøp krever god dokumentasjon.
+
+  7. Midtøsten-krigen: Økonomi og hverdagskonsekvenser (7)
+
+  #: 60
+  Tittel: Krigen påvirker hverdagen din: Bensin, mat og strøm kan bli dyrere
+  Slug: krig-pavirker-hverdag-bensin-mat-strom
+  Fokus-nøkkelord: krig hverdagen dyrere priser
+  Kontekst: Hormuz-trusselen kan gi 150–200 dollar oljefatet. Ringvirkninger på alt fra bensin til dagligvarer.
+  ────────────────────────────────────────
+  #: 61
+  Tittel: Aksjer og sparepenger under krig: Slik påvirkes økonomien din
+  Slug: aksjer-sparepenger-krig-okonomi
+  Fokus-nøkkelord: aksjer sparepenger krig økonomi
+  Kontekst: Oljeaksjer opp, andre ned. Kronekurs påvirket. Hold oversikt over investeringer og kvitteringer.
+  ────────────────────────────────────────
+  #: 62
+  Tittel: Kongsberg Gruppen og forsvarsindustri: Norges rolle i en urolig verden
+  Slug: kongsberg-gruppen-forsvarsindustri-norge
+  Fokus-nøkkelord: Kongsberg Gruppen forsvarsindustri
+  Kontekst: Kongsberg evakuert, forsvarsaksjer stiger. Norge tjener på olje, men betaler i usikkerhet.
+  ────────────────────────────────────────
+  #: 63
+  Tittel: Hamstring og beredskap: Hva bør du ha hjemme – og slik dokumenterer du det
+  Slug: hamstring-beredskap-dokumentasjon
+  Fokus-nøkkelord: beredskap hamstring dokumentasjon
+  Kontekst: DSB anbefaler 72-timers beredskap. Dokumenter innkjøp for forsikring og oversikt.
+  ────────────────────────────────────────
+  #: 64
+  Tittel: Kronekursen og utenlandshandel: Slik påvirker global uro norske netthandlere
+  Slug: kronekurs-utenlandshandel-global-uro
+  Fokus-nøkkelord: kronekurs netthandel utenlands
+  Kontekst: Svakere krone gjør Amazon, Zalando og AliExpress-kjøp dyrere. Dokumenter tollkostnader.
+  ────────────────────────────────────────
+  #: 65
+  Tittel: Bensinpriser mars 2026: Historisk høye – slik får du oversikt
+  Slug: bensinpriser-mars-2026-hoye-oversikt
+  Fokus-nøkkelord: bensinpriser mars 2026
+  Kontekst: Iran-konflikten sender bensinpriser opp. Viktig for pendlere og yrkessjåfører.
+  ────────────────────────────────────────
+  #: 66
+  Tittel: Matvarepriser og inflasjon: 5 tips for smartere handling i urolige tider
+  Slug: matvarepriser-inflasjon-tips-smart-handling
+  Fokus-nøkkelord: matvarepriser inflasjon tips
+  Kontekst: Globale forsyningskjeder truet. Sammenlign priser og lagre bonuskvitteringer.
+
+  8. Vår og vårsesong (8)
+
+  #: 67
+  Tittel: Vårrengjøring 2026: Rydd i papirkvitteringene – gå digitalt
+  Slug: vaarrengjoring-2026-digitale-kvitteringer
+  Fokus-nøkkelord: vårrengjøring kvitteringer digitalt
+  Kontekst: Mars/april er ryddetid. Skann papirkvitteringer før du kaster dem.
+  ────────────────────────────────────────
+  #: 68
+  Tittel: Konfirmasjon 2026: Gavekjøp, kvitteringer og bytterett
+  Slug: konfirmasjon-2026-gavekjop-bytterett
+  Fokus-nøkkelord: konfirmasjon gavekjøp bytterett
+  Kontekst: Konfirmasjonssesong i mai. Mange dyre gaver der kvittering sikrer bytterett.
+  ────────────────────────────────────────
+  #: 69
+  Tittel: 17. mai 2026: Bunad, festklær og kvitteringer du bør ta vare på
+  Slug: 17-mai-2026-bunad-festklaer-kvitteringer
+  Fokus-nøkkelord: 17. mai bunad kvittering
+  Kontekst: Bunader koster 30 000–80 000 kr. Kvittering viktig for forsikring og garanti.
+  ────────────────────────────────────────
+  #: 70
+  Tittel: Hagesesongen 2026: Kvitteringer for planter, redskap og møbler
+  Slug: hagesesong-2026-kvitteringer-planter-redskap
+  Fokus-nøkkelord: hage kvitteringer 2026
+  Kontekst: Plantasjen, Hageland, Jula – sesongstart. Utemøbler har 5 års reklamasjon.
+  ────────────────────────────────────────
+  #: 71
+  Tittel: Påskehandel 2026: Smart shopping og kvitteringstips
+  Slug: paskehandel-2026-shopping-kvitteringstips
+  Fokus-nøkkelord: påskehandel kvitteringer 2026
+  Kontekst: Påsken 2026 betyr storhandel. Sportsutstyr, påskemat og fjellutstyr.
+  ────────────────────────────────────────
+  #: 72
+  Tittel: Sommerferie 2026: Planlegg reisen og hold oversikt over utgiftene
+  Slug: sommerferie-2026-planlegg-utgifter
+  Fokus-nøkkelord: sommerferie 2026 utgifter
+  Kontekst: Tidlig planlegging gir bedre priser. Men usikkerheten i Midtøsten påvirker reisevaner.
+  ────────────────────────────────────────
+  #: 73
+  Tittel: Elbil-vår: Lading, bom og avgifter – kvitteringer du trenger
+  Slug: elbil-vaar-lading-bom-avgifter-kvitteringer
+  Fokus-nøkkelord: elbil lading kvitteringer
+  Kontekst: Elbilpolitikken endrer seg. Dokumenter ladekostnader for fradrag og oversikt.
+  ────────────────────────────────────────
+  #: 74
+  Tittel: Allergisesong og medisinkvitteringer: Frikort og egenandel i 2026
+  Slug: allergisesong-medisinkvitteringer-frikort-2026
+  Fokus-nøkkelord: medisinkvittering frikort egenandel
+  Kontekst: Pollensesongen starter. Medisinkvitteringer teller mot frikortgrensen.
+
+  9. Forbrukerrettigheter i fokus (10)
+
+  #: 75
+  Tittel: Flypassasjerrettigheter i Europa 2026: Alt du har krav på ved forsinkelse
+  Slug: flypassasjerrettigheter-europa-2026-forsinkelse
+  Fokus-nøkkelord: flypassasjerrettigheter Europa forsinkelse
+  Kontekst: EU261-forordningen gir opptil 7 000 kr kompensasjon. Men ikke ved ekstraordinære omstendigheter.
+  ────────────────────────────────────────
+  #: 76
+  Tittel: Reklamasjon i 2026: 2 eller 5 års frist – hva gjelder for ditt kjøp?
+  Slug: reklamasjon-2026-2-eller-5-aar
+  Fokus-nøkkelord: reklamasjon frist 2 5 år
+  Kontekst: Mange er usikre på reglene. 5 år for produkter med lang forventet levetid.
+  ────────────────────────────────────────
+  #: 77
+  Tittel: Nettsvindel i 2026: Slik beskytter du deg – og dokumenterer tapene
+  Slug: nettsvindel-2026-beskyttelse-dokumentasjon
+  Fokus-nøkkelord: nettsvindel beskyttelse dokumentasjon
+  Kontekst: AI-drevne svindelforsøk øker. Dokumenter alle transaksjoner og kommunikasjon.
+  ────────────────────────────────────────
+  #: 78
+  Tittel: Abonnementsfeller: Slik oppdager du skjulte kostnader – og sier opp
+  Slug: abonnementsfeller-skjulte-kostnader-oppsigelse
+  Fokus-nøkkelord: abonnementsfelle skjulte kostnader
+  Kontekst: Streaming, apper, treningssenter. Gjennomgå kvitteringer for å finne unødvendige abonnementer.
+  ────────────────────────────────────────
+  #: 79
+  Tittel: Brukthandel på Finn.no og Tise: Kvitteringer og forbrukerrettigheter
+  Slug: brukthandel-finn-tise-kvitteringer-rettigheter
+  Fokus-nøkkelord: brukthandel Finn Tise rettigheter
+  Kontekst: Forbrukerkjøpsloven gjelder ikke mellom privatpersoner. Dokumenter alt ved bruktkjøp.
+  ────────────────────────────────────────
+  #: 80
+  Tittel: Kia EV5 og nye elbiler 2026: Garanti, reklamasjon og kvittering
+  Slug: kia-ev5-nye-elbiler-2026-garanti-kvittering
+  Fokus-nøkkelord: Kia EV5 elbil garanti 2026
+  Kontekst: Kia EV5 anmeldt på VG. Elbilgarantier varierer 5–8 år. Lagre alle servicedokumenter.
+  ────────────────────────────────────────
+  #: 81
+  Tittel: AirPods, Galaxy Buds og hodetelefoner: Garanti på små elektronikkprodukter
+  Slug: airpods-galaxy-buds-garanti-smaa-elektronikk
+  Fokus-nøkkelord: AirPods garanti reklamasjon
+  Kontekst: VG skriver om AirPods-problemer. Små elektronikkprodukter har også 2–5 års reklamasjon.
+  ────────────────────────────────────────
+  #: 82
+  Tittel: Tankskip på grunn i Bamble: Slik virker forsikring ved miljøskade
+  Slug: tankskip-grunn-bamble-forsikring-miljoskade
+  Fokus-nøkkelord: miljøskade forsikring dokumentasjon
+  Kontekst: Tankskip på grunn i Bamble mars 2026. Næringslivet trenger dokumentasjon ved miljøskader.
+  ────────────────────────────────────────
+  #: 83
+  Tittel: Helseutgifter du kan trekke fra på skatten: Tannlege, fysioterapi og medisiner
+  Slug: helseutgifter-skattefradrag-tannlege-fysio
+  Fokus-nøkkelord: helseutgifter skattefradrag
+  Kontekst: Medisinkvitteringer og egenandeler kan være fradragsberettiget. Lagre alt digitalt.
+  ────────────────────────────────────────
+  #: 84
+  Tittel: Forsinket bagasje: Dine rettigheter og hva du kan kjøpe på flyselskapets regning
+  Slug: forsinket-bagasje-rettigheter-kvitteringer
+  Fokus-nøkkelord: forsinket bagasje rettigheter kjøp
+  Kontekst: PIR-rapport fra flyselskapet nødvendig. Kjøp av nødvendige ting dekkes mot kvittering.
+
+  10. Underholdning, kultur og livsstil (8)
+
+  #: 85
+  Tittel: Høiby-rettssaken og mediedekning: Hva norske forbrukere følger med på i 2026
+  Slug: hoiby-rettssaken-mediedekning-2026
+  Fokus-nøkkelord: Høiby rettssak 2026
+  Kontekst: Norges mest omtalte rettssak. Øker interessen for dokumentasjon og digitale bevis generelt.
+  ────────────────────────────────────────
+  #: 86
+  Tittel: Streaming-krigen 2026: Netflix, HBO, Disney+ – hold oversikt over abonnementene
+  Slug: streaming-krig-2026-oversikt-abonnementer
+  Fokus-nøkkelord: streaming abonnementer oversikt
+  Kontekst: Flere strømmetjenester, høyere priser. Gjennomgå kvitteringer for å finne besparelser.
+  ────────────────────────────────────────
+  #: 87
+  Tittel: Gaming i 2026: Kvitteringer for konsoller, spill og tilbehør
+  Slug: gaming-2026-kvitteringer-konsoller-spill
+  Fokus-nøkkelord: gaming kvitteringer garanti
+  Kontekst: PS5 Pro, Xbox, Nintendo Switch 2. Dyre konsoller med garanti som krever dokumentasjon.
+  ────────────────────────────────────────
+  #: 88
+  Tittel: Treningssenter og abonnement: Slik sier du opp – og får pengene tilbake
+  Slug: treningssenter-oppsigelse-refusjon
+  Fokus-nøkkelord: treningssenter oppsigelse refusjon
+  Kontekst: Sats, Evo, 3T. Mange sliter med å si opp. Dokumenter avtalene og betalingskvitteringene.
+  ────────────────────────────────────────
+  #: 89
+  Tittel: Fotball-VM 2026: Reise, billetter og utgiftsoversikt for norske fans
+  Slug: fotball-vm-2026-reise-billetter-utgifter
+  Fokus-nøkkelord: fotball VM 2026 reise utgifter
+  Kontekst: VM i USA, Mexico og Canada sommeren 2026. Norske fans trenger utgiftskontroll.
+  ────────────────────────────────────────
+  #: 90
+  Tittel: Bokhandel og læringsplattformer: Kvitteringer for digitale kjøp
+  Slug: bokhandel-laeringsplattformer-digitale-kjop
+  Fokus-nøkkelord: digitale kjøp kvittering
+  Kontekst: E-bøker, Audible, kurs på nett – digitale kjøp krever også dokumentasjon.
+  ────────────────────────────────────────
+  #: 91
+  Tittel: Festivalsommeren 2026: Billetter, camping og kvitteringer
+  Slug: festival-sommer-2026-billetter-kvitteringer
+  Fokus-nøkkelord: festival billetter kvitteringer
+  Kontekst: Øyafestivalen, Bergenfest, Stavernfestivalen. Billettpriser øker – dokumenter kjøpene.
+  ────────────────────────────────────────
+  #: 92
+  Tittel: Vekttapsmedisin og helsetrender: Kvitteringer for Ozempic og apotek
+  Slug: vekttapsmedisin-helsetrender-kvitteringer-ozempic
+  Fokus-nøkkelord: Ozempic kvittering apotek
+  Kontekst: VG skriver om vekttapsmedisin. Medisinkvitteringer teller mot frikortgrensen.
+
+  11. Spesialsituasjoner og kreative vinkler (8)
+
+  #: 93
+  Tittel: Selge boligen? Dokumenter all oppussing for høyere salgsverdi
+  Slug: selge-bolig-dokumentere-oppussing-salgsverdi
+  Fokus-nøkkelord: selge bolig oppussing dokumentasjon
+  Kontekst: Boligpriser opp 6 % i 2026. Dokumentert oppussing øker verdien og gir bedre salg.
+  ────────────────────────────────────────
+  #: 94
+  Tittel: Arv og dødsbo: Slik dokumenterer du verdier med kvitteringer
+  Slug: arv-dodsbo-dokumentere-verdier-kvitteringer
+  Fokus-nøkkelord: arv dødsbo dokumentasjon kvitteringer
+  Kontekst: Arveavgift diskuteres igjen. God dokumentasjon forenkler oppgjøret.
+  ────────────────────────────────────────
+  #: 95
+  Tittel: Dyreklinikk og veterinær: Kvitteringer for behandling av kjæledyr
+  Slug: dyreklinikk-veterinaer-kvitteringer-kjaeledyr
+  Fokus-nøkkelord: veterinær kvittering kjæledyr
+  Kontekst: Dyreforsikring øker i popularitet. Kvitteringer fra veterinær kreves for forsikringsoppgjør.
+  ────────────────────────────────────────
+  #: 96
+  Tittel: Flytting i 2026: Sjekkliste for kvitteringer du trenger ved adresseendring
+  Slug: flytting-2026-sjekkliste-kvitteringer
+  Fokus-nøkkelord: flytting sjekkliste kvitteringer
+  Kontekst: Depositum, forsikring, strømavtale, internett. Mange kvitteringer ved boligbytte.
+  ────────────────────────────────────────
+  #: 97
+  Tittel: Bryllupssesong 2026: Hold orden på kvitteringer for den store dagen
+  Slug: bryllup-2026-kvitteringer-utgifter
+  Fokus-nøkkelord: bryllup kvitteringer utgifter
+  Kontekst: Gjennomsnittlig bryllup koster 200 000–400 000 kr. Dokumenter alt for budsjettkontroll.
+  ────────────────────────────────────────
+  #: 98
+  Tittel: Studentstart høsten 2026: Slik holder du orden på økonomien fra dag én
+  Slug: student-host-2026-okonomi-kvitteringer
+  Fokus-nøkkelord: student økonomi kvitteringer
+  Kontekst: Lånekassen, studentbolig, bøker. Gode økonomivaner starter med kvitteringsoversikt.
+  ────────────────────────────────────────
+  #: 99
+  Tittel: Solcellepaneler og energioppgradering: Dokumentasjon for tilskudd og fradrag
+  Slug: solcellepaneler-energioppgradering-tilskudd-fradrag
+  Fokus-nøkkelord: solcellepaneler tilskudd dokumentasjon
+  Kontekst: Enova-støtte og energioppgradering. Kvitteringer påkrevd for å få tilskudd.
+  ────────────────────────────────────────
+  #: 100
+  Tittel: Slik bruker du Mine Kvitteringer til å forberede deg på neste krise
+  Slug: mine-kvitteringer-forberede-neste-krise
+  Fokus-nøkkelord: Mine Kvitteringer kriseberedskap
+  Kontekst: Dubai-krisen viste at digital dokumentasjon redder deg. Ha alt på ett sted – alltid.

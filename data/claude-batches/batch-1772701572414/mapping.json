@@ -1,0 +1,66 @@
+{
+  "timestamp": 1772701572414,
+  "createdAt": "2026-03-05T09:06:12.418Z",
+  "topics": [
+    {
+      "index": 0,
+      "promptFile": "prompt-0.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "Strandet i Dubai? Slik dokumenterer du alle utgifter for forsikringskrav",
+        "query": "strandet Dubai forsikring kvittering",
+        "slug": "strandet-dubai-dokumentere-utgifter-forsikringskrav",
+        "rationale": "Iran-krigen mars 2026, tusenvis av nordmenn fast i Midtøsten, Norwegian kansellerer Dubai-ruter",
+        "dataSource": "custom-file"
+      }
+    },
+    {
+      "index": 1,
+      "promptFile": "prompt-1.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "Fly kansellert på grunn av krig: Dine rettigheter og hvilke kvitteringer du må ta vare på",
+        "query": "fly kansellert krig rettigheter",
+        "slug": "fly-kansellert-krig-rettigheter-kvitteringer",
+        "rationale": "Ekstraordinære omstendigheter gir ikke kompensasjon, men refusjon/ombooking. Forbrukertilsynet råder: ikke avbestill selv.",
+        "dataSource": "custom-file"
+      }
+    },
+    {
+      "index": 2,
+      "promptFile": "prompt-2.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "Reiseforsikring ved krig og krise: Hva dekkes – og hva må du dokumentere?",
+        "query": "reiseforsikring krig dekning",
+        "slug": "reiseforsikring-krig-krise-dokumentasjon",
+        "rationale": "Gjensidige utvider dekning for Midtøsten-strandede. Forsikringskrav krever kvitteringer for alle merutgifter.",
+        "dataSource": "custom-file"
+      }
+    },
+    {
+      "index": 3,
+      "promptFile": "prompt-3.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "Norwegian kansellerer alle Dubai-fly: Slik får du pengene tilbake",
+        "query": "Norwegian Dubai kansellert refusjon",
+        "slug": "norwegian-kansellerer-dubai-fly-refusjon",
+        "rationale": "Norwegian instiller alle flyginger til/fra Dubai til 10. mars. Passasjerer kan velge refusjon eller ombooking.",
+        "dataSource": "custom-file"
+      }
+    },
+    {
+      "index": 4,
+      "promptFile": "prompt-4.txt",
+      "topic": {
+        "category": "trending",
+        "topic": "Hotellkvitteringer i krisesone: Dokumentasjon som sikrer refusjon",
+        "query": "hotellkvittering krise refusjon",
+        "slug": "hotellkvitteringer-krisesone-refusjon",
+        "rationale": "Strandede nordmenn betaler for ekstra hotellnetter. Forsikring krever dokumentasjon på alle utgifter.",
+        "dataSource": "custom-file"
+      }
+    }
+  ]
+}

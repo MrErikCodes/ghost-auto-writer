@@ -1158,6 +1158,129 @@ program
   });
 
 program
+  .command('claude-from-file')
+  .description('Generate articles from a custom ideas file using Claude CLI (no research agent, no API costs)')
+  .argument('<file>', 'Path to ideas file (e.g. ideas-mars-2026.txt)')
+  .option('-c, --count <number>', 'Number of ideas to generate (default: all)')
+  .option('--start <number>', 'Start from idea N (1-based)', '1')
+  .option('-d, --dryrun', 'Prepare prompts only, do not run Claude')
+  .option('-a, --autopost', 'Publish immediately instead of draft')
+  .option('--parallel <number>', 'Number of parallel Claude processes', '3')
+  .option('--model <model>', 'Claude model to use', 'sonnet')
+  .option('--view', 'Stream Claude subprocess output to terminal (see it thinking)')
+  .action(async (file, options) => {
+    const start = parseInt(options.start) - 1;
+    const dryRun = !!options.dryrun;
+    const autoPost = !!options.autopost;
+    const parallel = parseInt(options.parallel);
+    const model = options.model;
+    const view = !!options.view;
+
+    console.log('\n🤖 CLAUDE CLI FROM-FILE');
+    console.log('='.repeat(40));
+    console.log(`File: ${file} | Model: ${model} | Parallel: ${parallel}${view ? ' | VIEW MODE' : ''}`);
+    if (dryRun) console.log('🔸 DRY RUN - will prepare prompts only');
+    console.log('');
+
+    // Parse ideas file
+    let ideas;
+    try {
+      ideas = parseIdeasFile(file);
+    } catch (error) {
+      console.error(`❌ ${error.message}`);
+      process.exit(1);
+    }
+
+    console.log(`📋 Parsed ${ideas.length} ideas from file`);
+
+    // Apply start offset
+    if (start > 0) {
+      ideas = ideas.slice(start);
+      console.log(`⏩ Starting from idea ${start + 1}`);
+    }
+
+    // Apply count limit
+    if (options.count) {
+      const count = parseInt(options.count);
+      ideas = ideas.slice(0, count);
+    }
+
+    if (ideas.length === 0) {
+      console.log('❌ No ideas to generate after applying filters.\n');
+      return;
+    }
+
+    // Show what will be generated
+    console.log(`\n🎯 Generating ${ideas.length} article(s):\n`);
+    ideas.forEach((idea, i) => {
+      console.log(`  ${i + 1}. [${idea.category}] ${idea.title}`);
+      console.log(`     Nøkkelord: ${idea.keyword}`);
+    });
+    console.log('');
+
+    // Convert to topics
+    const topics = ideasToTopics(ideas);
+
+    // Prepare batch (write prompts to files)
+    console.log('📁 Preparing Claude batch...');
+    const batchDir = claudePrepareBatch(topics);
+
+    if (dryRun) {
+      console.log(`\n🔸 DRY RUN complete. Prompts saved to: ${batchDir}`);
+      console.log(`\nTo run later:\n  node index.js claude-process ${batchDir}\n`);
+      return;
+    }
+
+    // Run batch (spawn claude processes)
+    const { completed, failed } = await claudeRunBatch(batchDir, { parallel, model, view });
+
+    if (completed === 0) {
+      console.log('\n❌ No articles were generated.\n');
+      return;
+    }
+
+    // Post results to Ghost
+    const connected = await testConnection();
+    if (!connected) {
+      console.log('❌ Could not connect to Ghost. Results saved in batch dir.');
+      console.log(`  Run later: node index.js claude-process ${batchDir} -a\n`);
+      return;
+    }
+
+    if (!autoPost) {
+      console.log('\n📋 Posting articles to Ghost as drafts...\n');
+    }
+
+    const articles = claudeLoadBatchResults(batchDir);
+    let postSuccess = 0;
+
+    for (const article of articles) {
+      try {
+        const post = await createPost(article, autoPost);
+        const status = autoPost ? '🌐 Published' : '📋 Draft saved';
+        console.log(`  ${status}: ${post.title}`);
+
+        await saveGeneratedTopic({
+          ...article._topicInfo,
+          title: article.title,
+          ghostPostId: post.id
+        });
+
+        postSuccess++;
+      } catch (error) {
+        console.error(`  ❌ Failed to post "${article.title}": ${error.message}`);
+      }
+    }
+
+    console.log(`\n${'='.repeat(40)}`);
+    console.log(`✅ Claude From-File Complete`);
+    console.log(`   Generated: ${completed} articles`);
+    console.log(`   Posted: ${postSuccess} articles`);
+    console.log(`   Failed: ${failed} generation(s)`);
+    console.log('='.repeat(40) + '\n');
+  });
+
+program
   .command('claude-data-generate')
   .description('Data-driven article generation using Claude CLI (based on site performance analysis)')
   .option('-c, --count <number>', 'Number of articles to generate', '5')
